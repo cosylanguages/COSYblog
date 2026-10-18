@@ -10,18 +10,18 @@
     "title": "Saturday Mistakes Edition"
   },
   "date": "2026-10-24",
-  "title": "Saturday Mistakes: 5 Common English Mistakes & How to Fix Them",
-  "kicker": "SATURDAY MISTAKES",
-  "dek": "A practical breakdown of 5 frequent English speaking mistakes, natural conversational upgrades, and podcast guidance (Segment: 00:00 – 22:18).",
+  "title": "Saturday Mistakes Episode 1: 5 Common English Mistakes & How to Fix Them",
+  "kicker": "SATURDAY MISTAKES • EPISODE 1",
+  "dek": "A full breakdown of 5 common English speaking mistakes from Episode 1 of Saturday Mistakes, with clear rules, examples, and practice quizzes (Segment: 00:00 – 22:18).",
   "tags": [
     "SaturdayMistakes",
     "EnglishGrammar",
     "SpeakingFluency",
     "PodcastEpisode"
   ],
-  "readingTime": 6,
+  "readingTime": 7,
   "podcast": {
-    "episode": 3,
+    "episode": 1,
     "audioUrl": "audio/saturday-mistakes-5-english-mistakes.mp3",
     "externalUrl": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
     "appleUrl": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
@@ -47,8 +47,8 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to our new series **Saturday Mistakes**! Making mistakes is an essential part of becoming a fluent, confident speaker. In this edition, we break down **5 common English mistakes** that intermediate speakers make, alongside instant conversational upgrades.",
-      "say": "Welcome to our new series Saturday Mistakes! Making mistakes is an essential part of becoming a fluent, confident speaker. In this edition, we break down 5 common English mistakes that intermediate speakers make, alongside instant conversational upgrades.",
+      "text": "Hello, language lovers! Welcome to **CosyLanguages Saturday Mistakes Episode 1**. Every week we look at real student mistakes, understand why they happen, and learn how to avoid them. Today, we break down **5 common English mistakes**.",
+      "say": "Hello, language lovers! Welcome to CosyLanguages Saturday Mistakes Episode 1. Today, we break down 5 common English mistakes.",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -57,9 +57,9 @@
     },
     {
       "type": "culture-bite",
-      "title": "🎙️ Listen to the Podcast Episode",
-      "content": "This post corresponds to the **English segment (00:00 – 22:18)** of our Saturday Mistakes episode. Listen along on Spotify or Apple Podcasts!",
-      "say": "This post corresponds to the English segment from 00:00 to 22:18 of our Saturday Mistakes episode. Listen along on Spotify or Apple Podcasts!",
+      "title": "🎙️ Listen to Part 1: English Segment",
+      "content": "Listen to the audio version on Spotify or Apple Podcasts! This post covers Part One: English (00:00 – 22:18).",
+      "say": "Listen to the audio version on Spotify or Apple Podcasts! This post covers Part One: English from 00:00 to 22:18.",
       "beat": {
         "duration": 5000,
         "camera": "focus",
@@ -93,8 +93,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Mistake 1: \"I am agree with you\"",
-      "say": "Mistake 1: I am agree with you",
+      "text": "1. \"I will be go\" — Why is BE there?",
+      "say": "1. I will be go — Why is BE there?",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -103,10 +103,10 @@
     },
     {
       "type": "paragraph",
-      "text": "In English, *agree* is a verb, not an adjective. You do not need the auxiliary verb *am*.",
-      "say": "In English, agree is a verb, not an adjective. You do not need the auxiliary verb am.",
+      "text": "Many learners mix two different structures: **will + verb** (\"I will go to the cinema\") and **will be + verb-ing** (\"I will be working at nine\"). After *will*, use the basic form of the verb (*will go, will eat, will work*).",
+      "say": "Many learners mix two structures. After will, use the basic form of the verb: will go, will eat, will work.",
       "beat": {
-        "duration": 5000,
+        "duration": 6000,
         "camera": "pan-zoom",
         "target": "#block-5"
       }
@@ -115,11 +115,12 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Common Mistake:** *I am agree with your opinion.*",
-        "✅ **Correct:** *I agree with your opinion.*",
-        "🚀 **Natural Upgrades:** *I couldn't agree more!* • *I'm totally with you on that.*"
+        "❌ **Incorrect:** *I will be go to the cinema.*",
+        "✅ **Correct:** *I will go to the cinema.* or *I will be going to the cinema.*",
+        "💡 **Your Turn:** Which is correct? A. I will be visit... B. I will visit my parents tomorrow. C. I will visiting... (Answer: **B**)",
+        "📌 **Rule of Thumb:** Keep *will + verb* and *will be + verb-ing* separate!"
       ],
-      "say": "Common Mistake: I am agree with your opinion. Correct: I agree with your opinion. Natural Upgrades: I couldn't agree more! I'm totally with you on that.",
+      "say": "Incorrect: I will be go. Correct: I will go to the cinema. Rule of Thumb: Keep will + verb and will be + verb-ing separate!",
       "beat": {
         "duration": 7000,
         "camera": "focus",
@@ -129,8 +130,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Mistake 2: \"I have 25 years old\"",
-      "say": "Mistake 2: I have 25 years old",
+      "text": "2. \"I spend time for learning English\"",
+      "say": "2. I spend time for learning English",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -139,8 +140,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Many speakers translate literally from languages like French, Spanish, or Italian (*avoir/tener/avere*). In English, we use the verb *to be* for age.",
-      "say": "Many speakers translate literally from languages like French, Spanish, or Italian. In English, we use the verb to be for age.",
+      "text": "In English, the natural structure is **spend + time + verb-ing** (e.g. *spend an hour learning English* or *spend two hours cooking*).",
+      "say": "In English, the natural structure is spend + time + verb-ing.",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -151,13 +152,14 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Common Mistake:** *I have 25 years old.*",
-        "✅ **Correct:** *I am 25 years old.* or *I'm 25.*",
-        "🚀 **Natural Upgrades:** *I'm in my mid-twenties.*"
+        "❌ **Incorrect:** *I spend one hour for learning English every day.*",
+        "✅ **Correct:** *I spend one hour learning English every day.*",
+        "💡 **Your Turn:** Which is correct? A. I spend thirty minutes to read... B. I spend thirty minutes reading before bed. C. I spend thirty minutes for read... (Answer: **B**)",
+        "📌 **Rule of Thumb:** When you see *spend time*, think of a verb ending in *-ing*."
       ],
-      "say": "Common Mistake: I have 25 years old. Correct: I am 25 years old or I'm 25. Natural Upgrade: I'm in my mid-twenties.",
+      "say": "Incorrect: I spend one hour for learning English. Correct: I spend one hour learning English. Rule of Thumb: When you see spend time, think of -ing.",
       "beat": {
-        "duration": 6000,
+        "duration": 7000,
         "camera": "focus",
         "target": "#block-9"
       }
@@ -165,8 +167,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Mistake 3: \"I am waiting you since 2 hours\"",
-      "say": "Mistake 3: I am waiting you since 2 hours",
+      "text": "3. \"I have no some problems\"",
+      "say": "3. I have no some problems",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -175,8 +177,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Two big errors here: *wait* requires the preposition *for*, and durations of time use *for* rather than *since*.",
-      "say": "Two big errors here: wait requires the preposition for, and durations of time use for rather than since.",
+      "text": "You are combining two negative structures (*no + noun* vs *don't + verb + any + noun*). Choose one, not both!",
+      "say": "You are combining two negative structures. Choose one structure, not both!",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -187,13 +189,14 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Common Mistake:** *I am waiting you since two hours.*",
-        "✅ **Correct:** *I've been waiting for you for two hours.*",
-        "🚀 **Natural Upgrades:** *I've been waiting for ages!*"
+        "❌ **Incorrect:** *No, I have no some questions.*",
+        "✅ **Correct:** *I have no questions.* OR *I don't have any questions.*",
+        "💡 **Your Turn:** \"I checked my bag, but I have ___ snacks.\" A. no some B. any C. no (Answer: **C**)",
+        "📌 **Rule of Thumb:** *no + noun* OR *don't/doesn't + verb + any + noun*. Simple!"
       ],
-      "say": "Common Mistake: I am waiting you since two hours. Correct: I've been waiting for you for two hours. Natural Upgrade: I've been waiting for ages!",
+      "say": "Incorrect: I have no some questions. Correct: I have no questions or I don't have any questions. Rule of thumb: Choose no + noun OR don't + verb + any + noun.",
       "beat": {
-        "duration": 6000,
+        "duration": 7000,
         "camera": "focus",
         "target": "#block-12"
       }
@@ -201,8 +204,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Mistake 4: \"Explain me this rule\"",
-      "say": "Mistake 4: Explain me this rule",
+      "text": "4. \"I arrived the station\" — Preposition Needs",
+      "say": "4. I arrived the station — Preposition Needs",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -211,8 +214,8 @@
     },
     {
       "type": "paragraph",
-      "text": "The verb *explain* cannot take a direct personal object without *to*. You explain something **to** someone.",
-      "say": "The verb explain cannot take a direct personal object without to. You explain something to someone.",
+      "text": "Some verbs require specific prepositions before their object (*arrive at the station*, *listen to music*).",
+      "say": "Some verbs require specific prepositions before their object like arrive at the station, or listen to music.",
       "beat": {
         "duration": 5000,
         "camera": "pan-zoom",
@@ -223,13 +226,14 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Common Mistake:** *Can you explain me this grammar rule?*",
-        "✅ **Correct:** *Can you explain this grammar rule to me?*",
-        "🚀 **Natural Upgrades:** *Could you walk me through this rule?*"
+        "❌ **Incorrect:** *Yesterday, I arrived the station at six.* • *I listened music.*",
+        "✅ **Correct:** *I arrived at the station at six.* • *I listened to music.*",
+        "💡 **Your Turn:** Which is correct? A. We discussed about the problem. B. We discussed the problem. C. We listened the problem. (Answer: **B**)",
+        "📌 **Rule of Thumb:** Learn verbs with their preposition & example: *listen to music*, *arrive at the station*, *discuss the problem* (no about)."
       ],
-      "say": "Common Mistake: Can you explain me this grammar rule? Correct: Can you explain this grammar rule to me? Natural Upgrade: Could you walk me through this rule?",
+      "say": "Incorrect: I arrived the station. Correct: I arrived at the station. Rule of thumb: Learn verbs with short example phrases.",
       "beat": {
-        "duration": 6000,
+        "duration": 7000,
         "camera": "focus",
         "target": "#block-15"
       }
@@ -237,8 +241,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Mistake 5: \"I am boring in this class\"",
-      "say": "Mistake 5: I am boring in this class",
+      "text": "5. \"It depends of you\" — The Preposition Trap",
+      "say": "5. It depends of you — The Preposition Trap",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -247,8 +251,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Confusing *-ed* and *-ing* adjectives changes your entire meaning! *-ed* describes how you feel, while *-ing* describes the cause.",
-      "say": "Confusing -ed and -ing adjectives changes your entire meaning! -ed describes how you feel, while -ing describes the cause.",
+      "text": "Prepositions in English cannot always be directly translated. Fixed expressions require fixed prepositions (*depend on*, *interested in*, *good at*, *wait for*, *worried about*).",
+      "say": "Prepositions in English cannot always be directly translated. Learn fixed combinations.",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -259,11 +263,12 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Common Mistake:** *I am boring during the meeting.* (This means you make others bored!)",
-        "✅ **Correct:** *I am bored during the meeting.*",
-        "🚀 **Natural Upgrades:** *I'm finding it hard to stay engaged.*"
+        "❌ **Incorrect:** *It depends of you.*",
+        "✅ **Correct:** *It depends on you.*",
+        "💡 **Your Turn:** \"I'm interested ___ learning French.\" A. on B. in C. at (Answer: **B**)",
+        "📌 **Rule of Thumb:** Don't learn words alone—learn *depend on*, *interested in*, *good at*."
       ],
-      "say": "Common Mistake: I am boring during the meeting. Correct: I am bored during the meeting. Natural Upgrade: I'm finding it hard to stay engaged.",
+      "say": "Incorrect: It depends of you. Correct: It depends on you. Answer to quiz: interested in.",
       "beat": {
         "duration": 7000,
         "camera": "focus",
@@ -283,8 +288,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Remember, recognizing these small patterns is the secret to moving smoothly from B1 to B2/C1 fluency! Make sure to check out the second half of our episode for the French mistakes segment (22:19 to end).",
-      "say": "Remember, recognizing these small patterns is the secret to moving smoothly from B1 to B2 and C1 fluency! Make sure to check out the second half of our episode for the French mistakes segment from 22:19 to end.",
+      "text": "Choose two mistakes from today's episode, write three practice sentences with each structure, and test them in your next conversation! Be sure to check out Part Two for the 5 French mistakes.",
+      "say": "Choose two mistakes from today's episode, write three practice sentences, and test them in conversation!",
       "beat": {
         "duration": 7000,
         "camera": "pan-zoom",

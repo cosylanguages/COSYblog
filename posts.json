@@ -1,13 +1,13 @@
 [
   {
     "slug": "saturday-mistakes-5-english-mistakes",
-    "title": "Saturday Mistakes: 5 Common English Mistakes & How to Fix Them",
+    "title": "Saturday Mistakes Episode 1: 5 Common English Mistakes & How to Fix Them",
     "date": "2026-10-24",
     "updated": null,
     "category": "Say It",
-    "summary": "A practical breakdown of 5 frequent English speaking mistakes, natural conversational upgrades, and podcast guidance (Segment: 00:00 – 22:18).",
+    "summary": "A full breakdown of 5 common English speaking mistakes from Episode 1 of Saturday Mistakes, with clear rules, examples, and practice quizzes (Segment: 00:00 – 22:18).",
     "author": "JY DM",
-    "reading_time": 6,
+    "reading_time": 7,
     "cover_image": "",
     "tags": [
       "SaturdayMistakes",
@@ -44,19 +44,19 @@
   },
   {
     "slug": "saturday-mistakes-5-french-mistakes",
-    "title": "Erreurs du Samedi : 5 erreurs courantes en français et comment les corriger",
+    "title": "Erreurs du Samedi Épisode 1 : 5 erreurs courantes en français et comment les corriger",
     "date": "2026-10-24",
     "updated": null,
     "category": "Say It",
-    "summary": "Analyse pratique de 5 erreurs fréquentes en français parlé, reformulations naturelles et conseils podcast (Segment : 22:19 – fin).",
+    "summary": "Analyse complète des 5 erreurs fréquentes en français parlé tirées de l'épisode 1 d'Erreurs du Samedi, avec règles simples, quiz et astuces (Segment : 22:19 – fin).",
     "author": "JY DM",
-    "reading_time": 6,
+    "reading_time": 7,
     "cover_image": "",
     "tags": [
       "SaturdayMistakes",
-      "GrammaireFrançaise",
-      "FluenceOrale",
-      "ÉpisodePodcast"
+      "FrenchGrammar",
+      "SpeakingFluency",
+      "PodcastEpisode"
     ],
     "featured": false,
     "type": "post",
@@ -69,10 +69,10 @@
     "audio_podcast": true,
     "artDirection": {
       "palette": [
-        "#2d3748",
-        "#319795",
-        "#d69e2e",
-        "#f7fafc"
+        "#1a365d",
+        "#3182ce",
+        "#dd6b20",
+        "#ebf8ff"
       ],
       "fonts": {
         "display": "Fraunces",
@@ -80,7 +80,7 @@
         "accent": "Fraunces Italic"
       },
       "layout": "standard-feed",
-      "motif": "riso-print",
+      "motif": "window-light",
       "seed": "saturday-mistakes-5-french-mistakes",
       "coverOverride": null
     }

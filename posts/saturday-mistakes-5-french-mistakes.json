@@ -10,18 +10,18 @@
     "title": "Édition Erreurs du Samedi"
   },
   "date": "2026-10-24",
-  "title": "Erreurs du Samedi : 5 erreurs courantes en français et comment les corriger",
-  "kicker": "ERREURS DU SAMEDI",
-  "dek": "Analyse pratique de 5 erreurs fréquentes en français parlé, reformulations naturelles et conseils podcast (Segment : 22:19 – fin).",
+  "title": "Erreurs du Samedi Épisode 1 : 5 erreurs courantes en français et comment les corriger",
+  "kicker": "ERREURS DU SAMEDI • ÉPISODE 1",
+  "dek": "Analyse complète des 5 erreurs fréquentes en français parlé tirées de l'épisode 1 d'Erreurs du Samedi, avec règles simples, quiz et astuces (Segment : 22:19 – fin).",
   "tags": [
     "SaturdayMistakes",
-    "GrammaireFrançaise",
-    "FluenceOrale",
-    "ÉpisodePodcast"
+    "FrenchGrammar",
+    "SpeakingFluency",
+    "PodcastEpisode"
   ],
-  "readingTime": 6,
+  "readingTime": 7,
   "podcast": {
-    "episode": 3,
+    "episode": 1,
     "audioUrl": "audio/saturday-mistakes-5-french-mistakes.mp3",
     "externalUrl": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
     "appleUrl": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
@@ -29,10 +29,10 @@
   },
   "artDirection": {
     "palette": [
-      "#dc2626",
+      "#16a34a",
       "#faf7f2",
       "#1e293b",
-      "#0284c7"
+      "#ca8a04"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -40,15 +40,15 @@
       "accent": "Fraunces Italic"
     },
     "layout": "magazine-spread",
-    "motif": "tea-stain",
+    "motif": "stain-ring",
     "seed": "saturday-mistakes-fr",
     "coverOverride": null
   },
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans notre série **Erreurs du Samedi** ! Faire des erreurs est indispensable pour progresser et gagner en confiance à l'oral. Dans cette édition, nous analysons **5 erreurs très fréquentes en français** chez les apprenants intermédiaires, accompagnées d'expressions naturelles pour les remplacer.",
-      "say": "Bienvenue dans notre série Erreurs du Samedi ! Faire des erreurs est indispensable pour progresser et gagner en confiance à l'oral. Dans cette édition, nous analysons 5 erreurs très fréquentes en français chez les apprenants intermédiaires, accompagnées d'expressions naturelles pour les remplacer.",
+      "text": "Bienvenue dans la deuxième partie de **CosyLanguages Erreurs du Samedi Épisode 1** ! Maintenant, on passe au français ! Nous analysons **5 erreurs très fréquentes en français** avec des règles simples et des réflexes utiles.",
+      "say": "Bienvenue dans la deuxième partie de CosyLanguages Erreurs du Samedi Épisode 1 ! Maintenant, on passe au français !",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -57,9 +57,9 @@
     },
     {
       "type": "culture-bite",
-      "title": "🎙️ Écoutez l'Épisode du Podcast",
-      "content": "Cet article correspond à la **partie consacrée au français (22:19 jusqu'à la fin)** de notre épisode Erreurs du Samedi. Écoutez sur Spotify ou Apple Podcasts !",
-      "say": "Cet article correspond à la partie consacrée au français de 22:19 jusqu'à la fin de notre épisode Erreurs du Samedi. Écoutez sur Spotify ou Apple Podcasts !",
+      "title": "🎙️ Écoutez la partie 2 du podcast",
+      "content": "Cette fiche correspond au **segment français (22:19 – fin)** de notre épisode 1 d'Erreurs du Samedi. Écoutez sur Spotify ou Apple Podcasts !",
+      "say": "Cette fiche correspond au segment français de 22:19 jusqu'à la fin de notre épisode 1.",
       "beat": {
         "duration": 5000,
         "camera": "focus",
@@ -71,7 +71,7 @@
       "destination": "cosydata",
       "url": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
       "label": "🎧 Écouter sur Spotify (Segment Français : 22:19 – fin)",
-      "say": "Écouter sur Spotify: Segment Français de 22:19 jusqu'à la fin.",
+      "say": "Écouter sur Spotify : Segment Français de 22:19 à la fin.",
       "beat": {
         "duration": 4000,
         "camera": "focus",
@@ -82,8 +82,8 @@
       "type": "links",
       "destination": "cosydata",
       "url": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
-      "label": "🍏 Écouter sur Apple Podcasts (Saturday Mistakes Épisode 1)",
-      "say": "Écouter sur Apple Podcasts: Saturday Mistakes Épisode 1.",
+      "label": "🍏 Écouter sur Apple Podcasts (Épisode 1 Erreurs du Samedi)",
+      "say": "Écouter sur Apple Podcasts : Épisode 1 Erreurs du Samedi.",
       "beat": {
         "duration": 4000,
         "camera": "focus",
@@ -93,8 +93,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Erreur 1 : « Je suis visiter Paris »",
-      "say": "Erreur 1 : Je suis visiter Paris",
+      "text": "6. « Je suis très heureux » ou « Je suis très heureuse » ?",
+      "say": "6. Je suis très heureux ou Je suis très heureuse ?",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -103,10 +103,10 @@
     },
     {
       "type": "paragraph",
-      "text": "En français, on n'associe pas le verbe *être* directement à un infinitif pour exprimer une action en cours.",
-      "say": "En français, on n'associe pas le verbe être directement à un infinitif pour exprimer une action en cours.",
+      "text": "En français, beaucoup d'adjectifs changent de forme selon le genre de la personne ou du nom qu'ils décrivent (*heureux / heureuse*, *content / contente*, *fatigué / fatiguée*).",
+      "say": "En français, beaucoup d'adjectifs changent de forme selon le genre de la personne qu'ils décrivent.",
       "beat": {
-        "duration": 5000,
+        "duration": 6000,
         "camera": "pan-zoom",
         "target": "#block-5"
       }
@@ -115,11 +115,12 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Erreur fréquente :** *Je suis visiter Paris ce week-end.*",
-        "✅ **Correction :** *Je visite Paris ce week-end.* ou *Je suis en train de visiter Paris.*",
-        "🚀 **Reformulations naturelles :** *Je fais un tour à Paris...* • *Je découvre Paris...*"
+        "❌ **Erreur :** Marie dit : *« Je suis très heureux aujourd'hui. »*",
+        "✅ **Correction :** *« Je suis très heureuse aujourd'hui. »*",
+        "💡 **À vous de jouer :** « Ma sœur est très… » A. heureux B. heureuse C. heureuses (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Apprenez les deux formes ensemble (*heureux/heureuse*) et demandez-vous toujours : « Qui est-ce que je décris ? »"
       ],
-      "say": "Erreur fréquente: Je suis visiter Paris ce week-end. Correction: Je visite Paris ce week-end ou Je suis en train de visiter Paris. Reformulations naturelles: Je fais un tour à Paris...",
+      "say": "Erreur : Marie dit Je suis très heureux. Correction : Je suis très heureuse. Réponse au quiz : heureuse.",
       "beat": {
         "duration": 7000,
         "camera": "focus",
@@ -129,8 +130,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Erreur 2 : « Je suis d'accord avec ça » vs « Ça me va »",
-      "say": "Erreur 2 : Je suis d'accord avec ça versus Ça me va",
+      "text": "7. « Il fait manger » ou « Il faut manger » ?",
+      "say": "7. Il fait manger ou Il faut manger ?",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -139,8 +140,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Pour accepter une proposition ou valider un rendez-vous, dire *« Je suis d'accord »* peut paraître trop formel ou inapproprié. Les francophones utilisent d'autres tournures plus naturelles.",
-      "say": "Pour accepter une proposition ou valider un rendez-vous, dire Je suis d'accord peut paraître trop formel ou inapproprié. Les francophones utilisent d'autres tournures plus naturelles.",
+      "text": "**Il faut + infinitif** exprime une nécessité (*il faut manger*, *il faut dormir*). En revanche, **il fait + infinitif** peut indiquer le fait d'amener quelqu'un à faire une action (*il fait manger les enfants*).",
+      "say": "Il faut + infinitif exprime une nécessité. Il fait sert à parler d'une action ou de faire réaliser une action.",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -151,13 +152,14 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Moins naturel :** *On se voit à 15h ? — Oui, je suis d'accord.*",
-        "✅ **Plus naturel :** *On se voit à 15h ? — Oui, ça me va !* ou *Parfait !*",
-        "🚀 **Reformulations naturelles :** *C'est marche pour moi !* • *C'est noté !*"
+        "❌ **Erreur (pour exprimer la nécessité) :** *« Il fait manger avant de partir. »*",
+        "✅ **Correction :** *« Il faut manger avant de partir. »*",
+        "💡 **À vous de jouer :** Pour exprimer la nécessité de se reposer : A. Il fait se reposer. B. Il faut se reposer. C. Il faut se repose. (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Pour exprimer qu'une chose est nécessaire, pensez toujours à **il faut + infinitif**."
       ],
-      "say": "Moins naturel: On se voit à 15h? Oui, je suis d'accord. Plus naturel: On se voit à 15h? Oui, ça me va! ou Parfait! Reformulations naturelles: Ça marche pour moi! C'est noté!",
+      "say": "Erreur : Il fait manger. Correction : Il faut manger. Réponse au quiz : Il faut se reposer.",
       "beat": {
-        "duration": 6000,
+        "duration": 7000,
         "camera": "focus",
         "target": "#block-9"
       }
@@ -165,8 +167,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Erreur 3 : « J'attends pour le bus »",
-      "say": "Erreur 3 : J'attends pour le bus",
+      "text": "8. « Un ami étrange » ou « un ami étranger » ?",
+      "say": "8. Un ami étrange ou un ami étranger ?",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -175,8 +177,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Le verbe *attendre* est un verbe transitif direct en français. Il ne prend pas la préposition *pour* (contrairement à l'anglais *wait for*).",
-      "say": "Le verbe attendre est un verbe transitif direct en français. Il ne prend pas la préposition pour.",
+      "text": "Ces deux mots ne veulent pas dire la même chose ! **Étrange** signifie bizarre ou surprenant, alors qu'**étranger** désigne une personne venant d'un autre pays.",
+      "say": "Étrange signifie bizarre. Étranger désigne une personne venant d'un autre pays.",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -187,13 +189,14 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Erreur fréquente :** *J'attends pour le bus depuis 10 minutes.*",
-        "✅ **Correction :** *J'attends le bus depuis 10 minutes.*",
-        "🚀 **Reformulations naturelles :** *Le bus se fait attendre...*"
+        "❌ **Confusion :** Présenter son ami qui vient du Portugal en disant : *« Voici mon ami étrange. »*",
+        "✅ **Correction :** *« Voici mon ami étranger. »*",
+        "💡 **À vous de jouer :** « J'ai rencontré un étudiant qui vient du Japon. C'est un étudiant… » A. étrange B. étranger C. étrangère (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Avec *étrange*, demandez-vous : « Est-ce bizarre ? ». Avec *étranger*, demandez-vous : « Est-ce un autre pays ? »"
       ],
-      "say": "Erreur fréquente: J'attends pour le bus depuis 10 minutes. Correction: J'attends le bus depuis 10 minutes. Reformulation naturelle: Le bus se fait attendre...",
+      "say": "Étrange veut dire bizarre. Étranger fait référence à un autre pays. Réponse au quiz : un étudiant étranger.",
       "beat": {
-        "duration": 6000,
+        "duration": 7000,
         "camera": "focus",
         "target": "#block-12"
       }
@@ -201,8 +204,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Erreur 4 : « Je suis excité » (Faux ami !)",
-      "say": "Erreur 4 : Je suis excité (Faux ami !)",
+      "text": "9. « Je veux avoir assez argent » — Le petit DE",
+      "say": "9. Je veux avoir assez argent — Le petit DE",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -211,10 +214,10 @@
     },
     {
       "type": "paragraph",
-      "text": "Attention au piège classique de traduction depuis l'anglais *\"I'm excited\"* ! En français, *excité* a souvent une connotation physique ou sexuelle.",
-      "say": "Attention au piège classique de traduction depuis l'anglais I'm excited! En français, excité a souvent une connotation inappropriée.",
+      "text": "Après des adverbes de quantité (*beaucoup, trop, assez, peu*), on utilise **de** (ou **d'** devant une voyelle) avant le nom.",
+      "say": "Après les mots de quantité comme beaucoup, trop, assez ou peu, on utilise de ou d' devant le nom.",
       "beat": {
-        "duration": 5000,
+        "duration": 6000,
         "camera": "pan-zoom",
         "target": "#block-14"
       }
@@ -223,13 +226,14 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **À éviter :** *Je suis tellement excité pour ce voyage !*",
-        "✅ **Correction :** *J'ai trop hâte de partir en voyage !*",
-        "🚀 **Reformulations naturelles :** *Je suis ravi !* • *C'est super enthousiasmant !*"
+        "❌ **Erreur :** *« Je veux avoir assez argent pour partir en Italie. »*",
+        "✅ **Correction :** *« Je veux avoir assez d'argent pour partir en Italie. »*",
+        "💡 **À vous de jouer :** « Nous avons besoin de beaucoup ___ eau. » A. de B. d' C. des (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Quantité + **de / d'** + nom (*beaucoup de travail*, *assez d'argent*, *trop de sucre*)."
       ],
-      "say": "À éviter: Je suis tellement excité pour ce voyage! Correction: J'ai trop hâte de partir en voyage! Reformulations naturelles: Je suis ravi! C'est super enthousiasmant!",
+      "say": "Erreur : Je veux avoir assez argent. Correction : Je veux avoir assez d'argent. Réponse au quiz : beaucoup d'eau.",
       "beat": {
-        "duration": 6000,
+        "duration": 7000,
         "camera": "focus",
         "target": "#block-15"
       }
@@ -237,8 +241,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Erreur 5 : « Visiter mes amis »",
-      "say": "Erreur 5 : Visiter mes amis",
+      "text": "10. « Je regarde », « je vais regarder », « j'ai regardé »",
+      "say": "10. Je regarde, je vais regarder, j'ai regardé",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -247,8 +251,8 @@
     },
     {
       "type": "paragraph",
-      "text": "En français, on *visite* un monument, une ville ou un musée, mais on **rend visite à** des personnes !",
-      "say": "En français, on visite un monument, une ville ou un musée, mais on rend visite à des personnes!",
+      "text": "Attention au choix des temps selon le moment de l'action : **Présent** (*habitude*), **Futur proche** (*projet à venir : aller + infinitif*), **Passé composé** (*action terminée dans le passé*).",
+      "say": "Attention au choix des temps : présent pour une habitude, futur proche pour un projet, passé composé pour une action terminée.",
       "beat": {
         "duration": 6000,
         "camera": "pan-zoom",
@@ -259,11 +263,13 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "❌ **Erreur fréquente :** *Ce week-end, je vais visiter mes amis.*",
-        "✅ **Correction :** *Ce week-end, je vais rendre visite à mes amis.*",
-        "🚀 **Reformulations naturelles :** *Je vais voir mes amis.* • *Je passe voir mes amis.*"
+        "1️⃣ **Habitude / Présent :** *« Je regarde mes emails le soir. »*",
+        "2️⃣ **Futur proche :** *« Je vais regarder mes emails ce soir. »*",
+        "3️⃣ **Passé composé :** *« J'ai regardé mes emails hier soir. »*",
+        "💡 **À vous de jouer :** « Hier soir, j'___ un film avec mes amis. » A. regarde B. vais regarder C. ai regardé (Réponse : **C**)",
+        "📌 **L'astuce CosyLanguages :** Demandez-vous toujours : *Quand se passe l'action ?* Habitude (présent), projet (futur proche), action terminée (passé composé)."
       ],
-      "say": "Erreur fréquente: Ce week-end, je vais visiter mes amis. Correction: Ce week-end, je vais rendre visite à mes amis. Reformulation naturelle: Je vais voir mes amis.",
+      "say": "Présent pour les habitudes, futur proche avec aller plus infinitif, passé composé pour les actions terminées. Réponse au quiz : ai regardé.",
       "beat": {
         "duration": 7000,
         "camera": "focus",
@@ -273,8 +279,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "Résumé et suite",
-      "say": "Résumé et suite",
+      "text": "Synthèse et conseils pratiques",
+      "say": "Synthèse et conseils pratiques",
       "beat": {
         "duration": 3000,
         "camera": "focus",
@@ -283,8 +289,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Bravo ! En éliminant ces 5 réflexes de traduction littérale, votre français parlé sera immédiatement plus naturel et fluide. Réécoutez la première partie du podcast (00:00 – 22:18) pour la section dédiée à l'anglais !",
-      "say": "Bravo ! En éliminant ces 5 réflexes de traduction littérale, votre français parlé sera immédiatement plus naturel et fluide. Réécoutez la première partie du podcast de 00:00 à 22:18 pour la section dédiée à l'anglais !",
+      "text": "Voilà ! Choisissez 2 erreurs de cet épisode, rédigez 3 phrases d'exemple pour chacune et mettez-les en pratique dans vos conversations. Merci d'avoir passé votre samedi avec nous ! À samedi prochain !",
+      "say": "Choisissez 2 erreurs, rédigez 3 phrases d'exemple et mettez-les en pratique ! Merci et à samedi prochain !",
       "beat": {
         "duration": 7000,
         "camera": "pan-zoom",

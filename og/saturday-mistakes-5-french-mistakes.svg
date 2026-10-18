@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" class="cosy-cover-art" data-motif="tea-stain" data-seed="saturday-mistakes-fr" data-lang="fr">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" class="cosy-cover-art" data-motif="stain-ring" data-seed="saturday-mistakes-fr" data-lang="fr">
       <defs>
         <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
           <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#3C281E" flood-opacity="0.10" />
@@ -18,19 +18,17 @@
         }
       </style>
 
-    <rect width="1200" height="630" fill="#0284c7" />
+    <rect width="1200" height="630" fill="#ca8a04" />
 
-      <ellipse cx="376" cy="444" rx="123" ry="111" fill="#faf7f2" opacity="0.15" transform="rotate(99 376 444)" style="filter: blur(12px);" />
-      <ellipse cx="386" cy="439" rx="73.8" ry="66.6" fill="#274B7D" opacity="0.12" transform="rotate(99 376 444)" style="filter: blur(8px);" />
+      <polygon points="1036,158 823,359 678,155 829,-11" fill="#274B7D" opacity="0.75" style="filter: drop-shadow(2px 3px 3px rgba(60,40,30,0.08));" />
 
-      <ellipse cx="314" cy="132" rx="186" ry="73" fill="#faf7f2" opacity="0.15" transform="rotate(294 314 132)" style="filter: blur(12px);" />
-      <ellipse cx="324" cy="127" rx="111.6" ry="43.8" fill="#274B7D" opacity="0.12" transform="rotate(294 314 132)" style="filter: blur(8px);" />
+      <polygon points="1123,594 1115,652 1038,657 992,583 1018,530 1090,551" fill="#274B7D" opacity="0.75" style="filter: drop-shadow(2px 3px 3px rgba(60,40,30,0.08));" />
 
-      <ellipse cx="25" cy="183" rx="111" ry="97" fill="#faf7f2" opacity="0.15" transform="rotate(320 25 183)" style="filter: blur(12px);" />
-      <ellipse cx="35" cy="178" rx="66.6" ry="58.199999999999996" fill="#274B7D" opacity="0.12" transform="rotate(320 25 183)" style="filter: blur(8px);" />
+      <polygon points="647,467 337,632 366,344" fill="#E8D2C2" opacity="0.75" style="filter: drop-shadow(2px 3px 3px rgba(60,40,30,0.08));" />
 
-      <ellipse cx="1127" cy="19" rx="182" ry="114" fill="#faf7f2" opacity="0.15" transform="rotate(94 1127 19)" style="filter: blur(12px);" />
-      <ellipse cx="1137" cy="14" rx="109.2" ry="68.39999999999999" fill="#274B7D" opacity="0.12" transform="rotate(94 1127 19)" style="filter: blur(8px);" />
+      <polygon points="285,401 232,451 135,499 61,441 85,355 125,275 229,304" fill="#274B7D" opacity="0.75" style="filter: drop-shadow(2px 3px 3px rgba(60,40,30,0.08));" />
+
+      <polygon points="1324,32 1133,249 899,262 849,-153 1142,-140" fill="#faf7f2" opacity="0.75" style="filter: drop-shadow(2px 3px 3px rgba(60,40,30,0.08));" />
 
 
 
@@ -48,14 +46,14 @@
 
 
     <g class="cover-torn-paper" filter="url(#soft-shadow)">
-      <polygon points="1014,0 1200,0 1200,283.5 1185,264.59999999999997 1165,289.8 1140,239.4 1110,258.3 1080,220.5 1050,245.70000000000002 1020,201.6 1034,157.5 1014,0" fill="#FCF9F2" opacity="0.9" stroke="#274B7D" stroke-width="0.8" stroke-dasharray="3 2" />
+      <polygon points="949,0 1200,0 1200,283.5 1185,264.59999999999997 1165,289.8 1140,239.4 1110,258.3 1080,220.5 1050,245.70000000000002 1020,201.6 969,157.5 949,0" fill="#FCF9F2" opacity="0.9" stroke="#274B7D" stroke-width="0.8" stroke-dasharray="3 2" />
     </g>
 
 
-    <g transform="rotate(5 272 38)" filter="url(#soft-shadow)">
-      <rect x="212" y="26" width="120" height="24" rx="2" fill="#faf7f2" opacity="0.45" />
-      <line x1="212" y1="26" x2="212" y2="50" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
-      <line x1="332" y1="26" x2="332" y2="50" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
+    <g transform="rotate(-5 210 30)" filter="url(#soft-shadow)">
+      <rect x="150" y="18" width="120" height="24" rx="2" fill="#faf7f2" opacity="0.45" />
+      <line x1="150" y1="18" x2="150" y2="42" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
+      <line x1="270" y1="18" x2="270" y2="42" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
     </g>
 
 
@@ -78,17 +76,17 @@
 
     <g class="cover-masthead-label" filter="url(#soft-shadow)">
       <rect x="20" y="20" width="220" height="30" rx="4" fill="#FCF9F2" opacity="0.95" stroke="#faf7f2" stroke-width="1.2" />
-      <text x="34" y="40" fill="#dc2626" font-family="Fraunces, 'Lora', Georgia, serif" font-size="11" font-weight="bold" letter-spacing="1.4">COSYMAGAZINE • SAY IT</text>
+      <text x="34" y="40" fill="#16a34a" font-family="Fraunces, 'Lora', Georgia, serif" font-size="11" font-weight="bold" letter-spacing="1.4">COSYMAGAZINE • SAY IT</text>
     </g>
 
 
       <g class="cover-text-overlay" filter="url(#soft-shadow)">
         <!-- Warm paper card overlay -->
         <rect class="cover-overlay-box" x="24" y="436" width="1152" height="170" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#274B7D" stroke-width="1.2" />
-        <text x="54" y="474" fill="#274B7D" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">ERREURS DU SAMEDI • Vol. 2026.10</text>
-        <text x="54" y="510" fill="#dc2626" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Erreurs du Samedi : 5 erreurs</text>
-<text x="54" y="542" fill="#dc2626" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">courantes en français et comment</text>
-<text x="54" y="574" fill="#dc2626" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">les corriger</text>
+        <text x="54" y="474" fill="#274B7D" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">ERREURS DU SAMEDI • ÉPISODE 1 • Vol. 2026.10</text>
+        <text x="54" y="510" fill="#16a34a" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Erreurs du Samedi Épisode 1 : 5</text>
+<text x="54" y="542" fill="#16a34a" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">erreurs courantes en français et</text>
+<text x="54" y="574" fill="#16a34a" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">comment les corriger</text>
       </g>
 
       <rect width="1200" height="630" filter="url(#paper-grain)" opacity="0.5" pointer-events="none" />
