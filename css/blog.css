@@ -881,35 +881,33 @@ h1, h2, h3, h4, h5, h6 {
 
 .post-full-content.flipbook-mode .flipbook-page {
     display: none;
-    transform-style: preserve-3d;
     backface-visibility: hidden;
-    transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.35s ease;
+    will-change: opacity, transform;
+    transition: opacity 0.15s ease-out;
 }
 
 .post-full-content.flipbook-mode .flipbook-page.active {
     display: block;
-    animation: flipPageIn 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+    animation: fadeInPageFast 0.15s ease-out forwards;
 }
 
 .post-full-content.flipbook-mode.desktop-spread-view .flipbook-page.spread-left {
-    transform-origin: right center;
     border-right: 1px dashed var(--border, rgba(74, 107, 80, 0.18));
     padding-right: 1.25rem;
 }
 
 .post-full-content.flipbook-mode.desktop-spread-view .flipbook-page.spread-right {
-    transform-origin: left center;
     padding-left: 1.25rem;
 }
 
-@keyframes flipPageIn {
+@keyframes fadeInPageFast {
     0% {
         opacity: 0;
-        transform: rotateY(-18deg) scale(0.98);
+        transform: translateY(2px);
     }
     100% {
         opacity: 1;
-        transform: rotateY(0deg) scale(1);
+        transform: translateY(0);
     }
 }
 

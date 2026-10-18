@@ -586,70 +586,68 @@
             if (pageIndex > this.totalPages) pageIndex = this.totalPages;
 
             const isMobile = window.innerWidth <= 860;
-            const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-            const updateDOM = () => {
-                this.currentPage = pageIndex;
+            // In 2-page desktop mode, normalize current page to odd page (left side of spread)
+            if (this.mode === 'flipbook' && !isMobile) {
+                pageIndex = pageIndex % 2 === 0 ? pageIndex - 1 : pageIndex;
+            }
 
-                if (this.mode === 'flipbook') {
-                    if (!isMobile) {
-                        const leftPageNum = pageIndex % 2 === 0 ? pageIndex - 1 : pageIndex;
-                        const rightPageNum = leftPageNum + 1;
+            this.currentPage = pageIndex;
 
-                        this.pages.forEach((p, idx) => {
-                            const pNum = idx + 1;
-                            if (pNum === leftPageNum || pNum === rightPageNum) {
-                                p.classList.add('active');
-                                p.style.display = 'block';
-                                p.style.opacity = '1';
-                                p.classList.toggle('spread-left', pNum === leftPageNum);
-                                p.classList.toggle('spread-right', pNum === rightPageNum);
-                            } else {
-                                p.classList.remove('active', 'spread-left', 'spread-right');
-                                p.style.display = 'none';
-                            }
-                        });
-                    } else {
-                        this.pages.forEach((p, idx) => {
-                            if (idx + 1 === pageIndex) {
-                                p.classList.add('active');
-                                p.style.display = 'block';
-                                p.style.opacity = '1';
-                                p.focus();
-                            } else {
-                                p.classList.remove('active', 'spread-left', 'spread-right');
-                                p.style.display = 'none';
-                            }
-                        });
-                    }
+            if (this.mode === 'flipbook') {
+                if (!isMobile) {
+                    const leftPageNum = pageIndex;
+                    const rightPageNum = leftPageNum + 1;
+
+                    this.pages.forEach((p, idx) => {
+                        const pNum = idx + 1;
+                        if (pNum === leftPageNum || pNum === rightPageNum) {
+                            p.classList.add('active');
+                            p.style.display = 'block';
+                            p.style.opacity = '1';
+                            p.classList.toggle('spread-left', pNum === leftPageNum);
+                            p.classList.toggle('spread-right', pNum === rightPageNum);
+                        } else {
+                            p.classList.remove('active', 'spread-left', 'spread-right');
+                            p.style.display = 'none';
+                        }
+                    });
+                } else {
+                    this.pages.forEach((p, idx) => {
+                        if (idx + 1 === pageIndex) {
+                            p.classList.add('active');
+                            p.style.display = 'block';
+                            p.style.opacity = '1';
+                        } else {
+                            p.classList.remove('active', 'spread-left', 'spread-right');
+                            p.style.display = 'none';
+                        }
+                    });
                 }
+            }
 
-                // Update UI elements
-                const i18n = this.getI18n();
-                if (this.indicatorEl) {
-                    this.indicatorEl.textContent = i18n.pageXofY.replace('{current}', pageIndex).replace('{total}', this.totalPages);
-                }
-                if (this.selectEl) this.selectEl.value = pageIndex;
-                if (this.prevBtn) this.prevBtn.disabled = pageIndex === 1;
-                if (this.nextBtn) this.nextBtn.disabled = pageIndex === this.totalPages;
-                if (this.progressBarEl) {
-                    this.progressBarEl.style.width = `${(pageIndex / this.totalPages) * 100}%`;
-                }
+            // Update UI controls
+            const i18n = this.getI18n();
+            if (this.indicatorEl) {
+                this.indicatorEl.textContent = i18n.pageXofY.replace('{current}', pageIndex).replace('{total}', this.totalPages);
+            }
+            if (this.selectEl) this.selectEl.value = pageIndex;
+            if (this.prevBtn) this.prevBtn.disabled = pageIndex === 1;
+            if (this.nextBtn) {
+                const step = (!isMobile && this.mode === 'flipbook') ? 2 : 1;
+                this.nextBtn.disabled = pageIndex + step > this.totalPages && pageIndex === this.totalPages;
+            }
+            if (this.progressBarEl) {
+                this.progressBarEl.style.width = `${(pageIndex / this.totalPages) * 100}%`;
+            }
 
-                if (this.liveAnnouncerEl) {
-                    this.liveAnnouncerEl.textContent = `Page ${pageIndex} of ${this.totalPages}`;
-                }
-            };
-
-            if (document.startViewTransition && !prefersReducedMotion) {
-                document.startViewTransition(() => updateDOM());
-            } else {
-                updateDOM();
+            if (this.liveAnnouncerEl) {
+                this.liveAnnouncerEl.textContent = `Page ${pageIndex} of ${this.totalPages}`;
             }
 
             if (updateHistory) {
                 if (window.location.hash !== `#page-${pageIndex}`) {
-                    history.pushState(null, '', `#page-${pageIndex}`);
+                    history.replaceState(null, '', `#page-${pageIndex}`);
                 }
             }
         },
