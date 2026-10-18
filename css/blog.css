@@ -869,14 +869,23 @@ h1, h2, h3, h4, h5, h6 {
 .post-full-content.flipbook-mode.desktop-spread-view {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+    gap: 3.5rem;
+    max-width: 1320px;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
     perspective: 1400px;
     align-items: start;
     background: var(--warm-white, #fdfbf7);
     border: 1px solid var(--border, rgba(74, 107, 80, 0.15));
-    border-radius: 12px;
-    padding: 2.25rem;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
+    border-radius: 16px;
+    padding: 3rem 3.5rem;
+    box-shadow: 0 12px 36px rgba(0, 0, 0, 0.05);
+}
+
+.post-full-content.flipbook-mode.desktop-spread-view .flipbook-page {
+    font-size: 1.125rem;
+    line-height: 1.8;
 }
 
 .post-full-content.flipbook-mode .flipbook-page {
