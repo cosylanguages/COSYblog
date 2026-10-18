@@ -12,7 +12,7 @@
   "date": "2026-10-24",
   "title": "Erreurs du Samedi Épisode 1 : 5 erreurs courantes en français et comment les corriger",
   "kicker": "ERREURS DU SAMEDI • ÉPISODE 1",
-  "dek": "Analyse complète des 5 erreurs fréquentes en français parlé tirées de l'épisode 1 d'Erreurs du Samedi, avec règles simples, quiz et astuces (Segment : 22:19 – fin).",
+  "dek": "Analyse complète des 5 erreurs fréquentes en français parlé tirées de l'épisode 1 d'Erreurs du Samedi, avec structures claires, règles simples, quiz et astuces (Segment : 22:19 – fin).",
   "tags": [
     "SaturdayMistakes",
     "FrenchGrammar",
@@ -47,7 +47,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans la deuxième partie de **CosyLanguages Erreurs du Samedi Épisode 1** ! Maintenant, on passe au français ! Nous analysons **5 erreurs très fréquentes en français** avec des règles simples et des réflexes utiles.",
+      "text": "Bienvenue dans la deuxième partie de **CosyLanguages Erreurs du Samedi Épisode 1** ! Maintenant, on passe au français ! Nous analysons **5 erreurs très fréquentes en français** avec des structures claires, des règles simples et des réflexes utiles.",
       "say": "Bienvenue dans la deuxième partie de CosyLanguages Erreurs du Samedi Épisode 1 ! Maintenant, on passe au français !",
       "beat": {
         "duration": 6000,
@@ -115,10 +115,12 @@
       "type": "list-item",
       "ordered": false,
       "items": [
+        "📐 **Structure :** Sujet (féminin) + **être** + [Adjectif au féminin] *(ex: Marie est heureuse)*",
         "❌ **Erreur :** Marie dit : *« Je suis très heureux aujourd'hui. »*",
         "✅ **Correction :** *« Je suis très heureuse aujourd'hui. »*",
+        "💡 **Astuce COSY :** Pensez au sujet qui parle avant de prononcer l'adjectif ! Les terminaisons en *-eux* deviennent *-euse* au féminin.",
         "💡 **À vous de jouer :** « Ma sœur est très… » A. heureux B. heureuse C. heureuses (Réponse : **B**)",
-        "📌 **L'astuce CosyLanguages :** Apprenez les deux formes ensemble (*heureux/heureuse*) et demandez-vous toujours : « Qui est-ce que je décris ? »"
+        "📌 **L'astuce CosyLanguages :** Apprenez toujours les adjectifs par paires (*heureux/heureuse*) !"
       ],
       "say": "Erreur : Marie dit Je suis très heureux. Correction : Je suis très heureuse. Réponse au quiz : heureuse.",
       "beat": {
@@ -152,10 +154,12 @@
       "type": "list-item",
       "ordered": false,
       "items": [
+        "📐 **Structure :** **Il faut** + [Infinitif] *(Exprime l'obligation / la nécessité générale)*",
         "❌ **Erreur (pour exprimer la nécessité) :** *« Il fait manger avant de partir. »*",
         "✅ **Correction :** *« Il faut manger avant de partir. »*",
+        "💡 **Astuce COSY :** Le verbe *falloir* n'existe qu'à la 3e personne du singulier (*il faut*). Ne le confondez pas avec *faire* (*il fait*).",
         "💡 **À vous de jouer :** Pour exprimer la nécessité de se reposer : A. Il fait se reposer. B. Il faut se reposer. C. Il faut se repose. (Réponse : **B**)",
-        "📌 **L'astuce CosyLanguages :** Pour exprimer qu'une chose est nécessaire, pensez toujours à **il faut + infinitif**."
+        "📌 **L'astuce CosyLanguages :** Pour exprimer la nécessité générale, votre réflexe doit être **il faut + infinitif**."
       ],
       "say": "Erreur : Il fait manger. Correction : Il faut manger. Réponse au quiz : Il faut se reposer.",
       "beat": {
@@ -189,10 +193,12 @@
       "type": "list-item",
       "ordered": false,
       "items": [
+        "📐 **Formule :** Un ami **étranger** = vient d'un autre pays | Un ami **étrange** = bizarre",
         "❌ **Confusion :** Présenter son ami qui vient du Portugal en disant : *« Voici mon ami étrange. »*",
         "✅ **Correction :** *« Voici mon ami étranger. »*",
+        "💡 **Astuce COSY :** Pensez à l'anglais *stranger* (inconnu/étranger) ou *foreign*, mais gardez en tête que *étrange* = bizarre (*strange*).",
         "💡 **À vous de jouer :** « J'ai rencontré un étudiant qui vient du Japon. C'est un étudiant… » A. étrange B. étranger C. étrangère (Réponse : **B**)",
-        "📌 **L'astuce CosyLanguages :** Avec *étrange*, demandez-vous : « Est-ce bizarre ? ». Avec *étranger*, demandez-vous : « Est-ce un autre pays ? »"
+        "📌 **L'astuce CosyLanguages :** Pour la nationalité / l'origine, dites **étranger** ; pour ce qui est bizarre, dites **étrange** !"
       ],
       "say": "Étrange veut dire bizarre. Étranger fait référence à un autre pays. Réponse au quiz : un étudiant étranger.",
       "beat": {
@@ -226,10 +232,12 @@
       "type": "list-item",
       "ordered": false,
       "items": [
+        "📐 **Structure :** Adverbe de quantité + **de / d'** + [Nom]",
         "❌ **Erreur :** *« Je veux avoir assez argent pour partir en Italie. »*",
         "✅ **Correction :** *« Je veux avoir assez d'argent pour partir en Italie. »*",
+        "💡 **Astuce COSY :** N'utilisez jamais *du, de la, des* directement après un adverbe de quantité comme *beaucoup, trop, assez*. Utilisez uniquement **de** ou **d'**.",
         "💡 **À vous de jouer :** « Nous avons besoin de beaucoup ___ eau. » A. de B. d' C. des (Réponse : **B**)",
-        "📌 **L'astuce CosyLanguages :** Quantité + **de / d'** + nom (*beaucoup de travail*, *assez d'argent*, *trop de sucre*)."
+        "📌 **L'astuce CosyLanguages :** Mémorisez la formule magique : *Beaucoup de, trop de, assez de, peu de* !"
       ],
       "say": "Erreur : Je veux avoir assez argent. Correction : Je veux avoir assez d'argent. Réponse au quiz : beaucoup d'eau.",
       "beat": {
@@ -263,11 +271,11 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "1️⃣ **Habitude / Présent :** *« Je regarde mes emails le soir. »*",
-        "2️⃣ **Futur proche :** *« Je vais regarder mes emails ce soir. »*",
-        "3️⃣ **Passé composé :** *« J'ai regardé mes emails hier soir. »*",
+        "1️⃣ **Habitude / Présent :** Sujet + [Verbe au présent] *(ex: Je regarde mes emails)*",
+        "2️⃣ **Futur proche :** Sujet + **aller** (présent) + [Infinitif] *(ex: Je vais regarder mes emails)*",
+        "3️⃣ **Passé composé :** Sujet + **avoir/être** + [Participe passé] *(ex: J'ai regardé mes emails)*",
         "💡 **À vous de jouer :** « Hier soir, j'___ un film avec mes amis. » A. regarde B. vais regarder C. ai regardé (Réponse : **C**)",
-        "📌 **L'astuce CosyLanguages :** Demandez-vous toujours : *Quand se passe l'action ?* Habitude (présent), projet (futur proche), action terminée (passé composé)."
+        "📌 **L'astuce CosyLanguages :** Posez-vous la question : *Quand se passe l'action ?* Habitude (présent), projet (futur proche), action terminée (passé composé)."
       ],
       "say": "Présent pour les habitudes, futur proche avec aller plus infinitif, passé composé pour les actions terminées. Réponse au quiz : ai regardé.",
       "beat": {

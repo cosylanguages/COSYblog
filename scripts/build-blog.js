@@ -629,20 +629,6 @@ async function buildBlog() {
                 ${post.tags.map(t => `<span class="post-tag-chip">#${escapeHtml(t)}</span>`).join(' ')}
             </div>` : ''}
 
-            <!-- Collapsed Founder Deck & Colophon Block -->
-            <details class="founder-colophon-block" style="margin-top: 2.5rem;">
-                <summary class="founder-colophon-summary">
-                    <span data-i18n="blog.founder_deck_title">${escapeHtml(founderDeckTitleText)}</span>
-                    <span class="colophon-toggle-badge" data-i18n="blog.expand_deck">${escapeHtml(expandDeckText)}</span>
-                </summary>
-                <div class="founder-colophon-content">
-                    <div class="colophon-actions">
-                        <a href="?script=1" class="colophon-btn" data-i18n="blog.teleprompter_script_view_mode">${escapeHtml(scriptViewModeText)}</a>
-                        <a href="?stage=1" class="colophon-btn" data-i18n="blog.stage_view_mode">${escapeHtml(stageViewModeText)}</a>
-                    </div>
-                </div>
-            </details>
-
             <div class="gazette-folio">
                 <span>🗞️ COSYmagazine • ${escapeHtml(issueNum)}</span>
                 <a href="index.html" class="read-more-link" data-i18n="blog.return_to_index">${escapeHtml(returnToIndexText)}</a>
