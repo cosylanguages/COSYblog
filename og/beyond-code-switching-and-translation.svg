@@ -87,11 +87,11 @@
 
       <g class="cover-text-overlay" filter="url(#soft-shadow)">
         <!-- Warm paper card overlay -->
-        <rect class="cover-overlay-box" x="24" y="436" width="1152" height="170" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#225B58" stroke-width="1.2" />
-        <text x="54" y="474" fill="#225B58" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">REFLECTIONS • Vol. 2026.11</text>
-        <text x="54" y="510" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Beyond Code-Switching &amp;</text>
-<text x="54" y="542" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Translation: How Shared Origins</text>
-<text x="54" y="574" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">and L1 Safety Nets Hold Us Back</text>
+        <rect class="cover-overlay-box" x="24" y="451" width="1152" height="155" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#225B58" stroke-width="1.2" />
+        <text x="54" y="489" fill="#225B58" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">REFLECTIONS • Vol. 2026.11</text>
+        <text x="54" y="523" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="21" font-weight="bold">Beyond Code-Switching &amp; Translation:</text>
+<text x="54" y="550" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="21" font-weight="bold">Embracing L2 Integration with Warmth</text>
+<text x="54" y="577" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="21" font-weight="bold">and Practical Strategies</text>
       </g>
 
       <rect width="1200" height="630" filter="url(#paper-grain)" opacity="0.5" pointer-events="none" />

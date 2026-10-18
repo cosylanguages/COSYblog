@@ -10,9 +10,9 @@
     "title": "Beyond Translation & Code-Switching"
   },
   "date": "2026-11-05",
-  "title": "Beyond Code-Switching & Translation: How Shared Origins and L1 Safety Nets Hold Us Back",
+  "title": "Beyond Code-Switching & Translation: Embracing L2 Integration with Warmth and Practical Strategies",
   "kicker": "REFLECTIONS",
-  "dek": "A reflection on why we default to our native tongue when origins are revealed, how code-switching in lessons limits acquisition, and how child-like immersion and L2 repair strategies lead to full integration.",
+  "dek": "A supportive exploration of why we naturally default to our native language when origins are revealed, how to transform code-switching during lessons into creative L2 communication, and practical child-inspired immersion techniques for students and facilitators.",
   "tags": [
     "Reflections",
     "CodeSwitching",
@@ -20,7 +20,7 @@
     "LanguageAcquisition",
     "SpeakingClub"
   ],
-  "readingTime": 8,
+  "readingTime": 9,
   "podcast": {
     "episode": 6,
     "audioUrl": "audio/beyond-code-switching-and-translation.mp3"
@@ -45,8 +45,8 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Picture a familiar scene from an international speaking club or language classroom: six participants are conversing in English. The dialogue is structured, effortful, and lively. Suddenly, during introductions, one speaker mentions their hometown. A spark of recognition lights up across the table: *\"Wait, you're from Milan? Me too! Che piacere!\"*",
-      "say": "Picture a familiar scene from an international speaking club or language classroom: six participants are conversing in English. The dialogue is structured, effortful, and lively. Suddenly, during introductions, one speaker mentions their hometown. A spark of recognition lights up across the table: Wait, you're from Milan? Me too!",
+      "text": "Picture a familiar, comforting scene from an international speaking club or language classroom: six participants are conversing in English. The atmosphere is warm and enthusiastic. Suddenly, during introductions, one speaker mentions their hometown. A spark of joyful recognition lights up across the table: *\"Wait, you're from Milan? Me too! Che piacere!\"*",
+      "say": "Picture a familiar, comforting scene from an international speaking club or language classroom: six participants are conversing in English. The atmosphere is warm and enthusiastic. Suddenly, during introductions, one speaker mentions their hometown. A spark of joyful recognition lights up across the table: Wait, you're from Milan? Me too!",
       "beat": {
         "duration": 7000,
         "camera": "pan-zoom",
@@ -55,8 +55,8 @@
     },
     {
       "type": "paragraph",
-      "text": "In a split second, the unspoken rules of the target language environment dissolve. The two speakers immediately slip into their shared native tongue (L1), leaving the target language (L2) behind. When asked later why they switched, the answer is almost always the same: *\"Well, we realized we share the same background, and since they understand me anyway, it felt unnatural to keep speaking English.\"*",
-      "say": "In a split second, the unspoken rules of the target language environment dissolve. The two speakers immediately slip into their shared native tongue, leaving the target language behind. When asked later why they switched, the answer is almost always the same: Well, we realized we share the same background, and since they understand me anyway, it felt unnatural to keep speaking English.",
+      "text": "In a split second, the conversation naturally shifts. The two speakers slip into their shared native tongue (L1), sharing a moment of genuine warmth. When asked gently about the transition, their reaction is completely relatable: *\"We realized we shared the same roots! It felt so natural and cozy to express ourselves in our native language, especially since we know we understand each other effortlessly.\"*",
+      "say": "In a split second, the conversation naturally shifts. The two speakers slip into their shared native tongue, sharing a moment of genuine warmth. When asked gently about the transition, their reaction is completely relatable: We realized we shared the same roots! It felt so natural and cozy to express ourselves in our native language, especially since we know we understand each other effortlessly.",
       "beat": {
         "duration": 8000,
         "camera": "focus",
@@ -65,19 +65,19 @@
     },
     {
       "type": "pullquote",
-      "quote": "The moment interlocutors discover a shared origin, the native language becomes an irresistible psychological magnet. But what feels like natural comfort is actually a barrier to true linguistic integration.",
+      "quote": "Switching to your native language when discovering shared origins isn't a mistake or a flaw—it's a beautiful human instinct for connection. Our goal isn't to judge this instinct, but to gently harness it so our target language becomes just as welcoming.",
       "attribution": "COSY Editorial Room Reflections",
-      "say": "The moment interlocutors discover a shared origin, the native language becomes an irresistible psychological magnet. But what feels like natural comfort is actually a barrier to true linguistic integration.",
+      "say": "Switching to your native language when discovering shared origins isn't a mistake or a flaw—it's a beautiful human instinct for connection. Our goal isn't to judge this instinct, but to gently harness it so our target language becomes just as welcoming.",
       "beat": {
-        "duration": 6000,
+        "duration": 7000,
         "camera": "pan-zoom",
         "target": "#block-2"
       }
     },
     {
       "type": "paragraph",
-      "text": "This post is a reflection for educators, linguists, and passionate language students alike. We want to examine why this magnetic pull toward L1 happens, why code-switching during lessons sabotages learning, and how we can apply the true principles of first language acquisition—learning directly through the target language, just like children do—to achieve authentic immersion.",
-      "say": "This post is a reflection for educators, linguists, and passionate language students alike. We want to examine why this magnetic pull toward L1 happens, why code-switching during lessons sabotages learning, and how we can apply the true principles of first language acquisition to achieve authentic immersion.",
+      "text": "This post is an encouraging reflection for language learners, teachers, and speaking club hosts alike. Rather than criticizing translation or code-switching, we want to honor why these habits form, explore the fascinating linguistic mechanisms behind them, and share positive, empowering alternatives that allow us to stay immersed in our new language with confidence.",
+      "say": "This post is an encouraging reflection for language learners, teachers, and speaking club hosts alike. Rather than criticizing translation or code-switching, we want to honor why these habits form, explore the fascinating linguistic mechanisms behind them, and share positive, empowering alternatives that allow us to stay immersed in our new language with confidence.",
       "beat": {
         "duration": 8000,
         "camera": "focus",
@@ -87,8 +87,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "1. Social Identity Theory & The L1 Magnet",
-      "say": "Part 1: Social Identity Theory and The L1 Magnet",
+      "text": "1. Understanding the L1 Magnet: Why Shared Origins Feel So Cozy",
+      "say": "Part 1: Understanding the L1 Magnet: Why Shared Origins Feel So Cozy",
       "beat": {
         "duration": 4000,
         "camera": "focus",
@@ -97,8 +97,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Why do speakers abandon their target language the moment shared origins are revealed? To understand this, sociolinguists point to **Social Identity Theory**, first formulated by Henri Tajfel and John Turner. Language is not merely a tool for exchanging information; it is the primary marker of **in-group identity**.",
-      "say": "Why do speakers abandon their target language the moment shared origins are revealed? To understand this, sociolinguists point to Social Identity Theory, first formulated by Henri Tajfel and John Turner. Language is not merely a tool for exchanging information; it is the primary marker of in-group identity.",
+      "text": "Why does discovering shared origins make us default to our native tongue? Sociolinguists point to **Social Identity Theory**, developed by Henri Tajfel and John Turner. Language is far more than grammar and words—it carries our memories, sense of belonging, and cultural safety. When we meet someone from home, using L1 is a subconscious gesture of solidarity and emotional warmth.",
+      "say": "Why does discovering shared origins make us default to our native tongue? Sociolinguists point to Social Identity Theory, developed by Henri Tajfel and John Turner. Language is far more than grammar and words—it carries our memories, sense of belonging, and cultural safety. When we meet someone from home, using L1 is a subconscious gesture of solidarity and emotional warmth.",
       "beat": {
         "duration": 8000,
         "camera": "pan-zoom",
@@ -107,8 +107,8 @@
     },
     {
       "type": "paragraph",
-      "text": "In Carol Myers-Scotton's **Markedness Model**, continuing to speak an L2 with a newly discovered compatriot feels like a \"marked\" choice—it can feel artificially distant or socially cold. The native tongue serves as an \"unmarked\" choice for solidarity. The rationalization is simple: *\"They understand my native language, so why exert unnecessary mental energy?\"*",
-      "say": "In Carol Myers-Scotton's Markedness Model, continuing to speak an L2 with a newly discovered compatriot feels like a marked choice. The native tongue serves as an unmarked choice for solidarity.",
+      "text": "Linguist Carol Myers-Scotton introduced the **Markedness Model** to explain how we choose languages based on social expectations. In everyday life, using L1 with a fellow native speaker is the default, \"unmarked\" choice. Continuing to speak an L2 can initially feel slightly formal or distance-creating, as if we are holding back our true personality.",
+      "say": "Linguist Carol Myers-Scotton introduced the Markedness Model to explain how we choose languages based on social expectations. In everyday life, using L1 with a fellow native speaker is the default, unmarked choice.",
       "beat": {
         "duration": 7000,
         "camera": "focus",
@@ -117,8 +117,8 @@
     },
     {
       "type": "paragraph",
-      "text": "However, in a learning context, this shift lowers cognitive effort at the exact moment when cognitive friction is required. Language acquisition requires neuroplastic adaptation, which only occurs when the brain is forced to process and produce meaning exclusively in the target language.",
-      "say": "However, in a learning context, this shift lowers cognitive effort at the exact moment when cognitive friction is required. Language acquisition requires neuroplastic adaptation, which only occurs when the brain is forced to process and produce meaning exclusively in the target language.",
+      "text": "Understanding this gives us deep empathy for ourselves! Reverting to L1 isn't laziness—it's empathy and social bonding in action. Once we recognize this psychological comfort mechanism, we can intentionally reframe our target language (L2) so that staying in L2 feels just as friendly and supportive.",
+      "say": "Understanding this gives us deep empathy for ourselves! Reverting to L1 isn't laziness—it's empathy and social bonding in action. Once we recognize this psychological comfort mechanism, we can intentionally reframe our target language so that staying in L2 feels just as friendly and supportive.",
       "beat": {
         "duration": 8000,
         "camera": "pan-zoom",
@@ -128,8 +128,8 @@
     {
       "type": "heading",
       "level": 2,
-      "text": "2. Code-Switching in Lessons: The Illusion of Progress",
-      "say": "Part 2: Code-Switching in Lessons: The Illusion of Progress",
+      "text": "2. Transforming Code-Switching During Lessons: From Obstacle to Opportunity",
+      "say": "Part 2: Transforming Code-Switching During Lessons: From Obstacle to Opportunity",
       "beat": {
         "duration": 4000,
         "camera": "focus",
@@ -138,8 +138,8 @@
     },
     {
       "type": "paragraph",
-      "text": "A similar trap occurs during language lessons and conversation groups through **code-switching**—the practice of alternating between two or more languages in a single conversation. A student might start a sentence in English, hit a difficult vocabulary item, and instantly insert a native word: *\"Yesterday I went to the store to buy... how do you say colander?... a дуршлаг.\"*",
-      "say": "A similar trap occurs during language lessons and conversation groups through code-switching—the practice of alternating between two or more languages in a single conversation.",
+      "text": "During lessons or conversation groups, **code-switching**—inserting a native word into an L2 sentence—is a very common coping strategy. For example: *\"Yesterday I wanted to bake a cake, but I couldn't find my... how do you say whisk?... my венчик.\"* Similarly, when a partner speaks quickly, learners often nod silently out of politeness while feeling internally overwhelmed.",
+      "say": "During lessons or conversation groups, code-switching—inserting a native word into an L2 sentence—is a very common coping strategy.",
       "beat": {
         "duration": 7000,
         "camera": "pan-zoom",
@@ -148,8 +148,8 @@
     },
     {
       "type": "paragraph",
-      "text": "Even worse is **passive compliance**: when a teacher or conversation partner speaks at an advanced pace, a struggling student often nods along silently, pretending to understand while privately translating word-for-word or mentally tuning out.",
-      "say": "Even worse is passive compliance: when a teacher or conversation partner speaks at an advanced pace, a struggling student often nods along silently, pretending to understand while privately translating word-for-word or mentally tuning out.",
+      "text": "Instead of feeling embarrassed about code-switching or nodding silently, view these moments as exciting communication puzzles! Michael Long's **Interaction Hypothesis** shows that true language acquisition thrives during the **negotiation of meaning**—the creative back-and-forth when two speakers actively work to understand each other.",
+      "say": "Instead of feeling embarrassed about code-switching or nodding silently, view these moments as exciting communication puzzles! Michael Long's Interaction Hypothesis shows that true language acquisition thrives during the negotiation of meaning.",
       "beat": {
         "duration": 8000,
         "camera": "focus",
@@ -158,8 +158,8 @@
     },
     {
       "type": "paragraph",
-      "text": "We must break this habit. Instead of falling back on code-switching or passive nodding, learners need to execute a conscious pivot. Stop the sentence, remain in the target language, and say directly: **\"I don't understand you.\"** or **\"Could you rephrase that in simpler terms?\"**",
-      "say": "We must break this habit. Instead of falling back on code-switching or passive nodding, learners need to execute a conscious pivot. Stop the sentence, remain in the target language, and say directly: I don't understand you, or could you rephrase that in simpler terms?",
+      "text": "When you hit a missing word or lose track of a fast explanation, make a bold, friendly pivot! Stop with a smile, stay in the target language, and say: **\"I don't understand you yet—could you rephrase that in simpler terms?\"** or **\"I don't know the exact word, but it's a tool you use to...\"** This simple move keeps the conversation alive entirely within L2.",
+      "say": "When you hit a missing word or lose track of a fast explanation, make a bold, friendly pivot! Stop with a smile, stay in the target language, and say: I don't understand you yet—could you rephrase that in simpler terms?",
       "beat": {
         "duration": 8000,
         "camera": "pan-zoom",
@@ -167,197 +167,188 @@
       }
     },
     {
-      "type": "paragraph",
-      "text": "According to Michael Long's **Interaction Hypothesis**, real acquisition happens during moments of **negotiation of meaning**. Stating *\"I don't understand you\"* forces both interlocutors to reframe, simplify, and use circumlocution in the target language. This keeps the communicative loop entirely within L2.",
-      "say": "According to Michael Long's Interaction Hypothesis, real acquisition happens during moments of negotiation of meaning. Stating I don't understand you forces both interlocutors to reframe, simplify, and use circumlocution in the target language.",
+      "type": "heading",
+      "level": 2,
+      "text": "3. Learning Like a Child: Direct Integration Over Two-Step Translation",
+      "say": "Part 3: Learning Like a Child: Direct Integration Over Two-Step Translation",
       "beat": {
-        "duration": 8000,
+        "duration": 4000,
         "camera": "focus",
         "target": "#block-12"
       }
     },
     {
-      "type": "heading",
-      "level": 2,
-      "text": "3. The Prism of First Language Acquisition: Learning Like a Child",
-      "say": "Part 3: The Prism of First Language Acquisition: Learning Like a Child",
+      "type": "paragraph",
+      "text": "Traditional language learning often over-praises word-for-word translation. But translation builds an extra mental detour: `L2 Word ➔ L1 Translation ➔ Concept`. This extra middle step is why our brains feel exhausted after an hour of conversation!",
+      "say": "Traditional language learning often over-praises word-for-word translation. But translation builds an extra mental detour. This extra middle step is why our brains feel exhausted after an hour of conversation!",
       "beat": {
-        "duration": 4000,
-        "camera": "focus",
+        "duration": 7000,
+        "camera": "pan-zoom",
         "target": "#block-13"
       }
     },
     {
       "type": "paragraph",
-      "text": "In our pedagogy, **we do not praise translation; we praise full integration.** Translation creates a two-step mental detour: `L2 Word ➔ L1 Translation ➔ Concept`. This extra layer causes cognitive lag, hesitation, and mental fatigue.",
-      "say": "In our pedagogy, we do not praise translation; we praise full integration. Translation creates a two-step mental detour that causes cognitive lag, hesitation, and mental fatigue.",
-      "beat": {
-        "duration": 7000,
-        "camera": "pan-zoom",
-        "target": "#block-14"
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Consider how young children acquire their first language. A child learning the word *apple* does not look up a translation in an existing mental dictionary. Instead, they form a direct neurological connection between the sound /æp.əl/, the visual shape, the texture, and the sweet taste. Concept and sound are unified instantly (`L2 Word ➔ Direct Concept`).",
-      "say": "Consider how young children acquire their first language. A child learning the word apple does not look up a translation in an existing mental dictionary. Instead, they form a direct neurological connection between the sound, the visual shape, the texture, and the sweet taste.",
+      "text": "Consider how young children acquire their first language. A toddler learning the word *apple* doesn't look up a translation. They touch the smooth red skin, smell the fresh scent, taste the sweetness, and hear the sound /æp.əl/. The concept and sound connect directly (`L2 Word ➔ Direct Concept`).",
+      "say": "Consider how young children acquire their first language. A toddler learning the word apple doesn't look up a translation. They touch the smooth red skin, smell the fresh scent, taste the sweetness, and hear the sound.",
       "beat": {
         "duration": 8000,
         "camera": "focus",
-        "target": "#block-15"
+        "target": "#block-14"
       }
     },
     {
       "type": "links",
       "destination": "cosydata",
       "url": "stop-translating-10-sentence-frames.html",
-      "label": "📖 Recommended Reading: Stop Translating! 10 Reusable Sentence Frames That Let You Speak From Day One",
-      "say": "Recommended Reading: Stop Translating! 10 Reusable Sentence Frames That Let You Speak From Day One.",
+      "label": "📖 Recommended Practice Guide: Stop Translating! 10 Reusable Sentence Frames That Let You Speak From Day One",
+      "say": "Recommended Practice Guide: Stop Translating! 10 Reusable Sentence Frames That Let You Speak From Day One.",
       "beat": {
         "duration": 5000,
         "camera": "focus",
-        "target": "#block-16"
+        "target": "#block-15"
       }
     },
     {
       "type": "paragraph",
-      "text": "As adults, we can replicate this direct integration by replacing translation with **circumlocution**, **visual anchoring**, and **sensory description**. When you don't know a word, describe its shape, function, or context in L2 rather than translating it into L1.",
-      "say": "As adults, we can replicate this direct integration by replacing translation with circumlocution, visual anchoring, and sensory description. When you don't know a word, describe its shape, function, or context in L2 rather than translating it into L1.",
+      "text": "As adult learners, we can activate this exact same child-like magic by anchoring new vocabulary in sensory descriptions, gestures, and circumlocution. When you describe a object's shape, function, or feel in L2 instead of translating it into L1, you are building direct neural highways in your target language.",
+      "say": "As adult learners, we can activate this exact same child-like magic by anchoring new vocabulary in sensory descriptions, gestures, and circumlocution. When you describe a object's shape, function, or feel in L2 instead of translating it into L1, you are building direct neural highways in your target language.",
       "beat": {
         "duration": 8000,
         "camera": "pan-zoom",
-        "target": "#block-17"
+        "target": "#block-16"
       }
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "4. Practical Alternatives & Habit-Breaking Strategies",
-      "say": "Part 4: Practical Alternatives and Habit-Breaking Strategies",
+      "text": "4. Actionable Solutions & Practical Exercises to Get Rid of L1 Defaulting",
+      "say": "Part 4: Actionable Solutions and Practical Exercises to Get Rid of L1 Defaulting",
       "beat": {
         "duration": 4000,
         "camera": "focus",
-        "target": "#block-18"
+        "target": "#block-17"
       }
     },
     {
       "type": "paragraph",
-      "text": "How do we break the deeply ingrained habits of code-switching and word-for-word translation? Here are four concrete strategies for students and educators:",
-      "say": "How do we break the deeply ingrained habits of code-switching and word-for-word translation? Here are four concrete strategies for students and educators:",
+      "text": "Here are five practical, highly effective solutions that students, teachers, and speaking club facilitators can put into practice immediately:",
+      "say": "Here are five practical, highly effective solutions that students, teachers, and speaking club facilitators can put into practice immediately:",
       "beat": {
         "duration": 5000,
         "camera": "focus",
-        "target": "#block-19"
+        "target": "#block-18"
       }
     },
     {
       "type": "list-item",
       "ordered": true,
       "items": [
-        "**Establish L2 Micro-Agreements:** In speaking clubs, agree explicitly before starting: *\"Even if we discover we share a native language, our commitment is 100% target language.\"* This reframes staying in L2 as mutual respect rather than social coldness.",
-        "**Master L2 Repair Phrases:** Memorize survival expressions to manage non-comprehension without switching languages: *\"I lost you there—could you say that differently?\"*, *\"What does that word mean in simple English?\"*, *\"I don't know the exact word, but it's something you use to...\"*",
-        "**Replace Translation with Circumlocution:** Practice describing objects by category, use, material, or appearance using sentence frames instead of reaching for a bilingual dictionary.",
-        "**Embrace Cognitive Friction:** Recognize that feeling stuck is not a sign of failure—it is the sensation of your brain forming new neural connections directly in the target language."
+        "**Set Up Friendly L2 Micro-Agreements:** Before starting a speaking session, establish a shared pledge: *\"Even if we discover we share a native origin today, our friendly agreement is to stay 100% in our target language to support each other's growth.\"* This makes staying in L2 feel like teamwork rather than coldness.",
+        "**Practice the 'I Don't Understand You' Protocol:** Normalize saying *\"I don't understand you yet\"* without shame. Teachers and hosts should warm up sessions with 2-minute drills where partners intentionally explain words using only simpler L2 synonyms.",
+        "**Master the 3-Step Circumlocution Sequence:** When missing a specific word, use this sequence: (1) Category (*\"It's a kind of tool...\"*), (2) Purpose (*\"You use it when you cook...\"*), (3) Appearance/Sensory (*\"It looks like a small metal cage...\"*).",
+        "**Create an 'L1 Safety Deposit Box' Ritual:** In classroom settings, physically or symbolically place native language note-taking away during speaking rounds. This visual anchor helps the brain commit to L2 processing.",
+        "**Celebrate Cognitive Friction:** Whenever you feel your brain searching for a word in L2, smile and remind yourself: *\"This mental effort is my brain forming brand new neural connections directly in my new language!\"*"
       ],
-      "say": "1. Establish L2 Micro-Agreements. 2. Master L2 Repair Phrases. 3. Replace Translation with Circumlocution. 4. Embrace Cognitive Friction.",
+      "say": "1. Set Up Friendly L2 Micro-Agreements. 2. Practice the I Don't Understand You Protocol. 3. Master the 3-Step Circumlocution Sequence. 4. Create an L1 Safety Deposit Box Ritual. 5. Celebrate Cognitive Friction.",
       "beat": {
         "duration": 9000,
         "camera": "pan-zoom",
-        "target": "#block-20"
+        "target": "#block-19"
       }
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "💡 Key Linguistic Concepts & Classroom Examples",
-      "say": "Key Linguistic Concepts and Classroom Examples",
+      "text": "💡 Linguistic Toolkit: Terms, Explanations & Practical Classroom Examples",
+      "say": "Linguistic Toolkit: Terms, Explanations and Practical Classroom Examples",
       "beat": {
         "duration": 4000,
         "camera": "focus",
-        "target": "#block-21"
+        "target": "#block-20"
       }
     },
     {
       "type": "table",
       "headers": [
         "Linguistic Term",
-        "Plain Explanation for Students",
-        "Classroom / Club Example"
+        "Friendly Explanation for Students",
+        "Practical Solution / Scenario"
       ],
       "rows": [
         [
           "**Code-Switching**",
-          "Alternating between two languages in the same conversation.",
-          "*\"I couldn't find my keys because they were on the kitchen... איך אומרים שיש?\"*"
+          "Alternating between native and target language within the same sentence.",
+          "When stuck, pause and use a phrase frame: *\"I don't know the exact word, but it's like...\"*"
         ],
         [
           "**In-Group Identity**",
-          "Using shared language to show social closeness and common origins.",
-          "Switching to French with a fellow Parisian in an English club."
+          "Using shared native language to express social warmth and shared roots.",
+          "Create an L2 micro-agreement so that staying in L2 feels like mutual encouragement."
         ],
         [
           "**Negotiation of Meaning**",
-          "Clarifying misunderstandings directly in the target language.",
-          "Saying *\"I don't understand you\"* and asking for a simpler rephrase."
+          "Collaboratively working through misunderstandings directly in L2.",
+          "Saying *\"I don't understand you yet—can you explain that with an example?\"*"
         ],
         [
           "**Circumlocution**",
-          "Describing a concept or word when you don't know its exact name.",
-          "Saying *\"It's a thing you use to open wine bottles\"* instead of frozen silence."
+          "Describing a concept or object when you don't know its precise title.",
+          "Describing a corkscrew: *\"It's a thing you use to open wine bottles.\"*"
         ],
         [
           "**First Language Acquisition (L1)**",
-          "Learning language naturally through sensory and contextual experience.",
-          "Linking *\"cold\"* directly to temperature without an L1 translation step."
+          "Learning language naturally through direct sensory and real-life context.",
+          "Connecting new words directly to images, sounds, and feelings without translating."
         ]
       ],
       "say": "Here is a breakdown of key linguistic terms: Code-Switching, In-Group Identity, Negotiation of Meaning, Circumlocution, and First Language Acquisition.",
       "beat": {
         "duration": 8000,
         "camera": "focus",
-        "target": "#block-22"
+        "target": "#block-21"
       }
     },
     {
       "type": "heading",
       "level": 2,
-      "text": "Conclusion: Choosing Integration Over Comfort",
-      "say": "Conclusion: Choosing Integration Over Comfort",
+      "text": "Conclusion: Building a Warm, Integrated Community",
+      "say": "Conclusion: Building a Warm, Integrated Community",
       "beat": {
         "duration": 4000,
         "camera": "focus",
+        "target": "#block-22"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Language learning is an empowering journey of personal growth. Defaulting to your native language when meeting someone from home or encountering a difficult phrase is completely human and natural. But true, joyful fluency blooms when we gently step through that comfort zone together.",
+      "say": "Language learning is an empowering journey of personal growth. Defaulting to your native language when meeting someone from home or encountering a difficult phrase is completely human and natural. But true, joyful fluency blooms when we gently step through that comfort zone together.",
+      "beat": {
+        "duration": 8000,
+        "camera": "pan-zoom",
         "target": "#block-23"
       }
     },
     {
       "type": "paragraph",
-      "text": "Language learning is fundamentally an act of transformation. Falling back on your native language when shared origins are discovered or when sentences get tough is entirely understandable—it is comfortable, safe, and low-effort. But true fluency lives on the other side of that comfort zone.",
-      "say": "Language learning is fundamentally an act of transformation. Falling back on your native language when shared origins are discovered or when sentences get tough is entirely understandable—it is comfortable, safe, and low-effort. But true fluency lives on the other side of that comfort zone.",
-      "beat": {
-        "duration": 8000,
-        "camera": "pan-zoom",
-        "target": "#block-24"
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": "Next time you find yourself in a speaking club or lesson and realize your partner speaks your native tongue, resist the pull of the L1 safety net. Say *\"Let me try that again in English,\"* speak up when you don't understand, and allow yourself to integrate fully into the language you are working so hard to master.",
-      "say": "Next time you find yourself in a speaking club or lesson and realize your partner speaks your native tongue, resist the pull of the L1 safety net. Say 'Let me try that again in English,' speak up when you don't understand, and allow yourself to integrate fully into the language you are working so hard to master.",
+      "text": "Next time you discover a compatriot in a speaking club or feel lost in a fast conversation, smile, take a breath, and embrace the target language. Say *\"Let's keep going in English!\"*, ask for a simpler rephrase, and give yourself permission to learn directly, creatively, and fully.",
+      "say": "Next time you discover a compatriot in a speaking club or feel lost in a fast conversation, smile, take a breath, and embrace the target language. Say 'Let's keep going in English!', ask for a simpler rephrase, and give yourself permission to learn directly, creatively, and fully.",
       "beat": {
         "duration": 9000,
         "camera": "focus",
-        "target": "#block-25"
+        "target": "#block-24"
       }
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "📚 Select Bibliography & Scientific References",
-      "say": "Select Bibliography and Scientific References",
+      "text": "📚 Select Bibliography & Research References",
+      "say": "Select Bibliography and Research References",
       "beat": {
         "duration": 4000,
         "camera": "focus",
-        "target": "#block-26"
+        "target": "#block-25"
       }
     },
     {
@@ -374,7 +365,7 @@
       "beat": {
         "duration": 8000,
         "camera": "pan-zoom",
-        "target": "#block-27"
+        "target": "#block-26"
       }
     }
   ],
