@@ -151,13 +151,13 @@
                 const tag = child.tagName ? child.tagName.toLowerCase() : '';
 
                 const isHeading = isHeadingElement(child);
+                const isMajorSectionHeading = tag === 'h2' || (child.tagName && child.tagName.toLowerCase() === 'h2');
                 const isHr = tag === 'hr';
                 const isSpreadBlock = child.classList?.contains('instead-try-spread') || child.classList?.contains('phrase-upgrade-grid');
 
-                // Adjusted page limit for magazine spreads: allow 8-12 paragraph/block items per page
-                // break page only on explicit hr, major section heading with enough preceding items, or when reaching item limit
+                // Page break on: hr, major section/mistake heading (H2), spread blocks, or reaching page item limit
                 const pageLimit = isHeading ? 6 : 10;
-                if ((isHr || (isHeading && currentItemCount >= 4) || isSpreadBlock || currentItemCount >= pageLimit) && pagesData[currentPageIndex].length > 0) {
+                if ((isHr || isMajorSectionHeading || (isHeading && currentItemCount >= 4) || isSpreadBlock || currentItemCount >= pageLimit) && pagesData[currentPageIndex].length > 0) {
                     currentPageIndex++;
                     pagesData[currentPageIndex] = [];
                     currentItemCount = 0;
