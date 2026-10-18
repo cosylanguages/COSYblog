@@ -124,8 +124,8 @@ function parseFormattedText(text) {
   }
   let html = escapeHtml(text);
   html = html.replace(/\\\*/g, '&#42;');
-  html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-  html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
   return html;
 }
 

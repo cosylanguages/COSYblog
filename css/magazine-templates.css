@@ -744,6 +744,10 @@ html[data-theme="dark"] .gazette-quiz-card {
   border-color: var(--blog-border-delicate, #3c3836);
 }
 
+html[data-theme="dark"] .dog-ear-fold {
+  border-color: transparent var(--blog-paper-aged, #2c2825) transparent transparent;
+}
+
 html[data-theme="dark"] .instead-cell {
   background: rgba(251, 113, 133, 0.12);
   color: var(--blog-ink-primary, #f5f5f4);
