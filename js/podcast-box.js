@@ -23,8 +23,15 @@ export class PodcastBoxComponent {
     const podcast = this.post.podcast || {};
     const episodeNum = podcast.episode || 1;
     const audioUrl = podcast.audioUrl || null;
-    const iframeUrl = podcast.iframeUrl || null;
     const externalUrl = podcast.externalUrl || null;
+    const appleUrl = podcast.appleUrl || null;
+    let iframeUrl = podcast.iframeUrl || null;
+    if (!iframeUrl && externalUrl && externalUrl.includes('spotify.com/episode/')) {
+      const epIdMatch = externalUrl.match(/episode\/([a-zA-Z0-9]+)/);
+      if (epIdMatch && epIdMatch[1]) {
+        iframeUrl = `https://open.spotify.com/embed/episode/${epIdMatch[1]}?utm_source=generator`;
+      }
+    }
     const slug = this.post.slug || '';
     const scriptUrl = `${slug}.html?script=1`;
     const stageUrl = `${slug}.html?stage=1`;
@@ -40,8 +47,8 @@ export class PodcastBoxComponent {
     let playerHtml = '';
     if (iframeUrl) {
       playerHtml = `
-        <div class="podcast-iframe-player-wrapper" style="margin-top: 1rem; border-radius: 8px; overflow: hidden;">
-          <iframe src="${this.escapeHtml(iframeUrl)}" style="width: 100%;" height="235" scrolling="no" frameborder="no" title="Podcast Episode Player"></iframe>
+        <div class="podcast-iframe-player-wrapper" style="margin-top: 1rem; border-radius: 12px; overflow: hidden;">
+          <iframe src="${this.escapeHtml(iframeUrl)}" style="width: 100%; border: none;" height="152" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Podcast Episode Player"></iframe>
         </div>
       `;
     } else if (audioUrl) {
@@ -71,7 +78,8 @@ export class PodcastBoxComponent {
             <span class="podcast-show-name">cosylanguages / такиеязыки</span>
           </div>
           <div class="podcast-quick-links">
-            ${externalUrl ? `<a href="${this.escapeHtml(externalUrl)}" target="_blank" rel="noopener" class="podcast-action-link" style="background: #1db954; color: #ffffff;" title="Listen on Spotify / Anchor">🎧 Spotify</a>` : ''}
+            ${externalUrl ? `<a href="${this.escapeHtml(externalUrl)}" target="_blank" rel="noopener" class="podcast-action-link" style="background: #1db954; color: #ffffff;" title="Listen on Spotify">🎧 Spotify</a>` : ''}
+            ${appleUrl ? `<a href="${this.escapeHtml(appleUrl)}" target="_blank" rel="noopener" class="podcast-action-link" style="background: #9933ff; color: #ffffff;" title="Listen on Apple Podcasts">🍏 Apple Podcasts</a>` : ''}
             <a href="${stageUrl}" class="podcast-action-link" title="Open in 16:9 Animated Presentation Deck" data-i18n="blog.stage_view">${this.escapeHtml(stageViewText)}</a>
             <a href="${scriptUrl}" class="podcast-action-link" title="Open in Teleprompter Script Mode" data-i18n="blog.script_teleprompter">${this.escapeHtml(scriptPromptText)}</a>
           </div>
