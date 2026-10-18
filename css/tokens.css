@@ -53,8 +53,11 @@
 }
 
 /* 2. Dark Mode Theme Tokens */
+html[data-theme="dark"],
 html[data-theme="dark"] body.blog-page,
+html[data-theme="dark"] body.gazette-body,
 body.theme-dark.blog-page,
+body.theme-dark.gazette-body,
 [data-theme="dark"] .gazette-container {
   --blog-paper-light: #181614;
   --blog-paper-card: #221f1d;
@@ -71,9 +74,9 @@ body.theme-dark.blog-page,
   --blog-shadow-paper: 0 4px 20px -2px rgba(0, 0, 0, 0.4);
   --blog-shadow-stamp: 2px 2px 0px rgba(245, 245, 244, 0.8);
 
-  --post-palette-bg: var(--blog-paper-light);
-  --post-palette-text: var(--blog-ink-primary);
-  --post-palette-accent: var(--blog-accent-teal);
+  --post-palette-bg: var(--blog-paper-light) !important;
+  --post-palette-text: var(--blog-ink-primary) !important;
+  --post-palette-accent: var(--blog-accent-teal) !important;
 }
 
 /* 3. Base Warm Paper Texture Canvas */

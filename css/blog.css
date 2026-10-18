@@ -869,13 +869,13 @@ h1, h2, h3, h4, h5, h6 {
 .post-full-content.flipbook-mode.desktop-spread-view {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 1.5rem;
+    gap: 2rem;
     perspective: 1400px;
     align-items: start;
     background: var(--warm-white, #fdfbf7);
     border: 1px solid var(--border, rgba(74, 107, 80, 0.15));
     border-radius: 12px;
-    padding: 1.5rem;
+    padding: 2.25rem;
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
 }
 
