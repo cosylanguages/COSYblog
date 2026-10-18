@@ -154,9 +154,10 @@
                 const isHr = tag === 'hr';
                 const isSpreadBlock = child.classList?.contains('instead-try-spread') || child.classList?.contains('phrase-upgrade-grid');
 
-                // If heading or spread block or page limit (>= 4 items when heading is coming, or >= 5 items otherwise)
-                const pageLimit = isHeading ? 3 : 5;
-                if ((isHr || isHeading || isSpreadBlock || currentItemCount >= pageLimit) && pagesData[currentPageIndex].length > 0) {
+                // Adjusted page limit for magazine spreads: allow 8-12 paragraph/block items per page
+                // break page only on explicit hr, major section heading with enough preceding items, or when reaching item limit
+                const pageLimit = isHeading ? 6 : 10;
+                if ((isHr || (isHeading && currentItemCount >= 4) || isSpreadBlock || currentItemCount >= pageLimit) && pagesData[currentPageIndex].length > 0) {
                     currentPageIndex++;
                     pagesData[currentPageIndex] = [];
                     currentItemCount = 0;
@@ -654,11 +655,23 @@
         },
 
         nextPage: function () {
-            if (this.currentPage < this.totalPages) this.showPage(this.currentPage + 1);
+            const isMobile = window.innerWidth <= 860;
+            const step = (!isMobile && this.mode === 'flipbook') ? 2 : 1;
+            if (this.currentPage + step <= this.totalPages) {
+                this.showPage(this.currentPage + step);
+            } else if (this.currentPage < this.totalPages) {
+                this.showPage(this.totalPages);
+            }
         },
 
         prevPage: function () {
-            if (this.currentPage > 1) this.showPage(this.currentPage - 1);
+            const isMobile = window.innerWidth <= 860;
+            const step = (!isMobile && this.mode === 'flipbook') ? 2 : 1;
+            if (this.currentPage - step >= 1) {
+                this.showPage(this.currentPage - step);
+            } else if (this.currentPage > 1) {
+                this.showPage(1);
+            }
         },
 
         toggleMode: function () {

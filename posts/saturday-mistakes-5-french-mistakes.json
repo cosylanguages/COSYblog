@@ -1,0 +1,302 @@
+{
+  "id": "post-saturday-mistakes-5-french-mistakes",
+  "slug": "saturday-mistakes-5-french-mistakes",
+  "language": "fr",
+  "desk": "Say It",
+  "format": "list",
+  "level": "B1–B2",
+  "issue": {
+    "number": "Vol. 2026.10",
+    "title": "Édition Erreurs du Samedi"
+  },
+  "date": "2026-10-24",
+  "title": "Erreurs du Samedi Épisode 1 : 5 erreurs courantes en français et comment les corriger",
+  "kicker": "ERREURS DU SAMEDI • ÉPISODE 1",
+  "dek": "Analyse complète des 5 erreurs fréquentes en français parlé tirées de l'épisode 1 d'Erreurs du Samedi, avec règles simples, quiz et astuces (Segment : 22:19 – fin).",
+  "tags": [
+    "SaturdayMistakes",
+    "FrenchGrammar",
+    "SpeakingFluency",
+    "PodcastEpisode"
+  ],
+  "readingTime": 7,
+  "podcast": {
+    "episode": 1,
+    "audioUrl": "audio/saturday-mistakes-5-french-mistakes.mp3",
+    "externalUrl": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
+    "appleUrl": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
+    "timestamp": "22:19 – fin"
+  },
+  "artDirection": {
+    "palette": [
+      "#16a34a",
+      "#faf7f2",
+      "#1e293b",
+      "#ca8a04"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "Commissioner",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "stain-ring",
+    "seed": "saturday-mistakes-fr",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bienvenue dans la deuxième partie de **CosyLanguages Erreurs du Samedi Épisode 1** ! Maintenant, on passe au français ! Nous analysons **5 erreurs très fréquentes en français** avec des règles simples et des réflexes utiles.",
+      "say": "Bienvenue dans la deuxième partie de CosyLanguages Erreurs du Samedi Épisode 1 ! Maintenant, on passe au français !",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-0"
+      }
+    },
+    {
+      "type": "culture-bite",
+      "title": "🎙️ Écoutez la partie 2 du podcast",
+      "content": "Cette fiche correspond au **segment français (22:19 – fin)** de notre épisode 1 d'Erreurs du Samedi. Écoutez sur Spotify ou Apple Podcasts !",
+      "say": "Cette fiche correspond au segment français de 22:19 jusqu'à la fin de notre épisode 1.",
+      "beat": {
+        "duration": 5000,
+        "camera": "focus",
+        "target": "#block-1"
+      }
+    },
+    {
+      "type": "links",
+      "destination": "cosydata",
+      "url": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
+      "label": "🎧 Écouter sur Spotify (Segment Français : 22:19 – fin)",
+      "say": "Écouter sur Spotify : Segment Français de 22:19 à la fin.",
+      "beat": {
+        "duration": 4000,
+        "camera": "focus",
+        "target": "#block-2"
+      }
+    },
+    {
+      "type": "links",
+      "destination": "cosydata",
+      "url": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
+      "label": "🍏 Écouter sur Apple Podcasts (Épisode 1 Erreurs du Samedi)",
+      "say": "Écouter sur Apple Podcasts : Épisode 1 Erreurs du Samedi.",
+      "beat": {
+        "duration": 4000,
+        "camera": "focus",
+        "target": "#block-3"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. « Je suis très heureux » ou « Je suis très heureuse » ?",
+      "say": "6. Je suis très heureux ou Je suis très heureuse ?",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-4"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En français, beaucoup d'adjectifs changent de forme selon le genre de la personne ou du nom qu'ils décrivent (*heureux / heureuse*, *content / contente*, *fatigué / fatiguée*).",
+      "say": "En français, beaucoup d'adjectifs changent de forme selon le genre de la personne qu'ils décrivent.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-5"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Erreur :** Marie dit : *« Je suis très heureux aujourd'hui. »*",
+        "✅ **Correction :** *« Je suis très heureuse aujourd'hui. »*",
+        "💡 **À vous de jouer :** « Ma sœur est très… » A. heureux B. heureuse C. heureuses (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Apprenez les deux formes ensemble (*heureux/heureuse*) et demandez-vous toujours : « Qui est-ce que je décris ? »"
+      ],
+      "say": "Erreur : Marie dit Je suis très heureux. Correction : Je suis très heureuse. Réponse au quiz : heureuse.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-6"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. « Il fait manger » ou « Il faut manger » ?",
+      "say": "7. Il fait manger ou Il faut manger ?",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-7"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "**Il faut + infinitif** exprime une nécessité (*il faut manger*, *il faut dormir*). En revanche, **il fait + infinitif** peut indiquer le fait d'amener quelqu'un à faire une action (*il fait manger les enfants*).",
+      "say": "Il faut + infinitif exprime une nécessité. Il fait sert à parler d'une action ou de faire réaliser une action.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-8"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Erreur (pour exprimer la nécessité) :** *« Il fait manger avant de partir. »*",
+        "✅ **Correction :** *« Il faut manger avant de partir. »*",
+        "💡 **À vous de jouer :** Pour exprimer la nécessité de se reposer : A. Il fait se reposer. B. Il faut se reposer. C. Il faut se repose. (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Pour exprimer qu'une chose est nécessaire, pensez toujours à **il faut + infinitif**."
+      ],
+      "say": "Erreur : Il fait manger. Correction : Il faut manger. Réponse au quiz : Il faut se reposer.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-9"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. « Un ami étrange » ou « un ami étranger » ?",
+      "say": "8. Un ami étrange ou un ami étranger ?",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-10"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Ces deux mots ne veulent pas dire la même chose ! **Étrange** signifie bizarre ou surprenant, alors qu'**étranger** désigne une personne venant d'un autre pays.",
+      "say": "Étrange signifie bizarre. Étranger désigne une personne venant d'un autre pays.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-11"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Confusion :** Présenter son ami qui vient du Portugal en disant : *« Voici mon ami étrange. »*",
+        "✅ **Correction :** *« Voici mon ami étranger. »*",
+        "💡 **À vous de jouer :** « J'ai rencontré un étudiant qui vient du Japon. C'est un étudiant… » A. étrange B. étranger C. étrangère (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Avec *étrange*, demandez-vous : « Est-ce bizarre ? ». Avec *étranger*, demandez-vous : « Est-ce un autre pays ? »"
+      ],
+      "say": "Étrange veut dire bizarre. Étranger fait référence à un autre pays. Réponse au quiz : un étudiant étranger.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-12"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "9. « Je veux avoir assez argent » — Le petit DE",
+      "say": "9. Je veux avoir assez argent — Le petit DE",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-13"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Après des adverbes de quantité (*beaucoup, trop, assez, peu*), on utilise **de** (ou **d'** devant une voyelle) avant le nom.",
+      "say": "Après les mots de quantité comme beaucoup, trop, assez ou peu, on utilise de ou d' devant le nom.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-14"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Erreur :** *« Je veux avoir assez argent pour partir en Italie. »*",
+        "✅ **Correction :** *« Je veux avoir assez d'argent pour partir en Italie. »*",
+        "💡 **À vous de jouer :** « Nous avons besoin de beaucoup ___ eau. » A. de B. d' C. des (Réponse : **B**)",
+        "📌 **L'astuce CosyLanguages :** Quantité + **de / d'** + nom (*beaucoup de travail*, *assez d'argent*, *trop de sucre*)."
+      ],
+      "say": "Erreur : Je veux avoir assez argent. Correction : Je veux avoir assez d'argent. Réponse au quiz : beaucoup d'eau.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-15"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "10. « Je regarde », « je vais regarder », « j'ai regardé »",
+      "say": "10. Je regarde, je vais regarder, j'ai regardé",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-16"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Attention au choix des temps selon le moment de l'action : **Présent** (*habitude*), **Futur proche** (*projet à venir : aller + infinitif*), **Passé composé** (*action terminée dans le passé*).",
+      "say": "Attention au choix des temps : présent pour une habitude, futur proche pour un projet, passé composé pour une action terminée.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-17"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "1️⃣ **Habitude / Présent :** *« Je regarde mes emails le soir. »*",
+        "2️⃣ **Futur proche :** *« Je vais regarder mes emails ce soir. »*",
+        "3️⃣ **Passé composé :** *« J'ai regardé mes emails hier soir. »*",
+        "💡 **À vous de jouer :** « Hier soir, j'___ un film avec mes amis. » A. regarde B. vais regarder C. ai regardé (Réponse : **C**)",
+        "📌 **L'astuce CosyLanguages :** Demandez-vous toujours : *Quand se passe l'action ?* Habitude (présent), projet (futur proche), action terminée (passé composé)."
+      ],
+      "say": "Présent pour les habitudes, futur proche avec aller plus infinitif, passé composé pour les actions terminées. Réponse au quiz : ai regardé.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-18"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Synthèse et conseils pratiques",
+      "say": "Synthèse et conseils pratiques",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-19"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Voilà ! Choisissez 2 erreurs de cet épisode, rédigez 3 phrases d'exemple pour chacune et mettez-les en pratique dans vos conversations. Merci d'avoir passé votre samedi avec nous ! À samedi prochain !",
+      "say": "Choisissez 2 erreurs, rédigez 3 phrases d'exemple et mettez-les en pratique ! Merci et à samedi prochain !",
+      "beat": {
+        "duration": 7000,
+        "camera": "pan-zoom",
+        "target": "#block-20"
+      }
+    }
+  ],
+  "draft": false
+}

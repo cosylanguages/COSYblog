@@ -12,7 +12,10 @@
     "courses": "Cours",
     "calculator": "Calculateur",
     "blog": "Blog",
-    "placement_quiz": "Test de niveau"
+    "placement_quiz": "Test de niveau",
+    "tools": "Outils",
+    "magazine": "Magazine",
+    "podcast": "Podcast"
   },
   "footer": {
     "courses": "Cours",
@@ -21,7 +24,10 @@
     "project": "Projet",
     "privacy": "Confidentialité & Sécurité 🛡️",
     "allRightsReserved": "© 2026 COSYlanguages — Tous droits réservés",
-    "description": "Votre coin convivial pour maîtriser de nouvelles langues et vous connecter au monde. 🌍"
+    "description": "Votre coin convivial pour maîtriser de nouvelles langues et vous connecter au monde. 🌍",
+    "tagline": "Lectures courtes et axées sur l'oral pour apprendre une langue : mots, grammaire cosy et podcast.",
+    "reference_tools": "Outils de référence",
+    "cosylanguages": "COSYlanguages"
   },
   "button": {
     "bookNow": "Réserver maintenant →",
@@ -131,6 +137,26 @@
     "the_podcast": "Le Podcast",
     "back_issues": "Archives",
     "reflections": "Réflexions"
+  },
+  "index": {
+    "kicker": "COSYmagazine",
+    "hero_title": "Lectures courtes pour parler avec aisance.",
+    "hero_lede": "Mots, grammaire cosy, structures de phrases et un podcast. Écrit par un professeur, publié mois par mois, et lu dans la langue que vous apprenez.",
+    "podcast_pill": "🎙️ Podcast",
+    "search_placeholder": "Rechercher des articles…",
+    "clear_filters": "Effacer les filtres",
+    "empty_msg": "Aucun article ne correspond. Essayez une autre rubrique ou effacez les filtres.",
+    "about_title": "À propos de COSYmagazine",
+    "about_speaking_first_title": "🌱 Parler d'abord",
+    "about_speaking_first_body": "Chaque article est conçu autour de ce que vous pouvez dire demain : structures de phrases, circumlocution et penser dans la langue au lieu de traduire.",
+    "about_podcast_title": "🎙️ Podcast et mode présentation",
+    "about_podcast_body": "Ouvrez n'importe quel article avec ?stage=1 pour une vue présentation 16:9 ou ?script=1 pour un téléavertisseur prompteur.",
+    "about_paper_title": "🗞️ Conçu aussi pour le papier",
+    "about_paper_body": "Les articles sont mis en page pour une impression nette, sous forme de fiches ou de mini-magazine papier.",
+    "latest_issue": "Dernière édition",
+    "read_story": "Lire l'article →",
+    "also_in_issue": "Également dans cette édition",
+    "all_issues": "Toutes les éditions"
   },
   "blog": {
     "back_to_hub": "← Retour au Hub Éditiorial",

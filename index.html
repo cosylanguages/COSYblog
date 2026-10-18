@@ -26,12 +26,12 @@
 
   <main class="ns" id="main">
     <header class="ns-head">
-      <p class="ns-kicker">COSYmagazine</p>
-      <h1>Short reads for people who want to speak.</h1>
-      <p class="ns-lede" id="ns-lede">Words, grammar made cosy, sentence frames and a podcast. Written by a teacher, published month by month, and read in the language you are learning.</p>
+      <p class="ns-kicker" data-i18n="index.kicker">COSYmagazine</p>
+      <h1 data-i18n="index.hero_title">Short reads for people who want to speak.</h1>
+      <p class="ns-lede" id="ns-lede" data-i18n="index.hero_lede">Words, grammar made cosy, sentence frames and a podcast. Written by a teacher, published month by month, and read in the language you are learning.</p>
       <div class="ns-head-links">
-        <a class="ns-pill" href="podcast.html">🎙️ Podcast</a>
-        <a class="ns-pill" href="https://cosylanguages.github.io/COSYpractice/">💡 Free practice</a>
+        <a class="ns-pill" href="podcast.html" data-i18n="index.podcast_pill">🎙️ Podcast</a>
+        <a class="ns-pill" href="https://cosylanguages.github.io/COSYpractice/" data-i18n="button.tryFreePractice">💡 Free practice</a>
       </div>
     </header>
 
@@ -41,7 +41,7 @@
       <div class="ns-filters" role="search">
         <div class="ns-row">
           <label class="visually-hidden" for="ns-q">Search articles</label>
-          <input id="ns-q" class="ns-search" type="search" placeholder="Search articles…" autocomplete="off">
+          <input id="ns-q" class="ns-search" type="search" placeholder="Search articles…" data-i18n="index.search_placeholder" autocomplete="off">
           <label class="visually-hidden" for="ns-lang">Read in</label>
           <select id="ns-lang" class="ns-select"></select>
           <label class="visually-hidden" for="ns-issue">Issue</label>
@@ -50,19 +50,19 @@
         <div class="ns-row">
           <div class="ns-chips" id="ns-desks" role="group" aria-label="Desks"></div>
           <span class="ns-count" id="ns-count" aria-live="polite"></span>
-          <button type="button" class="ns-reset" id="ns-reset" hidden>Clear filters</button>
+          <button type="button" class="ns-reset" id="ns-reset" data-i18n="index.clear_filters" hidden>Clear filters</button>
         </div>
       </div>
       <div class="ns-grid" id="ns-grid"></div>
-      <p class="ns-empty" id="ns-empty" hidden>No articles match. Try another desk or clear the filters.</p>
+      <p class="ns-empty" id="ns-empty" data-i18n="index.empty_msg" hidden>No articles match. Try another desk or clear the filters.</p>
     </section>
 
     <details class="ns-about">
-      <summary>About COSYmagazine</summary>
+      <summary data-i18n="index.about_title">About COSYmagazine</summary>
       <div class="ns-about-grid">
-        <div><h3>🌱 Speaking first</h3><p>Every piece is built around what you can say tomorrow: sentence frames, circumlocution, and thinking in the language rather than translating.</p></div>
-        <div><h3>🎙️ Podcast and stage mode</h3><p>Open any article with <code>?stage=1</code> for a 16:9 presentation view or <code>?script=1</code> for a teleprompter script.</p></div>
-        <div><h3>🗞️ Made for paper too</h3><p>Articles are laid out to print cleanly, as handouts or a small paper magazine.</p></div>
+        <div><h3 data-i18n="index.about_speaking_first_title">🌱 Speaking first</h3><p data-i18n="index.about_speaking_first_body">Every piece is built around what you can say tomorrow: sentence frames, circumlocution, and thinking in the language rather than translating.</p></div>
+        <div><h3 data-i18n="index.about_podcast_title">🎙️ Podcast and stage mode</h3><p data-i18n="index.about_podcast_body">Open any article with <code>?stage=1</code> for a 16:9 presentation view or <code>?script=1</code> for a teleprompter script.</p></div>
+        <div><h3 data-i18n="index.about_paper_title">🗞️ Made for paper too</h3><p data-i18n="index.about_paper_body">Articles are laid out to print cleanly, as handouts or a small paper magazine.</p></div>
       </div>
     </details>
   </main>

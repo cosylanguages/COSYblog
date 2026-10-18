@@ -12,7 +12,10 @@
     "courses": "Corsi",
     "calculator": "Calcolatore",
     "blog": "Blog",
-    "placement_quiz": "Test di livello"
+    "placement_quiz": "Test di livello",
+    "tools": "Strumenti",
+    "magazine": "Magazine",
+    "podcast": "Podcast"
   },
   "footer": {
     "courses": "Corsi",
@@ -21,7 +24,10 @@
     "project": "Progetto",
     "privacy": "Privacy & Sicurezza 🛡️",
     "allRightsReserved": "© 2026 COSYlanguages — Tutti i diritti riservati",
-    "description": "Il tuo angolo accogliente per imparare nuove lingue e connetterti con il mondo. 🌍"
+    "description": "Il tuo angolo accogliente per imparare nuove lingue e connetterti con il mondo. 🌍",
+    "tagline": "Letture brevi per imparare a parlare: parole, grammatica cosy e un podcast.",
+    "reference_tools": "Strumenti di riferimento",
+    "cosylanguages": "COSYlanguages"
   },
   "button": {
     "bookNow": "Prenota ora →",
@@ -128,6 +134,26 @@
     "the_podcast": "Il Podcast",
     "back_issues": "Numeri Arretrati",
     "reflections": "Riflessioni"
+  },
+  "index": {
+    "kicker": "COSYmagazine",
+    "hero_title": "Letture brevi per chi vuole parlare davvero.",
+    "hero_lede": "Parole, grammatica cosy, modelli di frasi e un podcast. Scritto da un insegnante, pubblicato mese per mese e letto nella lingua che stai imparando.",
+    "podcast_pill": "🎙️ Podcast",
+    "search_placeholder": "Cerca articoli…",
+    "clear_filters": "Cancella filtri",
+    "empty_msg": "Nessun articolo trovato. Prova un'altra rubrica o cancella i filtri.",
+    "about_title": "A proposito di COSYmagazine",
+    "about_speaking_first_title": "🌱 Parlare prima di tutto",
+    "about_speaking_first_body": "Ogni articolo è pensato su ciò che puoi dire domani: frasi modello, circonlocuzione e pensare nella lingua invece di tradurre.",
+    "about_podcast_title": "🎙️ Podcast e modalità presentazione",
+    "about_podcast_body": "Apri qualsiasi articolo con ?stage=1 per la modalità presentazione 16:9 o ?script=1 per il gobbo / teleprompter.",
+    "about_paper_title": "🗞️ Pensato anche per la carta",
+    "about_paper_body": "Gli articoli sono impaginati per essere stampati in modo pulito, come schede o mini rivista cartacea.",
+    "latest_issue": "Ultima edizione",
+    "read_story": "Leggi l'articolo →",
+    "also_in_issue": "Anche in questa edizione",
+    "all_issues": "Tutte le edizioni"
   },
   "blog": {
     "back_to_hub": "← Torna all'Hub Editoriale",

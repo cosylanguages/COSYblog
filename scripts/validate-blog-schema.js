@@ -48,7 +48,7 @@ const ALLOWED_BLOCK_TYPES = new Set([
 ]);
 
 const ALLOWED_LANGUAGES = new Set([
-  'en', 'fr', 'it', 'ru', 'el', 'es', 'de', 'pt', 'hy', 'ka', 'tt', 'ba', 'br'
+  'en', 'fr', 'it', 'ru', 'el'
 ]);
 
 function validatePostSchema(postObj, sourceName = 'object') {
@@ -275,7 +275,7 @@ function runCLI() {
   });
 
   // Strict i18n key completeness check for blog languages
-  const REQUIRED_BLOG_LANGS = ['en', 'fr', 'it', 'ru', 'el', 'es'];
+  const REQUIRED_BLOG_LANGS = ['en', 'fr', 'it', 'ru', 'el'];
   const REQUIRED_BLOG_KEYS = [
     'blog.back_to_hub',
     'blog.script_mode',

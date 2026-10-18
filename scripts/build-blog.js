@@ -124,8 +124,8 @@ function parseFormattedText(text) {
   }
   let html = escapeHtml(text);
   html = html.replace(/\\\*/g, '&#42;');
-  html = html.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-  html = html.replace(/\*([^*]+)\*/g, '<em>$1</em>');
+  html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
   return html;
 }
 
@@ -512,10 +512,6 @@ async function buildBlog() {
 
     const founderDeckTitleText = tStrict(langDict, 'blog.founder_deck_title', lang);
     const expandDeckText = tStrict(langDict, 'blog.expand_deck', lang);
-    const celtaFocusTitleText = tStrict(langDict, 'blog.celta_focus_title', lang);
-    const celtaFocusBodyText = tStrict(langDict, 'blog.celta_focus_text', lang).replace('{level}', escapeHtml(post.level || 'A0–B2'));
-    const editorialNotesTitleText = tStrict(langDict, 'blog.editorial_notes_title', lang).replace('{author}', authorName);
-    const editorialNotesBodyText = tStrict(langDict, 'blog.editorial_notes_text', lang).replace('{author}', authorName).replace('{issue}', escapeHtml(issueTitle));
     const scriptViewModeText = tStrict(langDict, 'blog.teleprompter_script_view_mode', lang);
     const stageViewModeText = tStrict(langDict, 'blog.stage_view_mode', lang);
     const pageXofYText = tStrict(langDict, 'blog.page_x_of_y', lang).replace('{current}', '1').replace('{total}', '1');
@@ -640,8 +636,6 @@ async function buildBlog() {
                     <span class="colophon-toggle-badge" data-i18n="blog.expand_deck">${escapeHtml(expandDeckText)}</span>
                 </summary>
                 <div class="founder-colophon-content">
-                    <p><strong data-i18n="blog.celta_focus_title">${escapeHtml(celtaFocusTitleText)}</strong> ${celtaFocusBodyText}</p>
-                    <p><strong>${escapeHtml(editorialNotesTitleText)}</strong> ${editorialNotesBodyText}</p>
                     <div class="colophon-actions">
                         <a href="?script=1" class="colophon-btn" data-i18n="blog.teleprompter_script_view_mode">${escapeHtml(scriptViewModeText)}</a>
                         <a href="?stage=1" class="colophon-btn" data-i18n="blog.stage_view_mode">${escapeHtml(stageViewModeText)}</a>
@@ -730,7 +724,7 @@ async function buildBlog() {
       issue_title: p.issue?.title || 'COSY Editorial',
       cefr_level: p.level || 'A0–B2',
       vibe: 'Editorial Vibe',
-      founder_notes: `CELTA-aligned target-language guidance by JY DM for COSYmagazine ${p.issue?.title || 'COSY Editorial'} edition.`,
+      founder_notes: `Target-language guidance by JY DM for COSYmagazine ${p.issue?.title || 'COSY Editorial'} edition.`,
       audio_podcast: Boolean(p.podcast?.audioUrl),
       artDirection: p.artDirection
     })),
@@ -752,7 +746,7 @@ async function buildBlog() {
       issue_title: g.issue_title || 'Get ready for school',
       cefr_level: g.cefr_level || 'A0–A1 / A2',
       vibe: g.vibe || 'Curriculum Vibe',
-      founder_notes: g.founder_notes || 'CELTA-aligned A0–A1 / A2 target-language guidance by JY DM for COSYmagazine Get ready for school edition.',
+      founder_notes: g.founder_notes || 'A0–A1 / A2 target-language guidance by JY DM for COSYmagazine Get ready for school edition.',
       audio_podcast: Boolean(g.audio_podcast !== false)
     }))
   ];
