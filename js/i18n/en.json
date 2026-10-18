@@ -12,7 +12,10 @@
     "courses": "Courses",
     "calculator": "Calculator",
     "blog": "Blog",
-    "placement_quiz": "Placement Quiz"
+    "placement_quiz": "Placement Quiz",
+    "tools": "Tools",
+    "magazine": "Magazine",
+    "podcast": "Podcast"
   },
   "lang_locked_notice": "🔒 Device language locked! Interface language is fixed.",
   "lang_unlocked_notice": "🔓 Device language unlocked! You can now switch languages.",
@@ -23,7 +26,10 @@
     "project": "Project",
     "privacy": "Privacy & Safety 🛡️",
     "allRightsReserved": "© 2026 COSYlanguages — All rights reserved",
-    "description": "Your friendly corner to master new languages and connect with the world. 🌍"
+    "description": "Your friendly corner to master new languages and connect with the world. 🌍",
+    "tagline": "Short, speaking-first reads for people learning a language: words, grammar made cosy, and a podcast.",
+    "reference_tools": "Reference tools",
+    "cosylanguages": "COSYlanguages"
   },
   "button": {
     "bookNow": "Book Now →",
@@ -133,6 +139,26 @@
     "the_podcast": "The Podcast",
     "back_issues": "Back Issues",
     "reflections": "Reflections"
+  },
+  "index": {
+    "kicker": "COSYmagazine",
+    "hero_title": "Short reads for people who want to speak.",
+    "hero_lede": "Words, grammar made cosy, sentence frames and a podcast. Written by a teacher, published month by month, and read in the language you are learning.",
+    "podcast_pill": "🎙️ Podcast",
+    "search_placeholder": "Search articles…",
+    "clear_filters": "Clear filters",
+    "empty_msg": "No articles match. Try another desk or clear the filters.",
+    "about_title": "About COSYmagazine",
+    "about_speaking_first_title": "🌱 Speaking first",
+    "about_speaking_first_body": "Every piece is built around what you can say tomorrow: sentence frames, circumlocution, and thinking in the language rather than translating.",
+    "about_podcast_title": "🎙️ Podcast and stage mode",
+    "about_podcast_body": "Open any article with ?stage=1 for a 16:9 presentation view or ?script=1 for a teleprompter script.",
+    "about_paper_title": "🗞️ Made for paper too",
+    "about_paper_body": "Articles are laid out to print cleanly, as handouts or a small paper magazine.",
+    "latest_issue": "Latest issue",
+    "read_story": "Read the story →",
+    "also_in_issue": "Also in this issue",
+    "all_issues": "All issues"
   },
   "blog": {
     "back_to_hub": "← Back to Blog & Editorial Hub",

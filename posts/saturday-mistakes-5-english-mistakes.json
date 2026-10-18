@@ -1,0 +1,296 @@
+{
+  "id": "post-saturday-mistakes-5-english-mistakes",
+  "slug": "saturday-mistakes-5-english-mistakes",
+  "language": "en",
+  "desk": "Say It",
+  "format": "list",
+  "level": "B1–B2",
+  "issue": {
+    "number": "Vol. 2026.10",
+    "title": "Saturday Mistakes Edition"
+  },
+  "date": "2026-10-24",
+  "title": "Saturday Mistakes: 5 Common English Mistakes & How to Fix Them",
+  "kicker": "SATURDAY MISTAKES",
+  "dek": "A practical breakdown of 5 frequent English speaking mistakes, natural conversational upgrades, and podcast guidance (Segment: 00:00 – 22:18).",
+  "tags": [
+    "SaturdayMistakes",
+    "EnglishGrammar",
+    "SpeakingFluency",
+    "PodcastEpisode"
+  ],
+  "readingTime": 6,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": "audio/saturday-mistakes-5-english-mistakes.mp3",
+    "externalUrl": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
+    "appleUrl": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
+    "timestamp": "00:00 – 22:18"
+  },
+  "artDirection": {
+    "palette": [
+      "#2563eb",
+      "#faf7f2",
+      "#1e293b",
+      "#d97706"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "Commissioner",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "stain-ring",
+    "seed": "saturday-mistakes-en",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Welcome to our new series **Saturday Mistakes**! Making mistakes is an essential part of becoming a fluent, confident speaker. In this edition, we break down **5 common English mistakes** that intermediate speakers make, alongside instant conversational upgrades.",
+      "say": "Welcome to our new series Saturday Mistakes! Making mistakes is an essential part of becoming a fluent, confident speaker. In this edition, we break down 5 common English mistakes that intermediate speakers make, alongside instant conversational upgrades.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-0"
+      }
+    },
+    {
+      "type": "culture-bite",
+      "title": "🎙️ Listen to the Podcast Episode",
+      "content": "This post corresponds to the **English segment (00:00 – 22:18)** of our Saturday Mistakes episode. Listen along on Spotify or Apple Podcasts!",
+      "say": "This post corresponds to the English segment from 00:00 to 22:18 of our Saturday Mistakes episode. Listen along on Spotify or Apple Podcasts!",
+      "beat": {
+        "duration": 5000,
+        "camera": "focus",
+        "target": "#block-1"
+      }
+    },
+    {
+      "type": "links",
+      "destination": "cosydata",
+      "url": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
+      "label": "🎧 Listen on Spotify (English Segment: 00:00 – 22:18)",
+      "say": "Listen on Spotify: English Segment from 00:00 to 22:18.",
+      "beat": {
+        "duration": 4000,
+        "camera": "focus",
+        "target": "#block-2"
+      }
+    },
+    {
+      "type": "links",
+      "destination": "cosydata",
+      "url": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
+      "label": "🍏 Listen on Apple Podcasts (Saturday Mistakes Episode 1)",
+      "say": "Listen on Apple Podcasts: Saturday Mistakes Episode 1.",
+      "beat": {
+        "duration": 4000,
+        "camera": "focus",
+        "target": "#block-3"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mistake 1: \"I am agree with you\"",
+      "say": "Mistake 1: I am agree with you",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-4"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, *agree* is a verb, not an adjective. You do not need the auxiliary verb *am*.",
+      "say": "In English, agree is a verb, not an adjective. You do not need the auxiliary verb am.",
+      "beat": {
+        "duration": 5000,
+        "camera": "pan-zoom",
+        "target": "#block-5"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Common Mistake:** *I am agree with your opinion.*",
+        "✅ **Correct:** *I agree with your opinion.*",
+        "🚀 **Natural Upgrades:** *I couldn't agree more!* • *I'm totally with you on that.*"
+      ],
+      "say": "Common Mistake: I am agree with your opinion. Correct: I agree with your opinion. Natural Upgrades: I couldn't agree more! I'm totally with you on that.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-6"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mistake 2: \"I have 25 years old\"",
+      "say": "Mistake 2: I have 25 years old",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-7"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Many speakers translate literally from languages like French, Spanish, or Italian (*avoir/tener/avere*). In English, we use the verb *to be* for age.",
+      "say": "Many speakers translate literally from languages like French, Spanish, or Italian. In English, we use the verb to be for age.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-8"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Common Mistake:** *I have 25 years old.*",
+        "✅ **Correct:** *I am 25 years old.* or *I'm 25.*",
+        "🚀 **Natural Upgrades:** *I'm in my mid-twenties.*"
+      ],
+      "say": "Common Mistake: I have 25 years old. Correct: I am 25 years old or I'm 25. Natural Upgrade: I'm in my mid-twenties.",
+      "beat": {
+        "duration": 6000,
+        "camera": "focus",
+        "target": "#block-9"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mistake 3: \"I am waiting you since 2 hours\"",
+      "say": "Mistake 3: I am waiting you since 2 hours",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-10"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Two big errors here: *wait* requires the preposition *for*, and durations of time use *for* rather than *since*.",
+      "say": "Two big errors here: wait requires the preposition for, and durations of time use for rather than since.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-11"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Common Mistake:** *I am waiting you since two hours.*",
+        "✅ **Correct:** *I've been waiting for you for two hours.*",
+        "🚀 **Natural Upgrades:** *I've been waiting for ages!*"
+      ],
+      "say": "Common Mistake: I am waiting you since two hours. Correct: I've been waiting for you for two hours. Natural Upgrade: I've been waiting for ages!",
+      "beat": {
+        "duration": 6000,
+        "camera": "focus",
+        "target": "#block-12"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mistake 4: \"Explain me this rule\"",
+      "say": "Mistake 4: Explain me this rule",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-13"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "The verb *explain* cannot take a direct personal object without *to*. You explain something **to** someone.",
+      "say": "The verb explain cannot take a direct personal object without to. You explain something to someone.",
+      "beat": {
+        "duration": 5000,
+        "camera": "pan-zoom",
+        "target": "#block-14"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Common Mistake:** *Can you explain me this grammar rule?*",
+        "✅ **Correct:** *Can you explain this grammar rule to me?*",
+        "🚀 **Natural Upgrades:** *Could you walk me through this rule?*"
+      ],
+      "say": "Common Mistake: Can you explain me this grammar rule? Correct: Can you explain this grammar rule to me? Natural Upgrade: Could you walk me through this rule?",
+      "beat": {
+        "duration": 6000,
+        "camera": "focus",
+        "target": "#block-15"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mistake 5: \"I am boring in this class\"",
+      "say": "Mistake 5: I am boring in this class",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-16"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Confusing *-ed* and *-ing* adjectives changes your entire meaning! *-ed* describes how you feel, while *-ing* describes the cause.",
+      "say": "Confusing -ed and -ing adjectives changes your entire meaning! -ed describes how you feel, while -ing describes the cause.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-17"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Common Mistake:** *I am boring during the meeting.* (This means you make others bored!)",
+        "✅ **Correct:** *I am bored during the meeting.*",
+        "🚀 **Natural Upgrades:** *I'm finding it hard to stay engaged.*"
+      ],
+      "say": "Common Mistake: I am boring during the meeting. Correct: I am bored during the meeting. Natural Upgrade: I'm finding it hard to stay engaged.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-18"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Summary & Next Steps",
+      "say": "Summary and Next Steps",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-19"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, recognizing these small patterns is the secret to moving smoothly from B1 to B2/C1 fluency! Make sure to check out the second half of our episode for the French mistakes segment (22:19 to end).",
+      "say": "Remember, recognizing these small patterns is the secret to moving smoothly from B1 to B2 and C1 fluency! Make sure to check out the second half of our episode for the French mistakes segment from 22:19 to end.",
+      "beat": {
+        "duration": 7000,
+        "camera": "pan-zoom",
+        "target": "#block-20"
+      }
+    }
+  ],
+  "draft": false
+}

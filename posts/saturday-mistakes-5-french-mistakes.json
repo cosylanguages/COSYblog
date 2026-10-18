@@ -1,0 +1,296 @@
+{
+  "id": "post-saturday-mistakes-5-french-mistakes",
+  "slug": "saturday-mistakes-5-french-mistakes",
+  "language": "fr",
+  "desk": "Say It",
+  "format": "list",
+  "level": "B1–B2",
+  "issue": {
+    "number": "Vol. 2026.10",
+    "title": "Édition Erreurs du Samedi"
+  },
+  "date": "2026-10-24",
+  "title": "Erreurs du Samedi : 5 erreurs courantes en français et comment les corriger",
+  "kicker": "ERREURS DU SAMEDI",
+  "dek": "Analyse pratique de 5 erreurs fréquentes en français parlé, reformulations naturelles et conseils podcast (Segment : 22:19 – fin).",
+  "tags": [
+    "SaturdayMistakes",
+    "GrammaireFrançaise",
+    "FluenceOrale",
+    "ÉpisodePodcast"
+  ],
+  "readingTime": 6,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": "audio/saturday-mistakes-5-french-mistakes.mp3",
+    "externalUrl": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
+    "appleUrl": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
+    "timestamp": "22:19 – fin"
+  },
+  "artDirection": {
+    "palette": [
+      "#dc2626",
+      "#faf7f2",
+      "#1e293b",
+      "#0284c7"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "Commissioner",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "tea-stain",
+    "seed": "saturday-mistakes-fr",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bienvenue dans notre série **Erreurs du Samedi** ! Faire des erreurs est indispensable pour progresser et gagner en confiance à l'oral. Dans cette édition, nous analysons **5 erreurs très fréquentes en français** chez les apprenants intermédiaires, accompagnées d'expressions naturelles pour les remplacer.",
+      "say": "Bienvenue dans notre série Erreurs du Samedi ! Faire des erreurs est indispensable pour progresser et gagner en confiance à l'oral. Dans cette édition, nous analysons 5 erreurs très fréquentes en français chez les apprenants intermédiaires, accompagnées d'expressions naturelles pour les remplacer.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-0"
+      }
+    },
+    {
+      "type": "culture-bite",
+      "title": "🎙️ Écoutez l'Épisode du Podcast",
+      "content": "Cet article correspond à la **partie consacrée au français (22:19 jusqu'à la fin)** de notre épisode Erreurs du Samedi. Écoutez sur Spotify ou Apple Podcasts !",
+      "say": "Cet article correspond à la partie consacrée au français de 22:19 jusqu'à la fin de notre épisode Erreurs du Samedi. Écoutez sur Spotify ou Apple Podcasts !",
+      "beat": {
+        "duration": 5000,
+        "camera": "focus",
+        "target": "#block-1"
+      }
+    },
+    {
+      "type": "links",
+      "destination": "cosydata",
+      "url": "https://open.spotify.com/episode/6jhPLEMHeFsvhb4z7Tcfbp?si=L7SGzODgTiuvZ_icOpH-0g",
+      "label": "🎧 Écouter sur Spotify (Segment Français : 22:19 – fin)",
+      "say": "Écouter sur Spotify: Segment Français de 22:19 jusqu'à la fin.",
+      "beat": {
+        "duration": 4000,
+        "camera": "focus",
+        "target": "#block-2"
+      }
+    },
+    {
+      "type": "links",
+      "destination": "cosydata",
+      "url": "https://podcasts.apple.com/us/podcast/saturday-mistakes-5-english-5-french-mistakes-1/id1759372918?i=1000796814504",
+      "label": "🍏 Écouter sur Apple Podcasts (Saturday Mistakes Épisode 1)",
+      "say": "Écouter sur Apple Podcasts: Saturday Mistakes Épisode 1.",
+      "beat": {
+        "duration": 4000,
+        "camera": "focus",
+        "target": "#block-3"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreur 1 : « Je suis visiter Paris »",
+      "say": "Erreur 1 : Je suis visiter Paris",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-4"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En français, on n'associe pas le verbe *être* directement à un infinitif pour exprimer une action en cours.",
+      "say": "En français, on n'associe pas le verbe être directement à un infinitif pour exprimer une action en cours.",
+      "beat": {
+        "duration": 5000,
+        "camera": "pan-zoom",
+        "target": "#block-5"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Erreur fréquente :** *Je suis visiter Paris ce week-end.*",
+        "✅ **Correction :** *Je visite Paris ce week-end.* ou *Je suis en train de visiter Paris.*",
+        "🚀 **Reformulations naturelles :** *Je fais un tour à Paris...* • *Je découvre Paris...*"
+      ],
+      "say": "Erreur fréquente: Je suis visiter Paris ce week-end. Correction: Je visite Paris ce week-end ou Je suis en train de visiter Paris. Reformulations naturelles: Je fais un tour à Paris...",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-6"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreur 2 : « Je suis d'accord avec ça » vs « Ça me va »",
+      "say": "Erreur 2 : Je suis d'accord avec ça versus Ça me va",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-7"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour accepter une proposition ou valider un rendez-vous, dire *« Je suis d'accord »* peut paraître trop formel ou inapproprié. Les francophones utilisent d'autres tournures plus naturelles.",
+      "say": "Pour accepter une proposition ou valider un rendez-vous, dire Je suis d'accord peut paraître trop formel ou inapproprié. Les francophones utilisent d'autres tournures plus naturelles.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-8"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Moins naturel :** *On se voit à 15h ? — Oui, je suis d'accord.*",
+        "✅ **Plus naturel :** *On se voit à 15h ? — Oui, ça me va !* ou *Parfait !*",
+        "🚀 **Reformulations naturelles :** *C'est marche pour moi !* • *C'est noté !*"
+      ],
+      "say": "Moins naturel: On se voit à 15h? Oui, je suis d'accord. Plus naturel: On se voit à 15h? Oui, ça me va! ou Parfait! Reformulations naturelles: Ça marche pour moi! C'est noté!",
+      "beat": {
+        "duration": 6000,
+        "camera": "focus",
+        "target": "#block-9"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreur 3 : « J'attends pour le bus »",
+      "say": "Erreur 3 : J'attends pour le bus",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-10"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe *attendre* est un verbe transitif direct en français. Il ne prend pas la préposition *pour* (contrairement à l'anglais *wait for*).",
+      "say": "Le verbe attendre est un verbe transitif direct en français. Il ne prend pas la préposition pour.",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-11"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Erreur fréquente :** *J'attends pour le bus depuis 10 minutes.*",
+        "✅ **Correction :** *J'attends le bus depuis 10 minutes.*",
+        "🚀 **Reformulations naturelles :** *Le bus se fait attendre...*"
+      ],
+      "say": "Erreur fréquente: J'attends pour le bus depuis 10 minutes. Correction: J'attends le bus depuis 10 minutes. Reformulation naturelle: Le bus se fait attendre...",
+      "beat": {
+        "duration": 6000,
+        "camera": "focus",
+        "target": "#block-12"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreur 4 : « Je suis excité » (Faux ami !)",
+      "say": "Erreur 4 : Je suis excité (Faux ami !)",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-13"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Attention au piège classique de traduction depuis l'anglais *\"I'm excited\"* ! En français, *excité* a souvent une connotation physique ou sexuelle.",
+      "say": "Attention au piège classique de traduction depuis l'anglais I'm excited! En français, excité a souvent une connotation inappropriée.",
+      "beat": {
+        "duration": 5000,
+        "camera": "pan-zoom",
+        "target": "#block-14"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **À éviter :** *Je suis tellement excité pour ce voyage !*",
+        "✅ **Correction :** *J'ai trop hâte de partir en voyage !*",
+        "🚀 **Reformulations naturelles :** *Je suis ravi !* • *C'est super enthousiasmant !*"
+      ],
+      "say": "À éviter: Je suis tellement excité pour ce voyage! Correction: J'ai trop hâte de partir en voyage! Reformulations naturelles: Je suis ravi! C'est super enthousiasmant!",
+      "beat": {
+        "duration": 6000,
+        "camera": "focus",
+        "target": "#block-15"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreur 5 : « Visiter mes amis »",
+      "say": "Erreur 5 : Visiter mes amis",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-16"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "En français, on *visite* un monument, une ville ou un musée, mais on **rend visite à** des personnes !",
+      "say": "En français, on visite un monument, une ville ou un musée, mais on rend visite à des personnes!",
+      "beat": {
+        "duration": 6000,
+        "camera": "pan-zoom",
+        "target": "#block-17"
+      }
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❌ **Erreur fréquente :** *Ce week-end, je vais visiter mes amis.*",
+        "✅ **Correction :** *Ce week-end, je vais rendre visite à mes amis.*",
+        "🚀 **Reformulations naturelles :** *Je vais voir mes amis.* • *Je passe voir mes amis.*"
+      ],
+      "say": "Erreur fréquente: Ce week-end, je vais visiter mes amis. Correction: Ce week-end, je vais rendre visite à mes amis. Reformulation naturelle: Je vais voir mes amis.",
+      "beat": {
+        "duration": 7000,
+        "camera": "focus",
+        "target": "#block-18"
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Résumé et suite",
+      "say": "Résumé et suite",
+      "beat": {
+        "duration": 3000,
+        "camera": "focus",
+        "target": "#block-19"
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Bravo ! En éliminant ces 5 réflexes de traduction littérale, votre français parlé sera immédiatement plus naturel et fluide. Réécoutez la première partie du podcast (00:00 – 22:18) pour la section dédiée à l'anglais !",
+      "say": "Bravo ! En éliminant ces 5 réflexes de traduction littérale, votre français parlé sera immédiatement plus naturel et fluide. Réécoutez la première partie du podcast de 00:00 à 22:18 pour la section dédiée à l'anglais !",
+      "beat": {
+        "duration": 7000,
+        "camera": "pan-zoom",
+        "target": "#block-20"
+      }
+    }
+  ],
+  "draft": false
+}

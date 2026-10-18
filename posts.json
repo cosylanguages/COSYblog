@@ -1,5 +1,91 @@
 [
   {
+    "slug": "saturday-mistakes-5-english-mistakes",
+    "title": "Saturday Mistakes: 5 Common English Mistakes & How to Fix Them",
+    "date": "2026-10-24",
+    "updated": null,
+    "category": "Say It",
+    "summary": "A practical breakdown of 5 frequent English speaking mistakes, natural conversational upgrades, and podcast guidance (Segment: 00:00 – 22:18).",
+    "author": "JY DM",
+    "reading_time": 6,
+    "cover_image": "",
+    "tags": [
+      "SaturdayMistakes",
+      "EnglishGrammar",
+      "SpeakingFluency",
+      "PodcastEpisode"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "saturday-mistakes-5-english-mistakes.html",
+    "issue_volume": "Vol. 2026.10",
+    "issue_title": "Saturday Mistakes Edition",
+    "cefr_level": "B1–B2",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine Saturday Mistakes Edition edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#1a365d",
+        "#3182ce",
+        "#dd6b20",
+        "#ebf8ff"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "window-light",
+      "seed": "saturday-mistakes-5-english-mistakes",
+      "coverOverride": null
+    }
+  },
+  {
+    "slug": "saturday-mistakes-5-french-mistakes",
+    "title": "Erreurs du Samedi : 5 erreurs courantes en français et comment les corriger",
+    "date": "2026-10-24",
+    "updated": null,
+    "category": "Say It",
+    "summary": "Analyse pratique de 5 erreurs fréquentes en français parlé, reformulations naturelles et conseils podcast (Segment : 22:19 – fin).",
+    "author": "JY DM",
+    "reading_time": 6,
+    "cover_image": "",
+    "tags": [
+      "SaturdayMistakes",
+      "GrammaireFrançaise",
+      "FluenceOrale",
+      "ÉpisodePodcast"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "saturday-mistakes-5-french-mistakes.html",
+    "issue_volume": "Vol. 2026.10",
+    "issue_title": "Édition Erreurs du Samedi",
+    "cefr_level": "B1–B2",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine Édition Erreurs du Samedi edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#2d3748",
+        "#319795",
+        "#d69e2e",
+        "#f7fafc"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "riso-print",
+      "seed": "saturday-mistakes-5-french-mistakes",
+      "coverOverride": null
+    }
+  },
+  {
     "slug": "why-do-we-freeze-when-conversations-go-off-script-ru",
     "title": "Почему мы ступоримся, когда разговор отклоняется от сценария?",
     "date": "2026-10-19",
