@@ -1,0 +1,228 @@
+{
+  "id": "post-top-10-verb-synonyms-intermediate-plateau-it",
+  "slug": "top-10-verb-synonyms-intermediate-plateau-it",
+  "language": "it",
+  "desk": "Words",
+  "format": "list",
+  "level": "B1–B2",
+  "issue": {
+    "number": "Vol. 2026.09",
+    "title": "Me vs Intermediate Plateau"
+  },
+  "date": "2026-09-11",
+  "title": "I 10 verbi più abusati e i loro sinonimi precisi per il livello intermedio (B1–B2)",
+  "kicker": "WORDS",
+  "dek": "Supera l'altopiano intermedio B1–B2 sostituendo verbi generici come 'fare', 'dire', 'pensare' e 'avere' con sinonimi precisi ed eleganti.",
+  "tags": [
+    "AltopianoIntermedio",
+    "Vocabolario",
+    "B1-B2",
+    "Verbi",
+    "Italiano"
+  ],
+  "readingTime": 3,
+  "podcast": {
+    "episode": 4,
+    "audioUrl": "audio/top-10-verb-synonyms-intermediate-plateau-it.mp3"
+  },
+  "artDirection": {
+    "palette": [
+      "#0d9488",
+      "#faf7f2",
+      "#1e293b",
+      "#d69e2e"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "tea-stain",
+    "seed": "top-10-verb-synonyms-intermediate-plateau-it",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Uno dei segnali più evidenti che uno studente ha raggiunto l'**altopiano intermedio (livello B1–B2)** è la tendenza ad affidarsi a un piccolo gruppo di verbi \"sicuri\" per esprimere quasi ogni concetto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Questi verbi fondamentali non sono sbagliati: costituiscono l'ossatura della lingua. Tuttavia, se ripetuti in ogni frase, rendono il discorso banale e generico. Ampliando questo vocabolario base con alternative precise, guadagni immediatamente in fluidità, chiarezza ed eleganza."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "I 10 verbi più usati (E le loro alternative precise)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Fare / Make, Do"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**creare / produrre**: *L'azienda produce componenti rinnovabili.*",
+        "**realizzare / compiere**: *Ha realizzato tutti gli obiettivi prefissati.*",
+        "**sviluppare / stabilire**: *Abbiamo stabilito una nuova intesa di lavoro.*",
+        "**svolgere / effettuare**: *Il team ha effettuato un controllo approfondito.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2. Dire / Say, Tell"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**menzionare / precisare**: *Ha menzionato la scadenza imminente.*",
+        "**spiegare / dichiarare**: *Il portavoce ha dichiarato i fatti con chiarezza.*",
+        "**afermare / sostenere**: *I ricercatori sostengono che l'intervento precoce funzioni.*",
+        "**sottolineare / far notare**: *Ha fatto notare un errore fondamentale.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Pensare / Think"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**ritenere / credere**: *Ritengo sia la decisione migliore.*",
+        "**presumere / supporre**: *Presumiamo che la spedizione arrivi in orario.*",
+        "**considerare / riflettere su**: *Consideriamo tutte le opzioni disponibili.*",
+        "**giungere alla conclusione**: *Siamo giunti alla conclusione che serva un ulteriore studio.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Avere / Have"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**possedere / detenere**: *L'azienda possiede un importante brevetto.*",
+        "**contenere / racchiudere**: *Il rapporto racchiude informazioni cruciali.*",
+        "**vivere / sperimentare**: *Abbiamo vissuto grandi progressi quest'anno.*",
+        "**mantenere / conservare**: *Mantiene una disciplina rigorosa.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Andare / Go"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**viaggiare / spostarsi**: *Hanno viaggiato in tutta Europa l'estate scorsa.*",
+        "**recarsi / dirigersi**: *Si prega di recarsi al gate 4.*",
+        "**partire / uscire**: *Il treno parte alle 08:30.*",
+        "**presenziare a / frequentare**: *Ha presenziato alla conferenza annuale.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Sapere & Conoscere / Know"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**comprendere / riconoscere**: *Ha riconosciuto l'importanza dell'evento.*",
+        "**rendersi conto di / ricordare**: *Mi sono reso conto della risposta durante la presentazione.*",
+        "**padroneggiare**: *Padroneggia la tecnica dopo mesi di pratica.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Dare / Give"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**offrire / fornire**: *Offriamo un supporto completo.*",
+        "**consegnare / trasmettere**: *Ha consegnato il documento al direttore.*",
+        "**concedere / assegnare**: *Il consiglio ha concesso il budget.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. Guardare / Look"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**osservare / esaminare**: *Gli scienziati hanno osservato il campione da vicino.*",
+        "**ispezionare / notare**: *L'ispettore ha esaminato l'impianto.*",
+        "**sembrare / apparire**: *I risultati preliminari sembrano promettenti.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Miglioramenti professionali: \"Invece di... Scegli...\""
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Invece di...",
+        "Scegli...",
+        "Esempio di utilizzo"
+      ],
+      "rows": [
+        [
+          "**avere**",
+          "*disporre di, beneficiare di*",
+          "\"Disponiamo di un forte sostegno.\""
+        ],
+        [
+          "**mostrare**",
+          "*dimostrare, illustrare, rivelare*",
+          "\"I dati **illustrano** una crescita costante.\""
+        ],
+        [
+          "**aiutare**",
+          "*assistere, supportare, facilitare*",
+          "\"Questo strumento **facilita** il lavoro.\""
+        ],
+        [
+          "**aggiustare**",
+          "*risolvere, porre rimedio a*",
+          "\"Il team ha **risolto** il problema tecnico.\""
+        ],
+        [
+          "**cambiare**",
+          "*modificare, trasformare, adeguare*",
+          "\"Abbiamo **adeguato** il calendario.\""
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Conclusione: Evoluzione, non eliminazione"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sostituire i verbi generici non significa eliminare verbi chiave come *fare* o *dire*. L'obiettivo è cogliere il momento in cui un verbo più preciso rende il tuo pensiero limpido ed elegante."
+    }
+  ],
+  "translationOf": "top-10-verb-synonyms-intermediate-plateau",
+  "draft": false
+}

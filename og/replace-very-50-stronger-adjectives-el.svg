@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" class="cosy-cover-art" data-motif="tea-stain" data-seed="replace-very-50-stronger-adjectives-el" data-lang="el">
+      <defs>
+        <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+          <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#3C281E" flood-opacity="0.10" />
+        </filter>
+        <filter id="paper-grain" x="0%" y="0%" width="100%" height="100%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" result="noise" />
+          <feColorMatrix type="saturate" values="0" />
+          <feComponentTransfer>
+            <feFuncA type="linear" slope="0.05" />
+          </feComponentTransfer>
+          <feBlend mode="multiply" in="SourceGraphic" result="blend" />
+        </filter>
+      </defs>
+      <style>
+        @media (prefers-reduced-motion: reduce) {
+          .cosy-cover-art * { animation: none !important; transition: none !important; }
+        }
+      </style>
+      
+    <rect width="1200" height="630" fill="#d69e2e" />
+    
+      <ellipse cx="649" cy="150" rx="202" ry="132" fill="#faf7f2" opacity="0.15" transform="rotate(207 649 150)" style="filter: blur(12px);" />
+      <ellipse cx="659" cy="145" rx="121.19999999999999" ry="79.2" fill="#236583" opacity="0.12" transform="rotate(207 649 150)" style="filter: blur(8px);" />
+    
+      <ellipse cx="968" cy="615" rx="188" ry="72" fill="#faf7f2" opacity="0.15" transform="rotate(294 968 615)" style="filter: blur(12px);" />
+      <ellipse cx="978" cy="610" rx="112.8" ry="43.199999999999996" fill="#236583" opacity="0.12" transform="rotate(294 968 615)" style="filter: blur(8px);" />
+    
+      <ellipse cx="1081" cy="79" rx="108" ry="69" fill="#faf7f2" opacity="0.15" transform="rotate(177 1081 79)" style="filter: blur(12px);" />
+      <ellipse cx="1091" cy="74" rx="64.8" ry="41.4" fill="#236583" opacity="0.12" transform="rotate(177 1081 79)" style="filter: blur(8px);" />
+    
+      <ellipse cx="319" cy="81" rx="202" ry="123" fill="#faf7f2" opacity="0.15" transform="rotate(188 319 81)" style="filter: blur(12px);" />
+      <ellipse cx="329" cy="76" rx="121.19999999999999" ry="73.8" fill="#236583" opacity="0.12" transform="rotate(188 319 81)" style="filter: blur(8px);" />
+    
+      <ellipse cx="954" cy="622" rx="156" ry="122" fill="#faf7f2" opacity="0.15" transform="rotate(316 954 622)" style="filter: blur(12px);" />
+      <ellipse cx="964" cy="617" rx="93.6" ry="73.2" fill="#236583" opacity="0.12" transform="rotate(316 954 622)" style="filter: blur(8px);" />
+    
+      <ellipse cx="379" cy="284" rx="197" ry="73" fill="#faf7f2" opacity="0.15" transform="rotate(227 379 284)" style="filter: blur(12px);" />
+      <ellipse cx="389" cy="279" rx="118.19999999999999" ry="43.8" fill="#236583" opacity="0.12" transform="rotate(227 379 284)" style="filter: blur(8px);" />
+    
+  
+      
+      <g transform="rotate(-4 693.5 398)">
+        <rect x="479" y="227" width="429" height="342" rx="6" fill="#d69e2e" opacity="0.3" stroke="#236583" stroke-width="1" filter="url(#soft-shadow)" />
+      </g>
+    
+      <g transform="rotate(7 628.5 273)">
+        <rect x="432" y="105" width="393" height="336" rx="6" fill="#236583" opacity="0.3" stroke="#236583" stroke-width="1" filter="url(#soft-shadow)" />
+      </g>
+    
+      <g transform="rotate(-10 582 296.5)">
+        <rect x="417" y="173" width="330" height="247" rx="6" fill="#faf7f2" opacity="0.3" stroke="#236583" stroke-width="1" filter="url(#soft-shadow)" />
+      </g>
+    
+      
+    <g class="cover-torn-paper" filter="url(#soft-shadow)">
+      <polygon points="976,0 1200,0 1200,283.5 1185,264.59999999999997 1165,289.8 1140,239.4 1110,258.3 1080,220.5 1050,245.70000000000002 1020,201.6 996,157.5 976,0" fill="#FCF9F2" opacity="0.9" stroke="#236583" stroke-width="0.8" stroke-dasharray="3 2" />
+    </g>
+  
+      
+    <g transform="rotate(-7 571 43)" filter="url(#soft-shadow)">
+      <rect x="511" y="31" width="120" height="24" rx="2" fill="#faf7f2" opacity="0.45" />
+      <line x1="511" y1="31" x2="511" y2="55" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
+      <line x1="631" y1="31" x2="631" y2="55" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
+    </g>
+  
+      
+    <g class="cover-tiny-doodles" stroke="#236583" stroke-width="1.5" fill="none" opacity="0.7">
+      <!-- Four-pointed sparkle doodle -->
+      <path d="M 1042 58 Q 1042 70 1054 70 Q 1042 70 1042 82 Q 1042 70 1030 70 Q 1042 70 1042 58 Z" fill="#faf7f2" opacity="0.3" />
+      <path d="M 1087 100 Q 1087 108 1095 108 Q 1087 108 1087 116 Q 1087 108 1079 108 Q 1087 108 1087 100 Z" stroke="#faf7f2" stroke-width="1" />
+      <!-- Botanical sprig doodle -->
+      <path d="M 53 107 C 63 92, 48 72, 68 57" />
+      <circle cx="57" cy="92" r="3" fill="#236583" opacity="0.5" />
+      <circle cx="63" cy="75" r="3" fill="#faf7f2" opacity="0.5" />
+    </g>
+  
+      
+    <g class="cover-sketchy-underline">
+      <path d="M 62 574 Q 193 574 324 572" stroke="#faf7f2" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.75" />
+      <path d="M 72 577 Q 193 577 314 576" stroke="#236583" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.5" />
+    </g>
+  
+      
+    <g class="cover-masthead-label" filter="url(#soft-shadow)">
+      <rect x="20" y="20" width="220" height="30" rx="4" fill="#FCF9F2" opacity="0.95" stroke="#faf7f2" stroke-width="1.2" />
+      <text x="34" y="40" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="11" font-weight="bold" letter-spacing="1.4">COSYMAGAZINE • WORDS</text>
+    </g>
+  
+      
+      <g class="cover-text-overlay" filter="url(#soft-shadow)">
+        <!-- Warm paper card overlay -->
+        <rect class="cover-overlay-box" x="24" y="436" width="1152" height="170" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#236583" stroke-width="1.2" />
+        <text x="54" y="474" fill="#236583" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">ΛΕΞΕΙΣ • Vol. 2026.09</text>
+        <text x="54" y="510" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Σταματήστε να λέτε 'Πολύ'! 50</text>
+<text x="54" y="542" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">ισχυρά επίθετα για να</text>
+<text x="54" y="574" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">εμπλουτίσετε το λεξιλόγιό σας</text>
+      </g>
+    
+      <rect width="1200" height="630" filter="url(#paper-grain)" opacity="0.5" pointer-events="none" />
+    </svg>

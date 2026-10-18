@@ -1,0 +1,259 @@
+{
+  "id": "post-replace-50-overused-phrases-fr",
+  "slug": "replace-50-overused-phrases-fr",
+  "language": "fr",
+  "desk": "Words",
+  "format": "list",
+  "level": "B1–B2",
+  "issue": {
+    "number": "Vol. 2026.09",
+    "title": "Me vs Intermediate Plateau"
+  },
+  "date": "2026-09-13",
+  "title": "Arrêtez de dire ces 50 expressions répétitives ! Alternatives naturelles pour le niveau intermédiaire",
+  "kicker": "WORDS",
+  "dek": "Enrichissez votre expression orale en remplaçant les tics de langage B1 par 50 expressions naturelles avec leurs opposés directs.",
+  "tags": [
+    "Expressions",
+    "PlateauIntermédiaire",
+    "Fluidité",
+    "B1-B2",
+    "Français"
+  ],
+  "readingTime": 4,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": "audio/replace-50-overused-phrases-fr.mp3"
+  },
+  "artDirection": {
+    "palette": [
+      "#0d9488",
+      "#faf7f2",
+      "#1e293b",
+      "#d69e2e"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "tea-stain",
+    "seed": "replace-50-overused-phrases-fr",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Lorsque vous atteignez le **plateau intermédiaire (B1–B2)**, vous pouvez vous exprimer avec aisance et participer à des conversations variées. Cependant, presque tous les professeurs observent le même phénomène : les apprenants réutilisent constamment les mêmes expressions \"de sécurité\" : *\"Je pense que...\"*, *\"Je suis d'accord\"*, *\"Ça dépend\"*, ou *\"Je ne sais pas\"*."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enrichir ces phrases du quotidien ne nécessite pas d'apprendre des structures grammaticales complexes. En adoptant des expressions plus naturelles et en maîtrisant **les opposés directs**, votre français devient immédiatement plus riche, vivant et authentique."
+    },
+    {
+      "type": "paragraph",
+      "text": "Voici 50 expressions fréquentes classées par catégories conversationnelles."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Exprimer son accord ou son désaccord (Opposés directs)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Je suis d'accord ↔ 2. Je ne suis pas d'accord"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé (Accord) :** *Je suis d'accord.*\n- **Alternatives naturelles :** *Tout à fait.* • *Absolument.* • *Je partage entièrement votre avis.* • *C'est exact.* • *Vous marquez un point.*",
+        "**Surutilisé (Désaccord) :** *Je ne suis pas d'accord.*\n- **Alternatives naturelles :** *Je ne suis pas si sûr(e).* • *Je vois les choses différemment.* • *Je ne partage pas tout à fait cet avis.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Ça dépend"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *Ça dépend.*",
+        "**Alternatives naturelles :** *Ça varie.* • *Cela dépend vraiment des circonstances.* • *Ce n'est pas aussi simple.* • *Tout dépend de...*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Exprimer une opinion ou une incertitude"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Je pense que..."
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *Je pense que...*",
+        "**Alternatives naturelles :** *À mon avis...* • *Il me semble que...* • *J'estime que...* • *Selon moi...* • *D'après moi...*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Je ne sais pas"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *Je ne sais pas.*",
+        "**Alternatives naturelles :** *Je n'en suis pas sûr(e).* • *C'est difficile à dire.* • *C'est une bonne question.* • *Je n'y ai pas vraiment réfléchi.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Peut-être"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *Peut-être.*",
+        "**Alternatives naturelles :** *C'est possible.* • *Il se peut que...* • *Probablement.* • *Sans doute.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Politesse, excuses et remerciements"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Merci"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *Merci.*",
+        "**Alternatives naturelles :** *Merci mille fois.* • *Je vous remercie chaleureusement.* • *C'est très aimable à vous.* • *Je vous en suis reconnaissant(e).*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "8. De rien"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *De rien.*",
+        "**Alternatives naturelles :** *Je vous en prie.* • *Avec plaisir.* • *Il n'y a pas de quoi.* • *Pas de souci.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "9. Pardon / Désolé(e)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *Je suis désolé(e).*",
+        "**Alternatives naturelles :** *Je vous prie de m'excuser.* • *Toutes mes excuses.* • *Je ne l'ai pas fait exprès.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Aimer, ne pas aimer & adorer (Opposés directs)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "10. J'aime ↔ 11. Je n'aime pas"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé (J'aime) :** *J'aime bien.*\n- **Alternatives naturelles :** *Je suis fan de...* • *Ça me plaît beaucoup.* • *J'apprécie énormément.*",
+        "**Surutilisé (Je n'aime pas) :** *Je n'aime pas.*\n- **Alternatives naturelles :** *Ce n'est pas trop mon truc.* • *Ça ne me dit rien.* • *Je ne suis pas très friand(e) de cela.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "12. J'adore"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Surutilisé :** *J'adore.*",
+        "**Alternatives naturelles :** *Je suis passionné(e) par...* • *C'est un coup de cœur.* • *Je ne m'en lasse pas.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Appréciations & Jugements (Bon vs Mauvais / Facile vs Difficile)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "13. C'est bon / bien ↔ 14. C'est mauvais"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Bien :** *C'est très bien.* → *C'est remarquable.* • *C'est réussi.* • *C'est formidable.*",
+        "**Mauvais :** *C'est mauvais.* → *C'est décevant.* • *C'est médiocre.* • *C'est regrettable.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "15. C'est facile ↔ 16. C'est difficile"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Facile :** *C'est facile.* → *C'est simple.* • *C'est un jeu d'enfant.* • *C'est à la portée de tous.*",
+        "**Difficile :** *C'est difficile.* → *C'est exigeant.* • *C'est complexe.* • *C'est un vrai défi.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Mise en pratique"
+    },
+    {
+      "type": "paragraph",
+      "text": "Observez la différence dans un échange réel :"
+    },
+    {
+      "type": "pullquote",
+      "quote": "**Avant (Niveau B1 répétitif) :**\n*\"Je pense que ce projet est bon. Je suis d'accord avec vous, mais ça dépend du budget. Dans le futur, je veux faire ça.\"*"
+    },
+    {
+      "type": "pullquote",
+      "quote": "**Après (Niveau B2 fluide) :**\n*\"À mon avis, ce projet est particulièrement réussi. Je partage entièrement votre avis, même si tout dépend du budget. À l'avenir, j'envisage de concrétiser cette idée.\"*"
+    }
+  ],
+  "translationOf": "replace-50-overused-phrases",
+  "draft": false
+}

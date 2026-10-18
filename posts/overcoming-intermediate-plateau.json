@@ -1,0 +1,50 @@
+{
+  "id": "post-overcoming-intermediate-plateau",
+  "slug": "overcoming-intermediate-plateau",
+  "language": "en",
+  "desk": "Long Reads",
+  "format": "essay",
+  "level": "B1–B2",
+  "issue": {
+    "number": "Vol. 2026.09",
+    "title": "Me vs Intermediate Plateau"
+  },
+  "date": "2026-02-10",
+  "title": "Overcoming the Intermediate Plateau (B1 to B2)",
+  "kicker": "LONG READS",
+  "dek": "Many students feel stuck when moving from basic conversations to expressing nuanced opinions. Here is how active contrast learning and collocation practice break the wall.",
+  "tags": [
+    "Fluency",
+    "B1-B2",
+    "Methodology"
+  ],
+  "readingTime": 1,
+  "podcast": {
+    "episode": 5,
+    "audioUrl": "audio/overcoming-intermediate-plateau.mp3"
+  },
+  "artDirection": {
+    "palette": [
+      "#0d9488",
+      "#faf7f2",
+      "#1e293b",
+      "#d69e2e"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "tea-stain",
+    "seed": "overcoming-intermediate-plateau",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "*Draft article content coming soon...*"
+    }
+  ],
+  "draft": true
+}

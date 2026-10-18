@@ -1,0 +1,17 @@
+{
+  "name": "cosyblog",
+  "version": "1.0.0",
+  "description": "COSYmagazine: speaking-first language reads, built from JSON posts into static pages.",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-blog.js && node scripts/generate-blog-art.js && node scripts/generate-sitemap.js",
+    "validate": "node scripts/validate-blog-schema.js",
+    "test": "node --test tests/"
+  },
+  "dependencies": {
+    "marked": "^18.0.14"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.62.1"
+  }
+}

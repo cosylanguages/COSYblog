@@ -1,0 +1,176 @@
+{
+  "id": "post-replace-50-overused-phrases-it",
+  "slug": "replace-50-overused-phrases-it",
+  "language": "it",
+  "desk": "Words",
+  "format": "list",
+  "level": "B1–B2",
+  "issue": {
+    "number": "Vol. 2026.09",
+    "title": "Me vs Intermediate Plateau"
+  },
+  "date": "2026-09-13",
+  "title": "Basta ripetere queste 50 frasi! Alternative naturali per il livello intermedio",
+  "kicker": "WORDS",
+  "dek": "Rendi la tua conversazione in italiano naturale e fluida sostituendo le 50 espressioni più usate con opzioni espressive e opposti diretti.",
+  "tags": [
+    "Frasi",
+    "AltopianoIntermedio",
+    "Fluidità",
+    "B1-B2",
+    "Italiano"
+  ],
+  "readingTime": 3,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": "audio/replace-50-overused-phrases-it.mp3"
+  },
+  "artDirection": {
+    "palette": [
+      "#0d9488",
+      "#faf7f2",
+      "#1e293b",
+      "#d69e2e"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "tea-stain",
+    "seed": "replace-50-overused-phrases-it",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Quando raggiungi l'**altopiano intermedio (livello B1–B2)**, riesci a sostenere conversazioni e a esprimere le tue opinioni. Tuttavia, molti studenti notano di usare continuamente le stesse espressioni di ripiego: *\"Penso che...\"*, *\"Sono d'accordo\"*, *\"Dipende\"*, *\"Non lo so\"*."
+    },
+    {
+      "type": "paragraph",
+      "text": "Arricchire il tuo vocabolario quotidiano non richiede lo studio di regole grammaticali complesse. Adottando alternative naturali e padroneggiando **gli opposti diretti**, il tuo italiano diventerà subito più fluido, espressivo ed elegante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ecco 50 espressioni frequenti con le loro alternative naturali."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Esprimere accordo e disaccordo (Opposti diretti)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "1. Sono d'accordo ↔ 2. Non sono d'accordo"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Invece di \"Sono d'accordo\":** *Sono d'accordo.*\n- **Alternative naturali:** *Sono assolutamente d'accordo.* • *Hai perfettamente ragione.* • *Condivido in pieno.* • *Proprio così.*",
+        "**Invece di \"Non sono d'accordo\":** *Non sono d'accordo.*\n- **Alternative naturali:** *Non ne sono così sicuro/a.* • *La vedo diversamente.* • *Non condivido del tutto.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "3. Dipende"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Invece di \"Dipende\":** *Dipende.*",
+        "**Alternative naturali:** *Cambia da caso a caso.* • *Dipende dalle circostanze.* • *Non è così semplice.* • *Tutto sta nel...*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Esprimere un'opinione e incertezza"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "4. Penso che..."
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Invece di \"Penso che...\":** *Penso che...*",
+        "**Alternative naturali:** *A mio parere...* • *Secondo me...* • *Mi sembra che...* • *Ritengo che...*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "5. Non lo so"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Invece di \"Non lo so\":** *Non lo so.*",
+        "**Alternative naturali:** *È difficile da dire.* • *Non ne sono sicuro/a.* • *È una buona domanda.* • *Non ci ho ancora pensato.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Cortesia e ringraziamenti"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "6. Grazie"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Invece di \"Grazie\":** *Grazie.*\n- **Alternative naturali:** *Grazie mille.* • *Ti/La ringrazio di cuore.* • *È davvero gentile da parte tua/Sua.*",
+        "**Invece di \"Prego\":** *Prego.*\n- **Alternative naturali:** *Figurati!* / *Si figuri!* • *Con piacere.* • *Di nulla.* • *Ci mancherebbe.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Piacere e non piacere (Opposti diretti)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "7. Mi piace ↔ 8. Non mi piace"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Mi piace:** *Mi piace.*\n- **Alternative naturali:** *Vado matto/a per...* • *Mi affascina molto.* • *È proprio il mio genere.*",
+        "**Non mi piace:** *Non mi piace.*\n- **Alternative naturali:** *Non fa molto per me.* • *Non mi fa impazzire.* • *Non mi attira particolarmente.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Mettiti alla prova"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guarda come cambia il tono della conversazione:"
+    },
+    {
+      "type": "pullquote",
+      "quote": "**Prima (Repetitivo B1):**\n*\"Penso che questa proposta sia buona. Sono d'accordo con te, ma dipende dal budget.\"*"
+    },
+    {
+      "type": "pullquote",
+      "quote": "**Dopo (Naturale B2):**\n*\"A mio parere, questa proposta è eccellente. Condivido in pieno, anche se dipende dalle circostanze di budget.\"*"
+    }
+  ],
+  "translationOf": "replace-50-overused-phrases",
+  "draft": false
+}

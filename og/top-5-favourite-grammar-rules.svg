@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" class="cosy-cover-art" data-motif="doodle-border" data-seed="top-5-favourite-grammar-rules" data-lang="en">
+      <defs>
+        <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="140%">
+          <feDropShadow dx="2" dy="3" stdDeviation="3" flood-color="#3C281E" flood-opacity="0.10" />
+        </filter>
+        <filter id="paper-grain" x="0%" y="0%" width="100%" height="100%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" result="noise" />
+          <feColorMatrix type="saturate" values="0" />
+          <feComponentTransfer>
+            <feFuncA type="linear" slope="0.05" />
+          </feComponentTransfer>
+          <feBlend mode="multiply" in="SourceGraphic" result="blend" />
+        </filter>
+      </defs>
+      <style>
+        @media (prefers-reduced-motion: reduce) {
+          .cosy-cover-art * { animation: none !important; transition: none !important; }
+        }
+      </style>
+      
+    <rect width="1200" height="630" fill="#d69e2e" />
+    <path d="M 22 22 L 22 24 L 52 18 L 82 20 L 112 19 L 142 25 L 172 24 L 202 21 L 232 25 L 262 23 L 292 23 L 322 25 L 352 19 L 382 21 L 412 25 L 442 22 L 472 18 L 502 23 L 532 20 L 562 19 L 592 22 L 622 25 L 652 21 L 682 22 L 712 24 L 742 25 L 772 18 L 802 23 L 832 25 L 862 18 L 892 22 L 922 23 L 952 21 L 982 25 L 1012 26 L 1042 19 L 1072 23 L 1102 21 L 1132 22 L 1162 18 L 1176 22 L 1179 52 L 1175 82 L 1174 112 L 1175 142 L 1177 172 L 1180 202 L 1178 232 L 1175 262 L 1180 292 L 1180 322 L 1181 352 L 1179 382 L 1176 412 L 1179 442 L 1179 472 L 1177 502 L 1182 532 L 1179 562 L 1177 592 L 1178 610 L 1148 606 L 1118 612 L 1088 612 L 1058 610 L 1028 607 L 998 612 L 968 608 L 938 608 L 908 607 L 878 610 L 848 611 L 818 611 L 788 604 L 758 608 L 728 605 L 698 605 L 668 611 L 638 610 L 608 610 L 578 607 L 548 610 L 518 605 L 488 606 L 458 609 L 428 612 L 398 606 L 368 608 L 338 608 L 308 604 L 278 608 L 248 607 L 218 610 L 188 606 L 158 612 L 128 611 L 98 608 L 68 605 L 38 607 L 19 608 L 23 578 L 21 548 L 24 518 L 25 488 L 18 458 L 22 428 L 19 398 L 19 368 L 19 338 L 25 308 L 22 278 L 22 248 L 19 218 L 25 188 L 25 158 L 21 128 L 25 98 L 22 68 L 19 38 Z" fill="none" stroke="#faf7f2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6" />
+    <circle cx="1145" cy="55" r="16" fill="#225B58" opacity="0.2" />
+    <circle cx="55" cy="575" r="20" fill="#faf7f2" opacity="0.15" />
+  
+      
+      <g transform="rotate(-6 585 290)">
+        <rect x="361" y="183" width="448" height="214" rx="6" fill="#225B58" opacity="0.3" stroke="#225B58" stroke-width="1" filter="url(#soft-shadow)" />
+      </g>
+    
+      <g transform="rotate(-1 439 228.5)">
+        <rect x="223" y="105" width="432" height="247" rx="6" fill="#faf7f2" opacity="0.3" stroke="#225B58" stroke-width="1" filter="url(#soft-shadow)" />
+      </g>
+    
+      <g transform="rotate(4 849 258)">
+        <rect x="634" y="150" width="430" height="216" rx="6" fill="#225B58" opacity="0.3" stroke="#225B58" stroke-width="1" filter="url(#soft-shadow)" />
+      </g>
+    
+      <g transform="rotate(0 536.5 324)">
+        <rect x="345" y="155" width="383" height="338" rx="6" fill="#faf7f2" opacity="0.3" stroke="#225B58" stroke-width="1" filter="url(#soft-shadow)" />
+      </g>
+    
+      
+    <g class="cover-torn-paper" filter="url(#soft-shadow)">
+      <polygon points="1005,0 1200,0 1200,283.5 1185,264.59999999999997 1165,289.8 1140,239.4 1110,258.3 1080,220.5 1050,245.70000000000002 1020,201.6 1025,157.5 1005,0" fill="#FCF9F2" opacity="0.9" stroke="#225B58" stroke-width="0.8" stroke-dasharray="3 2" />
+    </g>
+  
+      
+    <g transform="rotate(-7 473 36)" filter="url(#soft-shadow)">
+      <rect x="413" y="24" width="120" height="24" rx="2" fill="#faf7f2" opacity="0.45" />
+      <line x1="413" y1="24" x2="413" y2="48" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
+      <line x1="533" y1="24" x2="533" y2="48" stroke="#FFFFFF" stroke-width="2" stroke-dasharray="2 2" opacity="0.7" />
+    </g>
+  
+      
+    <g class="cover-tiny-doodles" stroke="#225B58" stroke-width="1.5" fill="none" opacity="0.7">
+      <!-- Four-pointed sparkle doodle -->
+      <path d="M 983 63 Q 983 75 995 75 Q 983 75 983 87 Q 983 75 971 75 Q 983 75 983 63 Z" fill="#faf7f2" opacity="0.3" />
+      <path d="M 1028 105 Q 1028 113 1036 113 Q 1028 113 1028 121 Q 1028 113 1020 113 Q 1028 113 1028 105 Z" stroke="#faf7f2" stroke-width="1" />
+      <!-- Botanical sprig doodle -->
+      <path d="M 41 139 C 51 124, 36 104, 56 89" />
+      <circle cx="45" cy="124" r="3" fill="#225B58" opacity="0.5" />
+      <circle cx="51" cy="107" r="3" fill="#faf7f2" opacity="0.5" />
+    </g>
+  
+      
+    <g class="cover-sketchy-underline">
+      <path d="M 95 576 Q 204 578 313 578" stroke="#faf7f2" stroke-width="2.5" stroke-linecap="round" fill="none" opacity="0.75" />
+      <path d="M 105 579 Q 204 581 303 578" stroke="#225B58" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.5" />
+    </g>
+  
+      
+    <g class="cover-masthead-label" filter="url(#soft-shadow)">
+      <rect x="20" y="20" width="292" height="30" rx="4" fill="#FCF9F2" opacity="0.95" stroke="#faf7f2" stroke-width="1.2" />
+      <text x="34" y="40" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="11" font-weight="bold" letter-spacing="1.4">COSYMAGAZINE • GRAMMAR MADE COSY</text>
+    </g>
+  
+      
+      <g class="cover-text-overlay" filter="url(#soft-shadow)">
+        <!-- Warm paper card overlay -->
+        <rect class="cover-overlay-box" x="24" y="436" width="1152" height="170" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#225B58" stroke-width="1.2" />
+        <text x="54" y="474" fill="#225B58" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">GRAMMAR MADE COSY • Vol. 2026.10</text>
+        <text x="54" y="510" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">My Top 5 Favourite English</text>
+<text x="54" y="542" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Grammar Rules for Intermediate</text>
+<text x="54" y="574" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Learners</text>
+      </g>
+    
+      <rect width="1200" height="630" filter="url(#paper-grain)" opacity="0.5" pointer-events="none" />
+    </svg>

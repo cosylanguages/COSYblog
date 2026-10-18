@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en" data-ui-lang="auto">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>COSYmagazine | Speaking-first language reads</title>
+  <meta name="description" content="Short, speaking-first reads for language learners: words, grammar made cosy, sentence frames and a podcast. In English, French, Italian, Russian and Greek.">
+  <link rel="icon" href="images/logo.png">
+  <link rel="canonical" href="https://cosylanguages.github.io/COSYblog/">
+  <meta property="og:title" content="COSYmagazine">
+  <meta property="og:description" content="Short, speaking-first reads for language learners: words, grammar made cosy, sentence frames and a podcast.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://cosylanguages.github.io/COSYblog/">
+  <meta property="og:image" content="https://cosylanguages.github.io/COSYblog/images/logo.png">
+  <meta name="theme-color" content="#FAF7F2">
+  <script src="js/theme-init.js"></script>
+  <link rel="preload" href="fonts/fraunces-latin-soft-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/commissioner-latin-wght-normal.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="css/core.css">
+  <link rel="stylesheet" href="css/shell.css">
+  <link rel="stylesheet" href="css/newsstand.css">
+  <style>::view-transition-old(post-cover), ::view-transition-new(post-cover) { animation-duration: .35s; }</style>
+</head>
+<body class="ns-page">
+  <nav id="cosy-nav"></nav>
+
+  <main class="ns" id="main">
+    <header class="ns-head">
+      <p class="ns-kicker">COSYmagazine</p>
+      <h1>Short reads for people who want to speak.</h1>
+      <p class="ns-lede" id="ns-lede">Words, grammar made cosy, sentence frames and a podcast. Written by a teacher, published month by month, and read in the language you are learning.</p>
+      <div class="ns-head-links">
+        <a class="ns-pill" href="podcast.html">🎙️ Podcast</a>
+        <a class="ns-pill" href="https://cosylanguages.github.io/COSYpractice/">💡 Free practice</a>
+      </div>
+    </header>
+
+    <section class="ns-lead" id="ns-lead" aria-label="Latest issue" hidden></section>
+
+    <section aria-label="Articles">
+      <div class="ns-filters" role="search">
+        <div class="ns-row">
+          <label class="visually-hidden" for="ns-q">Search articles</label>
+          <input id="ns-q" class="ns-search" type="search" placeholder="Search articles…" autocomplete="off">
+          <label class="visually-hidden" for="ns-lang">Read in</label>
+          <select id="ns-lang" class="ns-select"></select>
+          <label class="visually-hidden" for="ns-issue">Issue</label>
+          <select id="ns-issue" class="ns-select"></select>
+        </div>
+        <div class="ns-row">
+          <div class="ns-chips" id="ns-desks" role="group" aria-label="Desks"></div>
+          <span class="ns-count" id="ns-count" aria-live="polite"></span>
+          <button type="button" class="ns-reset" id="ns-reset" hidden>Clear filters</button>
+        </div>
+      </div>
+      <div class="ns-grid" id="ns-grid"></div>
+      <p class="ns-empty" id="ns-empty" hidden>No articles match. Try another desk or clear the filters.</p>
+    </section>
+
+    <details class="ns-about">
+      <summary>About COSYmagazine</summary>
+      <div class="ns-about-grid">
+        <div><h3>🌱 Speaking first</h3><p>Every piece is built around what you can say tomorrow: sentence frames, circumlocution, and thinking in the language rather than translating.</p></div>
+        <div><h3>🎙️ Podcast and stage mode</h3><p>Open any article with <code>?stage=1</code> for a 16:9 presentation view or <code>?script=1</code> for a teleprompter script.</p></div>
+        <div><h3>🗞️ Made for paper too</h3><p>Articles are laid out to print cleanly, as handouts or a small paper magazine.</p></div>
+      </div>
+    </details>
+  </main>
+
+  <footer id="cosy-footer"></footer>
+
+  <script src="js/shell.js"></script>
+  <script type="module">
+    import { renderCover } from './js/art/generator.js';
+
+    const LANG_NAMES = { en: 'English', fr: 'Français', it: 'Italiano', ru: 'Русский', el: 'Ελληνικά', es: 'Español', de: 'Deutsch', pt: 'Português' };
+    const $ = (id) => document.getElementById(id);
+    const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    const tr = (key, fallback) => (window.t && window.t(key)) || fallback;
+    const url = (p) => `${p.slug}.html`;
+
+    let DATA = { posts: [], desks: [], issues: [] };
+    const state = { q: '', desk: 'all', lang: 'all', issue: 'all' };
+
+    /* ── State <-> URL ─────────────────────────────────────────── */
+    function readUrl() {
+      const sp = new URLSearchParams(location.search);
+      state.q = sp.get('q') || ''; state.desk = sp.get('desk') || 'all';
+      state.lang = sp.get('lang') || 'all'; state.issue = sp.get('issue') || 'all';
+    }
+    function writeUrl() {
+      const sp = new URLSearchParams();
+      if (state.q) sp.set('q', state.q);
+      ['desk', 'lang', 'issue'].forEach((k) => { if (state[k] !== 'all') sp.set(k, state[k]); });
+      history.replaceState(null, '', location.pathname + (sp.toString() ? '?' + sp : ''));
+    }
+
+    /* ── Groups: one card per article, with its translations ──── */
+    function buildGroups(posts) {
+      const map = new Map();
+      posts.forEach((p) => {
+        const key = p.translationOf || p.slug;
+        if (!map.has(key)) map.set(key, []);
+        map.get(key).push(p);
+      });
+      return [...map.values()].map((variants) => {
+        variants.sort((a, b) => (a.translationOf ? 1 : 0) - (b.translationOf ? 1 : 0));
+        return { base: variants[0], variants };
+      });
+    }
+    const hay = (g) => g.variants.map((p) => `${p.title} ${p.dek} ${(p.tags || []).join(' ')}`).join(' ').toLowerCase();
+
+    function visibleGroups() {
+      const q = state.q.trim().toLowerCase();
+      return buildGroups(DATA.posts).map((g) => {
+        const shown = state.lang === 'all' ? g.base : g.variants.find((v) => v.language === state.lang);
+        return shown ? { ...g, shown } : null;
+      }).filter((g) => g
+        && (state.desk === 'all' || g.base.desk === state.desk)
+        && (state.issue === 'all' || g.base.issue?.number === state.issue)
+        && (!q || hay(g).includes(q)))
+        .sort((a, b) => new Date(b.base.date) - new Date(a.base.date));
+    }
+
+    /* ── Rendering ─────────────────────────────────────────────── */
+    function fmtDate(d) {
+      const x = new Date(d);
+      return isNaN(x) ? d : x.toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' });
+    }
+    function deskLabel(key) {
+      const d = DATA.desks.find((x) => x.key === key) || { icon: '📰', i18n_key: '' };
+      const t = d.i18n_key ? window.t(d.i18n_key.replace('_', '.')) : '';
+      return `${d.icon} ${t || key.replace('&amp;', '&')}`;
+    }
+
+    function renderFilters() {
+      const groups = buildGroups(DATA.posts);
+      const counts = {}; groups.forEach((g) => { counts[g.base.desk] = (counts[g.base.desk] || 0) + 1; });
+      const desks = DATA.desks.filter((d) => counts[d.key]);
+      $('ns-desks').innerHTML =
+        `<button type="button" class="ns-chip" data-desk="all" aria-pressed="${state.desk === 'all'}">${esc(tr('option.all', 'All'))}<span>${groups.length}</span></button>` +
+        desks.map((d) => `<button type="button" class="ns-chip" data-desk="${esc(d.key)}" aria-pressed="${state.desk === d.key}">${esc(deskLabel(d.key))}<span>${counts[d.key]}</span></button>`).join('');
+
+      const langs = [...new Set(DATA.posts.map((p) => p.language))];
+      $('ns-lang').innerHTML = `<option value="all">${esc(tr('blog.read_in', 'Read in').replace(/[:：]\s*$/, ''))}: ${esc(tr('option.all', 'All'))}</option>` +
+        langs.map((l) => `<option value="${l}">${esc(LANG_NAMES[l] || l)}</option>`).join('');
+      $('ns-lang').value = state.lang;
+
+      const issues = [...DATA.issues].sort((a, b) => b.number.localeCompare(a.number));
+      $('ns-issue').innerHTML = `<option value="all">All issues</option>` +
+        issues.map((i) => `<option value="${esc(i.number)}">${esc(i.number.replace('Vol. ', ''))} · ${esc(i.title)}</option>`).join('');
+      $('ns-issue').value = state.issue;
+      $('ns-q').value = state.q;
+    }
+
+    function renderLead(groups) {
+      const el = $('ns-lead');
+      const filtering = state.q || state.desk !== 'all' || state.lang !== 'all' || state.issue !== 'all';
+      if (filtering || !groups.length) { el.hidden = true; return; }
+      const latestIssue = [...DATA.issues].sort((a, b) => b.number.localeCompare(a.number))[0];
+      const inIssue = groups.filter((g) => g.base.issue?.number === latestIssue?.number);
+      const lead = (inIssue[0] || groups[0]).base;
+      const others = inIssue.filter((g) => g.base !== lead).slice(0, 4);
+      el.hidden = false;
+      el.innerHTML = `
+        <a class="ns-lead-art" href="${url(lead)}" data-cover aria-hidden="true" tabindex="-1">${renderCover(lead, { width: 800, height: 450, showText: false })}</a>
+        <div>
+          <span class="ns-issue-tag">Latest issue · ${esc((latestIssue?.number || '').replace('Vol. ', ''))} · ${esc(latestIssue?.title || '')}</span>
+          <h2><a href="${url(lead)}" data-cover>${esc(lead.title)}</a></h2>
+          <p>${esc(lead.dek)}</p>
+          <a class="ns-btn" href="${url(lead)}" data-cover>Read the story →</a>
+          ${others.length ? `<ul class="ns-toc" aria-label="Also in this issue">${others.map((g) => `<li><small>${esc(g.base.desk)}</small><a href="${url(g.base)}" data-cover>${esc(g.base.title)}</a></li>`).join('')}</ul>` : ''}
+        </div>`;
+    }
+
+    function render() {
+      const groups = visibleGroups();
+      renderLead(groups);
+      $('ns-grid').innerHTML = groups.map((g) => {
+        const p = g.shown;
+        const others = g.variants.filter((v) => v !== p);
+        return `
+        <article class="ns-card">
+          <span class="ns-card-art" aria-hidden="true">${renderCover(p, { width: 480, height: 270, showText: false })}</span>
+          <div class="ns-card-body">
+            <div class="ns-meta">${esc(deskLabel(g.base.desk))} <i>· ${esc(p.level || '')}</i></div>
+            <h3><a href="${url(p)}" data-cover lang="${p.language}">${esc(p.title)}</a></h3>
+            <p class="ns-dek" lang="${p.language}">${esc(p.dek)}</p>
+            <div class="ns-foot"><span>${fmtDate(g.base.date)}</span><span>·</span><span>${p.readingTime || 5} min</span>
+              ${others.length ? `<span class="ns-langs" aria-label="Also available in">${others.map((v) => `<a href="${url(v)}" lang="${v.language}" title="${esc(LANG_NAMES[v.language] || v.language)}">${v.language}</a>`).join('')}</span>` : ''}
+            </div>
+          </div>
+        </article>`;
+      }).join('');
+      $('ns-empty').hidden = groups.length > 0;
+      $('ns-count').textContent = `${groups.length} article${groups.length === 1 ? '' : 's'}`;
+      $('ns-reset').hidden = !(state.q || state.desk !== 'all' || state.lang !== 'all' || state.issue !== 'all');
+      document.querySelectorAll('#ns-desks .ns-chip').forEach((c) => c.setAttribute('aria-pressed', String(c.dataset.desk === state.desk)));
+      writeUrl();
+    }
+
+    /* ── Events ────────────────────────────────────────────────── */
+    $('ns-q').addEventListener('input', (e) => { state.q = e.target.value; render(); });
+    $('ns-lang').addEventListener('change', (e) => { state.lang = e.target.value; render(); });
+    $('ns-issue').addEventListener('change', (e) => { state.issue = e.target.value; render(); });
+    $('ns-desks').addEventListener('click', (e) => { const b = e.target.closest('.ns-chip'); if (b) { state.desk = b.dataset.desk; render(); } });
+    $('ns-reset').addEventListener('click', () => { Object.assign(state, { q: '', desk: 'all', lang: 'all', issue: 'all' }); $('ns-q').value = ''; $('ns-lang').value = 'all'; $('ns-issue').value = 'all'; render(); });
+    document.addEventListener('click', (e) => {
+      const a = e.target.closest('a[data-cover]');
+      if (!a || e.ctrlKey || e.metaKey || e.shiftKey || !document.startViewTransition) return;
+      e.preventDefault();
+      const art = a.closest('.ns-card, .ns-lead')?.querySelector('svg');
+      if (art) art.style.viewTransitionName = 'post-cover';
+      document.startViewTransition(() => { location.href = a.href; });
+    });
+    document.addEventListener('cosy:langchange', () => { renderFilters(); render(); });
+
+    /* ── Boot ──────────────────────────────────────────────────── */
+    readUrl();
+    const i18nReady = new Promise((res) => {
+      if (window.__cosyI18nReady) return res();
+      document.addEventListener('cosy:i18nready', res, { once: true });
+      setTimeout(res, 2000);
+    });
+    Promise.all([fetch('index.json').then((r) => r.json()), i18nReady]).then(([d]) => {
+      DATA = { posts: d.posts || [], desks: d.desks || [], issues: d.issues || [] };
+      renderFilters(); render();
+    }).catch(() => { $('ns-empty').hidden = false; $('ns-empty').textContent = 'The magazine could not be loaded. Please refresh.'; });
+  </script>
+</body>
+</html>
