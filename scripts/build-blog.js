@@ -317,7 +317,7 @@ function resolveAudioUrl(post) {
   if (!raw) return null;
   if (/^https?:/.test(raw)) return raw;
   const rel = raw.replace(/^(\.\.\/)+/, '').replace(/^audio\/blog\//, 'audio/');
-  return fs.existsSync(path.join(BLOG_DIR, rel)) ? rel : null;
+  return rel;
 }
 
 function renderStaticPodcastBoxHtml(post, langDict, lang) {
@@ -325,22 +325,44 @@ function renderStaticPodcastBoxHtml(post, langDict, lang) {
   const episodeNum = podcast.episode || 1;
   const audioUrl = resolveAudioUrl(post);
 
+  let iframeUrl = podcast.iframeUrl || null;
+  if (!iframeUrl && podcast.externalUrl && podcast.externalUrl.includes('spotify.com/episode/')) {
+    const epIdMatch = podcast.externalUrl.match(/episode\/([a-zA-Z0-9]+)/);
+    if (epIdMatch && epIdMatch[1]) {
+      iframeUrl = `https://open.spotify.com/embed/episode/${epIdMatch[1]}?utm_source=generator`;
+    }
+  }
+
   const epText = `${tStrict(langDict, 'blog.episode', lang)} ${episodeNum}`;
   const noticeText = tStrict(langDict, 'blog.podcast_in_production', lang);
   const stageViewText = tStrict(langDict, 'blog.stage_view', lang);
   const scriptPromptText = tStrict(langDict, 'blog.script_teleprompter', lang);
 
-  const playerHtml = audioUrl ? `
-    <div class="podcast-audio-player-wrapper">
-      <audio class="podcast-audio-element" controls preload="metadata" src="${escapeHtml(audioUrl)}">
-        Your browser does not support the audio element.
-      </audio>
-    </div>
-  ` : `
-    <div class="podcast-audio-notice">
-      <span data-i18n="blog.podcast_in_production">${escapeHtml(noticeText)}</span>
-    </div>
-  `;
+  let playerHtml = '';
+  if (iframeUrl) {
+    playerHtml = `
+      <div class="podcast-iframe-player-wrapper" style="margin-top: 1rem; border-radius: 12px; overflow: hidden;">
+        <iframe src="${escapeHtml(iframeUrl)}" style="width: 100%; border: none;" height="152" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Podcast Episode Player"></iframe>
+      </div>
+    `;
+  } else if (audioUrl) {
+    playerHtml = `
+      <div class="podcast-audio-player-wrapper">
+        <audio class="podcast-audio-element" controls preload="metadata" src="${escapeHtml(audioUrl)}">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
+    `;
+  } else {
+    playerHtml = `
+      <div class="podcast-audio-notice">
+        <span data-i18n="blog.podcast_in_production">${escapeHtml(noticeText)}</span>
+      </div>
+    `;
+  }
+
+  const externalBtn = podcast.externalUrl ? `<a href="${escapeHtml(podcast.externalUrl)}" target="_blank" rel="noopener" class="podcast-action-link" style="background: #1db954; color: #ffffff;" title="Listen on Spotify">🎧 Spotify</a>` : '';
+  const appleBtn = podcast.appleUrl ? `<a href="${escapeHtml(podcast.appleUrl)}" target="_blank" rel="noopener" class="podcast-action-link" style="background: #9933ff; color: #ffffff;" title="Listen on Apple Podcasts">🍏 Apple Podcasts</a>` : '';
 
   return `
 <section class="cosy-podcast-box" aria-label="Podcast Episode Controls">
@@ -350,6 +372,8 @@ function renderStaticPodcastBoxHtml(post, langDict, lang) {
       <span class="podcast-show-name">cosylanguages / такиеязыки</span>
     </div>
     <div class="podcast-quick-links">
+      ${externalBtn}
+      ${appleBtn}
       <a href="?stage=1" class="podcast-action-link" title="Open in 16:9 Animated Presentation Deck" data-i18n="blog.stage_view">${escapeHtml(stageViewText)}</a>
       <a href="?script=1" class="podcast-action-link" title="Open in Teleprompter Script Mode" data-i18n="blog.script_teleprompter">${escapeHtml(scriptPromptText)}</a>
     </div>
@@ -629,20 +653,6 @@ async function buildBlog() {
                 ${post.tags.map(t => `<span class="post-tag-chip">#${escapeHtml(t)}</span>`).join(' ')}
             </div>` : ''}
 
-            <!-- Collapsed Founder Deck & Colophon Block -->
-            <details class="founder-colophon-block" style="margin-top: 2.5rem;">
-                <summary class="founder-colophon-summary">
-                    <span data-i18n="blog.founder_deck_title">${escapeHtml(founderDeckTitleText)}</span>
-                    <span class="colophon-toggle-badge" data-i18n="blog.expand_deck">${escapeHtml(expandDeckText)}</span>
-                </summary>
-                <div class="founder-colophon-content">
-                    <div class="colophon-actions">
-                        <a href="?script=1" class="colophon-btn" data-i18n="blog.teleprompter_script_view_mode">${escapeHtml(scriptViewModeText)}</a>
-                        <a href="?stage=1" class="colophon-btn" data-i18n="blog.stage_view_mode">${escapeHtml(stageViewModeText)}</a>
-                    </div>
-                </div>
-            </details>
-
             <div class="gazette-folio">
                 <span>🗞️ COSYmagazine • ${escapeHtml(issueNum)}</span>
                 <a href="index.html" class="read-more-link" data-i18n="blog.return_to_index">${escapeHtml(returnToIndexText)}</a>
@@ -697,10 +707,7 @@ async function buildBlog() {
 </html>
 `;
 
-    // Embedded players whose recording is not in this repo yet are left out rather than shown broken.
-    const finalHtml = htmlContent.replace(/<audio\b[^>]*\bsrc="(audio\/[^"]+)"[^>]*>[\s\S]*?<\/audio>/g,
-      (match, src) => (fs.existsSync(path.join(BLOG_DIR, src)) ? match : ''));
-    fs.writeFileSync(htmlPath, finalHtml, 'utf-8');
+    fs.writeFileSync(htmlPath, htmlContent, 'utf-8');
     console.log(`  ✓ Generated ${post.slug}.html`);
   });
 
