@@ -575,6 +575,7 @@ async function buildBlog() {
     <link rel="stylesheet" href="css/blog.css">
     <link rel="stylesheet" href="css/tokens.css">
     <link rel="stylesheet" href="css/magazine-templates.css">
+    <link rel="stylesheet" href="css/dark-fixes.css">
     <link rel="stylesheet" href="css/stage.css">
     <link rel="stylesheet" href="css/shell.css">
 
