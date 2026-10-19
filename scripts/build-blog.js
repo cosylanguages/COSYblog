@@ -230,7 +230,7 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
 <div class="gazette-pronunciation-card">
   <span class="pronunciation-word">${parseFormattedText(block.word)}</span>
   <span class="pronunciation-ipa">[${escapeHtml(block.ipa)}]</span>
-  ${block.audioUrl ? `<audio controls src="${escapeHtml(block.audioUrl)}"></audio>` : ''}
+  ${blockAudioUrl(block.audioUrl) ? `<audio controls src="${escapeHtml(blockAudioUrl(block.audioUrl))}"></audio>` : ''}
 </div>`;
     }
     case 'pullquote': {
@@ -311,13 +311,20 @@ function renderLanguageSwitcherHtml(currentPost, allPosts, langDict, lang) {
 </div>`;
 }
 
+function blockAudioUrl(raw) {
+  if (!raw) return null;
+  if (/^https?:/.test(raw)) return raw;
+  const rel = String(raw).replace(/^(\.\.\/)+/, '').replace(/^audio\/blog\//, 'audio/');
+  return fs.existsSync(path.join(BLOG_DIR, rel)) ? rel : null;
+}
+
 // Audio is only linked when the file really exists in this repo (or is an absolute URL).
 function resolveAudioUrl(post) {
   const raw = (post.podcast && post.podcast.audioUrl) || null;
   if (!raw) return null;
   if (/^https?:/.test(raw)) return raw;
   const rel = raw.replace(/^(\.\.\/)+/, '').replace(/^audio\/blog\//, 'audio/');
-  return rel;
+  return fs.existsSync(path.join(BLOG_DIR, rel)) ? rel : null;
 }
 
 function renderStaticPodcastBoxHtml(post, langDict, lang) {
