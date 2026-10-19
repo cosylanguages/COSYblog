@@ -123,6 +123,11 @@
     "languagePracticeTile": "Prova la pratica gratuita",
     "backToEvents": "Torna a tutti gli eventi dal vivo"
   },
+  "lang_locked_notice": "🔒 Lingua del dispositivo bloccata! La lingua dell'interfaccia è fissa.",
+  "lang_unlocked_notice": "🔓 Lingua del dispositivo sbloccata! Ora puoi cambiare lingua.",
+  "long_reads": {
+    "description": "Leggiamo e discutiamo micro-capitoli di straordinari libri saggistici, audiolibri e podcast a formato lungo. Esplora idee profonde, decostruisci i capitoli ed espandi i tuoi limiti conversazionali."
+  },
   "desk": {
     "front_page": "Prima Pagina",
     "words": "Parole",

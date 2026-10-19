@@ -1941,3 +1941,13 @@ html[data-theme="dark"] .read-post-btn:hover {
     background: var(--post-palette-accent, #2dd4bf);
     color: #181614;
 }
+
+html[data-theme="dark"] .speed-btn:not(.active) {
+    background: #1e2a22 !important;
+    color: #e8f0e9 !important;
+    border-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+html[data-theme="dark"] .speed-label {
+    color: #a0aaa1 !important;
+}

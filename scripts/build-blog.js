@@ -123,6 +123,8 @@ function parseFormattedText(text) {
     return marked.parseInline(text);
   }
   let html = escapeHtml(text);
+  html = html.replace(/&lt;code&gt;(.*?)&lt;\/code&gt;/g, '<code>$1</code>');
+  html = html.replace(/`(.*?)`/g, '<code>$1</code>');
   html = html.replace(/\\\*/g, '&#42;');
   html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
   html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');

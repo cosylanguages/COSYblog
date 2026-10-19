@@ -123,6 +123,8 @@
     "languagePracticeTile": "Essayer l’éntraînement gratuit",
     "backToEvents": "Retour à tous les événements en direct"
   },
+  "lang_locked_notice": "🔒 Langue de l'appareil verrouillée ! La langue d'interface est fixe.",
+  "lang_unlocked_notice": "🔓 Langue de l'appareil déverrouillée ! Vous pouvez maintenant changer de langue.",
   "long_reads": {
     "description": "Nous lisons et discutons des micro-chapitres de livres non-fictionnels, de livres audio et de podcasts longs exceptionnels. Explorez des idées profondes, analysez des chapitres et repoussez vos limites de conversation."
   },

@@ -179,7 +179,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Traditional language learning often over-praises word-for-word translation. But translation builds an extra mental detour: `L2 Word ➔ L1 Translation ➔ Concept`. This extra middle step is why our brains feel exhausted after an hour of conversation!",
+      "text": "Traditional language learning often over-praises word-for-word translation. But translation builds an extra mental detour: <code>L2 Word ➔ L1 Translation ➔ Concept</code>. This extra middle step is why our brains feel exhausted after an hour of conversation!",
       "say": "Traditional language learning often over-praises word-for-word translation. But translation builds an extra mental detour. This extra middle step is why our brains feel exhausted after an hour of conversation!",
       "beat": {
         "duration": 7000,
@@ -189,7 +189,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Consider how young children acquire their first language. A toddler learning the word *apple* doesn't look up a translation. They touch the smooth red skin, smell the fresh scent, taste the sweetness, and hear the sound /æp.əl/. The concept and sound connect directly (`L2 Word ➔ Direct Concept`).",
+      "text": "Consider how young children acquire their first language. A toddler learning the word *apple* doesn't look up a translation. They touch the smooth red skin, smell the fresh scent, taste the sweetness, and hear the sound /æp.əl/. The concept and sound connect directly (<code>L2 Word ➔ Direct Concept</code>).",
       "say": "Consider how young children acquire their first language. A toddler learning the word apple doesn't look up a translation. They touch the smooth red skin, smell the fresh scent, taste the sweetness, and hear the sound.",
       "beat": {
         "duration": 8000,
