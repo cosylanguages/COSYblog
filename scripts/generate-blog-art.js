@@ -99,7 +99,22 @@ async function generateBlogArt() {
     });
 
     fs.writeFileSync(POSTS_JSON, JSON.stringify(posts, null, 2), 'utf-8');
-    console.log(`✅ Updated artDirection for ${updatedCount} posts in blog/posts.json and generated Open Graph SVG covers in blog/og/`);
+
+    const INDEX_JSON = path.join(BLOG_DIR, 'index.json');
+    if (fs.existsSync(INDEX_JSON)) {
+      const indexObj = JSON.parse(fs.readFileSync(INDEX_JSON, 'utf-8'));
+      if (indexObj && Array.isArray(indexObj.posts)) {
+        const postsMap = new Map(posts.map(p => [p.slug, p.artDirection]));
+        indexObj.posts.forEach(p => {
+          if (postsMap.has(p.slug)) {
+            p.artDirection = postsMap.get(p.slug);
+          }
+        });
+        fs.writeFileSync(INDEX_JSON, JSON.stringify(indexObj, null, 2), 'utf-8');
+      }
+    }
+
+    console.log(`✅ Updated artDirection for ${updatedCount} posts in blog/posts.json and blog/index.json and generated Open Graph SVG covers in blog/og/`);
   }
 
   // 2. Update JSON posts in blog/posts/*.json

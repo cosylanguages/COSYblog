@@ -73,6 +73,7 @@ html[data-theme="dark"] .ns-filters { background: color-mix(in srgb, #121a15 94%
 html[data-theme="dark"] .ns-langs a { background: #26332a; color: #e8f0e9; }
 html[data-theme="dark"] .ns-toc a, html[data-theme="dark"] .ns-lead h2 a, html[data-theme="dark"] .ns-card h3 a { color: #f1ecdf; }
 html[data-theme="dark"] .ns-chip { color: #e8f0e9; }
+html[data-theme="dark"] .ns-sub-box { background: #141f17 !important; border: 1px solid rgba(255, 255, 255, 0.12); }
 
 /* Never let a scroller or a long title widen the page on phones. */
 .ns { min-width: 0; }
