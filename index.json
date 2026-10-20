@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-20T10:01:31.731Z",
+  "generatedAt": "2026-10-20T10:47:08.859Z",
   "stats": {
-    "totalPosts": 29,
+    "totalPosts": 30,
     "totalDesks": 13,
     "totalIssues": 4
   },
@@ -105,6 +105,53 @@
     }
   ],
   "posts": [
+    {
+      "id": "post-demystifying-english-tenses-timeline-guide",
+      "slug": "demystifying-english-tenses-timeline-guide",
+      "language": "en",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "Mind Matters: Grammar Timelines & Everyday vs Academic Tenses"
+      },
+      "date": "2026-11-15",
+      "title": "Demystifying English Tenses: The Ultimate Master Timeline Guide for Learners",
+      "kicker": "GRAMMAR MADE COSY",
+      "dek": "A progressive cluster-by-cluster timeline breakdown of all 12 English tenses—from simple time anchors to everyday spoken frequency versus formal academic usage.",
+      "tags": [
+        "Grammar",
+        "EnglishTenses",
+        "Timelines",
+        "EverydayEnglish",
+        "AcademicEnglish",
+        "Fluency"
+      ],
+      "readingTime": 14,
+      "podcast": {
+        "episode": 12,
+        "audioUrl": "audio/blog/demystifying-english-tenses-podcast.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#1a365d",
+          "#3182ce",
+          "#dd6b20",
+          "#ebf8ff"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "window-light",
+        "seed": "demystifying-english-tenses-timeline-guide",
+        "coverOverride": null
+      },
+      "draft": false
+    },
     {
       "id": "post-neuroplasticity-and-the-playful-brain",
       "slug": "neuroplasticity-and-the-playful-brain",

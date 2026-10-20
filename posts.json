@@ -1,5 +1,50 @@
 [
   {
+    "slug": "demystifying-english-tenses-timeline-guide",
+    "title": "Demystifying English Tenses: The Ultimate Master Timeline Guide for Learners",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "A progressive cluster-by-cluster timeline breakdown of all 12 English tenses—from simple time anchors to everyday spoken frequency versus formal academic usage.",
+    "author": "JY DM",
+    "reading_time": 14,
+    "cover_image": "",
+    "tags": [
+      "Grammar",
+      "EnglishTenses",
+      "Timelines",
+      "EverydayEnglish",
+      "AcademicEnglish",
+      "Fluency"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-english-tenses-timeline-guide.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "Mind Matters: Grammar Timelines & Everyday vs Academic Tenses",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine Mind Matters: Grammar Timelines & Everyday vs Academic Tenses edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#1a365d",
+        "#3182ce",
+        "#dd6b20",
+        "#ebf8ff"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "window-light",
+      "seed": "demystifying-english-tenses-timeline-guide",
+      "coverOverride": null
+    }
+  },
+  {
     "slug": "neuroplasticity-and-the-playful-brain",
     "title": "Unlocking Neuroplasticity: How to Reclaim Your Playful Brain in Language Learning",
     "date": "2026-11-10",
