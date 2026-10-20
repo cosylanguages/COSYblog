@@ -54,21 +54,90 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "📈 Le spectre du \"Bon\" : Du niveau basique au niveau élite"
+      "text": "📈 Le spectre des adjectifs : Du niveau basique au niveau élite"
     },
     {
       "type": "paragraph",
-      "text": "Pour franchir le plateau intermédiaire, il faut comprendre que les mots ne sont pas de simples synonymes : ils s'inscrivent dans une échelle de nuances, d'intensité et de contexte. Voici comment passer du niveau 0 au vocabulaire d'élite pour exprimer la qualité :"
+      "text": "Pour franchir le plateau intermédiaire, il faut comprendre que les mots ne sont pas de simples synonymes : ils s'inscrivent dans une échelle de nuances, d'intensité et de contexte. Voici comment naviguer du niveau 0 au vocabulaire d'élite :"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "🌟 1. Qualité & Compliments (\"Bon / Grandiose\")"
     },
     {
       "type": "list-item",
       "ordered": true,
       "items": [
-        "**Niveau 0 : La base (Bon / Sympa / Correct)** — Pourquoi aller plus loin ? Ces mots sont fonctionnels, mais ils ne peignent aucune image vivante.",
-        "**Niveau 1 : Légère amélioration (Agréable & Satisfaisant)** — Utilisez-les quand quelque chose répond bien aux attentes : *Agréable* (une promenade agréable), *Satisfaisant* (un repas satisfaisant), *Correct* (un travail correct), *Solide* (une performance solide).",
-        "**Niveau 2 : Fort & Impressionnant (Oubliez \"Très bon\")** — Expriment une réelle qualité sans utiliser \"très\" : *Formidable* (un effort formidable), *Impressionnant* (des résultats impressionnants), *Remarquable* (un talent remarquable), *Superbe* (un service superbe), *Splendide* (un moment splendide).",
-        "**Niveau 3 : Haut de gamme (Oubliez \"Extrêmement bon\")** — Lorsque les mots ordinaires ne suffisent plus : *Excellent* (une excellente contribution), *Exceptionnel* (un service exceptionnel), *Remarquable* (une réussite remarquable), *De premier ordre / Top niveau* (un repas de premier ordre).",
-        "**Niveau 4 : Sommet / Élite (Oubliez \"Le meilleur / Super bon\")** — Pour une qualité légendaire ou une maîtrise absolue : *Brillant* (une idée brillante), *Magistral* (un récit magistral), *Phénoménal* (une prestation phénoménale), *Impeccable* (une exécution impeccable), *Exquis* (un bijou exquis ; idéal pour la cuisine, l'art et l'artisanat)."
+        "**Niveau 0 : La base (Bon / Sympa / Correct)** — Fonctionnel mais sans relief.",
+        "**Niveau 1 : Légère amélioration (Agréable & Satisfaisant)** — *Agréable* (une promenade agréable), *Satisfaisant* (un repas satisfaisant), *Solide* (une prestation solide).",
+        "**Niveau 2 : Fort & Impressionnant (Oubliez \"Très bon\")** — *Formidable* (un effort formidable), *Impressionnant* (des résultats impressionnants), *Remarquable* (un talent remarquable), *Superbe* (un service superbe).",
+        "**Niveau 3 : Haut de gamme (Oubliez \"Extrêmement bon\")** — *Excellent* (une excellente contribution), *Exceptionnel* (un service exceptionnel), *Remarquable* (une réussite remarquable), *Top niveau* (une ambiance top niveau).",
+        "**Niveau 4 : Sommet / Élite (Oubliez \"Le meilleur / Super bon\")** — *Brillant* (une idée brillante), *Magistral* (un récit magistral), *Phénoménal* (une prestation phénoménale), *Impeccable* (une exécution impeccable), *Exquis* (un bijou exquis ; idéal pour la cuisine et l'artisanat)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "⚠️ 2. Critiques & Gravité (\"Mauvais\")"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "**Niveau 0 : La base (Mauvais / Médiocre)** — Évaluation négative standard.",
+        "**Niveau 1 : Défaut modéré** — *Décevant* (un résultat décevant), *Insatisfaisant* (un travail insatisfaisant).",
+        "**Niveau 2 : Forte négativité (Oubliez \"Très mauvais\")** — *Atroce* (un temps atroce), *Terrible* (un service terrible), *Détestable* (une erreur détestable).",
+        "**Niveau 3 : Impact sévère** — *Lamentable* (des conditions lamentables), *Exécrable* (une humeur exécrable).",
+        "**Niveau 4 : Niveau de crise / Catastrophique** — *Désastreux* (un échec désastreux), *Catastrophique* (une panne catastrophique)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "🏔️ 3. Taille & Échelle (\"Grand\")"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "**Niveau 0 : La base (Grand)** — Indicateur de taille basique.",
+        "**Niveau 1 : Échelle modérée** — *Important* (un investissement important), *Considérable* (des progrès considérables).",
+        "**Niveau 2 : Grande échelle (Oubliez \"Très grand\")** — *Immense* (une immense fierté), *Gigantesque* (un projet gigantesque).",
+        "**Niveau 3 : Échelle supérieure** — *Colossal* (un effort colossal), *Monstrueux* (un succès monstrueux).",
+        "**Niveau 4 : Échelle monumentale / Élite** — *Monumental* (un travail monumental), *Incommensurable* (une valeur incommensurable)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "✨ 4. Esthétique & Intérêt (\"Beau\" & \"Intéressant\")"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "**Niveau 0 : La base (Joli / Intéressant)** — Mots courants.",
+        "**Niveau 1 : Amélioration plaisante** — *Attrayant* (un design attrayant), *Séduisant* (une option séduisante).",
+        "**Niveau 2 : Fort pouvoir d'attraction** — *Magnifique* (une vue magnifique), *Passionnant* (un livre passionnant), *Splendide* (un décor splendide).",
+        "**Niveau 3 : Impact profond** — *Saisissant* (un paysage saisissant), *Captivant* (un récit captivant).",
+        "**Niveau 4 : Émerveillement absolu / Élite** — *Fascinant* (un coucher de soleil fascinant), *Ensorceleur* (un spectacle ensorceleur)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "⚡ 5. Émotion & Énergie (\"Énervé\" & \"Fatigué\")"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "**Niveau 0 : La base (Énervé / Fatigué)** — Description d'état basique.",
+        "**Niveau 1 : Intensité modérée** — *Agacé* (agacé par le retard), *Lassé* (se sentir lassé).",
+        "**Niveau 2 : Forte intensité (Oubliez \"Très énervé/fatigué\")** — *Furieux* (furieux contre la décision), *Épuisé* (épuisé après la course).",
+        "**Niveau 3 : Intensité extrême** — *Outré* (un public outré), *Exténué* (complètement exténué).",
+        "**Niveau 4 : Seuil maximal** — *Hors de lui / Hors de soi* (hors de lui de colère), *À bout de forces* (à bout de forces après le travail)."
       ]
     },
     {
@@ -95,14 +164,29 @@
           "Intelligence & Solution"
         ],
         [
-          "\"Un très bon employé\"",
-          "*Exceptionnel / Fiable*",
-          "Éthique & Compétence"
+          "\"Un très mauvais résultat\"",
+          "*Désastreux / Atroce*",
+          "Échecs & Conséquences grave"
+        ],
+        [
+          "\"Une très grande entreprise\"",
+          "*Colossale / Immense*",
+          "Taille & Influence"
+        ],
+        [
+          "\"Un très beau coucher de soleil\"",
+          "*Saisissant / Fascinant*",
+          "Beauté visuelle & Nature"
         ],
         [
           "\"Un très bon film\"",
           "*Captivant / Remarquable*",
           "Valeur artistique & Divertissement"
+        ],
+        [
+          "\"Être très fatigué\"",
+          "*Épuisé / Exténué*",
+          "Énergie physique & mentale"
         ]
       ]
     },
