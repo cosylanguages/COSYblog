@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-20T09:25:39.821Z",
+  "generatedAt": "2026-10-20T10:01:31.731Z",
   "stats": {
-    "totalPosts": 28,
+    "totalPosts": 29,
     "totalDesks": 13,
     "totalIssues": 4
   },
@@ -89,7 +89,7 @@
   "issues": [
     {
       "number": "Vol. 2026.11",
-      "title": "Beyond Translation & Code-Switching"
+      "title": "Mind Matters: Neuroplasticity & Flexible Thinking"
     },
     {
       "number": "Vol. 2026.08",
@@ -105,6 +105,53 @@
     }
   ],
   "posts": [
+    {
+      "id": "post-neuroplasticity-and-the-playful-brain",
+      "slug": "neuroplasticity-and-the-playful-brain",
+      "language": "en",
+      "desk": "COSYtalks",
+      "format": "essay",
+      "level": "B1–B2",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "Mind Matters: Neuroplasticity & Flexible Thinking"
+      },
+      "date": "2026-11-10",
+      "title": "Unlocking Neuroplasticity: How to Reclaim Your Playful Brain in Language Learning",
+      "kicker": "COSYTALKS",
+      "dek": "Why rigid grammar habits make our brain feel broken, and how embracing synaptic plasticity lets us play with language structures effortlessly.",
+      "tags": [
+        "Neuroplasticity",
+        "CognitiveFlexibility",
+        "LanguageAcquisition",
+        "MindMatters",
+        "SpeakingClub"
+      ],
+      "readingTime": 7,
+      "podcast": {
+        "episode": 3,
+        "audioUrl": "audio/neuroplasticity-and-the-playful-brain.mp3",
+        "externalUrl": "https://open.spotify.com/episode/cosytalks-neuroplasticity-demo"
+      },
+      "artDirection": {
+        "palette": [
+          "#742a2a",
+          "#e53e3e",
+          "#d69e2e",
+          "#fff5f5"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "gingham-knit",
+        "seed": "neuroplasticity-and-the-playful-brain",
+        "coverOverride": null
+      },
+      "draft": false
+    },
     {
       "id": "post-beyond-code-switching-and-translation",
       "slug": "beyond-code-switching-and-translation",

@@ -1,5 +1,49 @@
 [
   {
+    "slug": "neuroplasticity-and-the-playful-brain",
+    "title": "Unlocking Neuroplasticity: How to Reclaim Your Playful Brain in Language Learning",
+    "date": "2026-11-10",
+    "updated": null,
+    "category": "COSYtalks",
+    "summary": "Why rigid grammar habits make our brain feel broken, and how embracing synaptic plasticity lets us play with language structures effortlessly.",
+    "author": "JY DM",
+    "reading_time": 7,
+    "cover_image": "",
+    "tags": [
+      "Neuroplasticity",
+      "CognitiveFlexibility",
+      "LanguageAcquisition",
+      "MindMatters",
+      "SpeakingClub"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "neuroplasticity-and-the-playful-brain.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "Mind Matters: Neuroplasticity & Flexible Thinking",
+    "cefr_level": "B1–B2",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine Mind Matters: Neuroplasticity & Flexible Thinking edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#742a2a",
+        "#e53e3e",
+        "#d69e2e",
+        "#fff5f5"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "gingham-knit",
+      "seed": "neuroplasticity-and-the-playful-brain",
+      "coverOverride": null
+    }
+  },
+  {
     "slug": "beyond-code-switching-and-translation",
     "title": "Beyond Code-Switching & Translation: Embracing L2 Integration with Warmth and Practical Strategies",
     "date": "2026-11-05",
