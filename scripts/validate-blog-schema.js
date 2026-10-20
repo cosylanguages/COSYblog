@@ -22,7 +22,16 @@ const ALLOWED_DESKS = new Set([
   'Cosy Events',
   'The Podcast',
   'Back Issues',
-  'Reflections'
+  'Reflections',
+  'Teacher Diaries',
+  'Research Digest',
+  'Around the World',
+  'AI Corner',
+  'Debate & Opinion',
+  'Global Voices',
+  'Vocabulary Spread',
+  'Pronunciation Lab',
+  'Book Shelf & Cinema'
 ]);
 
 const ALLOWED_FORMATS = new Set([
@@ -327,6 +336,15 @@ function runCLI() {
     'desk.the_podcast',
     'desk.back_issues',
     'desk.reflections',
+    'desk.teacher_diaries',
+    'desk.research_digest',
+    'desk.around_the_world',
+    'desk.ai_corner',
+    'desk.debate_opinion',
+    'desk.global_voices',
+    'desk.vocabulary_spread',
+    'desk.pronunciation_lab',
+    'desk.bookshelf_cinema',
     'nav.courses',
     'nav.calculator',
     'nav.blog',

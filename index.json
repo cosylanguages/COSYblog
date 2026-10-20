@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-20T12:16:49.578Z",
+  "generatedAt": "2026-10-20T13:20:20.858Z",
   "stats": {
     "totalPosts": 30,
-    "totalDesks": 13,
+    "totalDesks": 22,
     "totalIssues": 4
   },
   "desks": [
@@ -62,28 +62,82 @@
       "order": 9
     },
     {
+      "key": "Teacher Diaries",
+      "i18n_key": "desk_teacher_diaries",
+      "icon": "📓",
+      "order": 10
+    },
+    {
+      "key": "Research Digest",
+      "i18n_key": "desk_research_digest",
+      "icon": "🔬",
+      "order": 11
+    },
+    {
+      "key": "Around the World",
+      "i18n_key": "desk_around_the_world",
+      "icon": "🌍",
+      "order": 12
+    },
+    {
+      "key": "AI Corner",
+      "i18n_key": "desk_ai_corner",
+      "icon": "🤖",
+      "order": 13
+    },
+    {
+      "key": "Debate &amp; Opinion",
+      "i18n_key": "desk_debate_opinion",
+      "icon": "⚖️",
+      "order": 14
+    },
+    {
+      "key": "Global Voices",
+      "i18n_key": "desk_global_voices",
+      "icon": "🌐",
+      "order": 15
+    },
+    {
+      "key": "Vocabulary Spread",
+      "i18n_key": "desk_vocabulary_spread",
+      "icon": "📚",
+      "order": 16
+    },
+    {
+      "key": "Pronunciation Lab",
+      "i18n_key": "desk_pronunciation_lab",
+      "icon": "🎙️",
+      "order": 17
+    },
+    {
+      "key": "Book Shelf &amp; Cinema",
+      "i18n_key": "desk_bookshelf_cinema",
+      "icon": "🎬",
+      "order": 18
+    },
+    {
       "key": "Cosy Events",
       "i18n_key": "desk_cosy_events",
       "icon": "🎉",
-      "order": 10
+      "order": 19
     },
     {
       "key": "The Podcast",
       "i18n_key": "desk_the_podcast",
-      "icon": "🎙️",
-      "order": 11
+      "icon": "🎧",
+      "order": 20
     },
     {
       "key": "Back Issues",
       "i18n_key": "desk_back_issues",
       "icon": "🗄️",
-      "order": 12
+      "order": 21
     },
     {
       "key": "Reflections",
       "i18n_key": "desk_reflections",
       "icon": "💭",
-      "order": 13
+      "order": 22
     }
   ],
   "issues": [

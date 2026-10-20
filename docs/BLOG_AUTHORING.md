@@ -31,7 +31,7 @@ Each post JSON file MUST contain the following top-level fields:
 | `language` | `string` | Yes | ISO 639-1 code of the article content. | `"en"`, `"fr"`, `"it"`, `"ru"`, `"el"`, `"es"`, `"de"`, `"pt"`, `"hy"`, `"ka"`, `"tt"`, `"ba"`, `"br"` |
 | `translationOf` | `string` | No | Base post slug if this is a language variant. | `"top-100-a0-a1"` |
 | `draft` | `boolean` | No | When `true`, post is excluded from production builds. | `false` |
-| `desk` | `string` | Yes | Editorial desk classification. | `"Front Page"`, `"Words"`, `"Grammar Made Cosy"`, `"Say It"`, `"Culture & Quotes"`, `"Long Reads"`, `"Cosy Events"`, `"The Podcast"`, `"Back Issues"`, `"Reflections"` |
+| `desk` | `string` | Yes | Editorial desk classification. | `"Front Page"`, `"Words"`, `"Grammar Made Cosy"`, `"Say It"`, `"Culture & Quotes"`, `"Long Reads"`, `"Teacher Diaries"`, `"Research Digest"`, `"Around the World"`, `"AI Corner"`, `"Debate & Opinion"`, `"Global Voices"`, `"Vocabulary Spread"`, `"Pronunciation Lab"`, `"Book Shelf & Cinema"`, `"Cosy Events"`, `"The Podcast"`, `"Back Issues"`, `"Reflections"` |
 | `format` | `string` | Yes | Vogue/Gazette layout format. | `"list"`, `"essay"`, `"qa"`, `"ranking"`, `"photo-essay"`, `"quiz"`, `"quote-wall"` |
 | `level` | `string` | Yes | CEFR target level. | `"A0–A1"`, `"A1"`, `"A2"`, `"B1"`, `"B2"`, `"C1"`, `"C2"`, `"A0–B2"` |
 | `issue` | `object` | Yes | Magazine volume and issue title object. | `{ "number": "Vol. 2026.08", "title": "Get ready for school" }` |
