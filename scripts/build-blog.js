@@ -28,19 +28,25 @@ const INDEX_JSON = path.join(BLOG_DIR, 'index.json');
 
 const DESKS_CATALOG = [
   { key: 'Front Page', i18n_key: 'desk_front_page', icon: '📰', order: 1 },
-  { key: 'Words', i18n_key: 'desk_words', icon: '🔤', order: 2 },
-  { key: 'Grammar Made Cosy', i18n_key: 'desk_grammar_made_cosy', icon: '📐', order: 3 },
-  { key: 'Say It', i18n_key: 'desk_say_it', icon: '🗣️', order: 4 },
-  { key: 'Culture &amp; Quotes', i18n_key: 'desk_culture_quotes', icon: '🎭', order: 5 },
-  { key: 'Long Reads', i18n_key: 'desk_long_reads', icon: '📖', order: 6 },
-  { key: 'Cosy Events', i18n_key: 'desk_cosy_events', icon: '🎉', order: 7 },
-  { key: 'The Podcast', i18n_key: 'desk_the_podcast', icon: '🎙️', order: 8 },
-  { key: 'Back Issues', i18n_key: 'desk_back_issues', icon: '🗄️', order: 9 },
-  { key: 'Reflections', i18n_key: 'desk_reflections', icon: '💭', order: 10 }
+  { key: 'Saturday Mistakes', i18n_key: 'desk_saturday_mistakes', icon: '🗓️', order: 2 },
+  { key: 'COSYtalks', i18n_key: 'desk_cosytalks', icon: '🎙️', order: 3 },
+  { key: 'Grammar', i18n_key: 'desk_grammar', icon: '📐', order: 4 },
+  { key: 'Words', i18n_key: 'desk_words', icon: '🔤', order: 5 },
+  { key: 'Grammar Made Cosy', i18n_key: 'desk_grammar_made_cosy', icon: '📐', order: 6 },
+  { key: 'Say It', i18n_key: 'desk_say_it', icon: '🗣️', order: 7 },
+  { key: 'Culture &amp; Quotes', i18n_key: 'desk_culture_quotes', icon: '🎭', order: 8 },
+  { key: 'Long Reads', i18n_key: 'desk_long_reads', icon: '📖', order: 9 },
+  { key: 'Cosy Events', i18n_key: 'desk_cosy_events', icon: '🎉', order: 10 },
+  { key: 'The Podcast', i18n_key: 'desk_the_podcast', icon: '🎙️', order: 11 },
+  { key: 'Back Issues', i18n_key: 'desk_back_issues', icon: '🗄️', order: 12 },
+  { key: 'Reflections', i18n_key: 'desk_reflections', icon: '💭', order: 13 }
 ];
 
 const DESK_KEY_MAP = {
   'Front Page': 'front_page',
+  'Saturday Mistakes': 'saturday_mistakes',
+  'COSYtalks': 'cosytalks',
+  'Grammar': 'grammar',
   'Words': 'words',
   'Grammar Made Cosy': 'grammar_made_cosy',
   'Say It': 'say_it',
