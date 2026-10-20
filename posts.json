@@ -1,5 +1,185 @@
 [
   {
+    "slug": "demystifying-english-tenses-timeline-guide-el",
+    "title": "Απομυθοποιώντας τους αγγλικούς χρόνους: Ο απόλυτος οδηγός χρονολογίου για Έλληνες μαθητές",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "Μια σταδιακή ανάλυση των 12 αγγλικών χρόνων ανά χρονικές συστάδες — από τις βασικές χρονικές αγκυρώσεις έως την καθημερινή ομιλία σε σύγκριση με το ακαδημαϊκό γράψιμο.",
+    "author": "JY DM",
+    "reading_time": 14,
+    "cover_image": "",
+    "tags": [
+      "Γραμματική",
+      "ΑγγλικοίΧρόνοι",
+      "Χρονολόγιο",
+      "ΚαθημερινάΑγγλικά",
+      "ΑκαδημαϊκάΑγγλικά",
+      "Ευχέρεια"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-english-tenses-timeline-guide-el.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "November Academia",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine November Academia edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#2d3748",
+        "#319795",
+        "#d69e2e",
+        "#f7fafc"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "riso-print",
+      "seed": "demystifying-english-tenses-timeline-guide-el",
+      "coverOverride": null
+    }
+  },
+  {
+    "slug": "demystifying-english-tenses-timeline-guide-fr",
+    "title": "Démystifier les temps en anglais : Le guide chronologique ultime pour les francophones",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "Une explication progressive par clusters chronologiques des 12 temps de l'anglais — des repères temporels simples aux usages réels du quotidien comparés à la rédaction académique.",
+    "author": "JY DM",
+    "reading_time": 14,
+    "cover_image": "",
+    "tags": [
+      "Grammaire",
+      "TempsAnglais",
+      "LigneDuTemps",
+      "AnglaisQuotidien",
+      "AnglaisAcademique",
+      "Fluidite"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-english-tenses-timeline-guide-fr.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "November Academia",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine November Academia edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#2d3748",
+        "#319795",
+        "#d69e2e",
+        "#f7fafc"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "riso-print",
+      "seed": "demystifying-english-tenses-timeline-guide-fr",
+      "coverOverride": null
+    }
+  },
+  {
+    "slug": "demystifying-english-tenses-timeline-guide-it",
+    "title": "Smontare i tempi verbali inglesi: La guida definitiva alla linea del tempo per studenti italiani",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "Un'analisi progressiva a cluster dei 12 tempi inglesi — dai semplici ancoraggi temporali all'uso parlato quotidiano messo a confronto con la scrittura accademica.",
+    "author": "JY DM",
+    "reading_time": 14,
+    "cover_image": "",
+    "tags": [
+      "Grammatica",
+      "TempiInglesi",
+      "LineaDelTempo",
+      "IngleseQuotidiano",
+      "IngleseAccademico",
+      "Fluidita"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-english-tenses-timeline-guide-it.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "November Academia",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine November Academia edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#2d3748",
+        "#319795",
+        "#d69e2e",
+        "#f7fafc"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "riso-print",
+      "seed": "demystifying-english-tenses-timeline-guide-it",
+      "coverOverride": null
+    }
+  },
+  {
+    "slug": "demystifying-english-tenses-timeline-guide-ru",
+    "title": "Разгадка английских времен: Главный хронологический гид для русскоговорящих",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "Пошаговый разбор 12 английских времен по кластерам временной шкалы — от баз физического времени до разницы между разговорной речью и академическим стилем.",
+    "author": "JY DM",
+    "reading_time": 14,
+    "cover_image": "",
+    "tags": [
+      "Грамматика",
+      "АнглийскиеВремена",
+      "ВременнаяШкала",
+      "РазговорныйАнглийский",
+      "АкадемическийАнглийский",
+      "БеглостьРечи"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-english-tenses-timeline-guide-ru.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "November Academia",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine November Academia edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#2d3748",
+        "#319795",
+        "#d69e2e",
+        "#f7fafc"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "riso-print",
+      "seed": "demystifying-english-tenses-timeline-guide-ru",
+      "coverOverride": null
+    }
+  },
+  {
     "slug": "demystifying-english-tenses-timeline-guide",
     "title": "Demystifying English Tenses: The Ultimate Master Timeline Guide for Learners",
     "date": "2026-11-15",

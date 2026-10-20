@@ -872,6 +872,79 @@ html[data-theme="dark"] .gazette-masthead-meta {
   margin-top: 0.75rem;
 }
 
+/* 7b. Spectrum Visual Flow Diagrams */
+
+.spectrum-visual-flow {
+  background: var(--blog-paper-card, #ffffff);
+  border: 1px solid var(--blog-border-delicate, #e7e0d6);
+  border-left: 4px solid var(--post-palette-accent, #0d9488);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+  box-shadow: var(--blog-shadow-paper, 0 4px 20px rgba(0,0,0,0.04));
+  font-size: var(--blog-text-sm, 0.875rem);
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.flow-title {
+  font-size: var(--blog-text-xs, 0.75rem);
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--blog-ink-muted, #78716c);
+  margin-bottom: 0.65rem;
+}
+
+.flow-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.flow-row:last-child {
+  margin-bottom: 0;
+}
+
+.flow-step-bad {
+  background: rgba(190, 18, 60, 0.08);
+  color: var(--blog-accent-crimson, #be123c);
+  border: 1px solid rgba(190, 18, 60, 0.2);
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.85em;
+  text-decoration: line-through;
+  opacity: 0.85;
+}
+
+.flow-step-good {
+  background: rgba(13, 148, 136, 0.1);
+  color: var(--post-palette-accent, #0d9488);
+  border: 1px solid rgba(13, 148, 136, 0.25);
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 0.85em;
+}
+
+.flow-step-pinnacle {
+  background: var(--post-palette-accent, #0d9488);
+  color: #ffffff;
+  padding: 0.2rem 0.55rem;
+  border-radius: 4px;
+  font-weight: 800;
+  font-size: 0.85em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.flow-arrow {
+  color: var(--blog-ink-muted, #a8a29e);
+  font-size: 0.85em;
+}
+
 /* 8. Mobile Responsiveness (390px Viewports) */
 
 @media (max-width: 600px) {

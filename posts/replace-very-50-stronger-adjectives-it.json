@@ -54,11 +54,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "📈 Lo spettro di \"Buono\": Dal livello base al livello élite"
+      "text": "📈 Lo spettro degli aggettivi: Dal livello base al livello élite"
     },
     {
       "type": "paragraph",
       "text": "Per superare l'altopiano intermedio, è fondamentale comprendere che le parole non sono semplici sinonimi: si collocano su una scala di intensità e contesto. Ecco come evolvere dal livello 0 al vocabolario di alto livello:"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "🌟 1. Qualità e Lodi (\"Buono / Ottimo\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Progression visiva: Catena ripetitiva ➔ Progressione intelligente</div><div class=\"flow-row\"><span class=\"flow-step-bad\">buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">molto buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">estremamente buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">super buono</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">piacevole</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">ottimo</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">eccellente</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">brillante / magistrale</span></div></div>"
     },
     {
       "type": "list-item",

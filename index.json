@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-20T13:04:27.714Z",
+  "generatedAt": "2026-10-20T16:26:11.544Z",
   "stats": {
-    "totalPosts": 30,
+    "totalPosts": 34,
     "totalDesks": 13,
     "totalIssues": 4
   },
@@ -105,6 +105,198 @@
     }
   ],
   "posts": [
+    {
+      "id": "post-demystifying-english-tenses-timeline-guide-el",
+      "slug": "demystifying-english-tenses-timeline-guide-el",
+      "language": "el",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "November Academia"
+      },
+      "date": "2026-11-15",
+      "title": "Απομυθοποιώντας τους αγγλικούς χρόνους: Ο απόλυτος οδηγός χρονολογίου για Έλληνες μαθητές",
+      "kicker": "ΓΡΑΜΜΑΤΙΚΗ COSY",
+      "dek": "Μια σταδιακή ανάλυση των 12 αγγλικών χρόνων ανά χρονικές συστάδες — από τις βασικές χρονικές αγκυρώσεις έως την καθημερινή ομιλία σε σύγκριση με το ακαδημαϊκό γράψιμο.",
+      "tags": [
+        "Γραμματική",
+        "ΑγγλικοίΧρόνοι",
+        "Χρονολόγιο",
+        "ΚαθημερινάΑγγλικά",
+        "ΑκαδημαϊκάΑγγλικά",
+        "Ευχέρεια"
+      ],
+      "readingTime": 14,
+      "podcast": {
+        "episode": 12,
+        "audioUrl": "audio/blog/demystifying-english-tenses-podcast-el.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#2d3748",
+          "#319795",
+          "#d69e2e",
+          "#f7fafc"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "riso-print",
+        "seed": "demystifying-english-tenses-timeline-guide-el",
+        "coverOverride": null
+      },
+      "translationOf": "demystifying-english-tenses-timeline-guide",
+      "draft": false
+    },
+    {
+      "id": "post-demystifying-english-tenses-timeline-guide-fr",
+      "slug": "demystifying-english-tenses-timeline-guide-fr",
+      "language": "fr",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "November Academia"
+      },
+      "date": "2026-11-15",
+      "title": "Démystifier les temps en anglais : Le guide chronologique ultime pour les francophones",
+      "kicker": "GRAMMAIRE SUR MESURE",
+      "dek": "Une explication progressive par clusters chronologiques des 12 temps de l'anglais — des repères temporels simples aux usages réels du quotidien comparés à la rédaction académique.",
+      "tags": [
+        "Grammaire",
+        "TempsAnglais",
+        "LigneDuTemps",
+        "AnglaisQuotidien",
+        "AnglaisAcademique",
+        "Fluidite"
+      ],
+      "readingTime": 14,
+      "podcast": {
+        "episode": 12,
+        "audioUrl": "audio/blog/demystifying-english-tenses-podcast-fr.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#2d3748",
+          "#319795",
+          "#d69e2e",
+          "#f7fafc"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "riso-print",
+        "seed": "demystifying-english-tenses-timeline-guide-fr",
+        "coverOverride": null
+      },
+      "translationOf": "demystifying-english-tenses-timeline-guide",
+      "draft": false
+    },
+    {
+      "id": "post-demystifying-english-tenses-timeline-guide-it",
+      "slug": "demystifying-english-tenses-timeline-guide-it",
+      "language": "it",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "November Academia"
+      },
+      "date": "2026-11-15",
+      "title": "Smontare i tempi verbali inglesi: La guida definitiva alla linea del tempo per studenti italiani",
+      "kicker": "GRAMMATICA COSY",
+      "dek": "Un'analisi progressiva a cluster dei 12 tempi inglesi — dai semplici ancoraggi temporali all'uso parlato quotidiano messo a confronto con la scrittura accademica.",
+      "tags": [
+        "Grammatica",
+        "TempiInglesi",
+        "LineaDelTempo",
+        "IngleseQuotidiano",
+        "IngleseAccademico",
+        "Fluidita"
+      ],
+      "readingTime": 14,
+      "podcast": {
+        "episode": 12,
+        "audioUrl": "audio/blog/demystifying-english-tenses-podcast-it.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#2d3748",
+          "#319795",
+          "#d69e2e",
+          "#f7fafc"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "riso-print",
+        "seed": "demystifying-english-tenses-timeline-guide-it",
+        "coverOverride": null
+      },
+      "translationOf": "demystifying-english-tenses-timeline-guide",
+      "draft": false
+    },
+    {
+      "id": "post-demystifying-english-tenses-timeline-guide-ru",
+      "slug": "demystifying-english-tenses-timeline-guide-ru",
+      "language": "ru",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "November Academia"
+      },
+      "date": "2026-11-15",
+      "title": "Разгадка английских времен: Главный хронологический гид для русскоговорящих",
+      "kicker": "ГРАММАТИКА В СТИЛЕ COSY",
+      "dek": "Пошаговый разбор 12 английских времен по кластерам временной шкалы — от баз физического времени до разницы между разговорной речью и академическим стилем.",
+      "tags": [
+        "Грамматика",
+        "АнглийскиеВремена",
+        "ВременнаяШкала",
+        "РазговорныйАнглийский",
+        "АкадемическийАнглийский",
+        "БеглостьРечи"
+      ],
+      "readingTime": 14,
+      "podcast": {
+        "episode": 12,
+        "audioUrl": "audio/blog/demystifying-english-tenses-podcast-ru.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#2d3748",
+          "#319795",
+          "#d69e2e",
+          "#f7fafc"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "riso-print",
+        "seed": "demystifying-english-tenses-timeline-guide-ru",
+        "coverOverride": null
+      },
+      "translationOf": "demystifying-english-tenses-timeline-guide",
+      "draft": false
+    },
     {
       "id": "post-demystifying-english-tenses-timeline-guide",
       "slug": "demystifying-english-tenses-timeline-guide",

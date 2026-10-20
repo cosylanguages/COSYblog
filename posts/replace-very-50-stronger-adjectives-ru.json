@@ -66,6 +66,10 @@
       "text": "🌟 1. Похвала и качество (\"Хороший / Отличный\")"
     },
     {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Наглядная градация: Однообразная цепочка ➔ Точный словарный выбор</div><div class=\"flow-row\"><span class=\"flow-step-bad\">хороший</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">очень хороший</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">крайне хороший</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">супер хороший</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">хороший</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">приятный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">замечательный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">отличный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">гениальный / виртуозный</span></div></div>"
+    },
+    {
       "type": "list-item",
       "ordered": true,
       "items": [
@@ -80,6 +84,10 @@
       "type": "heading",
       "level": 4,
       "text": "⚠️ 2. Критика и плохие последствия (\"Плохой\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Наглядная градация: Однообразная цепочка ➔ Точный словарный выбор</div><div class=\"flow-row\"><span class=\"flow-step-bad\">плохой</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">очень плохой</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">крайне плохой</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">супер плохой</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">скверный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">разочаровывающий</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">ужасный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">отвратительный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">катастрофический</span></div></div>"
     },
     {
       "type": "list-item",
@@ -98,6 +106,10 @@
       "text": "🏔️ 3. Размер и масштаб (\"Большой\")"
     },
     {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Наглядная градация: Однообразная цепочка ➔ Точный словарный выбор</div><div class=\"flow-row\"><span class=\"flow-step-bad\">большой</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">очень большой</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">крайне большой</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">супер большой</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">крупный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">значительный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">огромный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">гигантский</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">колоссальный / монументальный</span></div></div>"
+    },
+    {
       "type": "list-item",
       "ordered": true,
       "items": [
@@ -114,6 +126,10 @@
       "text": "✨ 4. Эстетика и интерес (\"Красивый\" & \"Интересный\")"
     },
     {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Наглядная градация: Однообразная цепочка ➔ Точный словарный выбор</div><div class=\"flow-row\"><span class=\"flow-step-bad\">симпатичный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">очень красивый</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">очень интересный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">супер интересный</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">привлекательный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">прекрасный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">живописный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">захватывающий</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">завораживающий / восхитительный</span></div></div>"
+    },
+    {
       "type": "list-item",
       "ordered": true,
       "items": [
@@ -128,6 +144,10 @@
       "type": "heading",
       "level": 4,
       "text": "⚡ 5. Эмоции и усталость (\"Злой\" & \"Уставший\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Наглядная градация: Однообразная цепочка ➔ Точный словарный выбор</div><div class=\"flow-row\"><span class=\"flow-step-bad\">злой / уставший</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">очень злой</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">очень уставший</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">крайне уставший</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">раздраженный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">разъяренный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">изнуренный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">обессиленный</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">свирепый / выжат как лимон</span></div></div>"
     },
     {
       "type": "list-item",

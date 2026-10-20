@@ -65,6 +65,10 @@
       "text": "🌟 1. Praise & Quality (\"Good\")"
     },
     {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Visual Progression: Baseline ➔ Overused Chain vs. Smart Spectrum Upgrade</div><div class=\"flow-row\"><span class=\"flow-step-bad\">good</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">very good</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">extremely good</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">super good</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">good</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">enjoyable</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">great</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">excellent</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">brilliant / masterful</span></div></div>"
+    },
+    {
       "type": "list-item",
       "ordered": true,
       "items": [
@@ -79,6 +83,10 @@
       "type": "heading",
       "level": 4,
       "text": "⚠️ 2. Criticism & Negativity (\"Bad\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Visual Progression: Baseline ➔ Overused Chain vs. Smart Spectrum Upgrade</div><div class=\"flow-row\"><span class=\"flow-step-bad\">bad / poor</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">very bad</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">extremely bad</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">super bad</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">subpar</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">disappointing</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">awful</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">atrocious</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">disastrous / abysmal</span></div></div>"
     },
     {
       "type": "list-item",
@@ -97,6 +105,10 @@
       "text": "🏔️ 3. Size & Scale (\"Big\")"
     },
     {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Visual Progression: Baseline ➔ Overused Chain vs. Smart Spectrum Upgrade</div><div class=\"flow-row\"><span class=\"flow-step-bad\">big / large</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">very big</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">extremely big</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">super big</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">big</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">sizable</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">huge</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">gigantic</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">colossal / monumental</span></div></div>"
+    },
+    {
       "type": "list-item",
       "ordered": true,
       "items": [
@@ -113,6 +125,10 @@
       "text": "✨ 4. Aesthetics & Engagement (\"Beautiful\" & \"Interesting\")"
     },
     {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Visual Progression: Baseline ➔ Overused Chain vs. Smart Spectrum Upgrade</div><div class=\"flow-row\"><span class=\"flow-step-bad\">pretty</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">very beautiful</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">very interesting</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">super interesting</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">attractive</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">gorgeous</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">breathtaking</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">captivating</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">mesmerizing / enthralling</span></div></div>"
+    },
+    {
       "type": "list-item",
       "ordered": true,
       "items": [
@@ -127,6 +143,10 @@
       "type": "heading",
       "level": 4,
       "text": "⚡ 5. Emotion & Energy (\"Angry\" & \"Tired\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Visual Progression: Baseline ➔ Overused Chain vs. Smart Spectrum Upgrade</div><div class=\"flow-row\"><span class=\"flow-step-bad\">angry / tired</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">very angry</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">very tired</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">extremely tired</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">annoyed / weary</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">furious</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">exhausted</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">outraged</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">seething / utterly spent</span></div></div>"
     },
     {
       "type": "list-item",
