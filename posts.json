@@ -45,6 +45,182 @@
     }
   },
   {
+    "slug": "demystifying-french-tenses-timeline-guide-fr",
+    "title": "Démystifier les temps en français : Le guide chronologique ultime pour les apprenants",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "Du Passé Composé au Subjonctif : maîtrisez la ligne du temps, les aspects et les modes de la langue française avec clarté et logique.",
+    "author": "JY DM",
+    "reading_time": 12,
+    "cover_image": "",
+    "tags": [
+      "Grammar",
+      "FrenchTenses",
+      "Timelines",
+      "Conjugation",
+      "Fluency"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-french-tenses-timeline-guide-fr.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "November Academia",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine November Academia edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#1a365d",
+        "#3182ce",
+        "#dd6b20",
+        "#ebf8ff"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "window-light",
+      "seed": "demystifying-french-tenses-timeline-guide-fr",
+      "coverOverride": null
+    }
+  },
+  {
+    "slug": "demystifying-greek-tenses-timeline-guide-el",
+    "title": "Αποκωδικοποιώντας τους Ελληνικούς Χρόνους: Χρονική Γραμμή και Όψη για Μαθητές",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "Από τον Ενεστώτα και τον Αόριστο έως τον Παρακείμενο: ένας πλήρης οδηγός για τη διάρκεια και την όψη των ρημάτων.",
+    "author": "JY DM",
+    "reading_time": 12,
+    "cover_image": "",
+    "tags": [
+      "Grammar",
+      "GreekTenses",
+      "Timelines",
+      "Conjugation",
+      "Fluency"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-greek-tenses-timeline-guide-el.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "Ακαδημία Νοεμβρίου",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine Ακαδημία Νοεμβρίου edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#1a365d",
+        "#3182ce",
+        "#dd6b20",
+        "#ebf8ff"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "window-light",
+      "seed": "demystifying-greek-tenses-timeline-guide-el",
+      "coverOverride": null
+    }
+  },
+  {
+    "slug": "demystifying-italian-tenses-timeline-guide-it",
+    "title": "Smontare i tempi verbali italiani: La guida definitiva alla linea del tempo per studenti",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "Dal Passato Prossimo al Congiuntivo: domina la cronologia, gli aspetti e i modi della lingua italiana con chiarezza e naturalezza.",
+    "author": "JY DM",
+    "reading_time": 12,
+    "cover_image": "",
+    "tags": [
+      "Grammar",
+      "ItalianTenses",
+      "Timelines",
+      "Conjugation",
+      "Fluency"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-italian-tenses-timeline-guide-it.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "Accademia di Novembre",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine Accademia di Novembre edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#1a365d",
+        "#3182ce",
+        "#dd6b20",
+        "#ebf8ff"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "window-light",
+      "seed": "demystifying-italian-tenses-timeline-guide-it",
+      "coverOverride": null
+    }
+  },
+  {
+    "slug": "demystifying-russian-tenses-timeline-guide-ru",
+    "title": "Разгадка русской глагольной системы: Время, вид и хронология для изучающих язык",
+    "date": "2026-11-15",
+    "updated": null,
+    "category": "Grammar",
+    "summary": "От НСВ и СВ до наклонений: понятный гид по временной шкале и аспектам русского глагола.",
+    "author": "JY DM",
+    "reading_time": 12,
+    "cover_image": "",
+    "tags": [
+      "Grammar",
+      "RussianTenses",
+      "Timelines",
+      "Conjugation",
+      "Fluency"
+    ],
+    "featured": false,
+    "type": "post",
+    "url": "demystifying-russian-tenses-timeline-guide-ru.html",
+    "issue_volume": "Vol. 2026.11",
+    "issue_title": "Академия Ноября",
+    "cefr_level": "A2–C1",
+    "vibe": "Editorial Vibe",
+    "founder_notes": "Target-language guidance by JY DM for COSYmagazine Академия Ноября edition.",
+    "audio_podcast": true,
+    "artDirection": {
+      "palette": [
+        "#1a365d",
+        "#3182ce",
+        "#dd6b20",
+        "#ebf8ff"
+      ],
+      "fonts": {
+        "display": "Fraunces",
+        "text": "DM Sans",
+        "accent": "Fraunces Italic"
+      },
+      "layout": "standard-feed",
+      "motif": "window-light",
+      "seed": "demystifying-russian-tenses-timeline-guide-ru",
+      "coverOverride": null
+    }
+  },
+  {
     "slug": "neuroplasticity-and-the-playful-brain",
     "title": "Unlocking Neuroplasticity: How to Reclaim Your Playful Brain in Language Learning",
     "date": "2026-11-10",
@@ -797,7 +973,7 @@
     "category": "Words",
     "summary": "Αναβαθμίστε τα ελληνικά σας αντικαθιστώντας τον επαναλαμβανόμενο συνδυασμό 'πολύ + επίθετο' με 50 ακριβή, εκφραστικά και φυσικά επίθετα.",
     "author": "JY DM",
-    "reading_time": 3,
+    "reading_time": 5,
     "cover_image": "",
     "tags": [
       "Λεξιλόγιο",
@@ -841,7 +1017,7 @@
     "category": "Words",
     "summary": "Passez au niveau supérieur en remplaçant la combinaison répétitive 'très + adjectif' par 50 adjectifs précis, expressifs et naturels.",
     "author": "JY DM",
-    "reading_time": 3,
+    "reading_time": 5,
     "cover_image": "",
     "tags": [
       "Vocabulaire",
@@ -885,7 +1061,7 @@
     "category": "Words",
     "summary": "Migliora la tua padronanza dell'italiano sostituendo la combinazione ripetitiva 'molto + aggettivo' con 50 aggettivi precisi, espressivi e naturali.",
     "author": "JY DM",
-    "reading_time": 3,
+    "reading_time": 5,
     "cover_image": "",
     "tags": [
       "Vocabolario",
@@ -929,7 +1105,7 @@
     "category": "Words",
     "summary": "Поднимите уровень своего языка, заменив повторяющуюся связку 'очень + прилагательное' 50 выразительными, точными и естественными прилагательными.",
     "author": "JY DM",
-    "reading_time": 3,
+    "reading_time": 5,
     "cover_image": "",
     "tags": [
       "СловарныйЗапас",
@@ -973,7 +1149,7 @@
     "category": "Words",
     "summary": "Level up your English vocabulary by replacing repetitive 'very + adjective' combinations with 50 powerful, precise adjectives and bonus advanced upgrades.",
     "author": "JY DM",
-    "reading_time": 5,
+    "reading_time": 6,
     "cover_image": "",
     "tags": [
       "Vocabulary",

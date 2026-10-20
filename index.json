@@ -1,8 +1,8 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-20T12:16:49.578Z",
+  "generatedAt": "2026-10-20T18:07:08.380Z",
   "stats": {
-    "totalPosts": 30,
+    "totalPosts": 34,
     "totalDesks": 13,
     "totalIssues": 4
   },
@@ -148,6 +148,190 @@
         "layout": "standard-feed",
         "motif": "window-light",
         "seed": "demystifying-english-tenses-timeline-guide",
+        "coverOverride": null
+      },
+      "draft": false
+    },
+    {
+      "id": "demystifying-french-tenses-timeline-guide-fr",
+      "slug": "demystifying-french-tenses-timeline-guide-fr",
+      "language": "fr",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "November Academia"
+      },
+      "date": "2026-11-15",
+      "title": "Démystifier les temps en français : Le guide chronologique ultime pour les apprenants",
+      "kicker": "GRAMMAR MADE COSY",
+      "dek": "Du Passé Composé au Subjonctif : maîtrisez la ligne du temps, les aspects et les modes de la langue française avec clarté et logique.",
+      "tags": [
+        "Grammar",
+        "FrenchTenses",
+        "Timelines",
+        "Conjugation",
+        "Fluency"
+      ],
+      "readingTime": 12,
+      "podcast": {
+        "episode": 13,
+        "audioUrl": "audio/blog/demystifying-french-tenses-podcast-fr.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#1a365d",
+          "#3182ce",
+          "#dd6b20",
+          "#ebf8ff"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "window-light",
+        "seed": "demystifying-french-tenses-timeline-guide-fr",
+        "coverOverride": null
+      },
+      "draft": false
+    },
+    {
+      "id": "demystifying-greek-tenses-timeline-guide-el",
+      "slug": "demystifying-greek-tenses-timeline-guide-el",
+      "language": "el",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "Ακαδημία Νοεμβρίου"
+      },
+      "date": "2026-11-15",
+      "title": "Αποκωδικοποιώντας τους Ελληνικούς Χρόνους: Χρονική Γραμμή και Όψη για Μαθητές",
+      "kicker": "GRAMMAR MADE COSY",
+      "dek": "Από τον Ενεστώτα και τον Αόριστο έως τον Παρακείμενο: ένας πλήρης οδηγός για τη διάρκεια και την όψη των ρημάτων.",
+      "tags": [
+        "Grammar",
+        "GreekTenses",
+        "Timelines",
+        "Conjugation",
+        "Fluency"
+      ],
+      "readingTime": 12,
+      "podcast": {
+        "episode": 14,
+        "audioUrl": "audio/blog/demystifying-greek-tenses-podcast-el.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#1a365d",
+          "#3182ce",
+          "#dd6b20",
+          "#ebf8ff"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "window-light",
+        "seed": "demystifying-greek-tenses-timeline-guide-el",
+        "coverOverride": null
+      },
+      "draft": false
+    },
+    {
+      "id": "demystifying-italian-tenses-timeline-guide-it",
+      "slug": "demystifying-italian-tenses-timeline-guide-it",
+      "language": "it",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "Accademia di Novembre"
+      },
+      "date": "2026-11-15",
+      "title": "Smontare i tempi verbali italiani: La guida definitiva alla linea del tempo per studenti",
+      "kicker": "GRAMMAR MADE COSY",
+      "dek": "Dal Passato Prossimo al Congiuntivo: domina la cronologia, gli aspetti e i modi della lingua italiana con chiarezza e naturalezza.",
+      "tags": [
+        "Grammar",
+        "ItalianTenses",
+        "Timelines",
+        "Conjugation",
+        "Fluency"
+      ],
+      "readingTime": 12,
+      "podcast": {
+        "episode": 13,
+        "audioUrl": "audio/blog/demystifying-italian-tenses-podcast-it.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#1a365d",
+          "#3182ce",
+          "#dd6b20",
+          "#ebf8ff"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "window-light",
+        "seed": "demystifying-italian-tenses-timeline-guide-it",
+        "coverOverride": null
+      },
+      "draft": false
+    },
+    {
+      "id": "demystifying-russian-tenses-timeline-guide-ru",
+      "slug": "demystifying-russian-tenses-timeline-guide-ru",
+      "language": "ru",
+      "desk": "Grammar",
+      "format": "essay",
+      "level": "A2–C1",
+      "issue": {
+        "number": "Vol. 2026.11",
+        "title": "Академия Ноября"
+      },
+      "date": "2026-11-15",
+      "title": "Разгадка русской глагольной системы: Время, вид и хронология для изучающих язык",
+      "kicker": "GRAMMAR MADE COSY",
+      "dek": "От НСВ и СВ до наклонений: понятный гид по временной шкале и аспектам русского глагола.",
+      "tags": [
+        "Grammar",
+        "RussianTenses",
+        "Timelines",
+        "Conjugation",
+        "Fluency"
+      ],
+      "readingTime": 12,
+      "podcast": {
+        "episode": 13,
+        "audioUrl": "audio/blog/demystifying-russian-tenses-podcast-ru.mp3"
+      },
+      "artDirection": {
+        "palette": [
+          "#1a365d",
+          "#3182ce",
+          "#dd6b20",
+          "#ebf8ff"
+        ],
+        "fonts": {
+          "display": "Fraunces",
+          "text": "DM Sans",
+          "accent": "Fraunces Italic"
+        },
+        "layout": "standard-feed",
+        "motif": "window-light",
+        "seed": "demystifying-russian-tenses-timeline-guide-ru",
         "coverOverride": null
       },
       "draft": false
@@ -973,7 +1157,7 @@
         "B1-B2",
         "Ελληνικά"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-el.mp3"
@@ -1020,7 +1204,7 @@
         "B1-B2",
         "Français"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-fr.mp3"
@@ -1067,7 +1251,7 @@
         "B1-B2",
         "Italiano"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-it.mp3"
@@ -1114,7 +1298,7 @@
         "B1-B2",
         "Русский"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-ru.mp3"
@@ -1160,7 +1344,7 @@
         "Adjectives",
         "B1-B2"
       ],
-      "readingTime": 5,
+      "readingTime": 6,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives.mp3"

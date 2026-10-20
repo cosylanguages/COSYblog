@@ -20,7 +20,7 @@
     "B1-B2",
     "Italiano"
   ],
-  "readingTime": 3,
+  "readingTime": 5,
   "podcast": {
     "episode": 3,
     "audioUrl": "audio/replace-very-50-stronger-adjectives-it.mp3"
@@ -50,6 +50,70 @@
     {
       "type": "paragraph",
       "text": "Sebbene dire *\"molto grande\"*, *\"molto buono\"* o *\"molto stanco\"* sia corretto, ripetere *\"molto\"* in ogni frase rende il discorso piatto. Scegliere aggettivi forti e precisi dona subito alla tua espressione un tono più naturale, fluido e sofisticato."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📈 Lo spettro degli aggettivi: Dal livello base al livello élite"
+    },
+    {
+      "type": "paragraph",
+      "text": "Per superare l'altopiano intermedio, è fondamentale comprendere che le parole non sono semplici sinonimi: si collocano su una scala di intensità e contesto. Ecco come evolvere dal livello 0 al vocabolario di alto livello:"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "🌟 1. Qualità e Lodi (\"Buono / Ottimo\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"spectrum-visual-flow\"><div class=\"flow-title\">📊 Progression visiva: Catena ripetitiva ➔ Progressione intelligente</div><div class=\"flow-row\"><span class=\"flow-step-bad\">buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">molto buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">estremamente buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-bad\">super buono</span></div><div class=\"flow-row\"><span class=\"flow-step-good\">buono</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">piacevole</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">ottimo</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-good\">eccellente</span><span class=\"flow-arrow\">➔</span><span class=\"flow-step-pinnacle\">brillante / magistrale</span></div></div>"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "**Livello 0: La base (Buono / Bello / Ok)** — Funzionali, ma non creano immagini vivide nella mente dell'interlocutore.",
+        "**Livello 1: Lieve miglioramento (Piacevole & Soddisfacente)** — Da usare quando qualcosa risponde bene alle aspettative: *Piacevole* (una passeggiata piacevole), *Soddisfacente* (un pasto soddisfacente), *Dignitoso* (un lavoro dignitoso), *Solido* (una prestazione solida).",
+        "**Livello 2: Forte & Impressionante (Dimentica \"Molto buono\")** — Esprimono qualità senza usare \"molto\": *Ottimo* (un ottimo sforzo), *Impressionante* (risultati impressionanti), *Notevole* (un talento notevole), *Superbo* (un servizio superbo), *Splendido* (un momento splendido).",
+        "**Livello 3: Di alto livello (Dimentica \"Estremamente buono\")** — Quando le parole ordinarie non bastano: *Eccellente* (un contributo eccellente), *Eccezionale* (un servizio eccezionale), *Straordinario* (un traguardo straordinario), *Di prima classe / Top* (cibo di prima classe).",
+        "**Livello 4: Vertice / Élite (Dimentica \"Il migliore / Super buono\")** — Per qualità leggendaria o maestria assoluta: *Brillante* (un'idea brillante), *Magistrale* (un racconto magistrale), *Fenomenale* (una performance fenomenale), *Impeccabile* (un'esecuzione impeccabile), *Squisito* (un gioiello squisito; ideale per cucina, arte e artigianato)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "💡 Guida rapida al contesto"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Invece di dire...",
+        "Scegli...",
+        "Contesto / Sfumatura"
+      ],
+      "rows": [
+        [
+          "\"Cibo molto buono\"",
+          "*Squisito / Delizioso*",
+          "Gusto e Cucina"
+        ],
+        [
+          "\"Un'idea molto buona\"",
+          "*Brillante / Geniale*",
+          "Intelligenza e Soluzioni"
+        ],
+        [
+          "\"Un lavoratore molto buono\"",
+          "*Eccezionale / Affidabile*",
+          "Etica e Competenza"
+        ],
+        [
+          "\"Un film molto buono\"",
+          "*Coinvolgente / Straordinario*",
+          "Intrattenimento e Arte"
+        ]
+      ]
     },
     {
       "type": "paragraph",
