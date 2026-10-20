@@ -635,10 +635,13 @@
             if (this.prevBtn) this.prevBtn.disabled = pageIndex === 1;
             if (this.nextBtn) {
                 const step = (!isMobile && this.mode === 'flipbook') ? 2 : 1;
-                this.nextBtn.disabled = pageIndex + step > this.totalPages && pageIndex === this.totalPages;
+                // In a two-page spread the right-hand page is pageIndex + 1, so the last spread is the one that reaches the final page
+                this.nextBtn.disabled = (pageIndex + step - 1) >= this.totalPages;
             }
             if (this.progressBarEl) {
                 this.progressBarEl.style.width = `${(pageIndex / this.totalPages) * 100}%`;
+                const rule = this.progressBarEl.closest('.magazine-progress-rule');
+                if (rule) rule.setAttribute('aria-valuenow', String(pageIndex));
             }
 
             if (this.liveAnnouncerEl) {
