@@ -130,6 +130,9 @@
   },
   "desk": {
     "front_page": "Πρώτη Σελίδα",
+    "saturday_mistakes": "Λάθη του Σαββάτου",
+    "cosytalks": "COSYtalks",
+    "grammar": "Γραμματική",
     "words": "Λέξεις",
     "grammar_made_cosy": "Γραμματική Cosy",
     "say_it": "Πες Το",
@@ -201,6 +204,7 @@
     "issue_august_title": "Ετοιμαστείτε για το σχολείο",
     "issue_september_title": "Εγώ εναντίον του ενδιάμεσου οροπεδίου",
     "issue_october_title": "Τα γενέθλια του JY DM & τα αγαπημένα του",
+    "issue_november_title": "Νοεμβριανή Ακαδημία",
     "page_x_of_y": "Σελίδα {current} από {total}",
     "script_teleprompter": "📜 Τηλεσυφλέρ"
   }

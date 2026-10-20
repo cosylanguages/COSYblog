@@ -13,7 +13,7 @@ This document specifies the canonical JSON/Object schema for blog posts within t
 | `language` | `string` | Yes | ISO 639-1 language code of the post content. | `"en"`, `"fr"`, `"it"`, `"ru"`, `"el"`, `"es"`, `"de"`, `"pt"`, `"hy"`, `"ka"`, `"tt"`, `"ba"`, `"br"` |
 | `translationOf` | `string` | No | Slug of the base post of which this post is a translation variant. | `"replace-50-overused-phrases"` |
 | `draft` | `boolean` | No | Whether the post is a draft (skipped in builds if `true`). | `true`, `false` |
-| `desk` | `string` | Yes | Primary editorial desk key (localisable via UI i18n without fallbacks). | `"Front Page"`, `"Words"`, `"Grammar Made Cosy"`, `"Say It"`, `"Culture & Quotes"`, `"Long Reads"`, `"Cosy Events"`, `"The Podcast"`, `"Back Issues"` |
+| `desk` | `string` | Yes | Primary editorial desk key (localisable via UI i18n without fallbacks). | `"Front Page"`, `"Saturday Mistakes"`, `"COSYtalks"`, `"Grammar"`, `"Words"`, `"Grammar Made Cosy"`, `"Say It"`, `"Culture & Quotes"`, `"Long Reads"`, `"Cosy Events"`, `"The Podcast"`, `"Back Issues"` |
 | `format` | `string` | Yes | Article presentation format type. | `"list"`, `"essay"`, `"qa"`, `"ranking"`, `"photo-essay"`, `"quiz"`, `"quote-wall"` |
 | `level` | `string` | Yes | CEFR proficiency level targeted by the content. | `"A1"`, `"A2"`, `"B1"`, `"B2"`, `"C1"`, `"C2"`, `"A0–A1"`, `"A1–A2"`, `"B1–B2"`, `"C1–C2"`, `"A0–B2"` |
 | `issue` | `object` | Yes | Magazine issue volume & title metadata object. | `{ "number": "Vol. 2026.08", "title": "Get ready for school" }` |

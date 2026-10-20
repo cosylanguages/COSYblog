@@ -130,6 +130,9 @@
   },
   "desk": {
     "front_page": "Главная полоса",
+    "saturday_mistakes": "Ошибки по субботам",
+    "cosytalks": "COSYtalks",
+    "grammar": "Грамматика",
     "words": "Слова",
     "grammar_made_cosy": "Уютная грамматика",
     "say_it": "Скажи это",
@@ -201,6 +204,7 @@
     "issue_august_title": "Готовимся к школе",
     "issue_september_title": "Я против плато среднего уровня",
     "issue_october_title": "День рождения JY DM и его фавориты",
+    "issue_november_title": "Ноябрьская Академия",
     "page_x_of_y": "Страница {current} из {total}",
     "script_teleprompter": "📜 Сценарий суфлёра"
   }

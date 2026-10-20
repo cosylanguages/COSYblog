@@ -130,6 +130,9 @@
   },
   "desk": {
     "front_page": "Une",
+    "saturday_mistakes": "Erreurs du Samedi",
+    "cosytalks": "COSYtalks",
+    "grammar": "Grammaire",
     "words": "Mots",
     "grammar_made_cosy": "Grammaire Cosy",
     "say_it": "Dites-le",
@@ -201,6 +204,7 @@
     "issue_august_title": "Préparez-vous pour l'école",
     "issue_september_title": "Moi contre le plateau intermédiaire",
     "issue_october_title": "L'anniversaire de JY DM et ses coup de cœur",
+    "issue_november_title": "Académie de novembre",
     "page_x_of_y": "Page {current} sur {total}",
     "script_teleprompter": "📜 Téléprompteur"
   }
