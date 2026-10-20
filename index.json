@@ -1,9 +1,9 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-20T12:16:49.578Z",
+  "generatedAt": "2026-10-20T14:45:41.477Z",
   "stats": {
     "totalPosts": 30,
-    "totalDesks": 13,
+    "totalDesks": 22,
     "totalIssues": 4
   },
   "desks": [
@@ -62,34 +62,88 @@
       "order": 9
     },
     {
+      "key": "Teacher Diaries",
+      "i18n_key": "desk_teacher_diaries",
+      "icon": "📓",
+      "order": 10
+    },
+    {
+      "key": "Research Digest",
+      "i18n_key": "desk_research_digest",
+      "icon": "🔬",
+      "order": 11
+    },
+    {
+      "key": "Around the World",
+      "i18n_key": "desk_around_the_world",
+      "icon": "🌍",
+      "order": 12
+    },
+    {
+      "key": "AI Corner",
+      "i18n_key": "desk_ai_corner",
+      "icon": "🤖",
+      "order": 13
+    },
+    {
+      "key": "Debate &amp; Opinion",
+      "i18n_key": "desk_debate_opinion",
+      "icon": "⚖️",
+      "order": 14
+    },
+    {
+      "key": "Global Voices",
+      "i18n_key": "desk_global_voices",
+      "icon": "🌐",
+      "order": 15
+    },
+    {
+      "key": "Vocabulary Spread",
+      "i18n_key": "desk_vocabulary_spread",
+      "icon": "📚",
+      "order": 16
+    },
+    {
+      "key": "Pronunciation Lab",
+      "i18n_key": "desk_pronunciation_lab",
+      "icon": "🎙️",
+      "order": 17
+    },
+    {
+      "key": "Book Shelf &amp; Cinema",
+      "i18n_key": "desk_bookshelf_cinema",
+      "icon": "🎬",
+      "order": 18
+    },
+    {
       "key": "Cosy Events",
       "i18n_key": "desk_cosy_events",
       "icon": "🎉",
-      "order": 10
+      "order": 19
     },
     {
       "key": "The Podcast",
       "i18n_key": "desk_the_podcast",
-      "icon": "🎙️",
-      "order": 11
+      "icon": "🎧",
+      "order": 20
     },
     {
       "key": "Back Issues",
       "i18n_key": "desk_back_issues",
       "icon": "🗄️",
-      "order": 12
+      "order": 21
     },
     {
       "key": "Reflections",
       "i18n_key": "desk_reflections",
       "icon": "💭",
-      "order": 13
+      "order": 22
     }
   ],
   "issues": [
     {
       "number": "Vol. 2026.11",
-      "title": "November Academia"
+      "title": "The Future of Human Communication"
     },
     {
       "number": "Vol. 2026.08",
@@ -109,12 +163,12 @@
       "id": "post-demystifying-english-tenses-timeline-guide",
       "slug": "demystifying-english-tenses-timeline-guide",
       "language": "en",
-      "desk": "Grammar",
+      "desk": "Grammar Made Cosy",
       "format": "essay",
       "level": "A2–C1",
       "issue": {
         "number": "Vol. 2026.11",
-        "title": "November Academia"
+        "title": "The Future of Human Communication"
       },
       "date": "2026-11-15",
       "title": "Demystifying English Tenses: The Ultimate Master Timeline Guide for Learners",
@@ -156,12 +210,12 @@
       "id": "post-neuroplasticity-and-the-playful-brain",
       "slug": "neuroplasticity-and-the-playful-brain",
       "language": "en",
-      "desk": "COSYtalks",
+      "desk": "Research Digest",
       "format": "essay",
       "level": "B1–B2",
       "issue": {
         "number": "Vol. 2026.11",
-        "title": "November Academia"
+        "title": "The Future of Human Communication"
       },
       "date": "2026-11-10",
       "title": "Unlocking Neuroplasticity: How to Reclaim Your Playful Brain in Language Learning",
@@ -208,7 +262,7 @@
       "level": "B1–B2",
       "issue": {
         "number": "Vol. 2026.11",
-        "title": "Beyond Translation & Code-Switching"
+        "title": "The Future of Human Communication"
       },
       "date": "2026-11-05",
       "title": "Beyond Code-Switching & Translation: Embracing L2 Integration with Warmth and Practical Strategies",
@@ -254,7 +308,7 @@
       "level": "B1–B2",
       "issue": {
         "number": "Vol. 2026.10",
-        "title": "Saturday Mistakes Edition"
+        "title": "JY DM's birthday & His favs"
       },
       "date": "2026-10-24",
       "title": "Saturday Mistakes Episode 1: 5 Common English Mistakes & How to Fix Them",
@@ -302,7 +356,7 @@
       "level": "B1–B2",
       "issue": {
         "number": "Vol. 2026.10",
-        "title": "Édition Erreurs du Samedi"
+        "title": "JY DM's birthday & His favs"
       },
       "date": "2026-10-24",
       "title": "Erreurs du Samedi Épisode 1 : 5 erreurs courantes en français et comment les corriger",
@@ -440,7 +494,7 @@
       "id": "post-top-5-favourite-grammar-rules",
       "slug": "top-5-favourite-grammar-rules",
       "language": "en",
-      "desk": "Grammar",
+      "desk": "Grammar Made Cosy",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -722,7 +776,7 @@
       "id": "post-replace-50-overused-phrases-el",
       "slug": "replace-50-overused-phrases-el",
       "language": "el",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -769,7 +823,7 @@
       "id": "post-replace-50-overused-phrases-fr",
       "slug": "replace-50-overused-phrases-fr",
       "language": "fr",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -816,7 +870,7 @@
       "id": "post-replace-50-overused-phrases-it",
       "slug": "replace-50-overused-phrases-it",
       "language": "it",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -863,7 +917,7 @@
       "id": "post-replace-50-overused-phrases-ru",
       "slug": "replace-50-overused-phrases-ru",
       "language": "ru",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -910,7 +964,7 @@
       "id": "post-replace-50-overused-phrases",
       "slug": "replace-50-overused-phrases",
       "language": "en",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -955,7 +1009,7 @@
       "id": "post-replace-very-50-stronger-adjectives-el",
       "slug": "replace-very-50-stronger-adjectives-el",
       "language": "el",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1002,7 +1056,7 @@
       "id": "post-replace-very-50-stronger-adjectives-fr",
       "slug": "replace-very-50-stronger-adjectives-fr",
       "language": "fr",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1049,7 +1103,7 @@
       "id": "post-replace-very-50-stronger-adjectives-it",
       "slug": "replace-very-50-stronger-adjectives-it",
       "language": "it",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1096,7 +1150,7 @@
       "id": "post-replace-very-50-stronger-adjectives-ru",
       "slug": "replace-very-50-stronger-adjectives-ru",
       "language": "ru",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1143,7 +1197,7 @@
       "id": "post-replace-very-50-stronger-adjectives",
       "slug": "replace-very-50-stronger-adjectives",
       "language": "en",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1188,7 +1242,7 @@
       "id": "post-top-10-verb-synonyms-intermediate-plateau-el",
       "slug": "top-10-verb-synonyms-intermediate-plateau-el",
       "language": "el",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1235,7 +1289,7 @@
       "id": "post-top-10-verb-synonyms-intermediate-plateau-fr",
       "slug": "top-10-verb-synonyms-intermediate-plateau-fr",
       "language": "fr",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1282,7 +1336,7 @@
       "id": "post-top-10-verb-synonyms-intermediate-plateau-it",
       "slug": "top-10-verb-synonyms-intermediate-plateau-it",
       "language": "it",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1329,7 +1383,7 @@
       "id": "post-top-10-verb-synonyms-intermediate-plateau-ru",
       "slug": "top-10-verb-synonyms-intermediate-plateau-ru",
       "language": "ru",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {
@@ -1376,7 +1430,7 @@
       "id": "post-top-10-verb-synonyms-intermediate-plateau",
       "slug": "top-10-verb-synonyms-intermediate-plateau",
       "language": "en",
-      "desk": "Words",
+      "desk": "Vocabulary Spread",
       "format": "list",
       "level": "B1–B2",
       "issue": {

@@ -1,6 +1,6 @@
-# COSYblog 🌿
+# COSYmagazine 🌿
 
-**COSYmagazine**: short, speaking-first reads for language learners (words, grammar made cosy, sentence frames, podcast), in English, French, Italian, Russian and Greek.
+**COSYmagazine**: A Vogue-inspired, speaking-first editorial publication and collectible journal for language learners and multilingual culture (curated monthly issues, long reads, science digests, teacher diaries, audio podcasts, and interactive presentation decks) in English, French, Italian, Russian, and Greek.
 
 **Live:** https://cosylanguages.github.io/COSYblog/
 
