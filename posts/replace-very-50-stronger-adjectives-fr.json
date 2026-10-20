@@ -20,7 +20,7 @@
     "B1-B2",
     "Français"
   ],
-  "readingTime": 3,
+  "readingTime": 5,
   "podcast": {
     "episode": 3,
     "audioUrl": "audio/replace-very-50-stronger-adjectives-fr.mp3"
@@ -50,6 +50,61 @@
     {
       "type": "paragraph",
       "text": "Bien que dire *\"très grand\"*, *\"très bon\"* ou *\"très fatigué\"* soit tout à fait correct, répéter *\"très\"* dans chaque phrase rend votre discours plat et répétitif. L'utilisation d'adjectifs forts et précis donne immédiatement à votre expression orale et écrite une touche plus naturelle, élégante et maîtrisée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📈 Le spectre du \"Bon\" : Du niveau basique au niveau élite"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour franchir le plateau intermédiaire, il faut comprendre que les mots ne sont pas de simples synonymes : ils s'inscrivent dans une échelle de nuances, d'intensité et de contexte. Voici comment passer du niveau 0 au vocabulaire d'élite pour exprimer la qualité :"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "**Niveau 0 : La base (Bon / Sympa / Correct)** — Pourquoi aller plus loin ? Ces mots sont fonctionnels, mais ils ne peignent aucune image vivante.",
+        "**Niveau 1 : Légère amélioration (Agréable & Satisfaisant)** — Utilisez-les quand quelque chose répond bien aux attentes : *Agréable* (une promenade agréable), *Satisfaisant* (un repas satisfaisant), *Correct* (un travail correct), *Solide* (une performance solide).",
+        "**Niveau 2 : Fort & Impressionnant (Oubliez \"Très bon\")** — Expriment une réelle qualité sans utiliser \"très\" : *Formidable* (un effort formidable), *Impressionnant* (des résultats impressionnants), *Remarquable* (un talent remarquable), *Superbe* (un service superbe), *Splendide* (un moment splendide).",
+        "**Niveau 3 : Haut de gamme (Oubliez \"Extrêmement bon\")** — Lorsque les mots ordinaires ne suffisent plus : *Excellent* (une excellente contribution), *Exceptionnel* (un service exceptionnel), *Remarquable* (une réussite remarquable), *De premier ordre / Top niveau* (un repas de premier ordre).",
+        "**Niveau 4 : Sommet / Élite (Oubliez \"Le meilleur / Super bon\")** — Pour une qualité légendaire ou une maîtrise absolue : *Brillant* (une idée brillante), *Magistral* (un récit magistral), *Phénoménal* (une prestation phénoménale), *Impeccable* (une exécution impeccable), *Exquis* (un bijou exquis ; idéal pour la cuisine, l'art et l'artisanat)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "💡 Aide-mémoire rapide pour vos expressions"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Au lieu de dire...",
+        "Préférez...",
+        "Contexte / Nuance"
+      ],
+      "rows": [
+        [
+          "\"Nourriture très bonne\"",
+          "*Délicieuse / Exquise*",
+          "Goût & Gastronomie"
+        ],
+        [
+          "\"Une très bonne idée\"",
+          "*Brillante / Astucieuse*",
+          "Intelligence & Solution"
+        ],
+        [
+          "\"Un très bon employé\"",
+          "*Exceptionnel / Fiable*",
+          "Éthique & Compétence"
+        ],
+        [
+          "\"Un très bon film\"",
+          "*Captivant / Remarquable*",
+          "Valeur artistique & Divertissement"
+        ]
+      ]
     },
     {
       "type": "paragraph",

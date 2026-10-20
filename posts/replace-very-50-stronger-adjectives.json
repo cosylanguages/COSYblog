@@ -19,7 +19,7 @@
     "Adjectives",
     "B1-B2"
   ],
-  "readingTime": 5,
+  "readingTime": 6,
   "podcast": {
     "episode": 3,
     "audioUrl": "audio/replace-very-50-stronger-adjectives.mp3"
@@ -49,6 +49,61 @@
     {
       "type": "paragraph",
       "text": "While saying *\"very big\"*, *\"very good\"*, or *\"very bad\"* is grammatically correct and understandable, overusing *\"very\"* makes your speech and writing sound repetitive. Transitioning to stronger, more expressive single-word adjectives immediately makes your English sound more natural, sophisticated, and precise."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📈 The Spectrum of \"Good\": From Basic to Elite"
+    },
+    {
+      "type": "paragraph",
+      "text": "To truly break through the intermediate plateau, you need to understand that words aren't just synonyms—they sit on a spectrum of nuance, intensity, and context. Here is how to navigate from level 0 to elite vocabulary when praising something:"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "**Level 0: The Baseline (Good / Nice / Fine)** — Why move past it? These are functional, but they don't paint a vivid picture or show strong vocabulary mastery.",
+        "**Level 1: Slight Upgrade (Pleasant & Satisfactory)** — Use these when something meets expectations nicely, but isn't mind-blowing: *Enjoyable* (an enjoyable afternoon walk), *Satisfying* (a satisfying meal after a workout), *Decent* (a decent job on the presentation), *Solid* (a solid performance).",
+        "**Level 2: Strong & Impressive (Ditch \"Very Good\")** — Use these to express clear quality and skill without relying on \"very\": *Great* (a great effort), *Impressive* (an impressive set of results), *Remarkable* (a remarkable talent for design), *Superb* (superb customer service), *Splendid* (a splendid time at the theatre).",
+        "**Level 3: High-End / Top Tier (Ditch \"Extremely Good\")** — Use these when standard words fail to describe high quality: *Excellent* (an excellent contribution), *Exceptional* (exceptional service), *Outstanding* (an outstanding achievement), *Stellar* (a stellar reputation), *First-rate / Top-notch* (top-notch food and atmosphere).",
+        "**Level 4: Pinnacle / Elite Level (Ditch \"The Best / Super Good\")** — Use these for legendary quality, mastery, or unforgettable experiences: *Brilliant* (a brilliant idea), *Masterful* (a masterful piece of storytelling), *Phenomenal* (a phenomenal performance), *Flawless* (a flawless execution), *Exquisite* (an exquisite piece of jewelry; ideal for art, food, taste, or craftsmanship)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "💡 Quick Cheat-Sheet for Your Readers"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Instead of...",
+        "Try saying...",
+        "Context / Nuance"
+      ],
+      "rows": [
+        [
+          "\"Very good food\"",
+          "*Delicious / Exquisite*",
+          "Taste & Craftsmanship"
+        ],
+        [
+          "\"A very good idea\"",
+          "*Brilliant / Clever*",
+          "Intelligence & Problem-solving"
+        ],
+        [
+          "\"A very good worker\"",
+          "*Exceptional / Reliable*",
+          "Work ethic & Skill"
+        ],
+        [
+          "\"A very good movie\"",
+          "*Captivating / Outstanding*",
+          "Entertainment value"
+        ]
+      ]
     },
     {
       "type": "paragraph",

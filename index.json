@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-20T12:16:49.578Z",
+  "generatedAt": "2026-10-20T13:04:27.714Z",
   "stats": {
     "totalPosts": 30,
     "totalDesks": 13,
@@ -973,7 +973,7 @@
         "B1-B2",
         "Ελληνικά"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-el.mp3"
@@ -1020,7 +1020,7 @@
         "B1-B2",
         "Français"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-fr.mp3"
@@ -1067,7 +1067,7 @@
         "B1-B2",
         "Italiano"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-it.mp3"
@@ -1114,7 +1114,7 @@
         "B1-B2",
         "Русский"
       ],
-      "readingTime": 3,
+      "readingTime": 5,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives-ru.mp3"
@@ -1160,7 +1160,7 @@
         "Adjectives",
         "B1-B2"
       ],
-      "readingTime": 5,
+      "readingTime": 6,
       "podcast": {
         "episode": 3,
         "audioUrl": "audio/replace-very-50-stronger-adjectives.mp3"
