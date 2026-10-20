@@ -522,6 +522,7 @@ async function buildBlog() {
     if (post.issue?.number === 'Vol. 2026.08') issueTitleKey = 'blog.issue_august_title';
     else if (post.issue?.number === 'Vol. 2026.09') issueTitleKey = 'blog.issue_september_title';
     else if (post.issue?.number === 'Vol. 2026.10') issueTitleKey = 'blog.issue_october_title';
+    else if (post.issue?.number === 'Vol. 2026.11') issueTitleKey = 'blog.issue_november_title';
 
     const issueTitle = issueTitleKey
       ? tStrict(langDict, issueTitleKey, lang)
