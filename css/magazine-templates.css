@@ -1266,6 +1266,190 @@ html[data-theme="dark"] .august-banner-content p {
 
 /* 8. Mobile Responsiveness (390px Viewports) */
 
+/* 7f. Saturday Mistakes — PowerPoint Presentation Slide Deck Component */
+
+.ppt-slide-card {
+  background: var(--blog-paper-card, #ffffff);
+  border: 2px solid var(--blog-border-strong, #292524);
+  border-radius: 16px;
+  margin: 2rem 0;
+  box-shadow: 0 12px 36px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.ppt-slide-header {
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+  color: #ffffff;
+  padding: 1rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.ppt-slide-title {
+  font-family: var(--post-font-display, 'Fraunces', serif);
+  font-size: clamp(1.1rem, 2.2vw, 1.4rem);
+  font-weight: 800;
+  margin: 0;
+  color: #ffffff;
+}
+
+.ppt-slide-badge {
+  background: var(--post-palette-accent, #2563eb);
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  flex-shrink: 0;
+}
+
+.ppt-slide-body {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.ppt-comparison-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+@media (max-width: 640px) {
+  .ppt-comparison-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ppt-box-trap {
+  background: rgba(225, 29, 72, 0.06);
+  border-left: 5px solid #e11d48;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  font-size: var(--blog-text-sm, 0.875rem);
+}
+
+.ppt-box-trap strong {
+  color: #be123c;
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.ppt-box-correct {
+  background: rgba(16, 185, 129, 0.08);
+  border-left: 5px solid #10b981;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  font-size: var(--blog-text-sm, 0.875rem);
+}
+
+.ppt-box-correct strong {
+  color: #047857;
+  display: block;
+  margin-bottom: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.ppt-box-formula {
+  background: rgba(37, 99, 235, 0.06);
+  border: 1px dashed #2563eb;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  font-size: var(--blog-text-sm, 0.875rem);
+  color: var(--blog-ink-primary, #1c1917);
+}
+
+.ppt-box-formula strong {
+  color: #1d4ed8;
+  display: block;
+  margin-bottom: 0.35rem;
+}
+
+.ppt-box-hook {
+  background: #fef3c7;
+  border-left: 5px solid #d97706;
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  font-size: var(--blog-text-sm, 0.875rem);
+  color: #78350f;
+}
+
+.ppt-box-hook strong {
+  color: #b45309;
+  display: block;
+  margin-bottom: 0.35rem;
+}
+
+.ppt-box-quiz {
+  background: var(--blog-paper-aged, #f3ede4);
+  border: 2px solid var(--blog-border-strong, #292524);
+  border-radius: 10px;
+  padding: 1rem 1.25rem;
+  font-size: var(--blog-text-sm, 0.875rem);
+}
+
+.ppt-slide-footer {
+  background: var(--blog-paper-aged, #f8fafc);
+  border-top: 1px solid var(--blog-border-delicate, #e7e0d6);
+  padding: 0.75rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.75rem;
+  color: var(--blog-ink-muted, #64748b);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+html[data-theme="dark"] .ppt-slide-card {
+  background: var(--blog-paper-card, #1e293b);
+  border-color: #334155;
+}
+
+html[data-theme="dark"] .ppt-box-trap {
+  background: rgba(225, 29, 72, 0.15);
+  color: #fecdd3;
+}
+
+html[data-theme="dark"] .ppt-box-correct {
+  background: rgba(16, 185, 129, 0.15);
+  color: #a7f3d0;
+}
+
+html[data-theme="dark"] .ppt-box-formula {
+  background: rgba(37, 99, 235, 0.15);
+  border-color: #3b82f6;
+  color: #e0e7ff;
+}
+
+html[data-theme="dark"] .ppt-box-hook {
+  background: rgba(217, 119, 6, 0.2);
+  color: #fef3c7;
+}
+
+html[data-theme="dark"] .ppt-box-quiz {
+  background: #0f172a;
+  border-color: #334155;
+  color: #f8fafc;
+}
+
+html[data-theme="dark"] .ppt-slide-footer {
+  background: #0f172a;
+  border-color: #334155;
+  color: #94a3b8;
+}
+
 @media (max-width: 600px) {
   .gazette-wrapper {
     padding: 1rem 0.85rem 3rem;

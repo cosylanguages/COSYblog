@@ -67,6 +67,10 @@
     },
     {
       "type": "paragraph",
+      "text": "<div class=\"cosy-callout\"><strong>Neuroscience Note:</strong> Playful language learning reduces emotional friction and triggers dopamine release, consolidating long-term memory pathways.</div>"
+    },
+    {
+      "type": "paragraph",
       "text": "Have you ever felt like your brain completely freezes or feels 'broken' when you try to construct a sentence in a new language? You know the vocabulary, and you've memorized the grammar rules, but the moment you try to speak, everything feels rigid, slow, and robotic.",
       "say": "Have you ever felt like your brain completely freezes or feels broken when you try to construct a sentence in a new language? You know the vocabulary, and you've memorized the grammar rules, but the moment you try to speak, everything feels rigid, slow, and robotic.",
       "beat": {

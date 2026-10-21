@@ -99,6 +99,10 @@
     },
     {
       "type": "paragraph",
+      "text": "<div class=\"cosy-timeline\"><div class=\"timeline-labels\"><span>Passato</span><span class=\"timeline-now-label\">ORA</span><span>Futuro</span></div><div class=\"timeline-line\"><div class=\"timeline-event\" style=\"left:18%; width:20%;\"><div class=\"timeline-bar\"></div><div class=\"timeline-card\"><strong>Passato Prossimo vs Imperfetto</strong><p>Azione conclusa vs In corso nel passato</p></div></div><div class=\"timeline-now\"></div></div></div>"
+    },
+    {
+      "type": "paragraph",
       "text": "Ecco la regola d'oro per non sbagliare mai:\n\n- **Imperfetto**: descrive lo sfondo, la durata, uno stato d'animo o un'abitudine nel passato (*Pioveva e c'era molto traffico*).\n- **Passato Prossimo**: esprime un evento preciso e concluso che fa avanzare l'azione (*All'improvviso è squillato il telefono*).",
       "say": "L'imperfetto crea la scenografia del passato, mentre il passato prossimo inserisce le azioni puntuali e concluse.",
       "beat": {
