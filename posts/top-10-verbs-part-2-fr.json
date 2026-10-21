@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-fr",
+  "slug": "top-10-verbs-part-2-fr",
+  "language": "fr",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in French, Part 2 (CEFR A0–A1)",
+  "kicker": "GUIDE DU FRANÇAIS — PARTIE 2",
+  "dek": "Deuxième partie du guide essentiel des verbes français pour débutants (A0–A1) : faire, parler/dire, regarder/voir, écouter/entendre, devoir/falloir, prendre/donner, vivre/habiter, attendre, comprendre et demander/répondre.",
+  "tags": [
+    "Verbs",
+    "French",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-fr",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bienvenue dans la deuxième partie du guide des verbes français pour le niveau A0–A1 ! Dans cette édition de décembre, nous explorons 10 verbes fondamentaux."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les 10 Verbes Incontournables (Partie 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Faire:** Activités et création (*Je fais les devoirs*, *Faire du café*).",
+        "**2. Parler / Dire:** Communication (*Je parle français*, *Dites-moi*).",
+        "**3. Regarder / Voir:** Perception visuelle (*Regarder un film*, *Je vois une maison*).",
+        "**4. Écouter / Entendre:** Perception auditive (*Écouter de la musique*, *J'entends un bruit*).",
+        "**5. Devoir / Falloir:** Obligation et nécessité (*Je dois partir*, *Il faut travailler*).",
+        "**6. Prendre / Donner:** Échange (*Prendre un café*, *Donner un cadeau*).",
+        "**7. Habiter / Vivre:** Résidence (*J'habite à Paris*).",
+        "**8. Attendre:** Patienter (*J'attends le bus*).",
+        "**9. Comprendre:** Compréhension (*Je comprends*, *Je ne comprends pas*).",
+        "**10. Demander / Répondre & Vouloir / Je voudrais:** Demandes et politesse (*Poser une question*, *Je voudrais un thé*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Comparez les 14 langues dans notre <a href=\"top-10-verbs-part-2.html\">Hub Central (Partie 2)</a> ou revenez au <a href=\"top-10-verbs-fr.html\">Guide Français (Partie 1)</a>."
+    }
+  ],
+  "draft": false
+}

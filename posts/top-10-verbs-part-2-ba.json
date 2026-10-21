@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-ba",
+  "slug": "top-10-verbs-part-2-ba",
+  "language": "ba",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in Bashkir, Part 2 (CEFR A0–A1)",
+  "kicker": "БАШҠОРТ ТЕЛЕ ГИДЫ — 2-СЕ БҮЛЕК",
+  "dek": "Башҡорт теле буйынса башланғыс кимәл (A0–A1) өсөн 10 төп ҡайтарыу ҡылымы: эшләү / итеү, һөйләшеү / әйтеү, ҡарау / күреү, тыңлау / ишетеү, кәрәк / тиеш, алыу / биреү, йәшәү, көтөү, аңлау, һорау / яуап биреү.",
+  "tags": [
+    "Verbs",
+    "Bashkir",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-ba",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Башҡорт телен өйрәнеүселәр өсөн A0–A1 кимәлендәге ҡылымдар ҡулланмаһының 2-се бүлегенә рәхим итегеҙ!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10 Төп Ҡылым (2-се бүлек)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Эшләү / Итеү:** Ғәмәл һәм эш (*Эш эшләйем*).",
+        "**2. Һөйләшеү / Әйтеү:** Сөйләм (*Башҡортса һөйләшәм*).",
+        "**3. Ҡарау / Күреү:** Ҡараш һәм күреү (*Ҡарап сығам*).",
+        "**4. Тыңлау / Ишетеү:** Тыңлау (*Музыка тыңлайым*).",
+        "**5. Кәрәк / Тиеш:** Кәрәклелек (*Минә барырға кәрәк*).",
+        "**6. Алыу / Биреү:** Алыу-биреү (*Китап алам*).",
+        "**7. Йәшәү:** Тормош (*Өфөлә йәшәйем*).",
+        "**8. Көтөү:** Көтөү (*Автобус көтөм*).",
+        "**9. Аңлау:** Аңлау (*Мин аңлайым*).",
+        "**10. Һорау / Яуап биреү & Теләү:** Һорау һәм теләктәр (*Һорау бирәм*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Барлыҡ 14 телде <a href=\"top-10-verbs-part-2.html\">Төп Хабта (2 бүлек)</a> сағыштырығыҙ йәки <a href=\"top-10-verbs-ba.html\">Башҡорт теле гидына (1 бүлек)</a> ҡайтығыҙ."
+    }
+  ],
+  "draft": false
+}

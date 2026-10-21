@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-pt",
+  "slug": "top-10-verbs-part-2-pt",
+  "language": "pt",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in Portuguese, Part 2 (CEFR A0–A1)",
+  "kicker": "GUIA DE VERBOS EM PORTUGUÊS — PARTE 2",
+  "dek": "Os 10 verbos essenciais em português para iniciantes (A0–A1): fazer, falar/dizer, olhar/ver, ouvir/escutar, ter de/dever, pegar/dar, morar/viver, esperar, entender/compreender e perguntar/responder.",
+  "tags": [
+    "Verbs",
+    "Portuguese",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-pt",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bem-vindo à segunda parte do guia de verbos em português para nível A0–A1! Na edição de dezembro, exploramos 10 verbos cruciais do dia a dia."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Os 10 Verbos Fundamentais (Parte 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Fazer:** Ações e criação (*Faço o meu trabalho*).",
+        "**2. Falar / Dizer:** Comunicação verbal (*Falo português*, *Diga, por favor*).",
+        "**3. Olhar / Ver:** Perceção visual (*Olhar para o mar*, *Eu vejo uma casa*).",
+        "**4. Ouvir / Escutar:** Perceção auditiva (*Ouvir música*).",
+        "**5. Ter de / Dever:** Necessidade e obrigação (*Tenho de ir embora*).",
+        "**6. Pegar / Dar:** Troca (*Pegar o autocarro*, *Dar um presente*).",
+        "**7. Morar / Viver:** Residência (*Moro em Lisboa*).",
+        "**8. Esperar:** Espera e expectativa (*Espero o autocarro*).",
+        "**9. Entender / Compreender:** Compreensão (*Não entendo*).",
+        "**10. Perguntar / Responder & Querer / Gostaria:** Perguntas e pedidos (*Perguntar algo*, *Gostaria de um café*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Compare os 14 idiomas no <a href=\"top-10-verbs-part-2.html\">Hub Central (Parte 2)</a> ou volte ao <a href=\"top-10-verbs-pt.html\">Guia de Português (Parte 1)</a>."
+    }
+  ],
+  "draft": false
+}

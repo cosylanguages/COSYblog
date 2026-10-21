@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-it",
+  "slug": "top-10-verbs-part-2-it",
+  "language": "it",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in Italian, Part 2 (CEFR A0–A1)",
+  "kicker": "GUIDA ALL'ITALIANO — PARTE 2",
+  "dek": "La seconda parte della guida ai verbi italiani ad alta frequenza per principianti (A0–A1): fare, parlare/dire, guardare/vedere, ascoltare/sentire, dovere/bisognare, prendere/dare, vivere/abitare, aspettare, capire e chiedere/rispondere.",
+  "tags": [
+    "Verbs",
+    "Italian",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-it",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Benvenuti alla seconda parte della guida ai verbi italiani per il livello A0–A1! Nell'edizione di dicembre esploriamo 10 verbi quotidiani fondamentali."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "I 10 Verbi Fondamentali (Parte 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Fare:** Attività e creazione (*Faccio i compiti*, *Fare un caffè*).",
+        "**2. Parlare / Dire:** Comunicazione (*Parlo italiano*, *Dimmi per favore*).",
+        "**3. Guardare / Vedere:** Percezione visiva (*Guardare un film*, *Vedo una casa*).",
+        "**4. Ascoltare / Sentire:** Percezione uditiva (*Ascoltare la musica*, *Sento un rumore*).",
+        "**5. Dovere / Bisognare:** Obbligo e necessità (*Devo andare*, *Bisogna studiare*).",
+        "**6. Prendere / Dare:** Scambio (*Prendere un caffè*, *Dare un regalo*).",
+        "**7. Abitare / Vivere:** Residenza (*Abito a Roma*).",
+        "**8. Aspettare:** Attesa (*Aspetto l'autobus*).",
+        "**9. Capire:** Comprensione (*Capisco*, *Non capisco*).",
+        "**10. Chiedere / Rispondere & Volere / Vorrei:** Richieste e cortesia (*Fare una domanda*, *Vorrei un tÈ*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Confronta le 14 lingue nel nostro <a href=\"top-10-verbs-part-2.html\">Hub Centrale (Parte 2)</a> o torna alla <a href=\"top-10-verbs-it.html\">Guida Italiana (Parte 1)</a>."
+    }
+  ],
+  "draft": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-de",
+  "slug": "top-10-verbs-part-2-de",
+  "language": "de",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in German, Part 2 (CEFR A0–A1)",
+  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 2",
+  "dek": "Die 10 wichtigsten Verben im Deutschen für Anfänger (A0–A1): machen/tun, sprechen/sagen, schauen/sehen, hören, müssen/sollen, nehmen/geben, wohnen/leben, warten, verstehen und fragen/antworten.",
+  "tags": [
+    "Verbs",
+    "German",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-de",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Willkommen zum zweiten Teil des deutschen Verben-Leitfadens für das Niveau A0–A1! In der Dezember-Ausgabe behandeln wir 10 hochfrequente Alltagsverben."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Die 10 Wichtigsten Verben (Teil 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Machen / Tun:** Handlungen (*Ich mache Hausaufgaben*).",
+        "**2. Sprechen / Sagen:** Kommunikation (*Ich spreche Deutsch*, *Sag mir bitte*).",
+        "**3. Schauen / Sehen:** Visuelle Wahrnehmung (*Schau mal!*, *Ich sehe ein Haus*).",
+        "**4. Hören:** Akustische Wahrnehmung (*Musik hören*).",
+        "**5. Müssen / Sollen:** Notwendigkeit (*Ich muss gehen*).",
+        "**6. Nehmen / Geben:** Austausch (*Nimm einen Kaffee*, *Gib mir das Buch*).",
+        "**7. Wohnen / Leben:** Wohnort (*Ich wohne in Berlin*).",
+        "**8. Warten:** Erwartung (*Ich warte auf den Bus*).",
+        "**9. Verstehen:** Verständnis (*Ich verstehe nicht*).",
+        "**10. Fragen / Antworten & Wollen / Ich möchte:** Fragen und höfliche Bitten (*Eine Frage stellen*, *Ich möchte einen Tee*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Vergleichen Sie alle 14 Sprachen im <a href=\"top-10-verbs-part-2.html\">Zentralen Hub (Teil 2)</a> oder kehren Sie zum <a href=\"top-10-verbs-de.html\">Deutschen Leitfaden (Teil 1)</a> zurück."
+    }
+  ],
+  "draft": false
+}

@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-es",
+  "slug": "top-10-verbs-part-2-es",
+  "language": "es",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in Spanish, Part 2 (CEFR A0–A1)",
+  "kicker": "GUÍA DE VERBOS EN ESPAÑOL — PARTE 2",
+  "dek": "Los 10 verbos esenciales en español para principiantes (A0–A1): hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender/comprender y preguntar/responder.",
+  "tags": [
+    "Verbs",
+    "Spanish",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-es",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "¡Bienvenido a la segunda parte de la guía de verbos en español para nivel A0–A1! En esta edición de diciembre analizamos 10 verbos cotidianos imprescindibles."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Los 10 Verbos Clave (Parte 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Hacer:** Acciones y actividades (*Hago los deberes*).",
+        "**2. Hablar / Decir:** Comunicación oral (*Hablo español*, *Dime, por favor*).",
+        "**3. Mirar / Ver:** Percepción visual (*Mirar una película*, *Veo una casa*).",
+        "**4. Escuchar / Oír:** Percepción auditiva (*Escuchar música*, *No oigo nada*).",
+        "**5. Tener que / Deber:** Necesidad y obligación (*Tengo que irme*).",
+        "**6. Tomar / Dar:** Intercambio (*Tomar un café*, *Dar un regalo*).",
+        "**7. Vivir:** Residencia (*Vivo en Madrid*).",
+        "**8. Esperar:** Espera (*Espero el autobús*).",
+        "**9. Entender / Comprender:** Comprensión (*No entiendo*).",
+        "**10. Preguntar / Responder & Querer / Me gustaría:** Preguntas y peticiones corteses (*Preguntar algo*, *Me gustaría un café*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Compara los 14 idiomas en nuestro <a href=\"top-10-verbs-part-2.html\">Hub Central (Parte 2)</a> o vuelve a la <a href=\"top-10-verbs-es.html\">Guía de Español (Parte 1)</a>."
+    }
+  ],
+  "draft": false
+}

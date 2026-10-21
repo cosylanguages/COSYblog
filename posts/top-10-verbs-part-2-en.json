@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-en",
+  "slug": "top-10-verbs-part-2-en",
+  "language": "en",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in English, Part 2 (CEFR A0–A1)",
+  "kicker": "ENGLISH CORE GUIDE — PART 2",
+  "dek": "Part 2 of the ultimate beginner guide to high-frequency English verbs (A0–A1): do/make, speak/talk/say/tell, look/watch/see, listen/hear, must/have to, take/give/get, live, wait, understand, and ask/answer.",
+  "tags": [
+    "Verbs",
+    "English",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-en",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Welcome to Part 2 of our A0–A1 English Verbs Guide! In this December Issue edition, we cover 10 core action, perception, and communication verbs."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "The Top 10 Core Verbs (Part 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Do / Make:** Activity vs Creation (*I do homework* vs *I make coffee*).",
+        "**2. Speak / Talk / Say / Tell:** Communication nuances (*I speak English*, *Tell me*).",
+        "**3. Look / Watch / See:** Visual perception & attention (*Watch a film*, *I see a house*).",
+        "**4. Listen / Hear:** Auditory attention vs involuntary hearing (*Listen to music*, *I hear a sound*).",
+        "**5. Must / Have to:** Expressing obligation and necessity (*I must go*, *I have to work*).",
+        "**6. Take / Give / Get:** Exchange & receiving (*Take a coffee*, *Give me a book*, *Get a present*).",
+        "**7. Live:** Residence & life (*I live in London*).",
+        "**8. Wait:** Patience & expectation (*Wait for the bus*).",
+        "**9. Understand:** Comprehension (*I understand*, *I don't understand*).",
+        "**10. Ask / Answer & Want / Would like:** Inquiries and polite requests (*Ask a question*, *I would like a tea*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Compare all 14 languages in our <a href=\"top-10-verbs-part-2.html\">Central Hub (Part 2)</a> or revisit <a href=\"top-10-verbs-en.html\">English Guide (Part 1)</a>."
+    }
+  ],
+  "draft": false
+}

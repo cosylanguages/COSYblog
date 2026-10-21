@@ -521,10 +521,11 @@ async function buildBlog() {
 
     // Localize Issue Title per post language (No English fallback)
     let issueTitleKey = null;
-    if (post.issue?.number === 'Vol. 2026.08') issueTitleKey = 'blog.issue_august_title';
-    else if (post.issue?.number === 'Vol. 2026.09') issueTitleKey = 'blog.issue_september_title';
-    else if (post.issue?.number === 'Vol. 2026.10') issueTitleKey = 'blog.issue_october_title';
-    else if (post.issue?.number === 'Vol. 2026.11') issueTitleKey = 'blog.issue_november_title';
+    if (post.issue?.number === 'Vol. 2026.08' || post.issue?.number === 'Vol. 2026 — August Issue') issueTitleKey = 'blog.issue_august_title';
+    else if (post.issue?.number === 'Vol. 2026.09' || post.issue?.number === 'Vol. 2026 — September Issue') issueTitleKey = 'blog.issue_september_title';
+    else if (post.issue?.number === 'Vol. 2026.10' || post.issue?.number === 'Vol. 2026 — October Issue') issueTitleKey = 'blog.issue_october_title';
+    else if (post.issue?.number === 'Vol. 2026.11' || post.issue?.number === 'Vol. 2026 — November Issue') issueTitleKey = 'blog.issue_november_title';
+    else if (post.issue?.number === 'Vol. 2026.12' || post.issue?.number === 'Vol. 2026 — December Issue') issueTitleKey = 'blog.issue_december_title';
 
     const issueTitle = issueTitleKey
       ? tStrict(langDict, issueTitleKey, lang)

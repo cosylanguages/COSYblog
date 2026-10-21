@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-cv",
+  "slug": "top-10-verbs-part-2-cv",
+  "language": "cv",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in Chuvash, Part 2 (CEFR A0–A1)",
+  "kicker": "ЧĂВАШ ЧĔЛХИН ГИДĔ — 2-МĔШ ИНЧĔ",
+  "dek": "Чăваш чĕлхин пуçламăш шакри (A0–A1) 10 тĕп глаголĕ: ту, калаç / кала, пăх / кура, итле / елтĕр, кирлĕ / кирлĕ пул, ил / पार (пара), пурăн, кĕт, ăнлан, ыйт / хуравла.",
+  "tags": [
+    "Verbs",
+    "Chuvash",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-cv",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Чăваш чĕлхипе A0–A1 шакĕнчи глаголсен ертӳлĕхĕн 2-мĕш пайне кăшăл парса кĕрер!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10 Тĕп Глагол (2-мĕш пай)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Ту:** Ĕç тата хускану (*Ĕç тăватăп*).",
+        "**2. Калаç / Кала:** Сăмах (*Чăвашла калаçатăп*, *Тĕрĕссине кала*).",
+        "**3. Пăх / Кура:** Куçпа пăхни (*Ӳкерчĕк пăхатăп*, *Куратăп*).",
+        "**4. Итле / Елтĕр:** Итлени (*Кĕвĕ итлетĕп*).",
+        "**5. Кирлĕ:** Ĕçе тума кирли (*Мана кайма кирлĕ*).",
+        "**6. Ил / Пара:** Илни тата парни (*Кĕнеке илетĕп*, *Пар-ха*).",
+        "**7. Пурăн:** Вырăн (*Эпĕ Шупашкарта пурăнатăп*).",
+        "**8. Кĕт:** Кĕтни (*Автобус кĕтетĕп*).",
+        "**9. Ăнлан:** Ăнланни (*Эпĕ ăнланатăп*).",
+        "**10. Ыйт / Хуравла & Сăвăр / Сăвăрччĕ:** Ыйту тата ĕмĕт (*Ыйту паратам*, *Чай ĕçес килет*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Пĕтĕм 14 чĕлхене <a href=\"top-10-verbs-part-2.html\">Тĕп Хабра (2-мĕш пай)</a> танлаштарăр е <a href=\"top-10-verbs-cv.html\">Чăваш гидне (1-мĕш пай)</a> таврăнăр."
+    }
+  ],
+  "draft": false
+}

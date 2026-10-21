@@ -1,0 +1,76 @@
+{
+  "id": "post-top-10-verbs-part-2-br",
+  "slug": "top-10-verbs-part-2-br",
+  "language": "br",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Top 10 Essential Verbs in Breton, Part 2 (CEFR A0–A1)",
+  "kicker": "GIDE VERBOÙ BREZHONEK — LODENN 2",
+  "dek": "An 10 verb essentialañ e brezhoneg evit an deraouidi (A0–A1): ober, komz/lavarout, sellet/gwelout, selaou/klevout, rankout, kemer/reiñ, bevañ/chom, gortoz, meizañ/kompren, ha goulenn/respont.",
+  "tags": [
+    "Verbs",
+    "Breton",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-br",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pemerien deuet mat da eil lodenn ar sturlevr verboù brezhonek evit al live A0–A1! Er niverenn-mañ e studier 10 verb pemdeziek."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "An 10 Verb Pouezusañ (Lodenn 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Ober:** Obererezhioù (*Ober a ran ma labor*).",
+        "**2. Komz / Lavarout:** Skeiñ komzoù (*Komz a ran brezhoneg*, *Lavarout a ran ar wirionez*).",
+        "**3. Sellet / Gwelout:** Gweledigezh (*Sellet ouzh ur film*, *Gwelout a ran an ti*).",
+        "**4. Selaou / Klevout:** Klevout hag evezh (*Selaou sonerezh*).",
+        "**5. Rankout:** Retvezh (*Rankout a ran mont kuit*).",
+        "**6. Kemer / Reiñ:** Escemm (*Kemer ur banne kafe*).",
+        "**7. Bevañ / Chom:** Chomlec'h (*Bevañ a ran e Roazhon*).",
+        "**8. Gortoz:** Gortozerezh (*Gortoz an karr-boutin*).",
+        "**9. Kompren / Meizañ:** Komprenidigezh (*Ne gomprenan ket*).",
+        "**10. Goulenn / Respont & C'hoant kaout:** Goulennoù ha hetoù (*Goulenn a ran un dra*, *C'hoant em eus eus un te*)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Keñveriañ an 14 yezh er <a href=\"top-10-verbs-part-2.html\">C'hreizenn Stur (Lodenn 2)</a> pe distro da <a href=\"top-10-verbs-br.html\">Sturlevr Brezhonek (Lodenn 1)</a>."
+    }
+  ],
+  "draft": false
+}
