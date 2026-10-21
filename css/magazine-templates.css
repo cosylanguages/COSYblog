@@ -1056,6 +1056,158 @@ html[data-theme="dark"] .gazette-masthead-meta {
   font-size: 0.85em;
 }
 
+/* 7d. COSY Verb Network Map & CEFR Roadmap Components */
+
+.verb-map-container {
+  background: var(--blog-paper-card, #ffffff);
+  border: 2px solid var(--blog-border-strong, #292524);
+  border-radius: 14px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: var(--blog-shadow-floating, 0 12px 32px rgba(0,0,0,0.08));
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.verb-map-title {
+  font-family: var(--post-font-display, 'Fraunces', serif);
+  font-size: var(--blog-text-xl, 1.35rem);
+  color: var(--post-palette-text, #1c1917);
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.verb-map-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.verb-node-card {
+  background: var(--blog-paper-aged, #f3ede4);
+  border: 1px solid var(--blog-border-delicate, #e7e0d6);
+  border-radius: 10px;
+  padding: 1rem;
+  text-decoration: none;
+  color: var(--blog-ink-primary, #1c1917);
+  transition: all 0.2s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.verb-node-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--post-palette-accent, #0d9488);
+  box-shadow: 0 6px 18px rgba(13, 148, 136, 0.15);
+}
+
+.verb-node-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.verb-node-title {
+  font-family: var(--post-font-display, 'Fraunces', serif);
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--post-palette-accent, #0d9488);
+}
+
+.frequency-stars {
+  color: #d69e2e;
+  font-size: 0.85rem;
+  letter-spacing: 1px;
+}
+
+.usage-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  background: var(--blog-paper-card, #ffffff);
+  border: 1px solid var(--blog-border-delicate, #e7e0d6);
+  color: var(--blog-ink-secondary, #44403c);
+  margin-right: 0.35rem;
+  margin-bottom: 0.35rem;
+}
+
+.building-block-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.65rem;
+}
+
+.block-chip {
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: rgba(13, 148, 136, 0.08);
+  color: var(--post-palette-accent, #0d9488);
+  border: 1px solid rgba(13, 148, 136, 0.2);
+  padding: 0.15rem 0.45rem;
+  border-radius: 4px;
+}
+
+.verb-why-box {
+  background: rgba(13, 148, 136, 0.05);
+  border-left: 4px solid var(--post-palette-accent, #0d9488);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0.85rem 0;
+  font-size: var(--blog-text-sm, 0.875rem);
+  color: var(--blog-ink-primary, #1c1917);
+}
+
+.verb-why-box strong {
+  color: var(--post-palette-accent, #0d9488);
+}
+
+.cefr-roadmap-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: var(--blog-text-sm, 0.875rem);
+}
+
+.cefr-roadmap-table th,
+.cefr-roadmap-table td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--blog-border-delicate, #e7e0d6);
+  text-align: left;
+}
+
+.cefr-roadmap-table th {
+  background: var(--blog-paper-aged, #f3ede4);
+  font-family: var(--post-font-display, 'Fraunces', serif);
+  font-weight: 800;
+  color: var(--post-palette-text, #1c1917);
+}
+
+.cefr-badge {
+  font-weight: 800;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  color: #ffffff;
+  display: inline-block;
+  min-width: 28px;
+  text-align: center;
+}
+
+.cefr-a0 { background: #059669; }
+.cefr-a1 { background: #10b981; }
+.cefr-a2 { background: #0284c7; }
+.cefr-b1 { background: #d97706; }
+.cefr-b2 { background: #ea580c; }
+.cefr-c1 { background: #dc2626; }
+
 /* 8. Mobile Responsiveness (390px Viewports) */
 
 @media (max-width: 600px) {
