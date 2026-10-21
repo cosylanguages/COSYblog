@@ -1,0 +1,152 @@
+{
+  "id": "post-top-10-verbs-part-2-fr",
+  "slug": "top-10-verbs-part-2-fr",
+  "language": "fr",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Les 10 verbes essentiels en français, Partie 2 (CEFR A0–A1)",
+  "kicker": "GUIDE DU FRANÇAIS — PARTIE 2",
+  "dek": "Deuxième partie du guide des verbes français pour le niveau A0–A1 : faire, parler/dire, regarder/voir, écouter/entendre, devoir/falloir, prendre/donner, vivre/habiter, attendre, comprendre et demander/répondre.",
+  "tags": [
+    "Verbs",
+    "French",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-fr",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bienvenue dans la deuxième partie du guide des verbes français pour le niveau A0–A1 ! Nous découvrons 10 verbes d'action, de perception et de communication indispensables au quotidien."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Analyse détaillée : Les 10 verbes français (Partie 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Faire :** Activités quotidiennes (*Faire les devoirs*, *Faire le café*).",
+        "**2. Parler / Dire :** Communication (*Parler français*, *Dire une histoire*).",
+        "**3. Regarder / Voir :** Regard attentif ou perception (*Regarder un film*, *Je vois un oiseau*).",
+        "**4. Écouter / Entendre :** Écoute active vs auditive (*Écouter de la musique*, *J'entends du bruit*).",
+        "**5. Devoir / Falloir :** Obligation et nécessité (*Je dois étudier*, *Il faut manger*).",
+        "**6. Prendre / Donner :** Échange (*Prendre le bus*, *Donner un cadeau*).",
+        "**7. Habiter / Vivre :** Lieu de résidence (*J'habite à Paris*, *Vivre bien*).",
+        "**8. Attendre :** Patience (*Attendre le train*, *J'attends mon ami*).",
+        "**9. Comprendre :** Assimilation (*Je comprends la leçon*, *Je ne comprends pas*).",
+        "**10. Demander / Répondre & Vouloir / Je voudrais :** Demandes et formules de politesse (*Poser une question*, *Je voudrais un thé*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matrice linguistique comparative en 14 langues"
+    },
+    {
+      "type": "paragraph",
+      "text": "Voici le tableau comparatif des verbes essentiels à travers nos 14 langues officielles :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Nuances familiales et caractéristiques grammaticales"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indo-européen :** Utilise des auxiliaires temporels et des inflexions de personne/nombre.\n• **Famille turcique (tatar, bachkir, tchouvache) :** Structures à suffixes agglutinants exprimant le temps et la personne sans auxiliaires distincts.\n• **Kartvélien (géorgien) :** Accord verbal polypersonnel marquant le sujet et les objets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exercices pratiques et navigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explorez les 14 articles linguistiques dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://example.com) et consultez les tables de verbes sur [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}

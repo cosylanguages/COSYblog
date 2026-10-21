@@ -1,0 +1,152 @@
+{
+  "id": "post-top-10-verbs-part-2-pt",
+  "slug": "top-10-verbs-part-2-pt",
+  "language": "pt",
+  "translationOf": "top-10-verbs-part-2",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — December Issue",
+    "title": "Winter Grammar & High Frequency Verbs"
+  },
+  "date": "2026-12-01",
+  "title": "Os 10 verbos essenciais em português, Parte 2 (CEFR A0–A1)",
+  "kicker": "GUIA DE PORTUGUÊS — PARTE 2",
+  "dek": "Segunda parte do guia essencial de verbos em português para principiantes (A0–A1): fazer, falar/dizer, olhar/ver, ouvir/escutar, ter de/dever, tomar/dar, viver/morar, esperar, entender e perguntar/responder.",
+  "tags": [
+    "Verbs",
+    "Portuguese",
+    "A0-A1",
+    "Part2"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 3,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0284c7",
+      "#f0f9ff",
+      "#0f172a"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-2-pt",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bem-vindo à segunda parte do guia de verbos em português para principiantes (A0–A1)! Apresentamos 10 novos verbos chave de ação, percepção e comunicação."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Análise detalhada: Os 10 verbos em português (Parte 2)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Fazer:** Atividades do quotidiano (*Fazer os TPC*, *Fazer o pequeno-almoço*).",
+        "**2. Falar / Dizer:** Comunicação (*Falar português*, *Dizer uma palavra*).",
+        "**3. Olhar / Ver:** Atenção visual (*Olhar para um filme*, *Vejo uma casa*).",
+        "**4. Ouvir / Escutar:** Percepção auditiva (*Ouvir música*, *Ouço um barulho*).",
+        "**5. Ter de / Dever:** Obrigação (*Tenho de estudar*, *Devo ir*).",
+        "**6. Tomar / Dar:** Troca (*Tomar um café*, *Dar um presente*).",
+        "**7. Morar / Viver:** Residência (*Moro em Lisboa*, *Viver bem*).",
+        "**8. Esperar:** Paciência (*Esperar o autocarro*, *Espere um momento*).",
+        "**9. Entender / Compreender:** Compreensão (*Entendo a lição*, *Não entendo*).",
+        "**10. Perguntar / Responder & Querer / Gostaria:** Perguntas e cortesia (*Fazer uma pergunta*, *Gostaria de um chá*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matriz linguística comparativa em 14 línguas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apresentamos abaixo a análise comparativa dos principais verbos nas 14 línguas oficiais:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Nuances das famílias linguísticas e aspetos gramaticais"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indo-europeu:** Utiliza auxiliares de tempo e flexões de pessoa/número.\n• **Família túrquica (tártaro, basqueir, chuvache):** Estruturas de sufixos aglutinantes para tempo e pessoa sem auxiliares separados.\n• **Kartveliano (georgiano):** Concordância verbal polipessoal indicando sujeito e objetos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exercícios práticos e navegação"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explore todos os 14 artigos no hub da COSYmagazine ou teste os seus conhecimentos no [COSYpractice](https://example.com) e consulte as tabelas de verbos no [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}

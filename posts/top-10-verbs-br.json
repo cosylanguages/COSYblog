@@ -1,0 +1,153 @@
+{
+  "id": "post-top-10-verbs-br",
+  "slug": "top-10-verbs-br",
+  "language": "br",
+  "translationOf": "top-10-verbs",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — August Issue",
+    "title": "Get ready for school"
+  },
+  "date": "2026-03-01",
+  "title": "Ar 10 verb pennañ e brezhoneg evit ar re dhazerañ (CEFR A0–A1)",
+  "kicker": "KAVLEVR BREZHONEG — RANN 1",
+  "dek": "Deskit ar 10 verb implijetañ e brezhoneg evit al live A0–A1 : troioù-lavar, kemmoù-skrivañ hag un daolenn keñveriañ e 14 yezh.",
+  "tags": [
+    "Verbs",
+    "Breton",
+    "A0-A1",
+    "14Languages"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-br",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Degemer mat e kavlevr ar verboù brezhonek pennañ evit al live A0–A1 ! Deskiñ ar 10 verb-mañ a sikouro ac'hanoc'h da gomz er vuhez pemdeziek."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dielfennadur munut : Ar 10 verb brezhonek (Rann 1)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Bezañ (on, out, eo, omp, oc'h, int):** Bezañs hag al lec'h (*Skoaziad on*, *Er gêr eo*).",
+        "**2. Kaout (am eus, az peus, en deus, he deus...):** Perc'henniezh hag oad (*Libr am eus*, *20 vloaz am eus*).",
+        "**3. Ober:** Obererezh (*Ober micher*, *Ober kafe*).",
+        "**4. Món / Monet (Aat):** Mont d'al lec'h (*Mont d'ar skol*).",
+        "**5. Dont:** Dont war-du an den (*Dont eus Roazhon*).",
+        "**6. Lavarout:** Komz ha kelaouiñ (*Lavarout demat*, *Lavarout ar wirionez*).",
+        "**7. Gwelout / Sellet:** Gweledigezh (*Gwelout un evn*, *Sellet ouzh ar skinwel*).",
+        "**8. Gouzout / Anavezout:** Gouziegezh ha kentuial (*Gouzout ar respont*, *Anavezout Yann*).",
+        "**9. C'hoant kaout / Fellout:** Fellout hag ezhomm (*C'hoant am eus dour*).",
+        "**10. Pliout:** Pliadur (*Pliout a ra din ar sonerezh*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Taolenn geñveriañ dre 14 yezh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Setu an daolenn geñveriañ eus ar verboù pennañ er 14 yezh ofisiel :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lodennoù yezh ha poentouriezh yezhadurel"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indezeuropegek:** Implijout a ra verboù skoazell amzer ha kemmañ personnes/niver.\n• **Tud turkek (tatar, bachkir, chouvache):** Structurioù gofeat hep verboù skoazell disparti.\n• **Kartvelek (jeorjieg):** Kenfeurmelezh verb liespersonel evit ar sujed hag an objets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Aozioù pleustriñ ha merdeiñ"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Enklaskit an 14 pennad yezh e kreizenn COSYmagazine pe amprouit ho gouziegezh war [COSYpractice](https://example.com) ha sellit ouzh an taolennou verboù war [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}

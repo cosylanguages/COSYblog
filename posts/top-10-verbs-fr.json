@@ -1,0 +1,153 @@
+{
+  "id": "post-top-10-verbs-fr",
+  "slug": "top-10-verbs-fr",
+  "language": "fr",
+  "translationOf": "top-10-verbs",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — August Issue",
+    "title": "Get ready for school"
+  },
+  "date": "2026-03-01",
+  "title": "Les 10 verbes essentiels en français pour débutants (CEFR A0–A1)",
+  "kicker": "GUIDE DU FRANÇAIS — PARTIE 1",
+  "dek": "Maîtrisez les 10 verbes les plus fréquents en français avec leurs conjugaisons A0–A1, leurs collocations, leurs pièges et une matrice comparative en 14 langues.",
+  "tags": [
+    "Verbs",
+    "French",
+    "A0-A1",
+    "14Languages"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-fr",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bienvenue dans le guide des verbes français essentiels pour le niveau A0–A1 ! La maîtrise de ces 10 verbes clés vous permettra d'exprimer vos besoins quotidiens avec assurance."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Analyse détaillée : Les 10 verbes français (Partie 1)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Être (suis, es, est, sommes, êtes, sont) :** Identité et état (*Je suis étudiant*, *Il est à la maison*).",
+        "**2. Avoir (ai, as, a, avons, avez, ont) :** Possession et âge (*J'ai un livre*, *J'ai 20 ans*).",
+        "**3. Faire (fais, fait, faisons, faites, font) :** Activités et création (*Faire du sport*, *Faire la cuisine*).",
+        "**4. Aller (vais, vas, va, allons, allez, vont) :** Déplacement et futur proche (*Je vais au travail*, *Je vais manger*).",
+        "**5. Venir (viens, vient, venons, venez, viennent) :** Provenance et passé récent (*Je viens de Paris*, *Il vient d'arriver*).",
+        "**6. Dire (dis, dit, disons, dites, disent) :** Communication (*Dire bonjour*, *Dire la vérité*).",
+        "**7. Voir / Regarder :** Perception visuelle (*Je vois la mer*, *Regarder la télévision*).",
+        "**8. Savoir / Connaître :** Faits et connaissance (*Je sais la réponse*, *Je connais Marie*).",
+        "**9. Vouloir (veux, veut, voulons, voulez, veulent) :** Désir et politesse (*Je veux de l'eau*, *Je voudrais un café*).",
+        "**10. Aimer :** Préférences et goûts (*J'aime le chocolat*, *J'aime voyager*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matrice linguistique comparative en 14 langues"
+    },
+    {
+      "type": "paragraph",
+      "text": "Voici le tableau comparatif des verbes essentiels à travers nos 14 langues officielles :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Nuances familiales et caractéristiques grammaticales"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indo-européen :** Utilise des auxiliaires temporels et des inflexions de personne/nombre.\n• **Famille turcique (tatar, bachkir, tchouvache) :** Structures à suffixes agglutinants exprimant le temps et la personne sans auxiliaires distincts.\n• **Kartvélien (géorgien) :** Accord verbal polypersonnel marquant le sujet et les objets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exercices pratiques et navigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explorez les 14 articles linguistiques dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://example.com) et consultez les tables de verbes sur [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": "post-top-10-verbs-en",
+  "slug": "top-10-verbs-en",
+  "language": "en",
+  "translationOf": "top-10-verbs",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — August Issue",
+    "title": "Get ready for school"
+  },
+  "date": "2026-03-01",
+  "title": "Top 10 Essential Verbs in English for Absolute Beginners (A0–A1)",
+  "kicker": "ENGLISH CORE GUIDE — PART 1",
+  "dek": "Master the 10 most high-frequency verbs in English with A0–A1 adapted conjugations, collocations, false-friend warnings, and a 14-language comparative matrix.",
+  "tags": [
+    "Verbs",
+    "English",
+    "A0-A1",
+    "14Languages"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-en",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Welcome to the essential guide to high-frequency English verbs for absolute beginners (A0–A1)! Mastering these core verbs will unlock over 80% of daily conversations."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deep Dive: Top 10 English Verbs (Part 1)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. To Be (am / is / are):** Identity, states, and locations (*I am a student*, *He is at home*, *They are ready*).",
+        "**2. To Have (have / has):** Possession and relationships (*I have a book*, *She has a sister*). Note: Age uses *to be* (*I am 20 years old*).",
+        "**3. To Do / To Make:** Actions and creation (*Do homework*, *Do laundry* vs. *Make coffee*, *Make dinner*).",
+        "**4. To Go (go / goes):** Movement away from speaker (*I go to school*, *She goes home*).",
+        "**5. To Come (come / comes):** Movement toward speaker (*Come here*, *They come from France*).",
+        "**6. To Say / To Tell:** Speech and communication (*Say hello*, *Say yes* vs. *Tell a story*, *Tell me*).",
+        "**7. To See / To Look:** Visual perception (*I see a bird* vs. *Look at the map*).",
+        "**8. To Know:** Factual knowledge and familiarity (*I know the answer*, *Do you know John?*).",
+        "**9. To Want:** Expressing desire (*I want water*, *She wants to learn*).",
+        "**10. To Like:** Expressing preference (*I like tea*, *They like soccer*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Comparative Linguistics Matrix across 14 Languages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is the comparative breakdown for core verbs across all 14 official languages:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Language Family Nuances & Grammatical Highlights"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indo-European:** Features tense auxiliary verbs and person/number inflections.\n• **Turkic Family (Tatar, Bashkir, Chuvash):** Agglutinative suffix structures expressing tense and person without separate helper verbs.\n• **Kartvelian (Georgian):** Polypersonal verb agreement marking subject and indirect/direct objects."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interactive Practice & Navigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}

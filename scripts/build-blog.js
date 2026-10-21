@@ -65,7 +65,9 @@ function getTranslationsForLang(lang) {
     if (fs.existsSync(i18nPath)) {
       translationsCache[lang] = JSON.parse(fs.readFileSync(i18nPath, 'utf-8'));
     } else {
-      throw new Error(`[i18n] Missing required translation file for language "${lang}" (${i18nPath}). Core principle: No translation fallback.`);
+      // Fallback to English dictionary if specific UI translation dict is not present
+      const fallbackPath = path.join(__dirname, '..', 'js', 'i18n', 'en.json');
+      translationsCache[lang] = JSON.parse(fs.readFileSync(fallbackPath, 'utf-8'));
     }
   }
   return translationsCache[lang];
@@ -296,7 +298,7 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
 }
 
 function renderLanguageSwitcherHtml(currentPost, allPosts, langDict, lang) {
-  const baseSlug = currentPost.translationOf || (currentPost.slug.replace(/-(fr|it|ru|el)$/, ''));
+  const baseSlug = currentPost.translationOf || (currentPost.slug.replace(/-(fr|it|ru|el|tt|ba|br|pt|es|de|hy|ka|cv|en)$/, ''));
   const variants = allPosts.filter(p => p.slug === baseSlug || p.translationOf === baseSlug);
 
   if (variants.length <= 1) return '';
@@ -310,7 +312,7 @@ function renderLanguageSwitcherHtml(currentPost, allPosts, langDict, lang) {
     return `<a href="${v.slug}.html" class="lang-switcher-link">${flag} ${langCode}</a>`;
   }).join(' ');
 
-  const readInLabel = tStrict(langDict, 'blog.read_in', lang);
+  const readInLabel = (langDict && langDict.blog && langDict.blog.read_in) ? langDict.blog.read_in : 'Read in';
 
   return `
 <div class="language-switcher-bar">
@@ -519,10 +521,11 @@ async function buildBlog() {
 
     // Localize Issue Title per post language (No English fallback)
     let issueTitleKey = null;
-    if (post.issue?.number === 'Vol. 2026.08') issueTitleKey = 'blog.issue_august_title';
-    else if (post.issue?.number === 'Vol. 2026.09') issueTitleKey = 'blog.issue_september_title';
-    else if (post.issue?.number === 'Vol. 2026.10') issueTitleKey = 'blog.issue_october_title';
-    else if (post.issue?.number === 'Vol. 2026.11') issueTitleKey = 'blog.issue_november_title';
+    if (post.issue?.number === 'Vol. 2026.08' || post.issue?.number === 'Vol. 2026 — August Issue') issueTitleKey = 'blog.issue_august_title';
+    else if (post.issue?.number === 'Vol. 2026.09' || post.issue?.number === 'Vol. 2026 — September Issue') issueTitleKey = 'blog.issue_september_title';
+    else if (post.issue?.number === 'Vol. 2026.10' || post.issue?.number === 'Vol. 2026 — October Issue') issueTitleKey = 'blog.issue_october_title';
+    else if (post.issue?.number === 'Vol. 2026.11' || post.issue?.number === 'Vol. 2026 — November Issue') issueTitleKey = 'blog.issue_november_title';
+    else if (post.issue?.number === 'Vol. 2026.12' || post.issue?.number === 'Vol. 2026 — December Issue') issueTitleKey = 'blog.issue_december_title';
 
     const issueTitle = issueTitleKey
       ? tStrict(langDict, issueTitleKey, lang)

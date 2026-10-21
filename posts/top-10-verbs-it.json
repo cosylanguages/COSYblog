@@ -1,0 +1,153 @@
+{
+  "id": "post-top-10-verbs-it",
+  "slug": "top-10-verbs-it",
+  "language": "it",
+  "translationOf": "top-10-verbs",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — August Issue",
+    "title": "Get ready for school"
+  },
+  "date": "2026-03-01",
+  "title": "I 10 verbi essenziali in italiano per principianti (CEFR A0–A1)",
+  "kicker": "GUIDA ALL'ITALIANO — PARTE 1",
+  "dek": "Impara i 10 verbi italiani ad altissima frequenza con coniugazioni A0–A1, collocazioni utili, avvertenze sui falsi amici e tabella comparativa in 14 lingue.",
+  "tags": [
+    "Verbs",
+    "Italian",
+    "A0-A1",
+    "14Languages"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-it",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Benvenuti nella guida ai verbi essenziali della lingua italiana per il livello A0–A1! Dominare questi 10 verbi ti consentirà di gestire le situazioni quotidiane con facilità."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Analisi approfondita: I 10 verbi italiani (Parte 1)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Essere (sono, sei, è, siamo, siete, sono):** Identità e stato (*Sono studente*, *Lui è a casa*).",
+        "**2. Avere (ho, hai, ha, abbiamo, avete, hanno):** Possesso ed età (*Ho un libro*, *Ho 20 anni*).",
+        "**3. Fare (faccio, fai, fa, facciamo, fate, fanno):** Attività e creazione (*Fare la spesa*, *Fare il caffè*).",
+        "**4. Andare (vado, vai, va, andiamo, andate, vanno):** Movimento (*Vado a scuola*, *Andare al mare*).",
+        "**5. Venire (vengo, vieni, viene, veniamo, venite, vengono):** Provenienza (*Vengo da Roma*).",
+        "**6. Dire (dico, dici, dice, diciamo, dite, dicono):** Comunicazione (*Dire la verità*, *Dire di sì*).",
+        "**7. Vedere / Guardare:** Percezione visiva (*Vedo un gelato*, *Guardare la TV*).",
+        "**8. Sapere / Conoscere:** Conoscenza e familiarità (*So la risposta*, *Conosco Marco*).",
+        "**9. Volere (voglio, vuoi, vuole, vogliamo, volete, vogliono):** Desiderio e cortesia (*Voglio l'acqua*, *Vorrei un caffè*).",
+        "**10. Piacere:** Preferenze (*Mi piace la pizza*, *Mi piacciono i libri*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matrice comparativa tra 14 lingue"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ecco la tabella comparativa dei verbi principali nelle 14 lingue ufficiali:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sfumature linguistiche e aspetti grammaticali"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indoeuropeo:** Utilizza ausiliari e flessioni di persona/numero.\n• **Famiglia turchica (tataro, baschiro, ciuvascio):** Strutture a suffissi agglutinanti per tempo e persona senza ausiliari separati.\n• **Kartvelico (georgiano):** Accordo verbale polipersonale che marca soggetto e oggetti."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Esercizi pratici e navigazione"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Esplora tutti i 14 articoli linguistici nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://example.com) e consulta le tabelle dei verbi su [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}

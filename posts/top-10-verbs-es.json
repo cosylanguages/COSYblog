@@ -1,0 +1,153 @@
+{
+  "id": "post-top-10-verbs-es",
+  "slug": "top-10-verbs-es",
+  "language": "es",
+  "translationOf": "top-10-verbs",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — August Issue",
+    "title": "Get ready for school"
+  },
+  "date": "2026-03-01",
+  "title": "Los 10 verbos esenciales en español para principiantes (CEFR A0–A1)",
+  "kicker": "GUÍA DE ESPAÑOL — PARTE 1",
+  "dek": "Aprende los 10 verbos más frecuentes en español con conjugaciones adaptadas a A0–A1, colocaciones útiles, notas sobre falsos amigos y tabla comparativa en 14 idiomas.",
+  "tags": [
+    "Verbs",
+    "Spanish",
+    "A0-A1",
+    "14Languages"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-es",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "¡Bienvenidos a la guía de verbos esenciales en español para nivel A0–A1! El dominio de estos 10 verbos te permitirá desenvolverte con soltura en la vida cotidiana."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Análisis detallado: Los 10 verbos en español (Parte 1)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Ser / Estar:** Identidad y ubicación (*Soy estudiante*, *Estoy en casa*).",
+        "**2. Tener (tengo, tienes, tiene, tenemos, tenéis, tienen):** Posesión y edad (*Tengo un libro*, *Tengo 20 años*).",
+        "**3. Hacer (hago, haces, hace, hacemos, hacéis, hacen):** Actividades (*Hacer la tarea*, *Hacer café*).",
+        "**4. Ir (voy, vas, va, vamos, vais, van):** Movimiento y futuro cercano (*Voy a la escuela*, *Voy a comer*).",
+        "**5. Venir (vengo, vienes, viene, venimos, venís, vienen):** Procedencia (*Vengo de Madrid*).",
+        "**6. Decir (digo, dices, dice, decimos, decís, dicen):** Comunicación (*Decir la verdad*, *Decir que sí*).",
+        "**7. Ver / Mirar:** Percepción visual (*Veo una película*, *Mirar la televisión*).",
+        "**8. Saber / Conocer:** Información y familiaridad (*Sé la respuesta*, *Conozco a Juan*).",
+        "**9. Querer (quiero, quieres, quiere...):** Deseo y cortesía (*Quiero agua*, *Quisiera un café*).",
+        "**10. Gustar:** Expresar gustos (*Me gusta la música*, *Me gustan los libros*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matriz lingüística comparativa en 14 idiomas"
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación se muestra el desglose comparativo de los verbos principales en los 14 idiomas oficiales:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matices familiares y aspectos gramaticales"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indoeuropeo:** Utiliza auxiliares de tiempo e inflexiones de persona/número.\n• **Familia turca (tártaro, bashkir, chuvash):** Estructuras de sufijos aglutinantes que expresan tiempo y persona sin auxiliares separados.\n• **Kartveliano (georgiano):** Concordancia verbal polipersonal para sujeto y objetos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejercicios prácticos y navegación"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explora los 14 artículos lingüísticos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://example.com) y consulta las tablas de verbos en [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}

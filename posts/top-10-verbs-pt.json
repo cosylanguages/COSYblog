@@ -1,0 +1,153 @@
+{
+  "id": "post-top-10-verbs-pt",
+  "slug": "top-10-verbs-pt",
+  "language": "pt",
+  "translationOf": "top-10-verbs",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026 — August Issue",
+    "title": "Get ready for school"
+  },
+  "date": "2026-03-01",
+  "title": "Os 10 verbos essenciais em português para principiantes (CEFR A0–A1)",
+  "kicker": "GUIA DE PORTUGUÊS — PARTE 1",
+  "dek": "Domine os 10 verbos mais frequentes em português com conjugações A0–A1, colocações práticas, alertas de falsos amigos e matriz comparativa em 14 línguas.",
+  "tags": [
+    "Verbs",
+    "Portuguese",
+    "A0-A1",
+    "14Languages"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 2,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-pt",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Bem-vindo ao guia de verbos essenciais em português para o nível A0–A1! Dominar estes 10 verbos ser-lhe-á indispensável no dia a dia."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Análise detalhada: Os 10 verbos em português (Parte 1)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Ser / Estar:** Identidade e localização (*Sou estudante*, *Estou em casa*).",
+        "**2. Ter (tenho, tens, tem, temos, têm):** Posse e idade (*Tenho um livro*, *Tenho 20 anos*).",
+        "**3. Fazer (faço, fazes, faz, fazemos, fazem):** Atividades e criação (*Fazer os trabalhos*, *Fazer café*).",
+        "**4. Ir (vou, vais, vai, vamos, vão):** Movimento e futuro próximo (*Vou para a escola*, *Vou comer*).",
+        "**5. Vir (venho, vens, vem, vimos, vêm):** Origem (*Venho de Lisboa*).",
+        "**6. Dizer (digo, dizes, diz, dizemos, dizem):** Comunicação (*Dizer a verdade*, *Dizer sim*).",
+        "**7. Ver / Olhar:** Percepção visual (*Vejo um filme*, *Olhar para o mapa*).",
+        "**8. Saber / Conhecer:** Conhecimento e familiaridade (*Sei a resposta*, *Conheço o João*).",
+        "**9. Querer (quero, queres, quer...):** Desejo e cortesia (*Quero água*, *Gostaria de um café*).",
+        "**10. Gostar:** Preferências (*Gosto de música*, *Gosto de viajar*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matriz linguística comparativa em 14 línguas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apresentamos abaixo a análise comparativa dos principais verbos nas 14 línguas oficiais:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Nuances das famílias linguísticas e aspetos gramaticais"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indo-europeu:** Utiliza auxiliares de tempo e flexões de pessoa/número.\n• **Família túrquica (tártaro, basqueir, chuvache):** Estruturas de sufixos aglutinantes para tempo e pessoa sem auxiliares separados.\n• **Kartveliano (georgiano):** Concordância verbal polipessoal indicando sujeito e objetos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exercícios práticos e navegação"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explore todos os 14 artigos no hub da COSYmagazine ou teste os seus conhecimentos no [COSYpractice](https://example.com) e consulte as tabelas de verbos no [COSYtools](https://example.com)."
+    }
+  ],
+  "draft": false
+}
