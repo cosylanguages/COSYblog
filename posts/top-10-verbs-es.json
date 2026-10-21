@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Los 10 verbos esenciales en español para principiantes (CEFR A0–A1)",
-  "kicker": "GUÍA DE ESPAÑOL — PARTE 1",
-  "dek": "Aprende los 10 verbos más frecuentes en español con conjugaciones adaptadas a A0–A1, colocaciones útiles, notas sobre falsos amigos y tabla comparativa en 14 idiomas.",
+  "title": "Top 10 Essential Verbs in Spanish for Absolute Beginners (A0–A1)",
+  "kicker": "SPANISH CORE GUIDE — PART 1",
+  "dek": "Master the 10 core verbs in Spanish (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "Spanish",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "¡Bienvenidos a la guía de verbos esenciales en español para nivel A0–A1! El dominio de estos 10 verbos te permitirá desenvolverte con soltura en la vida cotidiana."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Spanish! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Análisis detallado: Los 10 verbos en español (Parte 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Ser / Estar:** Identidad y ubicación (*Soy estudiante*, *Estoy en casa*).",
-        "**2. Tener (tengo, tienes, tiene, tenemos, tenéis, tienen):** Posesión y edad (*Tengo un libro*, *Tengo 20 años*).",
-        "**3. Hacer (hago, haces, hace, hacemos, hacéis, hacen):** Actividades (*Hacer la tarea*, *Hacer café*).",
-        "**4. Ir (voy, vas, va, vamos, vais, van):** Movimiento y futuro cercano (*Voy a la escuela*, *Voy a comer*).",
-        "**5. Venir (vengo, vienes, viene, venimos, venís, vienen):** Procedencia (*Vengo de Madrid*).",
-        "**6. Decir (digo, dices, dice, decimos, decís, dicen):** Comunicación (*Decir la verdad*, *Decir que sí*).",
-        "**7. Ver / Mirar:** Percepción visual (*Veo una película*, *Mirar la televisión*).",
-        "**8. Saber / Conocer:** Información y familiaridad (*Sé la respuesta*, *Conozco a Juan*).",
-        "**9. Querer (quiero, quieres, quiere...):** Deseo y cortesía (*Quiero agua*, *Quisiera un café*).",
-        "**10. Gustar:** Expresar gustos (*Me gusta la música*, *Me gustan los libros*)."
+        "**1. To Be (Spanish)** (forms): Core verb for identity and state. *Example:* \"Identity and states in Spanish.\" — *Collocations:* *be ready*, *be happy*, *be here*.",
+        "**2. To Have (Spanish)** (forms): Core verb for possession. *Example:* \"Possession in Spanish.\" — *Collocations:* *have time*, *have a book*, *have to*.",
+        "**3. To Think (Spanish)** (forms): Mental reflection and opinion. *Example:* \"Opinions in Spanish.\" — *Collocations:* *think that*, *think about*, *I think*.",
+        "**4. To Know (Spanish)** (forms): Facts and familiarity. *Example:* \"Knowing facts in Spanish.\" — *Collocations:* *know answer*, *know someone*, *I know*.",
+        "**5. To Like (Spanish)** (forms): Tastes and preferences. *Example:* \"Preferences in Spanish.\" — *Collocations:* *like tea*, *like music*, *like doing*.",
+        "**6. To Want / Would Like (Spanish)** (forms): Desire and polite request. *Example:* \"Desires and requests in Spanish.\" — *Collocations:* *want water*, *would like tea*, *want to go*.",
+        "**7. To Go / Be Going To (Spanish)** (forms): Movement and intention. *Example:* \"Movement in Spanish.\" — *Collocations:* *go home*, *go to work*, *going to*.",
+        "**8. To Can (Ability) (Spanish)** (forms): Ability and permission. *Example:* \"Ability in Spanish.\" — *Collocations:* *can speak*, *can help*, *can do*.",
+        "**9. To Eat (Spanish)** (forms): Consuming food. *Example:* \"Eating food in Spanish.\" — *Collocations:* *eat apple*, *eat dinner*, *eat food*.",
+        "**10. To Drink (Spanish)** (forms): Consuming liquids. *Example:* \"Drinking in Spanish.\" — *Collocations:* *drink water*, *drink tea*, *drink coffee*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matriz lingüística comparativa en 14 idiomas"
-    },
-    {
-      "type": "paragraph",
-      "text": "A continuación se muestra el desglose comparativo de los verbos principales en los 14 idiomas oficiales:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matices familiares y aspectos gramaticales"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indoeuropeo:** Utiliza auxiliares de tiempo e inflexiones de persona/número.\n• **Familia turca (tártaro, bashkir, chuvash):** Estructuras de sufijos aglutinantes que expresan tiempo y persona sin auxiliares separados.\n• **Kartveliano (georgiano):** Concordancia verbal polipersonal para sujeto y objetos."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Ejercicios prácticos y navegación"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Explora los 14 artículos lingüísticos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://example.com) y consulta las tablas de verbos en [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

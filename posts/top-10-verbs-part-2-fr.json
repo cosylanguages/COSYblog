@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "Les 10 verbes essentiels en français, Partie 2 (CEFR A0–A1)",
-  "kicker": "GUIDE DU FRANÇAIS — PARTIE 2",
-  "dek": "Deuxième partie du guide des verbes français pour le niveau A0–A1 : faire, parler/dire, regarder/voir, écouter/entendre, devoir/falloir, prendre/donner, vivre/habiter, attendre, comprendre et demander/répondre.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in French",
+  "kicker": "FRENCH CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in French: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "French",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans la deuxième partie du guide des verbes français pour le niveau A0–A1 ! Nous découvrons 10 verbes d'action, de perception et de communication indispensables au quotidien."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in French! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Analyse détaillée : Les 10 verbes français (Partie 2)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Faire :** Activités quotidiennes (*Faire les devoirs*, *Faire le café*).",
-        "**2. Parler / Dire :** Communication (*Parler français*, *Dire une histoire*).",
-        "**3. Regarder / Voir :** Regard attentif ou perception (*Regarder un film*, *Je vois un oiseau*).",
-        "**4. Écouter / Entendre :** Écoute active vs auditive (*Écouter de la musique*, *J'entends du bruit*).",
-        "**5. Devoir / Falloir :** Obligation et nécessité (*Je dois étudier*, *Il faut manger*).",
-        "**6. Prendre / Donner :** Échange (*Prendre le bus*, *Donner un cadeau*).",
-        "**7. Habiter / Vivre :** Lieu de résidence (*J'habite à Paris*, *Vivre bien*).",
-        "**8. Attendre :** Patience (*Attendre le train*, *J'attends mon ami*).",
-        "**9. Comprendre :** Assimilation (*Je comprends la leçon*, *Je ne comprends pas*).",
-        "**10. Demander / Répondre & Vouloir / Je voudrais :** Demandes et formules de politesse (*Poser une question*, *Je voudrais un thé*)."
+        "**1. Faire** (fais, fait, faisons, faites, font): Action, création, devoirs et expressions courantes. *Example:* \"Je fais mes devoirs. Il fait du café.\" — *Collocations:* *faire la cuisine*, *faire de l'exercice*, *faire attention*.",
+        "**2. Parler / Dire** (parle, parles / dis, dit): Communication orale (parler) et contenu du message (dire). *Example:* \"Je parle français. Il dit la vérité.\" — *Collocations:* *parler de*, *dire bonjour*, *dire la vérité*.",
+        "**3. Regarder / Voir** (regarde / vois, voit): Perception visuelle passive (voir) vs Attention active (regarder). *Example:* \"Je vois un oiseau. Regarde cette photo!\" — *Collocations:* *regarder la télé*, *voir un ami*, *à bientôt*.",
+        "**4. Écouter / Entendre** (écoute / entends, entend): Perception auditive passive (entendre) vs Attention auditive (écouter). *Example:* \"J'entends un bruit. Écoute la musique!\" — *Collocations:* *écouter de la musique*, *entendre parler*, *écouter bien*.",
+        "**5. Devoir / Falloir** (dois, doit, devons / il faut): Obligation personnelle (devoir) et nécessité générale (il faut). *Example:* \"Je dois partir. Il faut étudier.\" — *Collocations:* *devoir faire*, *il faut*, *devoir de l'argent*.",
+        "**6. Prendre / Donner / Obtenir** (prends, prend / donne / obtiens): Saisir/transporter (prendre) et offrir (donner). *Example:* \"Prends cette clé. Donne-moi la main.\" — *Collocations:* *prendre du temps*, *donner un conseil*, *prendre un café*.",
+        "**7. Habiter / Vivre** (habite / vis, vit): Résidence (habiter) et existence/mode de vie (vivre). *Example:* \"J'habite à Paris. Nous vivons bien.\" — *Collocations:* *habiter en ville*, *vivre ensemble*, *où habites-tu?*.",
+        "**8. Attendre** (attends, attend, attendons, attendez, attendent): Patienter et attendre un événement. *Example:* \"Attends-moi! J'attends le bus.\" — *Collocations:* *attendre quelqu'un*, *attendre un instant*, *j'attends*.",
+        "**9. Comprendre** (comprends, comprend, comprenons, comprenez): Assimilation intellectuelle et compréhension. *Example:* \"Je comprends la leçon. Comprenez-vous?\" — *Collocations:* *comprendre bien*, *je ne comprends pas*, *se faire comprendre*.",
+        "**10. Demander / Répondre** (demande / réponds, répond): Poser une question/solliciter (demander) et répliquer (répondre). *Example:* \"Pose une question. Réponds au téléphone.\" — *Collocations:* *demander de l'aide*, *répondre à une question*, *demander pourquoi*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matrice linguistique comparative en 14 langues"
-    },
-    {
-      "type": "paragraph",
-      "text": "Voici le tableau comparatif des verbes essentiels à travers nos 14 langues officielles :"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Nuances familiales et caractéristiques grammaticales"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-européen :** Utilise des auxiliaires temporels et des inflexions de personne/nombre.\n• **Famille turcique (tatar, bachkir, tchouvache) :** Structures à suffixes agglutinants exprimant le temps et la personne sans auxiliaires distincts.\n• **Kartvélien (géorgien) :** Accord verbal polypersonnel marquant le sujet et les objets."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Exercices pratiques et navigation"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Explorez les 14 articles linguistiques dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://example.com) et consultez les tables de verbes sur [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

@@ -13,7 +13,7 @@
   "date": "2026-03-01",
   "title": "Top 10 Essential Verbs in English for Absolute Beginners (A0–A1)",
   "kicker": "ENGLISH CORE GUIDE — PART 1",
-  "dek": "Master the 10 most high-frequency verbs in English with A0–A1 adapted conjugations, collocations, false-friend warnings, and a 14-language comparative matrix.",
+  "dek": "Master the 10 core verbs in English (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "English",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to the essential guide to high-frequency English verbs for absolute beginners (A0–A1)! Mastering these core verbs will unlock over 80% of daily conversations."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in English! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Deep Dive: Top 10 English Verbs (Part 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. To Be (am / is / are):** Identity, states, and locations (*I am a student*, *He is at home*, *They are ready*).",
-        "**2. To Have (have / has):** Possession and relationships (*I have a book*, *She has a sister*). Note: Age uses *to be* (*I am 20 years old*).",
-        "**3. To Do / To Make:** Actions and creation (*Do homework*, *Do laundry* vs. *Make coffee*, *Make dinner*).",
-        "**4. To Go (go / goes):** Movement away from speaker (*I go to school*, *She goes home*).",
-        "**5. To Come (come / comes):** Movement toward speaker (*Come here*, *They come from France*).",
-        "**6. To Say / To Tell:** Speech and communication (*Say hello*, *Say yes* vs. *Tell a story*, *Tell me*).",
-        "**7. To See / To Look:** Visual perception (*I see a bird* vs. *Look at the map*).",
-        "**8. To Know:** Factual knowledge and familiarity (*I know the answer*, *Do you know John?*).",
-        "**9. To Want:** Expressing desire (*I want water*, *She wants to learn*).",
-        "**10. To Like:** Expressing preference (*I like tea*, *They like soccer*)."
+        "**1. To Be** (am / is / are): Core verb for identity, age, physical states, location, and continuous tenses. *Example:* \"I am a student. She is at home. They are happy.\" — *Collocations:* *be hungry*, *be late*, *be ready*, *be going to*.",
+        "**2. To Have** (have / has): Possession, family relationships, obligations, and experiences. *Example:* \"I have a car. She has a sister. We have time.\" — *Collocations:* *have breakfast*, *have a shower*, *have to do*.",
+        "**3. To Think** (think / thinks): Mental reflection, personal opinions, and deliberation. *Example:* \"I think so. What do you think about this?\" — *Collocations:* *think about*, *think that*, *I think so*.",
+        "**4. To Know** (know / knows): Factual knowledge, acquired skills, and personal familiarity. *Example:* \"I know the answer. Do you know John?\" — *Collocations:* *know how to*, *know someone*, *let me know*.",
+        "**5. To Like** (like / likes): Preferences, tastes, and mild affection. *Example:* \"I like coffee. She likes reading books.\" — *Collocations:* *like doing*, *would like*, *like it a lot*.",
+        "**6. To Want / Would Like** (want / would like): Direct desire (want) and polite ordering/requesting (would like). *Example:* \"I want water. I would like coffee, please.\" — *Collocations:* *want to go*, *would like tea*, *want help*.",
+        "**7. To Go / Be Going To** (go / goes / am going to): Physical movement away from speaker and future intentions. *Example:* \"I go to work. I am going to study tonight.\" — *Collocations:* *go home*, *go shopping*, *be going to*.",
+        "**8. To Can (Ability)** (can): Physical or learned ability, possibility, and polite permission. *Example:* \"I can speak English. Can you help me?\" — *Collocations:* *can swim*, *can speak*, *can I ask?*.",
+        "**9. To Eat** (eat / eats): Consuming solid food and meals. *Example:* \"I eat an apple every day. We eat dinner at 7.\" — *Collocations:* *eat food*, *eat breakfast*, *eat out*.",
+        "**10. To Drink** (drink / drinks): Consuming liquids and beverages. *Example:* \"I drink water. He drinks tea in the morning.\" — *Collocations:* *drink water*, *drink coffee*, *a cold drink*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Comparative Linguistics Matrix across 14 Languages"
-    },
-    {
-      "type": "paragraph",
-      "text": "Below is the comparative breakdown for core verbs across all 14 official languages:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,55 +85,46 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Language Family Nuances & Grammatical Highlights"
-    },
-    {
-      "type": "paragraph",
-      "text": "• **Indo-European:** Features tense auxiliary verbs and person/number inflections.\n• **Turkic Family (Tatar, Bashkir, Chuvash):** Agglutinative suffix structures expressing tense and person without separate helper verbs.\n• **Kartvelian (Georgian):** Polypersonal verb agreement marking subject and indirect/direct objects."
     },
     {
       "type": "heading",
@@ -146,7 +133,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Les 10 verbes essentiels en français pour débutants (CEFR A0–A1)",
-  "kicker": "GUIDE DU FRANÇAIS — PARTIE 1",
-  "dek": "Maîtrisez les 10 verbes les plus fréquents en français avec leurs conjugaisons A0–A1, leurs collocations, leurs pièges et une matrice comparative en 14 langues.",
+  "title": "Top 10 Essential Verbs in French for Absolute Beginners (A0–A1)",
+  "kicker": "FRENCH CORE GUIDE — PART 1",
+  "dek": "Master the 10 core verbs in French (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "French",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans le guide des verbes français essentiels pour le niveau A0–A1 ! La maîtrise de ces 10 verbes clés vous permettra d'exprimer vos besoins quotidiens avec assurance."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in French! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Analyse détaillée : Les 10 verbes français (Partie 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Être (suis, es, est, sommes, êtes, sont) :** Identité et état (*Je suis étudiant*, *Il est à la maison*).",
-        "**2. Avoir (ai, as, a, avons, avez, ont) :** Possession et âge (*J'ai un livre*, *J'ai 20 ans*).",
-        "**3. Faire (fais, fait, faisons, faites, font) :** Activités et création (*Faire du sport*, *Faire la cuisine*).",
-        "**4. Aller (vais, vas, va, allons, allez, vont) :** Déplacement et futur proche (*Je vais au travail*, *Je vais manger*).",
-        "**5. Venir (viens, vient, venons, venez, viennent) :** Provenance et passé récent (*Je viens de Paris*, *Il vient d'arriver*).",
-        "**6. Dire (dis, dit, disons, dites, disent) :** Communication (*Dire bonjour*, *Dire la vérité*).",
-        "**7. Voir / Regarder :** Perception visuelle (*Je vois la mer*, *Regarder la télévision*).",
-        "**8. Savoir / Connaître :** Faits et connaissance (*Je sais la réponse*, *Je connais Marie*).",
-        "**9. Vouloir (veux, veut, voulons, voulez, veulent) :** Désir et politesse (*Je veux de l'eau*, *Je voudrais un café*).",
-        "**10. Aimer :** Préférences et goûts (*J'aime le chocolat*, *J'aime voyager*)."
+        "**1. Être** (suis, es, est, sommes, êtes, sont): Identité, état, localisation et verbe auxiliaire. *Example:* \"Je suis étudiant. Il est à la maison. Nous sommes prêts.\" — *Collocations:* *être prêt*, *être à l'heure*, *être d'accord*.",
+        "**2. Avoir** (ai, as, a, avons, avez, ont): Possession, âge, sensations physiques et auxiliaire. *Example:* \"J'ai un livre. J'ai 20 ans. Elle a faim.\" — *Collocations:* *avoir faim*, *avoir soif*, *avoir besoin de*.",
+        "**3. Penser** (pense, penses, pense, pensons, pensez, pensent): Opinion, réflexion et croyance. *Example:* \"Je pense que oui. À quoi penses-tu?\" — *Collocations:* *penser à*, *penser de*, *je pense que*.",
+        "**4. Savoir / Connaître** (sais, sait / connais, connaît): Savoir des faits ou compétences vs Connaître personnes ou lieux. *Example:* \"Je sais parler français. Je connais Paris.\" — *Collocations:* *savoir faire*, *connaître quelqu'un*, *je ne sais pas*.",
+        "**5. Aimer** (aime, aimes, aime, aimons, aimez, aiment): Préférences, goûts et affection. *Example:* \"J'aime le café. J'aime voyager.\" — *Collocations:* *aimer bien*, *aimer faire*, *j'aime beaucoup*.",
+        "**6. Vouloir / Aimerais (Voudrais)** (veux, veut, voulons / aimerais): Désir direct et demande polie. *Example:* \"Je veux de l'eau. J'aimerais un thé, s'il vous plaît.\" — *Collocations:* *vouloir faire*, *aimerais avoir*, *je voudrais*.",
+        "**7. Aller / Aller + infinitif** (vais, vas, va, allons, allez, vont): Déplacement physique et futur proche. *Example:* \"Je vais au travail. Je vais manger.\" — *Collocations:* *aller à la maison*, *comment ça va*, *aller bien*.",
+        "**8. Pouvoir** (peux, peut, pouvons, pouvez, peuvent): Capacité, possibilité et demande de permission. *Example:* \"Je peux parler français. Pouvez-vous m'aider?\" — *Collocations:* *pouvoir faire*, *est-ce que je peux*, *on peut*.",
+        "**9. Manger** (mange, manges, mange, mangeons, mangez, mangent): Consommation de nourriture solide. *Example:* \"Je mange une pomme. Nous mangeons ensemble.\" — *Collocations:* *manger du pain*, *manger bien*, *bon appétit*.",
+        "**10. Boire** (bois, boit, buvons, buvez, boivent): Consommation de liquides. *Example:* \"Je bois de l'eau. Il boit du café.\" — *Collocations:* *boire de l'eau*, *boire un coup*, *à votre santé*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matrice linguistique comparative en 14 langues"
-    },
-    {
-      "type": "paragraph",
-      "text": "Voici le tableau comparatif des verbes essentiels à travers nos 14 langues officielles :"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Nuances familiales et caractéristiques grammaticales"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-européen :** Utilise des auxiliaires temporels et des inflexions de personne/nombre.\n• **Famille turcique (tatar, bachkir, tchouvache) :** Structures à suffixes agglutinants exprimant le temps et la personne sans auxiliaires distincts.\n• **Kartvélien (géorgien) :** Accord verbal polypersonnel marquant le sujet et les objets."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Exercices pratiques et navigation"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Explorez les 14 articles linguistiques dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://example.com) et consultez les tables de verbes sur [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

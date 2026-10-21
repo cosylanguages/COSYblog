@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "Die 10 wichtigsten Verben im Deutschen, Teil 2 (CEFR A0–A1)",
-  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 2",
-  "dek": "Der zweite Teil des Verben-Leitfadens für Anfänger (A0–A1): machen/tun, sprechen/sagen, schauen/sehen, hören, müssen/sollen, nehmen/geben, wohnen/leben, warten, verstehen und fragen/antworten.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in German",
+  "kicker": "GERMAN CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in German: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "German",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Willkommen zum zweiten Teil unseres Verben-Leitfadens für A0–A1! Hier behandeln wir 10 weitere hochfrequente Alltagsverben für Handlungen und Gespräche."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in German! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Detaillierte Analyse: Die 10 deutschen Verben (Teil 2)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Machen / Tun:** Handlungen und Aktivitäten (*Hausaufgaben machen*, *Was tust du?*).",
-        "**2. Sprechen / Sagen:** Kommunikation (*Sprechen Sie Deutsch?*, *Sag mir Bescheid*).",
-        "**3. Schauen / Sehen:** Visuelle Aufmerksamkeit (*Fernsehen schauen*, *Ich sehe ein Haus*).",
-        "**4. Hören:** Akustische Wahrnehmung (*Musik hören*, *Ich höre ein Geräusch*).",
-        "**5. Müssen / Sollen:** Notwendigkeit (*Ich muss lernen*, *Du sollst schlafen*).",
-        "**6. Nehmen / Geben:** Austausch (*Nimm einen Kaffee*, *Gib mir das Buch*).",
-        "**7. Wohnen / Leben:** Wohnort und Leben (*Ich wohne in Berlin*, *Wir leben gut*).",
-        "**8. Warten:** Geduld (*Auf den Bus warten*, *Warte einen Moment*).",
-        "**9. Verstehen:** Verständnis (*Ich verstehe die Lektion*, *Ich verstehe nicht*).",
-        "**10. Fragen / Antworten & Wollen / Ich möchte:** Fragen und Höflichkeit (*Eine Frage stellen*, *Ich möchte einen Tee*)."
+        "**1. To Do / To Make (German)** (forms): Actions and creation. *Example:* \"Actions and creation in German.\" — *Collocations:* *do homework*, *make coffee*, *do best*.",
+        "**2. To Speak / Talk / Say / Tell (German)** (forms): Speech and message. *Example:* \"Communication in German.\" — *Collocations:* *speak language*, *say yes*, *tell story*.",
+        "**3. To Look / Watch / See (German)** (forms): Visual perception. *Example:* \"Vision in German.\" — *Collocations:* *look at*, *watch TV*, *see you*.",
+        "**4. To Listen / To Hear (German)** (forms): Auditory perception. *Example:* \"Hearing in German.\" — *Collocations:* *listen to*, *hear sound*, *listen well*.",
+        "**5. To Must / To Have To (German)** (forms): Obligation and necessity. *Example:* \"Obligation in German.\" — *Collocations:* *must go*, *have to study*, *must do*.",
+        "**6. To Take / Give / Get (German)** (forms): Transfer and receipt. *Example:* \"Transfer in German.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live (German)** (forms): Residence and lifestyle. *Example:* \"Residence in German.\" — *Collocations:* *live in*, *live together*, *where live*.",
+        "**8. To Wait (German)** (forms): Waiting and expectation. *Example:* \"Waiting in German.\" — *Collocations:* *wait for*, *wait minute*, *can't wait*.",
+        "**9. To Understand (German)** (forms): Understanding. *Example:* \"Comprehension in German.\" — *Collocations:* *understand well*, *I understand*, *get it*.",
+        "**10. To Ask / To Answer (German)** (forms): Inquiring and answering. *Example:* \"Questions and answers in German.\" — *Collocations:* *ask question*, *answer phone*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachvergleichsmatrix über 14 Sprachen"
-    },
-    {
-      "type": "paragraph",
-      "text": "Nachfolgend finden Sie den vergleichenden Überblick über die wichtigsten Verben in allen 14 Amtssprachen:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachfamilien & Grammatik-Highlights"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indogermanisch:** Verwendet Zeitform-Hilfsverben und Person/Numerus-Flexionen.\n• **Turksprachen (Tatarisch, Baschkirisch, Tschuwaschisch):** Agglutinative Suffixstrukturen für Tempus und Person ohne separate Hilfsverben.\n• **Kartwelisch (Georgisch):** Polypersonale Verbkongruenz zur Markierung von Subjekt und Objekten."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Interaktive Übungen und Navigation"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://example.com) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

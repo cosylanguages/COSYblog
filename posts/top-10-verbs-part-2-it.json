@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "I 10 verbi essenziali in italiano, Parte 2 (CEFR A0–A1)",
-  "kicker": "GUIDA ALL'ITALIANO — PARTE 2",
-  "dek": "La seconda parte della guida ai verbi italiani per principianti (A0–A1): fare, parlare/dire, guardare/vedere, ascoltare/sentire, dovere/bisognare, prendere/dare, vivere/abitare, aspettare, capire e chiedere/rispondere.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in Italian",
+  "kicker": "ITALIAN CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in Italian: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "Italian",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Benvenuti alla seconda parte della guida ai verbi italiani per il livello A0–A1! Scopriamo 10 nuovi verbi fondamentali per esprimere azioni, percezioni e comunicazioni quotidiane."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Italian! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Analisi approfondita: I 10 verbi italiani (Parte 2)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Fare:** Attività quotidiane (*Fare i compiti*, *Fare la colazione*).",
-        "**2. Parlare / Dire:** Comunicazione (*Parlare italiano*, *Dire una parola*).",
-        "**3. Guardare / Vedere:** Attenzione visiva (*Guardare un film*, *Vedo una casa*).",
-        "**4. Ascoltare / Sentire:** Percezione uditiva (*Ascoltare la musica*, *Sento un rumore*).",
-        "**5. Dovere / Bisognare:** Obbligo e necessità (*Devo studiare*, *Bisogna lavorare*).",
-        "**6. Prendere / Dare:** Scambio (*Prendere il treno*, *Dare un regalo*).",
-        "**7. Abitare / Vivere:** Residenza (*Abito a Milano*, *Vivere bene*).",
-        "**8. Aspettare:** Pazienza (*Aspettare l'autobus*, *Aspetto un minuto*).",
-        "**9. Capire:** Comprensione (*Capisco la lezione*, *Non capisco*).",
-        "**10. Chiedere / Rispondere & Volere / Vorrei:** Domande e cortesia (*Chiedere un'informazione*, *Vorrei un tè*)."
+        "**1. To Do / To Make (Italian)** (forms): Actions and creation. *Example:* \"Actions and creation in Italian.\" — *Collocations:* *do homework*, *make coffee*, *do best*.",
+        "**2. To Speak / Talk / Say / Tell (Italian)** (forms): Speech and message. *Example:* \"Communication in Italian.\" — *Collocations:* *speak language*, *say yes*, *tell story*.",
+        "**3. To Look / Watch / See (Italian)** (forms): Visual perception. *Example:* \"Vision in Italian.\" — *Collocations:* *look at*, *watch TV*, *see you*.",
+        "**4. To Listen / To Hear (Italian)** (forms): Auditory perception. *Example:* \"Hearing in Italian.\" — *Collocations:* *listen to*, *hear sound*, *listen well*.",
+        "**5. To Must / To Have To (Italian)** (forms): Obligation and necessity. *Example:* \"Obligation in Italian.\" — *Collocations:* *must go*, *have to study*, *must do*.",
+        "**6. To Take / Give / Get (Italian)** (forms): Transfer and receipt. *Example:* \"Transfer in Italian.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live (Italian)** (forms): Residence and lifestyle. *Example:* \"Residence in Italian.\" — *Collocations:* *live in*, *live together*, *where live*.",
+        "**8. To Wait (Italian)** (forms): Waiting and expectation. *Example:* \"Waiting in Italian.\" — *Collocations:* *wait for*, *wait minute*, *can't wait*.",
+        "**9. To Understand (Italian)** (forms): Understanding. *Example:* \"Comprehension in Italian.\" — *Collocations:* *understand well*, *I understand*, *get it*.",
+        "**10. To Ask / To Answer (Italian)** (forms): Inquiring and answering. *Example:* \"Questions and answers in Italian.\" — *Collocations:* *ask question*, *answer phone*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matrice comparativa tra 14 lingue"
-    },
-    {
-      "type": "paragraph",
-      "text": "Ecco la tabella comparativa dei verbi principali nelle 14 lingue ufficiali:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sfumature linguistiche e aspetti grammaticali"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indoeuropeo:** Utilizza ausiliari e flessioni di persona/numero.\n• **Famiglia turchica (tataro, baschiro, ciuvascio):** Strutture a suffissi agglutinanti per tempo e persona senza ausiliari separati.\n• **Kartvelico (georgiano):** Accordo verbale polipersonale che marca soggetto e oggetti."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Esercizi pratici e navigazione"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Esplora tutti i 14 articoli linguistici nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://example.com) e consulta le tabelle dei verbi su [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

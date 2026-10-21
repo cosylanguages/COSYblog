@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "10 ძირითადი ზმნა ქართულ ენაში, ნაწილი 2 (CEFR A0–A1)",
-  "kicker": "ქართული ენის სახელმძღვანელო — ნაწილი 2",
-  "dek": "ქართული ენის ძირითადი ზმნების სახელმძღვანელოს მეორე ნაწილი დამწყებთათვის (A0–A1): კეთება, ლაპარაკი/თქმა, ყურება/ნახვა, მოსმენა, უნდა/საჭიროა, აღება/მიცემა, ცხოვრება, ლოდინი, გაგება და კითხვა/პასუხი.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in Georgian",
+  "kicker": "GEORGIAN CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in Georgian: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "Georgian",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "მოგესალმებით ქართული ზმნების სახელმძღვანელოს მეორე ნაწილში (A0–A1)! წარმოგიდგენთ კიდევ 10 მნიშვნელოვან ზმნას ყოველდღიური ურთიერთობისთვის."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Georgian! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "დეტალური ანალიზი: 10 ქართული ზმნა (ნაწილი 2)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. კეთება:** ყოველდღიური საქმეები (*საქმის კეთება*).",
-        "**2. ლაპარაკი / თქმა:** კომუნიკაცია (*ქართულად ლაპარაკი*, *მითხარი*).",
-        "**3. ყურება / ნახვა:** ყურადღება და ნახვა (*ფილმის ყურება*, *სახლს ვხედავ*).",
-        "**4. მოსმენა / სმენა:** მოსმენა (*მუსიკის მოსმენა*, *ხმაურის გაგონება*).",
-        "**5. უნდა / საჭიროა:** აუცილებლობა (*მე უნდა ვისწავლო*).",
-        "**6. აღება / მიცემა:** გაცვლა (*ყავის აღება*, *საჩუქრის მიცემა*).",
-        "**7. ცხოვრება:** საცხოვრებელი (*თბილისში ვცხოვრობ*).",
-        "**8. ლოდინი:** ლოდინი (*ავტობუსის ლოდინი*).",
-        "**9. გაგება:** გაგება (*მესმის გაკვეთილი*, *ვერ ვიგებ*).",
-        "**10. კითხვა / პასუხი & ნდომა:** კითხვა და პატივისცემა (*კითხვის დასმა*, *ჩაი მსურს*)."
+        "**1. To Do / To Make (Georgian)** (forms): Actions and creation. *Example:* \"Actions and creation in Georgian.\" — *Collocations:* *do homework*, *make coffee*, *do best*.",
+        "**2. To Speak / Talk / Say / Tell (Georgian)** (forms): Speech and message. *Example:* \"Communication in Georgian.\" — *Collocations:* *speak language*, *say yes*, *tell story*.",
+        "**3. To Look / Watch / See (Georgian)** (forms): Visual perception. *Example:* \"Vision in Georgian.\" — *Collocations:* *look at*, *watch TV*, *see you*.",
+        "**4. To Listen / To Hear (Georgian)** (forms): Auditory perception. *Example:* \"Hearing in Georgian.\" — *Collocations:* *listen to*, *hear sound*, *listen well*.",
+        "**5. To Must / To Have To (Georgian)** (forms): Obligation and necessity. *Example:* \"Obligation in Georgian.\" — *Collocations:* *must go*, *have to study*, *must do*.",
+        "**6. To Take / Give / Get (Georgian)** (forms): Transfer and receipt. *Example:* \"Transfer in Georgian.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live (Georgian)** (forms): Residence and lifestyle. *Example:* \"Residence in Georgian.\" — *Collocations:* *live in*, *live together*, *where live*.",
+        "**8. To Wait (Georgian)** (forms): Waiting and expectation. *Example:* \"Waiting in Georgian.\" — *Collocations:* *wait for*, *wait minute*, *can't wait*.",
+        "**9. To Understand (Georgian)** (forms): Understanding. *Example:* \"Comprehension in Georgian.\" — *Collocations:* *understand well*, *I understand*, *get it*.",
+        "**10. To Ask / To Answer (Georgian)** (forms): Inquiring and answering. *Example:* \"Questions and answers in Georgian.\" — *Collocations:* *ask question*, *answer phone*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "14 ენის შედარებითი ენათმეცნიერული ცხრილი"
-    },
-    {
-      "type": "paragraph",
-      "text": "ქვემოთ მოცემულია ძირითადი ზმნების შედარებითი ანალიზი 14-ვე ოფიციალურ ენაზე:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "ენათა ოჯახის თავისებურებები და გრამატიკა"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **ინდოევროპული:** იყენებს დროის დამხმარე ზმნებსა და პირის/რიცხვის დაბოლოებებს.\n• **თურქული ოჯახი (თათრული, ბაშკირული, ჩუვაშური):** აგლუტინაციური სუფიქსური სტრუქტურები ცალკეული დამხმარე სიტყვების გარეშე.\n• **ქართველური (ქართული):** პოლიპერსონალური ზმნური შეთანხმება სუბიექტისა და ობიექტების აღსანიშნავად."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "პრაქტიკული სავარჯიშოები და ნავიგაცია"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 იხილეთ 14-ვე ენის სტატია COSYmagazine-ის ჰაბში ან შეამოწმეთ თქვენი ცოდნა [COSYpractice](https://example.com)-ზე და იხილეთ ზმნების ცხრილები [COSYtools](https://example.com)-ზე."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

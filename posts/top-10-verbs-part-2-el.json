@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "Τα 10 Βασικά Ρήματα στην Ελληνική Γλώσσα, Μέρος 2 (CEFR A0–A1)",
-  "kicker": "ΟΔΗΓΟΣ ΕΛΛΗΝΙΚΩΝ — ΜΕΡΟΣ 2",
-  "dek": "Δεύτερο μέρος του οδηγού βασικών ρημάτων της ελληνικής γλώσσας (A0–A1): κάνω, μιλώ/λέω, κοιτάζω/βλέπω, ακούω, πρέπει, παίρνω/δίνω, ζω/μένω, περιμένω, καταλαβαίνω, ρωτώ/απαντώ.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in Greek",
+  "kicker": "GREEK CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in Greek: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "Greek",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Καλώς ήρθατε στο δεύτερο μέρος του οδηγού ελληνικών ρημάτων για αρχάριους (A0–A1)! Εξετάζουμε 10 νέα ρήματα δράσης, επικοινωνίας και αντίληψης."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Greek! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Αναλυτική Παρουσίαση: Τα 10 Ελληνικά Ρήματα (Μέρος 2)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Κάνω / Φτιάχνω:** Δραστηριότητα και δημιουργία (*Κάνω εργασίες*, *Φτιάχνω καφέ*).",
-        "**2. Μιλώ / Λέω:** Επικοινωνία (*Μιλώ ελληνικά*, *Πες μου*).",
-        "**3. Κοιτάζω / Βλέπω:** Προσοχή και όραση (*Κοιτάζω τη φωτογραφία*, *Βλέπω ένα σπίτι*).",
-        "**4. Ακούω:** Ακοή (*Ακούω μουσική*, *Ακούω έναν θόρυβο*).",
-        "**5. Πρέπει:** Υποχρέωση (*Πρέπει να διαβάσω*).",
-        "**6. Παίρνω / Δίνω:** Ανταλλαγή (*Παίρνω το λεωφορείο*, *Δίνω ένα δώρο*).",
-        "**7. Μένω / Ζω:** Κατοικία (*Μένω στην Αθήνα*, *Ζω καλά*).",
-        "**8. Περιμένω:** Υπομονή (*Περιμένω το λεωφορείο*).",
-        "**9. Καταλαβαίνω:** Κατανόηση (*Καταλαβαίνω το μάθημα*, *Δεν καταλαβαίνω*).",
-        "**10. Ρωτώ / Απαντώ & Θέλω / Θα ήθελα:** Ερωτήσεις και ευγένεια (*Κάνω μια ερώτηση*, *Θα ήθελα ένα τσάι*)."
+        "**1. To Do / To Make (Greek)** (forms): Actions and creation. *Example:* \"Actions and creation in Greek.\" — *Collocations:* *do homework*, *make coffee*, *do best*.",
+        "**2. To Speak / Talk / Say / Tell (Greek)** (forms): Speech and message. *Example:* \"Communication in Greek.\" — *Collocations:* *speak language*, *say yes*, *tell story*.",
+        "**3. To Look / Watch / See (Greek)** (forms): Visual perception. *Example:* \"Vision in Greek.\" — *Collocations:* *look at*, *watch TV*, *see you*.",
+        "**4. To Listen / To Hear (Greek)** (forms): Auditory perception. *Example:* \"Hearing in Greek.\" — *Collocations:* *listen to*, *hear sound*, *listen well*.",
+        "**5. To Must / To Have To (Greek)** (forms): Obligation and necessity. *Example:* \"Obligation in Greek.\" — *Collocations:* *must go*, *have to study*, *must do*.",
+        "**6. To Take / Give / Get (Greek)** (forms): Transfer and receipt. *Example:* \"Transfer in Greek.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live (Greek)** (forms): Residence and lifestyle. *Example:* \"Residence in Greek.\" — *Collocations:* *live in*, *live together*, *where live*.",
+        "**8. To Wait (Greek)** (forms): Waiting and expectation. *Example:* \"Waiting in Greek.\" — *Collocations:* *wait for*, *wait minute*, *can't wait*.",
+        "**9. To Understand (Greek)** (forms): Understanding. *Example:* \"Comprehension in Greek.\" — *Collocations:* *understand well*, *I understand*, *get it*.",
+        "**10. To Ask / To Answer (Greek)** (forms): Inquiring and answering. *Example:* \"Questions and answers in Greek.\" — *Collocations:* *ask question*, *answer phone*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Συγκριτικός Πίνακας σε 14 Γλώσσες"
-    },
-    {
-      "type": "paragraph",
-      "text": "Παρακάτω παρουσιάζεται η συγκριτική ανάλυση των βασικών ρημάτων στις 14 επίσημες γλώσσες:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Γλωσσικές Οικογένειες & Γραμματικά Στοιχεία"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Ινδοευρωπαϊκή:** Χρησιμοποιεί βοηθητικά ρήματα χρόνου και κλιτικές καταλήξεις προσώπου/αριθμού.\n• **Τουρκική οικογένεια (Ταταρικά, Μπασκίρ, Τσουβασικά):** Συγκολλητικές δομές επιθημάτων χωρίς ξεχωριστά βοηθητικά ρήματα.\n• **Καρτβελική (Γεωργιανά):** Πολυπρόσωπη συμφωνία ρήματος που δηλώνει υποκείμενο και αντικείμενα."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Πρακτικές Ασκήσεις & Πλοήγηση"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Ανακαλύψτε και τα 14 άρθρα στο κέντρο του COSYmagazine ή δοκιμάστε τις γνώσεις σας στο [COSYpractice](https://example.com) και δείτε τους πίνακες ρημάτων στο [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

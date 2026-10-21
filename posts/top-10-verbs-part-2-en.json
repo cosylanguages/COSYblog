@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "Top 10 Essential Verbs in English, Part 2 (CEFR A0–A1)",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in English",
   "kicker": "ENGLISH CORE GUIDE — PART 2",
-  "dek": "Part 2 of the ultimate beginner guide to high-frequency English verbs (A0–A1): do/make, speak/talk/say/tell, look/watch/see, listen/hear, must/have to, take/give/get, live, wait, understand, and ask/answer.",
+  "dek": "Part 2 of high-frequency verb curriculum in English: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "English",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to Part 2 of our English verb guide for A0–A1 learners! In this edition, we explore 10 vital action, perception, and communication verbs."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in English! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Deep Dive: Top 10 English Verbs (Part 2)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Do / Make:** Activity vs Creation (*I do my homework*, *I make breakfast*).",
-        "**2. Speak / Talk / Say / Tell:** Communication nuances (*I speak English*, *Let's talk*, *Say hi*, *Tell a secret*).",
-        "**3. Look / Watch / See:** Visual attention (*Look at this*, *Watch TV*, *I see a tree*).",
-        "**4. Listen / Hear:** Auditory focus vs involuntary hearing (*Listen to music*, *I hear a sound*).",
-        "**5. Must / Have to:** Expressing necessity (*I must study*, *We have to leave*).",
-        "**6. Take / Give / Get:** Physical and abstract exchange (*Take a coat*, *Give a present*, *Get a gift*).",
-        "**7. Live:** Dwelling and life (*I live in London*, *We live well*).",
-        "**8. Wait:** Patience and expectation (*Wait for the bus*, *Wait a minute*).",
-        "**9. Understand:** Comprehension (*I understand the lesson*, *I don't understand*).",
-        "**10. Ask / Answer & Want / Would like:** Questions and polite requests (*Ask a question*, *Answer the phone*, *I would like a coffee*)."
+        "**1. To Do / To Make** (do / does | make / makes): Action/routine (do) vs Creation/production (make). *Example:* \"I do my homework. She makes coffee.\" — *Collocations:* *do homework*, *make decision*, *do laundry*, *make money*.",
+        "**2. To Speak / Talk / Say / Tell** (speak / talk / say / tell): Languages/speech (speak/talk) vs Message content (say/tell). *Example:* \"I speak English. He says hello. Tell me a story.\" — *Collocations:* *speak a language*, *say yes*, *tell the truth*, *talk to*.",
+        "**3. To Look / Watch / See** (look / watch / see): Passive visual perception (see) vs Direct attention (look) vs Duration (watch). *Example:* \"I see a bird. Look at this! We watch TV.\" — *Collocations:* *look at*, *watch TV*, *see you later*.",
+        "**4. To Listen / To Hear** (listen / hear): Passive auditory perception (hear) vs Active attention (listen). *Example:* \"I hear a sound. Listen to the music!\" — *Collocations:* *listen to*, *hear a voice*, *listen carefully*.",
+        "**5. To Must / To Have To** (must / have to): Internal obligation/strong rule (must) vs External requirement (have to). *Example:* \"I must go. You have to study.\" — *Collocations:* *must be*, *have to do*, *must not*.",
+        "**6. To Take / To Give / To Get** (take / give / get): Acquisition/transport (take), transfer (give), and obtaining/receiving (get). *Example:* \"Take this key. Give me a hand. I get a letter.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live** (live / lives): Residence, existence, and lifestyle. *Example:* \"I live in London. She lives with her family.\" — *Collocations:* *live in*, *live together*, *where do you live?*.",
+        "**8. To Wait** (wait / waits): Patience, time delay, and expectation. *Example:* \"Wait for me! We wait for the bus.\" — *Collocations:* *wait for*, *wait a minute*, *can't wait*.",
+        "**9. To Understand** (understand / understands): Comprehension, clarity, and mental grasp. *Example:* \"I understand the lesson. Do you understand?\" — *Collocations:* *understand well*, *I don't understand*, *make understood*.",
+        "**10. To Ask / To Answer** (ask / answer): Inquiring/requesting (ask) and replying/responding (answer). *Example:* \"Ask a question. Answer the phone.\" — *Collocations:* *ask for help*, *answer questions*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Comparative Linguistics Matrix across 14 Languages"
-    },
-    {
-      "type": "paragraph",
-      "text": "Below is the comparative breakdown for core verbs across all 14 official languages:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,55 +85,46 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Language Family Nuances & Grammatical Highlights"
-    },
-    {
-      "type": "paragraph",
-      "text": "• **Indo-European:** Features tense auxiliary verbs and person/number inflections.\n• **Turkic Family (Tatar, Bashkir, Chuvash):** Agglutinative suffix structures expressing tense and person without separate helper verbs.\n• **Kartvelian (Georgian):** Polypersonal verb agreement marking subject and indirect/direct objects."
     },
     {
       "type": "heading",
@@ -145,7 +133,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

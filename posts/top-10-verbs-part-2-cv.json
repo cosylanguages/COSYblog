@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "Чăваш чĕлхинчи чи кирлĕ 10 глагол, 2-мĕш пай (CEFR A0–A1)",
-  "kicker": "ЧĂВАШ ЧĔЛХИН СУМЛĂ ГИДĔ — 2-МĔШ ПАЙ",
-  "dek": "Чăваш чĕлхипе пуçласа вĕренекенсем валли чи кирлĕ глаголсен 2-мĕш пайĕ: тăвасси, калаçасси/каласси, пăхасси/курасси, итлесси/ишитесси, кирлĕ, илесси/парасси, пурăнасси, кĕтесси, ăнланасси тата ыйтасси/хуравламалли.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in Chuvash",
+  "kicker": "CHUVASH CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in Chuvash: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "Chuvash",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Чăваш глаголĕсен гидĕн 2-мĕш пайне килĕр! Тĕрĕк чĕлхин агглютинаци структурине шута илсе, 10 çĕнĕ тĕп глагола вĕренетпĕр."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Chuvash! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Тĕп 10 Чăваш глаголĕ (2-мĕш пай)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Тăвасси:** Күнсеренхи ĕçсем (*Кип-ĕçĕне тăвасси*).",
-        "**2. Калаçасси / Каласси:** Калаçу (*Чăвашла калаçасси*, *Сăмах каласси*).",
-        "**3. Пăхасси / Курасси:** Асăрхаса пăхасси (*Фильм пăхасси*, *Эпĕ çурта куратăп*).",
-        "**4. Итлесси / Ишитесси:** Итлесси (*Музыка итлесси*, *Сăмах ишитесси*).",
-        "**5. Кирлĕ / Тĕрĕс:** Ыйтни (*Мана вĕренме кирлĕ*).",
-        "**6. Илесси / Парасси:** Улмаш (*Кĕнеке илесси*, *Парне парасси*).",
-        "**7. Пурăнасси:** Вырăн (*Эпĕ Шупашкарта пурăнатăп*).",
-        "**8. Кĕтесси:** Кĕтесси (*Автобус кĕтесси*).",
-        "**9. Ăнланасси:** Ăнланасси (*Эпĕ ăнланатăп*, *Эпĕ ăнланмастăп*).",
-        "**10. Ыйтасси / Хуравламалли & Кăмăл:** Ыйту парасси (*Ыйту парасси*, *Чай ĕçесшĕн эпĕ*)."
+        "**1. To Do / To Make (Chuvash)** (forms): Actions and creation. *Example:* \"Actions and creation in Chuvash.\" — *Collocations:* *do homework*, *make coffee*, *do best*.",
+        "**2. To Speak / Talk / Say / Tell (Chuvash)** (forms): Speech and message. *Example:* \"Communication in Chuvash.\" — *Collocations:* *speak language*, *say yes*, *tell story*.",
+        "**3. To Look / Watch / See (Chuvash)** (forms): Visual perception. *Example:* \"Vision in Chuvash.\" — *Collocations:* *look at*, *watch TV*, *see you*.",
+        "**4. To Listen / To Hear (Chuvash)** (forms): Auditory perception. *Example:* \"Hearing in Chuvash.\" — *Collocations:* *listen to*, *hear sound*, *listen well*.",
+        "**5. To Must / To Have To (Chuvash)** (forms): Obligation and necessity. *Example:* \"Obligation in Chuvash.\" — *Collocations:* *must go*, *have to study*, *must do*.",
+        "**6. To Take / Give / Get (Chuvash)** (forms): Transfer and receipt. *Example:* \"Transfer in Chuvash.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live (Chuvash)** (forms): Residence and lifestyle. *Example:* \"Residence in Chuvash.\" — *Collocations:* *live in*, *live together*, *where live*.",
+        "**8. To Wait (Chuvash)** (forms): Waiting and expectation. *Example:* \"Waiting in Chuvash.\" — *Collocations:* *wait for*, *wait minute*, *can't wait*.",
+        "**9. To Understand (Chuvash)** (forms): Understanding. *Example:* \"Comprehension in Chuvash.\" — *Collocations:* *understand well*, *I understand*, *get it*.",
+        "**10. To Ask / To Answer (Chuvash)** (forms): Inquiring and answering. *Example:* \"Questions and answers in Chuvash.\" — *Collocations:* *ask question*, *answer phone*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "14 чĕлхе хушшинчи танлаштару таблици"
-    },
-    {
-      "type": "paragraph",
-      "text": "Аллари 14 официаллă чĕлхе тăрăх тĕп глаголсен танлаштару анализĕ кунтан пăхăр:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Чĕлхе çемйисем тата грамматика уйрăмлăхĕсем"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Индоевропа çемйи:** Вăхăт пулăшакан глаголсем тата çын/номер аффиксĕсене хулланать.\n• **Тĕрĕк çемйи (Чăваш, Татар, Башкир):** Уйрăм пулăшакан сăмахсемсĕр вăхăт тата çынна пĕлтерекен агглютинаци структурисем.\n• **Картвел çемйи (Грузин):** Субъект тата объектсене пĕрле пĕлтерекен полиперсональ спряжение."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Практика хăнăхăвĕсем тата навигаци"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 COSYmagazine хабĕнче 14 чĕлхе статьине вĕренĕр е хăвăр пĕлĕве [COSYpractice](https://example.com) сайтран тĕрĕслĕр тата [COSYtools](https://example.com) сайтран глагол таблицисене пăхăр."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

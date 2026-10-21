@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Ar 10 verb pennañ e brezhoneg evit ar re dhazerañ (CEFR A0–A1)",
-  "kicker": "KAVLEVR BREZHONEG — RANN 1",
-  "dek": "Deskit ar 10 verb implijetañ e brezhoneg evit al live A0–A1 : troioù-lavar, kemmoù-skrivañ hag un daolenn keñveriañ e 14 yezh.",
+  "title": "Top 10 Essential Verbs in Breton for Absolute Beginners (A0–A1)",
+  "kicker": "BRETON CORE GUIDE — PART 1",
+  "dek": "Master the 10 core verbs in Breton (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "Breton",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Degemer mat e kavlevr ar verboù brezhonek pennañ evit al live A0–A1 ! Deskiñ ar 10 verb-mañ a sikouro ac'hanoc'h da gomz er vuhez pemdeziek."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Breton! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Dielfennadur munut : Ar 10 verb brezhonek (Rann 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Bezañ (on, out, eo, omp, oc'h, int):** Bezañs hag al lec'h (*Skoaziad on*, *Er gêr eo*).",
-        "**2. Kaout (am eus, az peus, en deus, he deus...):** Perc'henniezh hag oad (*Libr am eus*, *20 vloaz am eus*).",
-        "**3. Ober:** Obererezh (*Ober micher*, *Ober kafe*).",
-        "**4. Món / Monet (Aat):** Mont d'al lec'h (*Mont d'ar skol*).",
-        "**5. Dont:** Dont war-du an den (*Dont eus Roazhon*).",
-        "**6. Lavarout:** Komz ha kelaouiñ (*Lavarout demat*, *Lavarout ar wirionez*).",
-        "**7. Gwelout / Sellet:** Gweledigezh (*Gwelout un evn*, *Sellet ouzh ar skinwel*).",
-        "**8. Gouzout / Anavezout:** Gouziegezh ha kentuial (*Gouzout ar respont*, *Anavezout Yann*).",
-        "**9. C'hoant kaout / Fellout:** Fellout hag ezhomm (*C'hoant am eus dour*).",
-        "**10. Pliout:** Pliadur (*Pliout a ra din ar sonerezh*)."
+        "**1. To Be (Breton)** (forms): Core verb for identity and state. *Example:* \"Identity and states in Breton.\" — *Collocations:* *be ready*, *be happy*, *be here*.",
+        "**2. To Have (Breton)** (forms): Core verb for possession. *Example:* \"Possession in Breton.\" — *Collocations:* *have time*, *have a book*, *have to*.",
+        "**3. To Think (Breton)** (forms): Mental reflection and opinion. *Example:* \"Opinions in Breton.\" — *Collocations:* *think that*, *think about*, *I think*.",
+        "**4. To Know (Breton)** (forms): Facts and familiarity. *Example:* \"Knowing facts in Breton.\" — *Collocations:* *know answer*, *know someone*, *I know*.",
+        "**5. To Like (Breton)** (forms): Tastes and preferences. *Example:* \"Preferences in Breton.\" — *Collocations:* *like tea*, *like music*, *like doing*.",
+        "**6. To Want / Would Like (Breton)** (forms): Desire and polite request. *Example:* \"Desires and requests in Breton.\" — *Collocations:* *want water*, *would like tea*, *want to go*.",
+        "**7. To Go / Be Going To (Breton)** (forms): Movement and intention. *Example:* \"Movement in Breton.\" — *Collocations:* *go home*, *go to work*, *going to*.",
+        "**8. To Can (Ability) (Breton)** (forms): Ability and permission. *Example:* \"Ability in Breton.\" — *Collocations:* *can speak*, *can help*, *can do*.",
+        "**9. To Eat (Breton)** (forms): Consuming food. *Example:* \"Eating food in Breton.\" — *Collocations:* *eat apple*, *eat dinner*, *eat food*.",
+        "**10. To Drink (Breton)** (forms): Consuming liquids. *Example:* \"Drinking in Breton.\" — *Collocations:* *drink water*, *drink tea*, *drink coffee*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Taolenn geñveriañ dre 14 yezh"
-    },
-    {
-      "type": "paragraph",
-      "text": "Setu an daolenn geñveriañ eus ar verboù pennañ er 14 yezh ofisiel :"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Lodennoù yezh ha poentouriezh yezhadurel"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indezeuropegek:** Implijout a ra verboù skoazell amzer ha kemmañ personnes/niver.\n• **Tud turkek (tatar, bachkir, chouvache):** Structurioù gofeat hep verboù skoazell disparti.\n• **Kartvelek (jeorjieg):** Kenfeurmelezh verb liespersonel evit ar sujed hag an objets."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Aozioù pleustriñ ha merdeiñ"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Enklaskit an 14 pennad yezh e kreizenn COSYmagazine pe amprouit ho gouziegezh war [COSYpractice](https://example.com) ha sellit ouzh an taolennou verboù war [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

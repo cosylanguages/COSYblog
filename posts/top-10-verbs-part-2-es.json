@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "Los 10 verbos esenciales en español, Parte 2 (CEFR A0–A1)",
-  "kicker": "GUÍA DE ESPAÑOL — PARTE 2",
-  "dek": "Segunda parte de la guía esencial de verbos en español para principiantes (A0–A1): hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender y preguntar/responder.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in Spanish",
+  "kicker": "SPANISH CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in Spanish: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "Spanish",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "¡Bienvenidos a la segunda parte de la guía de verbos en español para principiantes (A0–A1)! Presentamos 10 nuevos verbos clave para expresar acciones y comunicación diaria."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Spanish! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Análisis detallado: Los 10 verbos en español (Parte 2)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Hacer:** Actividades cotidianas (*Hacer los deberes*, *Hacer el desayuno*).",
-        "**2. Hablar / Decir:** Comunicación (*Hablar español*, *Decir una palabra*).",
-        "**3. Mirar / Ver:** Atención visual (*Mirar un vídeo*, *Veo una casa*).",
-        "**4. Escuchar / Oír:** Atención auditiva vs oído (*Escuchar música*, *Oigo un ruido*).",
-        "**5. Tener que / Deber:** Obligación (*Tengo que estudiar*, *Debo irme*).",
-        "**6. Tomar / Dar:** Intercambio (*Tomar un café*, *Dar un regalo*).",
-        "**7. Vivir:** Residencia (*Vivo en Barcelona*, *Vivir bien*).",
-        "**8. Esperar:** Paciencia y esperanza (*Esperar el autobús*, *Espere un momento*).",
-        "**9. Entender / Comprender:** Comprensión (*Entiendo la lección*, *No entiendo*).",
-        "**10. Preguntar / Responder & Querer / Me gustaría:** Preguntas y cortesía (*Hacer una pregunta*, *Me gustaría un té*)."
+        "**1. To Do / To Make (Spanish)** (forms): Actions and creation. *Example:* \"Actions and creation in Spanish.\" — *Collocations:* *do homework*, *make coffee*, *do best*.",
+        "**2. To Speak / Talk / Say / Tell (Spanish)** (forms): Speech and message. *Example:* \"Communication in Spanish.\" — *Collocations:* *speak language*, *say yes*, *tell story*.",
+        "**3. To Look / Watch / See (Spanish)** (forms): Visual perception. *Example:* \"Vision in Spanish.\" — *Collocations:* *look at*, *watch TV*, *see you*.",
+        "**4. To Listen / To Hear (Spanish)** (forms): Auditory perception. *Example:* \"Hearing in Spanish.\" — *Collocations:* *listen to*, *hear sound*, *listen well*.",
+        "**5. To Must / To Have To (Spanish)** (forms): Obligation and necessity. *Example:* \"Obligation in Spanish.\" — *Collocations:* *must go*, *have to study*, *must do*.",
+        "**6. To Take / Give / Get (Spanish)** (forms): Transfer and receipt. *Example:* \"Transfer in Spanish.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live (Spanish)** (forms): Residence and lifestyle. *Example:* \"Residence in Spanish.\" — *Collocations:* *live in*, *live together*, *where live*.",
+        "**8. To Wait (Spanish)** (forms): Waiting and expectation. *Example:* \"Waiting in Spanish.\" — *Collocations:* *wait for*, *wait minute*, *can't wait*.",
+        "**9. To Understand (Spanish)** (forms): Understanding. *Example:* \"Comprehension in Spanish.\" — *Collocations:* *understand well*, *I understand*, *get it*.",
+        "**10. To Ask / To Answer (Spanish)** (forms): Inquiring and answering. *Example:* \"Questions and answers in Spanish.\" — *Collocations:* *ask question*, *answer phone*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matriz lingüística comparativa en 14 idiomas"
-    },
-    {
-      "type": "paragraph",
-      "text": "A continuación se muestra el desglose comparativo de los verbos principales en los 14 idiomas oficiales:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matices familiares y aspectos gramaticales"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indoeuropeo:** Utiliza auxiliares de tiempo e inflexiones de persona/número.\n• **Familia turca (tártaro, bashkir, chuvash):** Estructuras de sufijos aglutinantes que expresan tiempo y persona sin auxiliares separados.\n• **Kartveliano (georgiano):** Concordancia verbal polipersonal para sujeto y objetos."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Ejercicios prácticos y navegación"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Explora los 14 artículos lingüísticos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://example.com) y consulta las tablas de verbos en [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

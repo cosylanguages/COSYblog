@@ -8,17 +8,17 @@
   "level": "A0–A1 / A2",
   "issue": {
     "number": "Vol. 2026 — December Issue",
-    "title": "Winter Grammar & High Frequency Verbs"
+    "title": "End of Year Review"
   },
   "date": "2026-12-01",
-  "title": "Башҡорт теле буйынса иң мөһим 10 ҡылым, 2-се өлөш (CEFR A0–A1)",
-  "kicker": "БАШҠОРТ ТЕЛЕ МӘҒАРИФЫ — 2-СЕ ӨЛӨШ",
-  "dek": "Башҡорт теле буйынса башлап өйрәнеүселәр өсөн иң мөһим ҡылымдарҙың 2-се өлөшө: эшләү, һөйләү/әйтеү, ҡарау/күреү, тыңлау/ишетеү, кәрәк, алыу/биреү, йәшәү, көтөү, аңлау, һорау/яуап биреү.",
+  "title": "Top 10 Essential Verbs, Part 2 (CEFR A0–A1) in Bashkir",
+  "kicker": "BASHKIR CORE GUIDE — PART 2",
+  "dek": "Part 2 of high-frequency verb curriculum in Bashkir: do/make, speak/tell, look/see, listen/hear, must, take/give/get, live, wait, understand, ask/answer.",
   "tags": [
     "Verbs",
     "Bashkir",
     "A0-A1",
-    "Part2"
+    "14Languages"
   ],
   "readingTime": 10,
   "podcast": {
@@ -27,9 +27,10 @@
   },
   "artDirection": {
     "palette": [
-      "#0284c7",
-      "#f0f9ff",
-      "#0f172a"
+      "#d97706",
+      "#fef3c7",
+      "#0d9488",
+      "#1e293b"
     ],
     "fonts": {
       "display": "Fraunces",
@@ -44,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Башҡорт теле ҡылымдары ҡулланмаһының 2-се өлөшөнә рәхим итегеҙ! Төрки телдең агглютинатив структураһын иҫәпкә алып, 10 яңы төп ҡылымды өйрәнәбеҙ."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Bashkir! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Төп 10 Башҡорт ҡылымы (2-се өлөш)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Эшләү / Яһау:** Эш һәм яһау (*Өй эшен эшләү*, *Ҡофә яһау*).",
-        "**2. Һөйләү / Әйтеү:** Һөйләшеү (*Башҡортса һөйләшеү*, *Һүҙ әйтеү*).",
-        "**3. Ҡарау / Күреү:** Ҡарау (*Фильм ҡарау*, *Мин өйҙө күрәм*).",
-        "**4. Тыңлау / Ишетеү:** Тыңлау (*Музыка тыңлау*, *Тауыш ишетеү*).",
-        "**5. Кәрәк / Тиеш:** Зарурилыҡ (*Миңә уҡырға кәрәк*).",
-        "**6. Алыу / Биреү:** Алмашыу (*Китап алыу*, *Бүләк биреү*).",
-        "**7. Йәшәү:** Йәшәү урыны (*Мин Өфөлә йәшәйем*).",
-        "**8. Көтөү:** Көтөү (*Автобус көтөү*).",
-        "**9. Аңлау:** Аңлау (*Мин аңлайым*, *Мин аңламайым*).",
-        "**10. Һорау / Яуап биреү & Теләү:** Һорау биреү (*Һорау биреү*, *Сәй теләй инем*)."
+        "**1. To Do / To Make (Bashkir)** (forms): Actions and creation. *Example:* \"Actions and creation in Bashkir.\" — *Collocations:* *do homework*, *make coffee*, *do best*.",
+        "**2. To Speak / Talk / Say / Tell (Bashkir)** (forms): Speech and message. *Example:* \"Communication in Bashkir.\" — *Collocations:* *speak language*, *say yes*, *tell story*.",
+        "**3. To Look / Watch / See (Bashkir)** (forms): Visual perception. *Example:* \"Vision in Bashkir.\" — *Collocations:* *look at*, *watch TV*, *see you*.",
+        "**4. To Listen / To Hear (Bashkir)** (forms): Auditory perception. *Example:* \"Hearing in Bashkir.\" — *Collocations:* *listen to*, *hear sound*, *listen well*.",
+        "**5. To Must / To Have To (Bashkir)** (forms): Obligation and necessity. *Example:* \"Obligation in Bashkir.\" — *Collocations:* *must go*, *have to study*, *must do*.",
+        "**6. To Take / Give / Get (Bashkir)** (forms): Transfer and receipt. *Example:* \"Transfer in Bashkir.\" — *Collocations:* *take time*, *give help*, *get home*.",
+        "**7. To Live (Bashkir)** (forms): Residence and lifestyle. *Example:* \"Residence in Bashkir.\" — *Collocations:* *live in*, *live together*, *where live*.",
+        "**8. To Wait (Bashkir)** (forms): Waiting and expectation. *Example:* \"Waiting in Bashkir.\" — *Collocations:* *wait for*, *wait minute*, *can't wait*.",
+        "**9. To Understand (Bashkir)** (forms): Understanding. *Example:* \"Comprehension in Bashkir.\" — *Collocations:* *understand well*, *I understand*, *get it*.",
+        "**10. To Ask / To Answer (Bashkir)** (forms): Inquiring and answering. *Example:* \"Questions and answers in Bashkir.\" — *Collocations:* *ask question*, *answer phone*, *ask why*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "14 тел араһында сағыштырыу таблицаһы"
-    },
-    {
-      "type": "paragraph",
-      "text": "Түбәндә барлыҡ 14 рәсми тел буйынса төп ҡылымдарҙың сағыштырыу анализы бирелә:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -88,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Тел ғаиләләре һәм грамматика үҙенсәлектәре"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Индоевропа ғаиләһе:** Ваҡыт ярҙамсы ҡылымдары һәм зат/сан ҡушымталары ҡулланыла.\n• **Төрки ғаилә (Башҡорт, Татар, Чуваш):** Айырым ярҙамсы һүҙҙәрһеҙ ваҡыт һәм затты белдереүсе агглютинатив ҡушымталар.\n• **Картвел ғаиләһе (Грузин):** Субъект һәм объектты бергә белдереүсе полиперсональ спряжение."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Практик күнегеүҙәр һәм навигация"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 COSYmagazine хабында 14 тел мәҡәләһен өйрәнегеҙ йәки белемегеҙҙе [COSYpractice](https://example.com) битендә тикшерегеҙ һәм [COSYtools](https://example.com) битендә ҡылым таблицаларын ҡарағыҙ."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

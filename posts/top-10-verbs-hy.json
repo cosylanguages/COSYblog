@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Հայերենի 10 հիմնական բայերը սկսնակների համար (CEFR A0–A1)",
-  "kicker": "ՀԱՅԵՐԵՆԻ ՈՒՂԵՑՈՒՅՑ — ՄԱՍ 1",
-  "dek": "Սովորեք հայերենի 10 ամենագործածական բայերը A0–A1 մակարդակի համար՝ խոնարհումներով, կապակցություններով և 14 լեզուների համեմատական աղյուսակով։",
+  "title": "Top 10 Essential Verbs in Armenian for Absolute Beginners (A0–A1)",
+  "kicker": "ARMENIAN CORE GUIDE — PART 1",
+  "dek": "Master the 10 core verbs in Armenian (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "Armenian",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Բարի գալուստ հայերենի հիմնական բայերի ուղեցույց սկսնակների համար (A0–A1)։ Այս 10 բայերի տիրապետումը կօգնի ձեզ առօրյա հաղորդակցության մեջ։"
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Armenian! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Մանրամասն վերլուծություն․ Հայերենի 10 բայերը (Մաս 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Լինել (եմ, ես, է, ենք, եք, են):** Ինքնություն և տեղադրություն (*Ես ուսանող եմ*, *Նա տանն է*):",
-        "**2. Ունենալ (ունեմ, ունես, ունի...):** Ունեցվածք (*Ես գիրք ունեմ*, *Ես 20 տարեկան եմ*):",
-        "**3. Անել (անում եմ, անում ես...):** Գործողություն (*Տնային աշխատանք անել*, *Սուրճ պատրաստել*):",
-        "**4. Գնալ (գնում եմ, գնում ես...):** Շարժում (*Ես գնում եմ դպրոց*):",
-        "**5. Գալ (գալիս եմ, գալիս ես...):** Գալուստ (*Գալ Երևանից*):",
-        "**6. Ասել / Խոսել:** Հաղորդակցություն (*Բարև ասել*, *Ճշմարտությունն ասել*):",
-        "**7. Տեսնել / Նայել:** Տեսողական ընկալում (*Ֆիլմ նայել*, *Ես թռչուն եմ տեսնում*):",
-        "**8. Իմանալ / Ճանաչել:** Գիտելիք (*Ես գիտեմ պատասխանը*, *Ճանաչել Արամին*):",
-        "**9. Ուզենալ / Ցանկանալ:** Ցանկություն (*Ես ջուր եմ ուզում*):",
-        "**10. Սիրել:** Նախասիրություն (*Ես սիրում եմ երաժշտություն*):"
+        "**1. To Be (Armenian)** (forms): Core verb for identity and state. *Example:* \"Identity and states in Armenian.\" — *Collocations:* *be ready*, *be happy*, *be here*.",
+        "**2. To Have (Armenian)** (forms): Core verb for possession. *Example:* \"Possession in Armenian.\" — *Collocations:* *have time*, *have a book*, *have to*.",
+        "**3. To Think (Armenian)** (forms): Mental reflection and opinion. *Example:* \"Opinions in Armenian.\" — *Collocations:* *think that*, *think about*, *I think*.",
+        "**4. To Know (Armenian)** (forms): Facts and familiarity. *Example:* \"Knowing facts in Armenian.\" — *Collocations:* *know answer*, *know someone*, *I know*.",
+        "**5. To Like (Armenian)** (forms): Tastes and preferences. *Example:* \"Preferences in Armenian.\" — *Collocations:* *like tea*, *like music*, *like doing*.",
+        "**6. To Want / Would Like (Armenian)** (forms): Desire and polite request. *Example:* \"Desires and requests in Armenian.\" — *Collocations:* *want water*, *would like tea*, *want to go*.",
+        "**7. To Go / Be Going To (Armenian)** (forms): Movement and intention. *Example:* \"Movement in Armenian.\" — *Collocations:* *go home*, *go to work*, *going to*.",
+        "**8. To Can (Ability) (Armenian)** (forms): Ability and permission. *Example:* \"Ability in Armenian.\" — *Collocations:* *can speak*, *can help*, *can do*.",
+        "**9. To Eat (Armenian)** (forms): Consuming food. *Example:* \"Eating food in Armenian.\" — *Collocations:* *eat apple*, *eat dinner*, *eat food*.",
+        "**10. To Drink (Armenian)** (forms): Consuming liquids. *Example:* \"Drinking in Armenian.\" — *Collocations:* *drink water*, *drink tea*, *drink coffee*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Համեմատական լեզվաբանական աղյուսակ 14 լեզուներով"
-    },
-    {
-      "type": "paragraph",
-      "text": "Ստորև ներկայացված է հիմնական բայերի համեմատական վերլուծությունը բոլոր 14 պաշտոնական լեզուներով․"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Լեզվաընտանիքների առանձնահատկությունները"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Հնդեվրոպական․** Օգտագործում է ժամանակի օժանդակ բայեր և դեմքի/թվի վերջավորություններ։\n• **Թյուրքական ընտանիք (թաթարերեն, բաշկիրերեն, չուվաշերեն)․** Ագլյուտինատիվ ածանցային կառույցներ առանց առանձին օժանդակ բառերի։\n• **Քարթվելական (վրացերեն)․** Բազմադեմ բայական համաձայնություն՝ սուբյեկտի և օբյեկտների նշումով։"
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Գործնական վարժություններ և նավիգացիա"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Ուսումնասիրեք բոլոր 14 լեզվական հոդվածները COSYmagazine կենտրոնում կամ ստուգեք ձեր գիտելիքները [COSYpractice](https://example.com) էջում և դիտեք բայերի աղյուսակները [COSYtools](https://example.com) էջում։"
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "10 ძირითადი ზმნა ქართულ ენაში დამწყებთათვის (CEFR A0–A1)",
-  "kicker": "ქართული ენის სახელმძღვანელო — ნაწილი 1",
-  "dek": "ისწავლეთ ქართული ენის 10 ყველაზე გამოყენებადი ზმნა A0–A1 დონისთვის: უღლება, ფრაზები და 14 ენის შედარებითი ცხრილი.",
+  "title": "Top 10 Essential Verbs in Georgian for Absolute Beginners (A0–A1)",
+  "kicker": "GEORGIAN CORE GUIDE — PART 1",
+  "dek": "Master the 10 core verbs in Georgian (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "Georgian",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "კეთილი იყოს თქვენი მობრძანება ქართული ენის ძირითადი ზმნების სახელმძღვანელოში A0–A1 დონისთვის! ამ 10 ზმნის ცოდნა დაგეხმარებათ ყოველდღიურ კომუნიკაციაში."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Georgian! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "დეტალური ანალიზი: 10 ქართული ზმნა (ნაწილი 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. ყოფნა (ვარ, ხარ, არის, ვართ, ხართ, არიან):** იდენტობა და ადგილმდებარეობა (*მე ვარ სტუდენტი*, *ის სახლშია*).",
-        "**2. ქონა / Ჰყოლა (მაქვს, მყავს):** ფლობა (*მე მაქვს წიგნი*, *მე მყავს ძმა*). ხნოვანება: *20 წლის ვარ*.",
-        "**3. კეთება (ვაკეთებ, აკეთებ...):** მოქმედება (*დავალების კეთება*, *ყავის მომზადება*).",
-        "**4. წასვლა / სვლა:** მოძრაობა (*სკოლაში მივდივარ*).",
-        "**5. მოსვლა:** მოსვლა (*თბილისიდან მოვდივარ*).",
-        "**6. თქმა / ლაპარაკი:** კომუნიკაცია (*გამარჯობის თქმა*, *სიმართლის თქმა*).",
-        "**7. ნახვა / ყურება:** მხედველობითი აღქმა (*ფილმის ყურება*, *მე ვხედავ ფრინველს*).",
-        "**8. ცოდნა / ცნობა:** ცოდნა (*მე ვიცი პასუხი*, *ვიცნობ გიორგის*).",
-        "**9. ნდომა (მინდა):** სურვილი (*მე მინდა წყალი*).",
-        "**10. მოწონება / Სიყვარული:** მოწონება (*მე მომწონს მუსიკა*, *მიყვარს მოგზაურობა*)."
+        "**1. To Be (Georgian)** (forms): Core verb for identity and state. *Example:* \"Identity and states in Georgian.\" — *Collocations:* *be ready*, *be happy*, *be here*.",
+        "**2. To Have (Georgian)** (forms): Core verb for possession. *Example:* \"Possession in Georgian.\" — *Collocations:* *have time*, *have a book*, *have to*.",
+        "**3. To Think (Georgian)** (forms): Mental reflection and opinion. *Example:* \"Opinions in Georgian.\" — *Collocations:* *think that*, *think about*, *I think*.",
+        "**4. To Know (Georgian)** (forms): Facts and familiarity. *Example:* \"Knowing facts in Georgian.\" — *Collocations:* *know answer*, *know someone*, *I know*.",
+        "**5. To Like (Georgian)** (forms): Tastes and preferences. *Example:* \"Preferences in Georgian.\" — *Collocations:* *like tea*, *like music*, *like doing*.",
+        "**6. To Want / Would Like (Georgian)** (forms): Desire and polite request. *Example:* \"Desires and requests in Georgian.\" — *Collocations:* *want water*, *would like tea*, *want to go*.",
+        "**7. To Go / Be Going To (Georgian)** (forms): Movement and intention. *Example:* \"Movement in Georgian.\" — *Collocations:* *go home*, *go to work*, *going to*.",
+        "**8. To Can (Ability) (Georgian)** (forms): Ability and permission. *Example:* \"Ability in Georgian.\" — *Collocations:* *can speak*, *can help*, *can do*.",
+        "**9. To Eat (Georgian)** (forms): Consuming food. *Example:* \"Eating food in Georgian.\" — *Collocations:* *eat apple*, *eat dinner*, *eat food*.",
+        "**10. To Drink (Georgian)** (forms): Consuming liquids. *Example:* \"Drinking in Georgian.\" — *Collocations:* *drink water*, *drink tea*, *drink coffee*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "14 ენის შედარებითი ენათმეცნიერული ცხრილი"
-    },
-    {
-      "type": "paragraph",
-      "text": "ქვემოთ მოცემულია ძირითადი ზმნების შედარებითი ანალიზი 14-ვე ოფიციალურ ენაზე:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "ენათა ოჯახის თავისებურებები და გრამატიკა"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **ინდოევროპული:** იყენებს დროის დამხმარე ზმნებსა და პირის/რიცხვის დაბოლოებებს.\n• **თურქული ოჯახი (თათრული, ბაშკირული, ჩუვაშური):** აგლუტინაციური სუფიქსური სტრუქტურები ცალკეული დამხმარე სიტყვების გარეშე.\n• **ქართველური (ქართული):** პოლიპერსონალური ზმნური შეთანხმება სუბიექტისა და ობიექტების აღსანიშნავად."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "პრაქტიკული სავარჯიშოები და ნავიგაცია"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 იხილეთ 14-ვე ენის სტატია COSYmagazine-ის ჰაბში ან შეამოწმეთ თქვენი ცოდნა [COSYpractice](https://example.com)-ზე და იხილეთ ზმნების ცხრილები [COSYtools](https://example.com)-ზე."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

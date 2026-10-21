@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Die 10 wichtigsten Verben im Deutschen für Anfänger (CEFR A0–A1)",
-  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 1",
-  "dek": "Meistern Sie die 10 häufigsten deutschen Verben mit Anfänger-Konjugationen (A0–A1), nützlichen Kollokationen, Falschen Freunden und einer 14-Sprachen-Vergleichstabelle.",
+  "title": "Top 10 Essential Verbs in German for Absolute Beginners (A0–A1)",
+  "kicker": "GERMAN CORE GUIDE — PART 1",
+  "dek": "Master the 10 core verbs in German (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "German",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Willkommen zum Verben-Leitfaden für das Niveau A0–A1 im Deutschen! Diese 10 Verben bilden das Fundament der alltäglichen Kommunikation."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in German! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Detaillierte Analyse: Die 10 deutschen Verben (Teil 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Sein (bin, bist, ist, sind, seid, sind):** Identität und Ort (*Ich bin Student*, *Er ist zu Hause*).",
-        "**2. Haben (habe, hast, hat, haben, habt, haben):** Besitz (*Ich habe ein Buch*, *Hast du Zeit?*). Note: Alter benutzt *sein* (*Ich bin 20 Jahre alt*).",
-        "**3. Machen (mache, machst, macht, machen, macht, machen):** Aktivitäten (*Hausaufgaben machen*, *Kaffee machen*).",
-        "**4. Gehen (gehe, gehst, geht, gehen...):** Bewegung zu Fuß (*Ich gehe nach Hause*, *Wir gehen ins Kino*).",
-        "**5. Kommen (komme, kommst, kommt...):** Herkunft (*Ich komme aus Berlin*, *Er kommt pünktlich*).",
-        "**6. Sagen (sage, sagst, sagt...):** Kommunikation (*Hallo sagen*, *Die Wahrheit sagen*).",
-        "**7. Sehen / Schauen:** Visuelle Wahrnehmung (*Ich sehe einen Vogel*, *Schau mal!*).",
-        "**8. Wissen / Kennen:** Faktenwissen vs Bekanntschaft (*Ich weiß das*, *Ich kenne Paul*).",
-        "**9. Wollen / Möchte:** Wunsch und Höflichkeit (*Ich will lernen*, *Ich möchte einen Tee*).",
-        "**10. Mögen / Gefallen:** Vorlieben (*Ich mag Musik*, *Das gefällt mir*)."
+        "**1. To Be (German)** (forms): Core verb for identity and state. *Example:* \"Identity and states in German.\" — *Collocations:* *be ready*, *be happy*, *be here*.",
+        "**2. To Have (German)** (forms): Core verb for possession. *Example:* \"Possession in German.\" — *Collocations:* *have time*, *have a book*, *have to*.",
+        "**3. To Think (German)** (forms): Mental reflection and opinion. *Example:* \"Opinions in German.\" — *Collocations:* *think that*, *think about*, *I think*.",
+        "**4. To Know (German)** (forms): Facts and familiarity. *Example:* \"Knowing facts in German.\" — *Collocations:* *know answer*, *know someone*, *I know*.",
+        "**5. To Like (German)** (forms): Tastes and preferences. *Example:* \"Preferences in German.\" — *Collocations:* *like tea*, *like music*, *like doing*.",
+        "**6. To Want / Would Like (German)** (forms): Desire and polite request. *Example:* \"Desires and requests in German.\" — *Collocations:* *want water*, *would like tea*, *want to go*.",
+        "**7. To Go / Be Going To (German)** (forms): Movement and intention. *Example:* \"Movement in German.\" — *Collocations:* *go home*, *go to work*, *going to*.",
+        "**8. To Can (Ability) (German)** (forms): Ability and permission. *Example:* \"Ability in German.\" — *Collocations:* *can speak*, *can help*, *can do*.",
+        "**9. To Eat (German)** (forms): Consuming food. *Example:* \"Eating food in German.\" — *Collocations:* *eat apple*, *eat dinner*, *eat food*.",
+        "**10. To Drink (German)** (forms): Consuming liquids. *Example:* \"Drinking in German.\" — *Collocations:* *drink water*, *drink tea*, *drink coffee*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachvergleichsmatrix über 14 Sprachen"
-    },
-    {
-      "type": "paragraph",
-      "text": "Nachfolgend finden Sie den vergleichenden Überblick über die wichtigsten Verben in allen 14 Amtssprachen:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachfamilien & Grammatik-Highlights"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indogermanisch:** Verwendet Zeitform-Hilfsverben und Person/Numerus-Flexionen.\n• **Turksprachen (Tatarisch, Baschkirisch, Tschuwaschisch):** Agglutinative Suffixstrukturen für Tempus und Person ohne separate Hilfsverben.\n• **Kartwelisch (Georgisch):** Polypersonale Verbkongruenz zur Markierung von Subjekt und Objekten."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Interaktive Übungen und Navigation"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://example.com) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

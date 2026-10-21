@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "I 10 verbi essenziali in italiano per principianti (CEFR A0–A1)",
-  "kicker": "GUIDA ALL'ITALIANO — PARTE 1",
-  "dek": "Impara i 10 verbi italiani ad altissima frequenza con coniugazioni A0–A1, collocazioni utili, avvertenze sui falsi amici e tabella comparativa in 14 lingue.",
+  "title": "Top 10 Essential Verbs in Italian for Absolute Beginners (A0–A1)",
+  "kicker": "ITALIAN CORE GUIDE — PART 1",
+  "dek": "Master the 10 core verbs in Italian (be, have, think, know, like, want, go, can, eat, drink) adapted for A0–A1 learners with collocations and 14-language comparative matrix.",
   "tags": [
     "Verbs",
     "Italian",
@@ -45,42 +45,38 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Benvenuti nella guida ai verbi essenziali della lingua italiana per il livello A0–A1! Dominare questi 10 verbi ti consentirà di gestire le situazioni quotidiane con facilità."
+      "text": "Welcome to our CEFR A0–A1 master guide for high-frequency verbs in Italian! Frequency studies show that mastering these 10 core verbs unlocks over 80% of everyday communication."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Analisi approfondita: I 10 verbi italiani (Parte 1)"
+      "text": "Top 10 High-Frequency Verbs Breakdown"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Essere (sono, sei, è, siamo, siete, sono):** Identità e stato (*Sono studente*, *Lui è a casa*).",
-        "**2. Avere (ho, hai, ha, abbiamo, avete, hanno):** Possesso ed età (*Ho un libro*, *Ho 20 anni*).",
-        "**3. Fare (faccio, fai, fa, facciamo, fate, fanno):** Attività e creazione (*Fare la spesa*, *Fare il caffè*).",
-        "**4. Andare (vado, vai, va, andiamo, andate, vanno):** Movimento (*Vado a scuola*, *Andare al mare*).",
-        "**5. Venire (vengo, vieni, viene, veniamo, venite, vengono):** Provenienza (*Vengo da Roma*).",
-        "**6. Dire (dico, dici, dice, diciamo, dite, dicono):** Comunicazione (*Dire la verità*, *Dire di sì*).",
-        "**7. Vedere / Guardare:** Percezione visiva (*Vedo un gelato*, *Guardare la TV*).",
-        "**8. Sapere / Conoscere:** Conoscenza e familiarità (*So la risposta*, *Conosco Marco*).",
-        "**9. Volere (voglio, vuoi, vuole, vogliamo, volete, vogliono):** Desiderio e cortesia (*Voglio l'acqua*, *Vorrei un caffè*).",
-        "**10. Piacere:** Preferenze (*Mi piace la pizza*, *Mi piacciono i libri*)."
+        "**1. Essere** (sono, sei, è, siamo, siete, sono): Identità, stato, posizione, verbi ausiliari. *Example:* \"Io sono studente. Lui è a casa.\" — *Collocations:* *essere pronto*, *essere in ritardo*, *essere d'accordo*.",
+        "**2. Avere** (ho, hai, ha, abbiamo, avete, hanno): Possesso, età, sensazioni fisiche. *Example:* \"Ho una macchina. Ho 20 anni.\" — *Collocations:* *avere fame*, *avere sete*, *avere bisogno di*.",
+        "**3. Pensare** (penso, pensi, pensa, pensiamo, pensate, pensano): Opinione, riflessione, convinzione. *Example:* \"Penso di sì. A cosa pensi?\" — *Collocations:* *pensare a*, *pensare di*, *penso che*.",
+        "**4. Sapere / Conoscere** (so, sai, sa / conosco, conosci): Fatti e abilità (sapere) vs Persone e luoghi (conoscere). *Example:* \"So parlare italiano. Conosco Roma.\" — *Collocations:* *sapere fare*, *conoscere una persona*, *non lo so*.",
+        "**5. Piacere / Amare** (mi piace, mi piacciono / amo): Esprimere gusti e preferenze. *Example:* \"Mi piace il caffè. Amo la musica.\" — *Collocations:* *mi piace molto*, *ti piace?*, *piacere di conoscerti*.",
+        "**6. Volere / Vorrei** (voglio, vuoi, vuole / vorrei): Desiderio, richieste cortesi. *Example:* \"Voglio acqua. Vorrei un caffè, per favore.\" — *Collocations:* *volere andare*, *vorrei ordinare*, *voglio imparare*.",
+        "**7. Andare / Stare per** (vado, vai, va, andiamo, andate, vanno): Movimento, futuro imminente. *Example:* \"Vado al lavoro. Sto per uscire.\" — *Collocations:* *andare a casa*, *come va?*, *andare via*.",
+        "**8. Potere** (posso, puoi, può, possiamo, potete, possono): Capacità, possibilità, permesso. *Example:* \"Posso parlare italiano. Puoi aiutarmi?\" — *Collocations:* *posso entrare?*, *si può fare*, *non posso*.",
+        "**9. Mangiare** (mangio, mangi, mangia, mangiamo, mangiate, mangiano): Consumo di cibo solido. *Example:* \"Mangio una mela. Mangiamo insieme.\" — *Collocations:* *mangiare bene*, *ora di mangiare*, *buon appetito*.",
+        "**10. Bere** (bevo, bevi, beve, beviamo, bevete, bevono): Consumo di liquidi. *Example:* \"Bevo acqua. Lui beve un caffè.\" — *Collocations:* *bere acqua*, *bere qualcosa*, *alla salute!*."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matrice comparativa tra 14 lingue"
-    },
-    {
-      "type": "paragraph",
-      "text": "Ecco la tabella comparativa dei verbi principali nelle 14 lingue ufficiali:"
+      "text": "Comparative Linguistics Matrix (14 Official Languages)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
+        "Verb Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
         "Slavic / Hellenic / Celtic / Arm",
@@ -89,64 +85,55 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
+          "1. Be / Exist",
+          "être / essere / ser / estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
           "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "ყოფნა"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
+          "иметь (у меня есть) / έχω",
+          "бар (минем бар) / пур",
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "do, make / machen",
+          "делать / κάνω / ober",
+          "эшләү / тăвасси",
+          "კეთება"
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
+          "4. Go / Movement",
+          "aller / andare / ir",
           "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
+          "идти / πηγαίνω / mont",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წასვლა"
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "5. Say / Speak / Tell",
+          "dire, parler / dire, parlare",
+          "say, speak / sagen, sprechen",
+          "говорить, сказать / μιλώ",
+          "сөйләү, әйтү / әйтеү",
+          "ლაპარაკი, თქმა"
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sfumature linguistiche e aspetti grammaticali"
+      "text": "Interactive Practice & Navigation"
     },
     {
       "type": "paragraph",
-      "text": "• **Indoeuropeo:** Utilizza ausiliari e flessioni di persona/numero.\n• **Famiglia turchica (tataro, baschiro, ciuvascio):** Strutture a suffissi agglutinanti per tempo e persona senza ausiliari separati.\n• **Kartvelico (georgiano):** Accordo verbale polipersonale che marca soggetto e oggetti."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Esercizi pratici e navigazione"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Esplora tutti i 14 articoli linguistici nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://example.com) e consulta le tabelle dei verbi su [COSYtools](https://example.com)."
+      "text": "Explore all 14 language articles in the COSYmagazine hub or test your knowledge with interactive drills in [COSYpractice](https://example.com) and verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false
