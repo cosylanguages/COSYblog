@@ -74,7 +74,16 @@
   <script type="module">
     import { renderCover } from './js/art/generator.js';
 
-    const LANG_NAMES = { en: 'English', fr: 'Français', it: 'Italiano', ru: 'Русский', el: 'Ελληνικά', es: 'Español', de: 'Deutsch', pt: 'Português' };
+    const LANG_FLAGS = {
+      en: '🇬🇧', fr: '🇫🇷', it: '🇮🇹', ru: '🇷🇺', el: '🇬🇷',
+      tt: '🟢', ba: '🔵', br: '🖤', pt: '🇵🇹', es: '🇪🇸',
+      de: '🇩🇪', hy: '🇦🇲', ka: '🇬🇪', cv: '🟡'
+    };
+    const LANG_NAMES = {
+      en: 'English', fr: 'Français', it: 'Italiano', ru: 'Русский', el: 'Ελληνικά',
+      tt: 'Tatar', ba: 'Bashkir', br: 'Breton', pt: 'Português', es: 'Español',
+      de: 'Deutsch', hy: 'Armenian', ka: 'Georgian', cv: 'Chuvash'
+    };
     const $ = (id) => document.getElementById(id);
     const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
     const tr = (key, fallback) => (window.t && window.t(key)) || fallback;
@@ -179,16 +188,39 @@
       renderLead(groups);
       $('ns-grid').innerHTML = groups.map((g) => {
         const p = g.shown;
-        const others = g.variants.filter((v) => v !== p);
+        const allVariants = g.variants;
+        const isMultiLang = allVariants.length > 1;
+
         return `
-        <article class="ns-card">
-          <span class="ns-card-art" aria-hidden="true">${renderCover(p, { width: 480, height: 270, showText: false })}</span>
+        <article class="ns-card ${isMultiLang ? 'ns-card-multilang' : ''}">
+          <span class="ns-card-art" aria-hidden="true">
+            ${renderCover(p, { width: 480, height: 270, showText: false })}
+            ${isMultiLang ? `<span class="ns-badge-multilang">🌐 ${allVariants.length} Languages</span>` : ''}
+          </span>
           <div class="ns-card-body">
-            <div class="ns-meta">${esc(deskLabel(g.base.desk))} <i>· ${esc(p.level || '')}</i></div>
+            <div class="ns-meta">
+              <span>${esc(deskLabel(g.base.desk))}</span>
+              <i>· ${esc(p.level || '')}</i>
+            </div>
             <h3><a href="${url(p)}" data-cover lang="${p.language}">${esc(p.title)}</a></h3>
             <p class="ns-dek" lang="${p.language}">${esc(p.dek)}</p>
-            <div class="ns-foot"><span>${fmtDate(g.base.date)}</span><span>·</span><span>${p.readingTime || 5} min</span>
-              ${others.length ? `<span class="ns-langs" aria-label="Also available in">${others.map((v) => `<a href="${url(v)}" lang="${v.language}" title="${esc(LANG_NAMES[v.language] || v.language)}">${v.language}</a>`).join('')}</span>` : ''}
+            ${isMultiLang ? `
+            <div class="ns-lang-bar" aria-label="Available languages">
+              <span class="ns-lang-bar-label">Read in:</span>
+              <div class="ns-lang-pills">
+                ${allVariants.map((v) => `
+                  <a href="${url(v)}" class="ns-lang-pill ${v.language === p.language ? 'is-active' : ''}" lang="${v.language}" title="${esc(LANG_NAMES[v.language] || v.language)}">
+                    <span class="ns-flag">${LANG_FLAGS[v.language] || '🌐'}</span>
+                    <span class="ns-code">${v.language.toUpperCase()}</span>
+                  </a>
+                `).join('')}
+              </div>
+            </div>
+            ` : ''}
+            <div class="ns-foot">
+              <span>${fmtDate(g.base.date)}</span>
+              <span>·</span>
+              <span>${p.readingTime || 5} min</span>
             </div>
           </div>
         </article>`;
