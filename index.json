@@ -1,6 +1,6 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-21T08:51:35.755Z",
+  "generatedAt": "2026-10-21T09:47:56.586Z",
   "stats": {
     "totalPosts": 34,
     "totalDesks": 13,
@@ -155,6 +155,7 @@
     {
       "id": "demystifying-french-tenses-timeline-guide-fr",
       "slug": "demystifying-french-tenses-timeline-guide-fr",
+      "translationOf": "demystifying-english-tenses-timeline-guide",
       "language": "fr",
       "desk": "Grammar",
       "format": "essay",
@@ -201,6 +202,7 @@
     {
       "id": "demystifying-greek-tenses-timeline-guide-el",
       "slug": "demystifying-greek-tenses-timeline-guide-el",
+      "translationOf": "demystifying-english-tenses-timeline-guide",
       "language": "el",
       "desk": "Grammar",
       "format": "essay",
@@ -247,6 +249,7 @@
     {
       "id": "demystifying-italian-tenses-timeline-guide-it",
       "slug": "demystifying-italian-tenses-timeline-guide-it",
+      "translationOf": "demystifying-english-tenses-timeline-guide",
       "language": "it",
       "desk": "Grammar",
       "format": "essay",
@@ -293,6 +296,7 @@
     {
       "id": "demystifying-russian-tenses-timeline-guide-ru",
       "slug": "demystifying-russian-tenses-timeline-guide-ru",
+      "translationOf": "demystifying-english-tenses-timeline-guide",
       "language": "ru",
       "desk": "Grammar",
       "format": "essay",
@@ -480,6 +484,7 @@
     {
       "id": "post-saturday-mistakes-5-french-mistakes",
       "slug": "saturday-mistakes-5-french-mistakes",
+      "translationOf": "saturday-mistakes-5-english-mistakes",
       "language": "fr",
       "desk": "Saturday Mistakes",
       "format": "list",
