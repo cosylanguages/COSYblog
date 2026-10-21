@@ -99,6 +99,10 @@
     },
     {
       "type": "paragraph",
+      "text": "<div class=\"cosy-timeline\"><div class=\"timeline-labels\"><span>Παρελθόν</span><span class=\"timeline-now-label\">ΤΩΡΑ</span><span>Μέλλον</span></div><div class=\"timeline-line\"><div class=\"timeline-event\" style=\"left:18%; width:20%;\"><div class=\"timeline-bar\"></div><div class=\"timeline-card\"><strong>Αόριστος vs Παρατατικός</strong><p>Συνοπτική vs Διαρκής πράξη στο παρελθόν</p></div></div><div class=\"timeline-now\"></div></div></div>"
+    },
+    {
+      "type": "paragraph",
       "text": "- **Παρατατικός**: εκφράζει διάρκεια ή επανάληψη στο παρελθόν (*Έγραφα ένα γράμμα* — διαδικασία).\n- **Αόριστος**: εκφράζει μια ολοκληρωμένη, στιγμιαία πράξη στο παρελθόν (*Έγραψα ένα γράμμα* — αποτέλεσμα/γεγονός).",
       "say": "Ο Παρατατικός εστιάζει στη διάρκεια, ενώ ο Αόριστος δείχνει μια ολοκληρωμένη πράξη.",
       "beat": {

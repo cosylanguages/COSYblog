@@ -99,6 +99,10 @@
     },
     {
       "type": "paragraph",
+      "text": "<div class=\"cosy-timeline\"><div class=\"timeline-labels\"><span>Прошлое</span><span class=\"timeline-now-label\">СЕЙЧАС</span><span>Будущее</span></div><div class=\"timeline-line\"><div class=\"timeline-event\" style=\"left:18%; width:20%;\"><div class=\"timeline-bar\"></div><div class=\"timeline-card\"><strong>Прошедшее время (Виды)</strong><p>Совершенный (результат) vs Несовершенный (процесс)</p></div></div><div class=\"timeline-now\"></div></div></div>"
+    },
+    {
+      "type": "paragraph",
       "text": "Поскольку настоящее время происходит прямо сейчас, действие находится в процессе: *Я читаю книгу*, *Он работает в компании*. Глаголы СВ не имеют форм настоящего времени.",
       "say": "Настоящее время передает действие прямо сейчас или постоянное состояние, поэтому здесь работает только несовершенный вид.",
       "beat": {

@@ -99,6 +99,10 @@
     },
     {
       "type": "paragraph",
+      "text": "<div class=\"cosy-timeline\"><div class=\"timeline-labels\"><span>Passé</span><span class=\"timeline-now-label\">MAINTENANT</span><span>Futur</span></div><div class=\"timeline-line\"><div class=\"timeline-event\" style=\"left:18%; width:20%;\"><div class=\"timeline-bar\"></div><div class=\"timeline-card\"><strong>Passé Composé vs Imparfait</strong><p>Événement ponctuel vs Arrière-plan continu</p></div></div><div class=\"timeline-now\"></div></div></div>"
+    },
+    {
+      "type": "paragraph",
       "text": "C'est la difficulté majeure des apprenants. Retenez cette règle visuelle simple :\n\n- **L'Imparfait** pose le décor et décrit l'arrière-plan ou une habitude (*Il pleuvait, les oiseaux chantaient*).\n- **Le Passé Composé** est un événement ponctuel qui surgit au premier plan et fait avancer l'histoire (*Soudain, le téléphone a sonné*).",
       "say": "Considérez l'imparfait comme le décor de fond d'un tableau, et le passé composé comme l'action soudaine au premier plan.",
       "beat": {
