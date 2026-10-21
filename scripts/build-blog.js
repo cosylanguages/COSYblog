@@ -160,12 +160,12 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
     }
     case 'paragraph': {
       const parsedText = parseFormattedText(block.text);
+      const isBlockElement = /^\s*<(div|section|aside|blockquote|table|ul|ol|figure)/i.test(parsedText);
+      if (isBlockElement) {
+        return parsedText;
+      }
       if (state.isFirstParagraph) {
         state.isFirstParagraph = false;
-        // Check if text starts with a block element like <div> or <section>
-        if (/^\s*<(div|section|aside|blockquote|table|ul|ol|figure)/i.test(parsedText)) {
-          return parsedText;
-        }
         return `<p class="gazette-drop-cap">${parsedText}</p>`;
       }
       return `<p>${parsedText}</p>`;
