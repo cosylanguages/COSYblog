@@ -1056,6 +1056,62 @@ html[data-theme="dark"] .gazette-masthead-meta {
   font-size: 0.85em;
 }
 
+/* 7e. August Issue — "Get Ready for School" Back-to-School Vibe & Atmosphere */
+
+.august-issue-banner {
+  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 50%, #fef3c7 100%);
+  border: 2px dashed #d97706;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0 2rem;
+  box-shadow: 0 8px 24px rgba(217, 119, 6, 0.12);
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.august-banner-badge {
+  background: #d97706;
+  color: #ffffff;
+  font-family: var(--post-font-display, 'Fraunces', serif);
+  font-weight: 900;
+  font-size: 0.85rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  box-shadow: 0 4px 12px rgba(217, 119, 6, 0.25);
+  flex-shrink: 0;
+}
+
+.august-banner-content h4 {
+  margin: 0 0 0.25rem;
+  font-family: var(--post-font-display, 'Fraunces', serif);
+  font-size: 1.15rem;
+  color: #78350f;
+}
+
+.august-banner-content p {
+  margin: 0;
+  font-size: 0.875rem;
+  color: #92400e;
+}
+
+html[data-theme="dark"] .august-issue-banner {
+  background: linear-gradient(135deg, #451a03 0%, #78350f 100%);
+  border-color: #f59e0b;
+}
+
+html[data-theme="dark"] .august-banner-content h4 {
+  color: #fef3c7;
+}
+
+html[data-theme="dark"] .august-banner-content p {
+  color: #fde68a;
+}
+
 /* 7d. COSY Verb Network Map & CEFR Roadmap Components */
 
 .verb-map-container {
