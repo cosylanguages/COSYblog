@@ -1,7 +1,8 @@
 {
-  "id": "guide-top-10-verbs-en",
+  "id": "post-top-10-verbs-en",
   "slug": "top-10-verbs-en",
   "language": "en",
+  "translationOf": "top-10-verbs",
   "desk": "Words",
   "format": "list",
   "level": "A0–A1 / A2",
@@ -11,12 +12,12 @@
   },
   "date": "2026-03-01",
   "title": "Top 10 Essential Verbs in English for Absolute Beginners (A0–A1)",
-  "kicker": "ENGLISH CORE GUIDE",
+  "kicker": "ENGLISH CORE GUIDE — PART 1",
   "dek": "Master the 10 most high-frequency verbs in English with A0–A1 adapted conjugations, collocations, false-friend warnings, and a 14-language comparative matrix.",
   "tags": [
     "Verbs",
-    "A0-A1",
     "English",
+    "A0-A1",
     "14Languages"
   ],
   "readingTime": 10,
@@ -44,9 +45,109 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "\n\n<div style=\"padding: 1rem; background: #1e293b; color: #ffffff; border-radius: 8px; margin-bottom: 2rem;\">\n    <div style=\"font-weight: bold; margin-bottom: 0.5rem; font-size: 0.9rem; color: #f59e0b;\">🌐 Quick Language Switcher (14 Official Languages)</div>\n    <div style=\"display: flex; flex-wrap: wrap; gap: 0.5rem; font-size: 0.85rem;\">\n        <a href=\"top-10-verbs.html\" style=\"color: #67e8f9; text-decoration: none;\">🏛️ Editorial Hub</a>\n        <a href=\"top-10-verbs-en.html\" style=\"color: #ffffff; text-decoration: none;\">🇬🇧 EN</a>\n        <a href=\"top-10-verbs-fr.html\" style=\"color: #ffffff; text-decoration: none;\">🇫🇷 FR</a>\n        <a href=\"top-10-verbs-it.html\" style=\"color: #ffffff; text-decoration: none;\">🇮🇹 IT</a>\n        <a href=\"top-10-verbs-ru.html\" style=\"color: #ffffff; text-decoration: none;\">🇷🇺 RU</a>\n        <a href=\"top-10-verbs-el.html\" style=\"color: #ffffff; text-decoration: none;\">🇬🇷 EL</a>\n        <a href=\"top-10-verbs-tt.html\" style=\"color: #ffffff; text-decoration: none;\">🌐 TT</a>\n        <a href=\"top-10-verbs-ba.html\" style=\"color: #ffffff; text-decoration: none;\">🌐 BA</a>\n        <a href=\"top-10-verbs-br.html\" style=\"color: #ffffff; text-decoration: none;\">🌐 BR</a>\n        <a href=\"top-10-verbs-pt.html\" style=\"color: #ffffff; text-decoration: none;\">🇵🇹 PT</a>\n        <a href=\"top-10-verbs-es.html\" style=\"color: #ffffff; text-decoration: none;\">🇪🇸 ES</a>\n        <a href=\"top-10-verbs-de.html\" style=\"color: #ffffff; text-decoration: none;\">🇩🇪 DE</a>\n        <a href=\"top-10-verbs-hy.html\" style=\"color: #ffffff; text-decoration: none;\">🇦🇲 HY</a>\n        <a href=\"top-10-verbs-ka.html\" style=\"color: #ffffff; text-decoration: none;\">🇬🇪 KA</a>\n        <a href=\"top-10-verbs-cv.html\" style=\"color: #ffffff; text-decoration: none;\">🌐 CV</a>\n    </div>\n</div>\n\n\n<div class=\"august-issue-banner\">\n    <div class=\"august-banner-badge\">🇬🇧 English Edition</div>\n    <div class=\"august-banner-content\">\n        <h4>Top 10 Essential Verbs in English (CEFR A0–A1 Level)</h4>\n        <p>A beginner-friendly breakdown of the 10 highest-yield verbs in English. Master conjugations, collocations, false friends, and daily expressions tailored for absolute beginners!</p>\n    </div>\n</div>\n\n<section style=\"margin: 2rem 0;\">\n    <h3 class=\"editorial-heading\">📚 1. Conjugation Highlights & Essential Patterns</h3>\n    <p style=\"font-size: 0.95rem; line-height: 1.6;\">For A0–A1 learners in English, focusing on the present tense, simple past, and immediate future forms allows you to express over 80% of daily communication needs. Here are the core patterns for the top verbs:</p>\n    <ul style=\"line-height: 1.8;\">\n        <li><strong>To Be:</strong> Used for identity, location, and states. Watch out for possessive or dative traps!</li>\n        <li><strong>To Have:</strong> Essential for possession, age, and physical feelings in many languages.</li>\n        <li><strong>To Do / Make:</strong> The workhorse verb for everyday tasks and creating things.</li>\n        <li><strong>To Go & Come:</strong> Essential directional verbs for travel, invitations, and daily movement.</li>\n        <li><strong>To Say / Tell:</strong> How to report thoughts, ask questions, and interact socially.</li>\n        <li><strong>To See & Know:</strong> Differentiating visual perception from factual knowledge and familiarity.</li>\n        <li><strong>To Want & Like:</strong> Expressing desires, ordering items, and sharing preferences.</li>\n    </ul>\n</section>\n\n<section style=\"margin: 2rem 0;\">\n    <h3 class=\"editorial-heading\">🗣️ 2. High-Frequency Collocations & Natural Phrasing</h3>\n    <div style=\"display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-top: 1rem;\">\n        <div style=\"padding: 1rem; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px;\">\n            <strong style=\"color: #0d9488;\">Identity & Location</strong>\n            <p style=\"font-size: 0.9rem; margin-top: 0.5rem;\">Saying your name, nationality, profession, and where you are located.</p>\n        </div>\n        <div style=\"padding: 1rem; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px;\">\n            <strong style=\"color: #0d9488;\">Daily Routines</strong>\n            <p style=\"font-size: 0.9rem; margin-top: 0.5rem;\">Having meals, going to work/school, coming home, making coffee.</p>\n        </div>\n        <div style=\"padding: 1rem; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px;\">\n            <strong style=\"color: #0d9488;\">Social Interaction</strong>\n            <p style=\"font-size: 0.9rem; margin-top: 0.5rem;\">Saying hello, asking for help, expressing likes, wanting items politely.</p>\n        </div>\n    </div>\n</section>\n\n<section style=\"margin: 2rem 0;\">\n    <h3 class=\"editorial-heading\">💬 3. Cultural & Idiomatic Expressions (A0–A1 Adapted)</h3>\n    <p style=\"font-size: 0.95rem; line-height: 1.6;\">In English, simple verbs combine with everyday nouns to form natural expressions that native speakers use constantly. Master these key expressions to sound natural from day one!</p>\n</section>\n\n\n<section style=\"margin: 2.5rem 0;\">\n    <h3 class=\"editorial-heading\">🔍 Comparative Linguistics Matrix (14 Languages)</h3>\n    <p style=\"color:var(--ink-secondary); margin-bottom: 1.5rem;\">See how the core concept translates directly across all 14 official COSY languages:</p>\n\n    <div style=\"overflow-x: auto;\">\n        <table style=\"width: 100%; border-collapse: collapse; font-size: 0.85rem; text-align: left;\">\n            <thead>\n                <tr style=\"background-color: #0d9488; color: #ffffff;\">\n                    <th style=\"padding: 8px;\">Verb Concept</th>\n                    <th style=\"padding: 8px;\">🇬🇧 EN</th>\n                    <th style=\"padding: 8px;\">🇫🇷 FR</th>\n                    <th style=\"padding: 8px;\">🇮🇹 IT</th>\n                    <th style=\"padding: 8px;\">🇪🇸 ES</th>\n                    <th style=\"padding: 8px;\">🇵🇹 PT</th>\n                    <th style=\"padding: 8px;\">🇩🇪 DE</th>\n                    <th style=\"padding: 8px;\">🇷🇺 RU</th>\n                    <th style=\"padding: 8px;\">🇬🇷 EL</th>\n                    <th style=\"padding: 8px;\">🌐 BR</th>\n                    <th style=\"padding: 8px;\">🇦🇲 HY</th>\n                    <th style=\"padding: 8px;\">🌐 TT</th>\n                    <th style=\"padding: 8px;\">🌐 BA</th>\n                    <th style=\"padding: 8px;\">🌐 CV</th>\n                    <th style=\"padding: 8px;\">🇬🇪 KA</th>\n                </tr>\n            </thead>\n            <tbody>\n                <tr style=\"border-bottom: 1px solid #cbd5e1;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">1. Be</td>\n                    <td>be</td><td>être</td><td>essere</td><td>ser/estar</td><td>ser/estar</td><td>sein</td><td>быть</td><td>είμαι</td><td>bezañ</td><td>լինել</td><td>булу</td><td>булыу</td><td>пулма</td><td>ყოფნა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1; background: #f8fafc;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">2. Have</td>\n                    <td>have</td><td>avoir</td><td>avere</td><td>tener</td><td>ter</td><td>haben</td><td>у меня есть</td><td>έχω</td><td>kaout</td><td>ունենալ</td><td>бар/ия булу</td><td>бар/эйә булыу</td><td>пур/пулма</td><td>ქონა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">3. Do/Make</td>\n                    <td>do/make</td><td>faire</td><td>fare</td><td>hacer</td><td>fazer</td><td>machen</td><td>делать</td><td>κάνω</td><td>ober</td><td>անել</td><td>эшләү</td><td>эшләү</td><td>тăвас</td><td>კეთება</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1; background: #f8fafc;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">4. Go</td>\n                    <td>go</td><td>aller</td><td>andare</td><td>ir</td><td>ir</td><td>gehen</td><td>идти</td><td>πηγαίνω</td><td>mont</td><td>գնալ</td><td>бару</td><td>барыу</td><td>кайрма</td><td>წასვლა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">5. Come</td>\n                    <td>come</td><td>venir</td><td>venire</td><td>venir</td><td>vir</td><td>kommen</td><td>приходить</td><td>έρχομαι</td><td>dont</td><td>գալ</td><td>килү</td><td>килеү</td><td>килме</td><td>მოსვლა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1; background: #f8fafc;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">6. Say/Tell</td>\n                    <td>say/tell</td><td>dire</td><td>dire</td><td>decir</td><td>dizer</td><td>sagen</td><td>говорить</td><td>λέω</td><td>lavar</td><td>ասել</td><td>әйтү</td><td>әйтеү</td><td>калама</td><td>თქმა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">7. See/Look</td>\n                    <td>see</td><td>voir</td><td>vedere</td><td>ver</td><td>ver</td><td>sehen</td><td>видеть</td><td>βλέπω</td><td>gwelout</td><td>տեսնել</td><td>креү</td><td>күреү</td><td>курма</td><td>ნახვა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1; background: #f8fafc;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">8. Know</td>\n                    <td>know</td><td>savoir</td><td>sapere</td><td>saber</td><td>saber</td><td>wissen</td><td>знать</td><td>ξέρω</td><td>gouzout</td><td>իմանալ</td><td>белү</td><td>белеү</td><td>пĕлме</td><td>ცოდნა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">9. Want</td>\n                    <td>want</td><td>vouloir</td><td>volere</td><td>querer</td><td>querer</td><td>wollen</td><td>хотеть</td><td>θέλω</td><td>c'hoant kaout</td><td>ուզել</td><td>теләү</td><td>теләү</td><td>былмаш</td><td>ნდომა</td>\n                </tr>\n                <tr style=\"border-bottom: 1px solid #cbd5e1; background: #f8fafc;\">\n                    <td style=\"padding: 6px; font-weight: bold;\">10. Like/Give</td>\n                    <td>like</td><td>aimer</td><td>piacere</td><td>gustar</td><td>gostar</td><td>mögen</td><td>нравиться</td><td>μου αρέσει</td><td>plijout</td><td>հավանել</td><td>ошату</td><td>ошатыу</td><td>килĕшме</td><td>მოწონება</td>\n                </tr>\n            </tbody>\n        </table>\n    </div>\n</section>\n\n<section style=\"margin: 2rem 0; padding: 1.5rem; background: #f8fafc; border-radius: 8px; border-left: 4px solid #0d9488;\">\n    <h4 style=\"margin-top:0;\">💡 Family Nuances & Grammatical Highlights</h4>\n    <p style=\"font-size: 0.9rem; margin-bottom: 0.5rem;\"><strong>Indo-European (Romance, Germanic, Slavic, Hellenic, Celtic, Armenian):</strong> Tense systems and auxiliary verbs structure time and aspect.</p>\n    <p style=\"font-size: 0.9rem; margin-bottom: 0.5rem;\"><strong>Turkic (Tatar, Bashkir, Chuvash):</strong> Agglutinative suffixes denote person, tense, and mood without separate auxiliary words.</p>\n    <p style=\"font-size: 0.9rem; margin-bottom: 0;\"><strong>Kartvelian (Georgian):</strong> Ergative alignment and polypersonal verbal markers express subject and object together.</p>\n</section>\n\n<section style=\"margin: 2rem 0;\">\n    <h3 class=\"editorial-heading\">🎯 Practice & Ecosystem Links</h3>\n    <div style=\"display:flex; gap:1rem; flex-wrap:wrap;\">\n        <a href=\"https://cosylanguages.github.io/COSYpractice/\" target=\"_blank\" rel=\"noopener\" style=\"padding:0.75rem 1.25rem; background:#d97706; color:#ffffff; text-decoration:none; font-weight:bold; border-radius:6px;\">Practice Drills in COSYpractice ↗</a>\n        <a href=\"https://cosylanguages.github.io/COSYtools/\" target=\"_blank\" rel=\"noopener\" style=\"padding:0.75rem 1.25rem; background:#0d9488; color:#ffffff; text-decoration:none; font-weight:bold; border-radius:6px;\">Verb Tables in COSYtools ↗</a>\n    </div>\n</section>\n\n"
+      "text": "Welcome to the essential guide to high-frequency English verbs for absolute beginners (A0–A1)! Mastering these core verbs will unlock over 80% of daily conversations."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deep Dive: Top 10 English Verbs (Part 1)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. To Be (am / is / are):** Identity, states, and locations (*I am a student*, *He is at home*, *They are ready*).",
+        "**2. To Have (have / has):** Possession and relationships (*I have a book*, *She has a sister*). Note: Age uses *to be* (*I am 20 years old*).",
+        "**3. To Do / To Make:** Actions and creation (*Do homework*, *Do laundry* vs. *Make coffee*, *Make dinner*).",
+        "**4. To Go (go / goes):** Movement away from speaker (*I go to school*, *She goes home*).",
+        "**5. To Come (come / comes):** Movement toward speaker (*Come here*, *They come from France*).",
+        "**6. To Say / To Tell:** Speech and communication (*Say hello*, *Say yes* vs. *Tell a story*, *Tell me*).",
+        "**7. To See / To Look:** Visual perception (*I see a bird* vs. *Look at the map*).",
+        "**8. To Know:** Factual knowledge and familiarity (*I know the answer*, *Do you know John?*).",
+        "**9. To Want:** Expressing desire (*I want water*, *She wants to learn*).",
+        "**10. To Like:** Expressing preference (*I like tea*, *They like soccer*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Comparative Linguistics Matrix across 14 Languages"
+    },
+    {
+      "type": "paragraph",
+      "text": "Below is the comparative breakdown for core verbs across all 14 official languages:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Language Family Nuances & Grammatical Highlights"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indo-European:** Features tense auxiliary verbs and person/number inflections.\n• **Turkic Family (Tatar, Bashkir, Chuvash):** Agglutinative suffix structures expressing tense and person without separate helper verbs.\n• **Kartvelian (Georgian):** Polypersonal verb agreement marking subject and indirect/direct objects."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interactive Practice & Navigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
     }
   ],
-  "translationOf": "top-10-verbs",
   "draft": false
 }

@@ -44,32 +44,108 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to Part 2 of our A0–A1 English Verbs Guide! In this December Issue edition, we cover 10 core action, perception, and communication verbs."
+      "text": "Welcome to Part 2 of our English verb guide for A0–A1 learners! In this edition, we explore 10 vital action, perception, and communication verbs."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "The Top 10 Core Verbs (Part 2)"
+      "text": "Deep Dive: Top 10 English Verbs (Part 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Do / Make:** Activity vs Creation (*I do homework* vs *I make coffee*).",
-        "**2. Speak / Talk / Say / Tell:** Communication nuances (*I speak English*, *Tell me*).",
-        "**3. Look / Watch / See:** Visual perception & attention (*Watch a film*, *I see a house*).",
-        "**4. Listen / Hear:** Auditory attention vs involuntary hearing (*Listen to music*, *I hear a sound*).",
-        "**5. Must / Have to:** Expressing obligation and necessity (*I must go*, *I have to work*).",
-        "**6. Take / Give / Get:** Exchange & receiving (*Take a coffee*, *Give me a book*, *Get a present*).",
-        "**7. Live:** Residence & life (*I live in London*).",
-        "**8. Wait:** Patience & expectation (*Wait for the bus*).",
-        "**9. Understand:** Comprehension (*I understand*, *I don't understand*).",
-        "**10. Ask / Answer & Want / Would like:** Inquiries and polite requests (*Ask a question*, *I would like a tea*)."
+        "**1. Do / Make:** Activity vs Creation (*I do my homework*, *I make breakfast*).",
+        "**2. Speak / Talk / Say / Tell:** Communication nuances (*I speak English*, *Let's talk*, *Say hi*, *Tell a secret*).",
+        "**3. Look / Watch / See:** Visual attention (*Look at this*, *Watch TV*, *I see a tree*).",
+        "**4. Listen / Hear:** Auditory focus vs involuntary hearing (*Listen to music*, *I hear a sound*).",
+        "**5. Must / Have to:** Expressing necessity (*I must study*, *We have to leave*).",
+        "**6. Take / Give / Get:** Physical and abstract exchange (*Take a coat*, *Give a present*, *Get a gift*).",
+        "**7. Live:** Dwelling and life (*I live in London*, *We live well*).",
+        "**8. Wait:** Patience and expectation (*Wait for the bus*, *Wait a minute*).",
+        "**9. Understand:** Comprehension (*I understand the lesson*, *I don't understand*).",
+        "**10. Ask / Answer & Want / Would like:** Questions and polite requests (*Ask a question*, *Answer the phone*, *I would like a coffee*)."
       ]
     },
     {
+      "type": "heading",
+      "level": 3,
+      "text": "Comparative Linguistics Matrix across 14 Languages"
+    },
+    {
       "type": "paragraph",
-      "text": "📌 Compare all 14 languages in our <a href=\"top-10-verbs-part-2.html\">Central Hub (Part 2)</a> or revisit <a href=\"top-10-verbs-en.html\">English Guide (Part 1)</a>."
+      "text": "Below is the comparative breakdown for core verbs across all 14 official languages:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Language Family Nuances & Grammatical Highlights"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indo-European:** Features tense auxiliary verbs and person/number inflections.\n• **Turkic Family (Tatar, Bashkir, Chuvash):** Agglutinative suffix structures expressing tense and person without separate helper verbs.\n• **Kartvelian (Georgian):** Polypersonal verb agreement marking subject and indirect/direct objects."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interactive Practice & Navigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
     }
   ],
   "draft": false

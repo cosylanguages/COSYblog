@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Top 10 Essential Verbs in Breton, Part 2 (CEFR A0–A1)",
-  "kicker": "GIDE VERBOÙ BREZHONEK — LODENN 2",
-  "dek": "An 10 verb essentialañ e brezhoneg evit an deraouidi (A0–A1): ober, komz/lavarout, sellet/gwelout, selaou/klevout, rankout, kemer/reiñ, bevañ/chom, gortoz, meizañ/kompren, ha goulenn/respont.",
+  "title": "Ar 10 verb pennañ e brezhoneg, Rann 2 (CEFR A0–A1)",
+  "kicker": "KAVLEVR BREZHONEG — RANN 2",
+  "dek": "Eil rann eus ar c'havlevr verboù brezhonek evit ar re dhazerañ (A0–A1) : ober, komz/lavarout, sellet/gwelout, selaou/klevout, rankout, kemer/rein, bevañ/heuliañ, gortoz, meizañ ha goulenn/respont.",
   "tags": [
     "Verbs",
     "Breton",
@@ -44,32 +44,108 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Pemerien deuet mat da eil lodenn ar sturlevr verboù brezhonek evit al live A0–A1! Er niverenn-mañ e studier 10 verb pemdeziek."
+      "text": "Degemer mat en eil rann eus kavlevr ar verboù brezhonek (A0–A1) ! Dizoloit 10 verb nevez evit ezteuler ar vetoù hag ar c'homzoù pemdeziek."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "An 10 Verb Pouezusañ (Lodenn 2)"
+      "text": "Dielfennadur munut : Ar 10 verb brezhonek (Rann 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Ober:** Obererezhioù (*Ober a ran ma labor*).",
-        "**2. Komz / Lavarout:** Skeiñ komzoù (*Komz a ran brezhoneg*, *Lavarout a ran ar wirionez*).",
-        "**3. Sellet / Gwelout:** Gweledigezh (*Sellet ouzh ur film*, *Gwelout a ran an ti*).",
-        "**4. Selaou / Klevout:** Klevout hag evezh (*Selaou sonerezh*).",
-        "**5. Rankout:** Retvezh (*Rankout a ran mont kuit*).",
-        "**6. Kemer / Reiñ:** Escemm (*Kemer ur banne kafe*).",
-        "**7. Bevañ / Chom:** Chomlec'h (*Bevañ a ran e Roazhon*).",
-        "**8. Gortoz:** Gortozerezh (*Gortoz an karr-boutin*).",
-        "**9. Kompren / Meizañ:** Komprenidigezh (*Ne gomprenan ket*).",
-        "**10. Goulenn / Respont & C'hoant kaout:** Goulennoù ha hetoù (*Goulenn a ran un dra*, *C'hoant em eus eus un te*)."
+        "**1. Ober:** Obererezh pemdeziek (*Ober al labour-skol*).",
+        "**2. Komz / Lavarout:** Komz (*Komz brezhoneg*, *Lavarout ur ger*).",
+        "**3. Sellet / Gwelout:** Sellet pe gwelout (*Sellet ouzh ur film*, *Gwelout an ti*).",
+        "**4. Selaou / Klevout:** Selaou pe klevout (*Selaou sonerezh*, *Klevout ur trouz*).",
+        "**5. Rankout / Bezañ ret:** Retiez (*Rankout a ran studial*).",
+        "**6. Kemer / Rein:** Eskemm (*Kemer ur banne*, *Rein ur prof*).",
+        "**7. Bevañ / Chom:** Bevañ pe chom (*Chom e Roazhon*, *Bevañ mat*).",
+        "**8. Gortoz:** Gortoz (*Gortoz ar c'hab-karr*).",
+        "**9. Meizañ / Kompren:** Meizañ (*Kompren a ran ar gentel*).",
+        "**10. Goulenn / Respont & C'hoant kaout:** Goulenn ha gourc'hemenn (*Goulenn ur gaoz*, *C'hoant am befe ur banne te*)."
       ]
     },
     {
+      "type": "heading",
+      "level": 3,
+      "text": "Taolenn geñveriañ dre 14 yezh"
+    },
+    {
       "type": "paragraph",
-      "text": "📌 Keñveriañ an 14 yezh er <a href=\"top-10-verbs-part-2.html\">C'hreizenn Stur (Lodenn 2)</a> pe distro da <a href=\"top-10-verbs-br.html\">Sturlevr Brezhonek (Lodenn 1)</a>."
+      "text": "Setu an daolenn geñveriañ eus ar verboù pennañ er 14 yezh ofisiel :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lodennoù yezh ha poentouriezh yezhadurel"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indezeuropegek:** Implijout a ra verboù skoazell amzer ha kemmañ personnes/niver.\n• **Tud turkek (tatar, bachkir, chouvache):** Structurioù gofeat hep verboù skoazell disparti.\n• **Kartvelek (jeorjieg):** Kenfeurmelezh verb liespersonel evit ar sujed hag an objets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Aozioù pleustriñ ha merdeiñ"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Enklaskit an 14 pennad yezh e kreizenn COSYmagazine pe amprouit ho gouziegezh war [COSYpractice](https://example.com) ha sellit ouzh an taolennou verboù war [COSYtools](https://example.com)."
     }
   ],
   "draft": false

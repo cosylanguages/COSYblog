@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Top 10 Essential Verbs in Spanish, Part 2 (CEFR A0–A1)",
-  "kicker": "GUÍA DE VERBOS EN ESPAÑOL — PARTE 2",
-  "dek": "Los 10 verbos esenciales en español para principiantes (A0–A1): hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender/comprender y preguntar/responder.",
+  "title": "Los 10 verbos esenciales en español, Parte 2 (CEFR A0–A1)",
+  "kicker": "GUÍA DE ESPAÑOL — PARTE 2",
+  "dek": "Segunda parte de la guía esencial de verbos en español para principiantes (A0–A1): hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender y preguntar/responder.",
   "tags": [
     "Verbs",
     "Spanish",
@@ -44,32 +44,108 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "¡Bienvenido a la segunda parte de la guía de verbos en español para nivel A0–A1! En esta edición de diciembre analizamos 10 verbos cotidianos imprescindibles."
+      "text": "¡Bienvenidos a la segunda parte de la guía de verbos en español para principiantes (A0–A1)! Presentamos 10 nuevos verbos clave para expresar acciones y comunicación diaria."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Los 10 Verbos Clave (Parte 2)"
+      "text": "Análisis detallado: Los 10 verbos en español (Parte 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Hacer:** Acciones y actividades (*Hago los deberes*).",
-        "**2. Hablar / Decir:** Comunicación oral (*Hablo español*, *Dime, por favor*).",
-        "**3. Mirar / Ver:** Percepción visual (*Mirar una película*, *Veo una casa*).",
-        "**4. Escuchar / Oír:** Percepción auditiva (*Escuchar música*, *No oigo nada*).",
-        "**5. Tener que / Deber:** Necesidad y obligación (*Tengo que irme*).",
+        "**1. Hacer:** Actividades cotidianas (*Hacer los deberes*, *Hacer el desayuno*).",
+        "**2. Hablar / Decir:** Comunicación (*Hablar español*, *Decir una palabra*).",
+        "**3. Mirar / Ver:** Atención visual (*Mirar un vídeo*, *Veo una casa*).",
+        "**4. Escuchar / Oír:** Atención auditiva vs oído (*Escuchar música*, *Oigo un ruido*).",
+        "**5. Tener que / Deber:** Obligación (*Tengo que estudiar*, *Debo irme*).",
         "**6. Tomar / Dar:** Intercambio (*Tomar un café*, *Dar un regalo*).",
-        "**7. Vivir:** Residencia (*Vivo en Madrid*).",
-        "**8. Esperar:** Espera (*Espero el autobús*).",
-        "**9. Entender / Comprender:** Comprensión (*No entiendo*).",
-        "**10. Preguntar / Responder & Querer / Me gustaría:** Preguntas y peticiones corteses (*Preguntar algo*, *Me gustaría un café*)."
+        "**7. Vivir:** Residencia (*Vivo en Barcelona*, *Vivir bien*).",
+        "**8. Esperar:** Paciencia y esperanza (*Esperar el autobús*, *Espere un momento*).",
+        "**9. Entender / Comprender:** Comprensión (*Entiendo la lección*, *No entiendo*).",
+        "**10. Preguntar / Responder & Querer / Me gustaría:** Preguntas y cortesía (*Hacer una pregunta*, *Me gustaría un té*)."
       ]
     },
     {
+      "type": "heading",
+      "level": 3,
+      "text": "Matriz lingüística comparativa en 14 idiomas"
+    },
+    {
       "type": "paragraph",
-      "text": "📌 Compara los 14 idiomas en nuestro <a href=\"top-10-verbs-part-2.html\">Hub Central (Parte 2)</a> o vuelve a la <a href=\"top-10-verbs-es.html\">Guía de Español (Parte 1)</a>."
+      "text": "A continuación se muestra el desglose comparativo de los verbos principales en los 14 idiomas oficiales:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Matices familiares y aspectos gramaticales"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indoeuropeo:** Utiliza auxiliares de tiempo e inflexiones de persona/número.\n• **Familia turca (tártaro, bashkir, chuvash):** Estructuras de sufijos aglutinantes que expresan tiempo y persona sin auxiliares separados.\n• **Kartveliano (georgiano):** Concordancia verbal polipersonal para sujeto y objetos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejercicios prácticos y navegación"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Explora los 14 artículos lingüísticos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://example.com) y consulta las tablas de verbos en [COSYtools](https://example.com)."
     }
   ],
   "draft": false

@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Top 10 Essential Verbs in German, Part 2 (CEFR A0–A1)",
+  "title": "Die 10 wichtigsten Verben im Deutschen, Teil 2 (CEFR A0–A1)",
   "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 2",
-  "dek": "Die 10 wichtigsten Verben im Deutschen für Anfänger (A0–A1): machen/tun, sprechen/sagen, schauen/sehen, hören, müssen/sollen, nehmen/geben, wohnen/leben, warten, verstehen und fragen/antworten.",
+  "dek": "Der zweite Teil des Verben-Leitfadens für Anfänger (A0–A1): machen/tun, sprechen/sagen, schauen/sehen, hören, müssen/sollen, nehmen/geben, wohnen/leben, warten, verstehen und fragen/antworten.",
   "tags": [
     "Verbs",
     "German",
@@ -44,32 +44,108 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Willkommen zum zweiten Teil des deutschen Verben-Leitfadens für das Niveau A0–A1! In der Dezember-Ausgabe behandeln wir 10 hochfrequente Alltagsverben."
+      "text": "Willkommen zum zweiten Teil unseres Verben-Leitfadens für A0–A1! Hier behandeln wir 10 weitere hochfrequente Alltagsverben für Handlungen und Gespräche."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Die 10 Wichtigsten Verben (Teil 2)"
+      "text": "Detaillierte Analyse: Die 10 deutschen Verben (Teil 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Machen / Tun:** Handlungen (*Ich mache Hausaufgaben*).",
-        "**2. Sprechen / Sagen:** Kommunikation (*Ich spreche Deutsch*, *Sag mir bitte*).",
-        "**3. Schauen / Sehen:** Visuelle Wahrnehmung (*Schau mal!*, *Ich sehe ein Haus*).",
-        "**4. Hören:** Akustische Wahrnehmung (*Musik hören*).",
-        "**5. Müssen / Sollen:** Notwendigkeit (*Ich muss gehen*).",
+        "**1. Machen / Tun:** Handlungen und Aktivitäten (*Hausaufgaben machen*, *Was tust du?*).",
+        "**2. Sprechen / Sagen:** Kommunikation (*Sprechen Sie Deutsch?*, *Sag mir Bescheid*).",
+        "**3. Schauen / Sehen:** Visuelle Aufmerksamkeit (*Fernsehen schauen*, *Ich sehe ein Haus*).",
+        "**4. Hören:** Akustische Wahrnehmung (*Musik hören*, *Ich höre ein Geräusch*).",
+        "**5. Müssen / Sollen:** Notwendigkeit (*Ich muss lernen*, *Du sollst schlafen*).",
         "**6. Nehmen / Geben:** Austausch (*Nimm einen Kaffee*, *Gib mir das Buch*).",
-        "**7. Wohnen / Leben:** Wohnort (*Ich wohne in Berlin*).",
-        "**8. Warten:** Erwartung (*Ich warte auf den Bus*).",
-        "**9. Verstehen:** Verständnis (*Ich verstehe nicht*).",
-        "**10. Fragen / Antworten & Wollen / Ich möchte:** Fragen und höfliche Bitten (*Eine Frage stellen*, *Ich möchte einen Tee*)."
+        "**7. Wohnen / Leben:** Wohnort und Leben (*Ich wohne in Berlin*, *Wir leben gut*).",
+        "**8. Warten:** Geduld (*Auf den Bus warten*, *Warte einen Moment*).",
+        "**9. Verstehen:** Verständnis (*Ich verstehe die Lektion*, *Ich verstehe nicht*).",
+        "**10. Fragen / Antworten & Wollen / Ich möchte:** Fragen und Höflichkeit (*Eine Frage stellen*, *Ich möchte einen Tee*)."
       ]
     },
     {
+      "type": "heading",
+      "level": 3,
+      "text": "Sprachvergleichsmatrix über 14 Sprachen"
+    },
+    {
       "type": "paragraph",
-      "text": "📌 Vergleichen Sie alle 14 Sprachen im <a href=\"top-10-verbs-part-2.html\">Zentralen Hub (Teil 2)</a> oder kehren Sie zum <a href=\"top-10-verbs-de.html\">Deutschen Leitfaden (Teil 1)</a> zurück."
+      "text": "Nachfolgend finden Sie den vergleichenden Überblick über die wichtigsten Verben in allen 14 Amtssprachen:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Be / Exist",
+          "être / essere / ser, estar / ser, estar",
+          "be / sein",
+          "быть / είναι / bezañ / լինել",
+          "булу / булыу / пуласси",
+          "ყოფნა (qopna)"
+        ],
+        [
+          "Have / Possess",
+          "avoir / avere / tener / ter",
+          "have / haben",
+          "иметь (у меня есть) / έχω / kaout / ունենալ",
+          "бар (минем бар) / бар / пур",
+          "ქონა / ყოლა"
+        ],
+        [
+          "Do / Make",
+          "faire / fare / hacer / fazer",
+          "do, make / machen, tun",
+          "делать / κάνω / ober / անել",
+          "эшләү / эшләү / тăвасси",
+          "კეთება (keteba)"
+        ],
+        [
+          "Go",
+          "aller / andare / ir / ir",
+          "go / gehen",
+          "идти, ехать / πηγαίνω / mont / գնալ",
+          "бару / барыу / кайни",
+          "წასვლა (tsasvla)"
+        ],
+        [
+          "See / Look",
+          "voir, regarder / vedere, guardare",
+          "see, look / sehen, schauen",
+          "видеть, смотреть / βλέπω / gwelout / տեսնել",
+          "күрү, карау / күреү, ҡарау / курасси",
+          "ნახვა, ყურება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sprachfamilien & Grammatik-Highlights"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Indogermanisch:** Verwendet Zeitform-Hilfsverben und Person/Numerus-Flexionen.\n• **Turksprachen (Tatarisch, Baschkirisch, Tschuwaschisch):** Agglutinative Suffixstrukturen für Tempus und Person ohne separate Hilfsverben.\n• **Kartwelisch (Georgisch):** Polypersonale Verbkongruenz zur Markierung von Subjekt und Objekten."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Interaktive Übungen und Navigation"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://example.com) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://example.com)."
     }
   ],
   "draft": false
