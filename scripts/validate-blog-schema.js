@@ -51,7 +51,7 @@ const ALLOWED_BLOCK_TYPES = new Set([
 ]);
 
 const ALLOWED_LANGUAGES = new Set([
-  'en', 'fr', 'it', 'ru', 'el'
+  'en', 'fr', 'it', 'ru', 'el', 'tt', 'ba', 'br', 'pt', 'es', 'de', 'hy', 'ka', 'cv'
 ]);
 
 function validatePostSchema(postObj, sourceName = 'object') {

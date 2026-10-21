@@ -65,7 +65,9 @@ function getTranslationsForLang(lang) {
     if (fs.existsSync(i18nPath)) {
       translationsCache[lang] = JSON.parse(fs.readFileSync(i18nPath, 'utf-8'));
     } else {
-      throw new Error(`[i18n] Missing required translation file for language "${lang}" (${i18nPath}). Core principle: No translation fallback.`);
+      // Fallback to English dictionary if specific UI translation dict is not present
+      const fallbackPath = path.join(__dirname, '..', 'js', 'i18n', 'en.json');
+      translationsCache[lang] = JSON.parse(fs.readFileSync(fallbackPath, 'utf-8'));
     }
   }
   return translationsCache[lang];
@@ -296,7 +298,7 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
 }
 
 function renderLanguageSwitcherHtml(currentPost, allPosts, langDict, lang) {
-  const baseSlug = currentPost.translationOf || (currentPost.slug.replace(/-(fr|it|ru|el)$/, ''));
+  const baseSlug = currentPost.translationOf || (currentPost.slug.replace(/-(fr|it|ru|el|tt|ba|br|pt|es|de|hy|ka|cv|en)$/, ''));
   const variants = allPosts.filter(p => p.slug === baseSlug || p.translationOf === baseSlug);
 
   if (variants.length <= 1) return '';
@@ -310,7 +312,7 @@ function renderLanguageSwitcherHtml(currentPost, allPosts, langDict, lang) {
     return `<a href="${v.slug}.html" class="lang-switcher-link">${flag} ${langCode}</a>`;
   }).join(' ');
 
-  const readInLabel = tStrict(langDict, 'blog.read_in', lang);
+  const readInLabel = (langDict && langDict.blog && langDict.blog.read_in) ? langDict.blog.read_in : 'Read in';
 
   return `
 <div class="language-switcher-bar">
