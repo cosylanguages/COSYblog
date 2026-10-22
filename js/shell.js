@@ -114,13 +114,13 @@
       '<div class="bf-inner">' +
         '<div class="bf-brand"><a class="bn-brand" href="' + ECO.hub + '"><img src="images/logo.png" alt="" width="30" height="30"><span>COSY<b>languages</b></span></a>' +
           '<p data-i18n="footer.tagline">Short, speaking-first reads for people learning a language: words, grammar made cosy, and a podcast.</p></div>' +
-        '<nav class="bf-col" aria-label="Explore"><h2 data-i18n="footer.explore">Explore</h2>' +
+        '<nav class="bf-col" aria-label="Explore"><h3 data-i18n="footer.explore">Explore</h3>' +
           '<a href="index.html" data-i18n="nav.magazine">Magazine</a><a href="podcast.html" data-i18n="nav.podcast">Podcast</a>' +
           '<a href="' + ECO.practice + '" data-i18n="button.tryFreePractice">Free practice</a><a href="' + ECO.tools + '" data-i18n="footer.reference_tools">Reference tools</a></nav>' +
-        '<nav class="bf-col" aria-label="COSYlanguages"><h2 data-i18n="footer.cosylanguages">COSYlanguages</h2>' +
+        '<nav class="bf-col" aria-label="COSYlanguages"><h3 data-i18n="footer.cosylanguages">COSYlanguages</h3>' +
           '<a href="' + ECO.courses + '" data-i18n="nav.courses">Courses</a><a href="' + ECO.quiz + '" data-i18n="nav.placement_quiz">Placement quiz</a>' +
           '<a href="' + ECO.events + '" data-i18n="nav.events">Events</a><a href="' + ECO.games + '" data-i18n="nav.games">Games</a></nav>' +
-        '<nav class="bf-col" aria-label="Contact"><h2 data-i18n="footer.contact">Contact</h2>' +
+        '<nav class="bf-col" aria-label="Contact"><h3 data-i18n="footer.contact">Contact</h3>' +
           '<a href="https://wa.me/330766784195">WhatsApp</a><a href="https://t.me/cosylanguagesproject">Telegram</a>' +
           '<a href="mailto:cosylanguages@gmail.com">cosylanguages@gmail.com</a><a href="' + ECO.privacy + '" data-i18n="footer.privacy">Privacy</a></nav>' +
       '</div>' +
