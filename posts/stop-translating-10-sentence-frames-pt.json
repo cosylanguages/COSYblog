@@ -1,0 +1,108 @@
+{
+  "id": "post-stop-translating-10-sentence-frames-pt",
+  "slug": "stop-translating-10-sentence-frames-pt",
+  "language": "pt",
+  "translationOf": "stop-translating-10-sentence-frames",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026.10",
+    "title": "JY DM's birthday & His favs"
+  },
+  "date": "2026-09-14",
+  "title": "Pare de traduzir! 10 estruturas de frases reutilizáveis para falar desde o primeiro dia",
+  "kicker": "FALE AGORA",
+  "dek": "Domine 10 estruturas de frases e 10 frases de sobrevivência para eliminar a tradução palavra por palavra e pensar diretamente em português.",
+  "tags": [
+    "SentenceFrames",
+    "Circumlocution",
+    "Fluency",
+    "A0-B1",
+    "Portuguese"
+  ],
+  "readingTime": 8,
+  "podcast": {
+    "episode": 1,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0d9488",
+      "#faf7f2",
+      "#1e293b",
+      "#f59e0b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "ticket-stub",
+    "seed": "stop-translating-10-sentence-frames-pt",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Um dos maiores obstáculos para os alunos é traduzir palavra por palavra. Quando não souber uma palavra, use estruturas para descrever o que quer dizer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Descrever diretamente em português gera fluência real. Estas 10 estruturas ajudam a descrever pessoas, lugares, objetos e ações."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "💡 As 10 estruturas de frases essenciais"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. É uma pessoa que...** → *É uma pessoa que ensina crianças.* (Professor/a)",
+        "**2. É um lugar onde...** → *É um lugar onde se compra comida.* (Mercado)",
+        "**3. É uma coisa que...** → *É uma coisa que dá as horas.* (Relógio)",
+        "**4. É algo que se usa para...** → *É algo que se usa para escrever.* (Caneta)",
+        "**5. É um momento em que...** → *É um momento em que as pessoas dormem.* (Noite)",
+        "**6. É um dia em que...** → *É um dia em que se celebra.* (Feriado)",
+        "**7. Por exemplo...** → *Gosto de desporto. Por exemplo, futebol.*",
+        "**8. Significa...** → *'Grande' significa não pequeno.*",
+        "**9. Parece...** → *Parece um computador pequeno.*",
+        "**10. Como se diz... em português?** → *Como se diz isto em português?*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🚀 10 frases de sobrevivência indispensáveis"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. É um tipo de...** (*É um tipo de animal.*)",
+        "**2. É feito de...** (*É feito de madeira ou metal.*)",
+        "**3. Usa-se para...** (*Usa-se para viajar.*)",
+        "**4. É o contrário de...** (*É o contrário de caro.*)",
+        "**5. Soa a...** (*Soa a música.*)",
+        "**6. Tem...** (*Tem quatro rodas.*)",
+        "**7. É semelhante a...** (*É semelhante a um carro.*)",
+        "**8. Vem de...** (*Vem de Portugal.*)",
+        "**9. Não sei a palavra, mas...** (*Não sei a palavra, mas é para cozinhar.*)",
+        "**10. Pode repetir, por favor?** (*Pode dizer de novo?*)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📌 Summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "A fluência não é saber todas as palavras, mas nunca ficar calado. Use estas estruturas!"
+    }
+  ],
+  "draft": false
+}
