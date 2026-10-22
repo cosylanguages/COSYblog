@@ -104,11 +104,11 @@
       
       <g class="cover-text-overlay" filter="url(#soft-shadow)">
         <!-- Warm paper card overlay -->
-        <rect class="cover-overlay-box" x="24" y="451" width="1152" height="155" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#236583" stroke-width="1.2" />
-        <text x="54" y="489" fill="#236583" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">ΠΕΣ ΤΟ • Vol. 2026.10</text>
-        <text x="54" y="523" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="21" font-weight="bold">Σταματήστε τη μετάφραση! 10</text>
-<text x="54" y="550" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="21" font-weight="bold">επαναχρησιμοποιήσιμες δομές προτάσεων</text>
-<text x="54" y="577" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="21" font-weight="bold">για να μιλάτε από την πρώτη μέρα</text>
+        <rect class="cover-overlay-box" x="24" y="436" width="1152" height="170" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#236583" stroke-width="1.2" />
+        <text x="54" y="474" fill="#236583" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">ΜΙΛΗΣΤΕ ΤΩΡΑ • Vol. 2026.10</text>
+        <text x="54" y="510" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Σταματήστε τη μετάφραση! 10</text>
+<text x="54" y="542" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">έτοιμες δομές προτάσεων για να</text>
+<text x="54" y="574" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">μιλάτε από την πρώτη μέρα</text>
       </g>
     
       <rect width="1200" height="630" filter="url(#paper-grain)" opacity="0.5" pointer-events="none" />
