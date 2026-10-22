@@ -44,7 +44,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Benvenuti alla seconda parte della guida ai verbi italiani per il livello A0–A1! Scopriamo 10 nuovi verbi fondamentali per esprimere azioni, percezioni e comunicazioni quotidiane."
+      "text": "Benvenuti alla seconda parte della guida ai verbi italiani per il livello A0–A1! Scopriamo 10 nuovi gruppi di verbi fondamentali per comunicare ogni giorno."
     },
     {
       "type": "heading",
@@ -55,16 +55,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Fare:** Attività quotidiane (*Fare i compiti*, *Fare la colazione*).",
-        "**2. Parlare / Dire:** Comunicazione (*Parlare italiano*, *Dire una parola*).",
-        "**3. Guardare / Vedere:** Attenzione visiva (*Guardare un film*, *Vedo una casa*).",
-        "**4. Ascoltare / Sentire:** Percezione uditiva (*Ascoltare la musica*, *Sento un rumore*).",
-        "**5. Dovere / Bisognare:** Obbligo e necessità (*Devo studiare*, *Bisogna lavorare*).",
-        "**6. Prendere / Dare:** Scambio (*Prendere il treno*, *Dare un regalo*).",
-        "**7. Abitare / Vivere:** Residenza (*Abito a Milano*, *Vivere bene*).",
-        "**8. Aspettare:** Pazienza (*Aspettare l'autobus*, *Aspetto un minuto*).",
-        "**9. Capire:** Comprensione (*Capisco la lezione*, *Non capisco*).",
-        "**10. Chiedere / Rispondere & Volere / Vorrei:** Domande e cortesia (*Chiedere un'informazione*, *Vorrei un tè*)."
+        "**1. Fare:** Attività quotidiane e creazioni.\n  • *Esempi:* 'Fare la spesa', 'Fare colazione', 'Fare i compiti'.\n  • *Frasi utili:* 'fare attenzione', 'fare piacere', 'fare bella figura'.",
+        "**2. Parlare / Dire:** Comunicazione e racconto.\n  • *Esempi:* 'Parlare italiano', 'Dire la verità', 'Dimmi'.\n  • *Frasi utili:* 'parlare di', 'dire di sì', 'per così dire'.",
+        "**3. Guardare / Vedere:** Attenzione visiva e percezione.\n  • *Esempi:* 'Guardare un film', 'Vedo un uccello'.\n  • *Frasi utili:* 'guardare la TV', 'stare a vedere', 'ci vediamo'.",
+        "**4. Ascoltare / Sentire:** Ascolto attivo e percezione uditiva.\n  • *Esempi:* 'Ascoltare musica', 'Sento un rumore'.\n  • *Frasi utili:* 'ascolta con attenzione', 'sentire parlare di'.",
+        "**5. Dovere / Bisognare:** Obbligo e necessità.\n  • *Esempi:* 'Devo studiare', 'Bisogna partire ora'.\n  • *Frasi utili:* 'dovere fare', 'come si deve', 'bisogna stare attenti'.",
+        "**6. Prendere / Dare / Ricevere:** Scambi fisici e astratti.\n  • *Esempi:* 'Prendere il treno', 'Dare un regalo', 'Ricevere una lettera'.\n  • *Frasi utili:* 'prendersi cura', 'dare un passaggio', 'prendere un caffè'.",
+        "**7. Vivere / Abitare:** Residenza e stile di vita.\n  • *Esempi:* 'Abito a Milano', 'Vivere in pace'.\n  • *Frasi utili:* 'vivere all'estero', 'abitare vicino'.",
+        "**8. Aspettare:** Pazienza e attesa.\n  • *Esempi:* 'Aspettare l'autobus', 'Aspetta un momento'.\n  • *Frasi utili:* 'non vedere l'ora', 'aspettare in fila'.",
+        "**9. Capire:** Comprensione ed empatia.\n  • *Esempi:* 'Capisco la lezione', 'Capisci cosa intendo?'.\n  • *Frasi utili:* 'farsi capire', 'capisco benissimo'.",
+        "**10. Chiedere / Rispondere:** Domande, risposte e cortesia.\n  • *Esempi:* 'Chiedere un'informazione', 'Rispondere al telefono'.\n  • *Frasi utili:* 'chiedere aiuto', 'rispondere subito'."
       ]
     },
     {
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -145,7 +145,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Esplora tutti i 14 articoli linguistici nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://example.com) e consulta le tabelle dei verbi su [COSYtools](https://example.com)."
+      "text": "📌 Esplora tutti i 14 articoli nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://cosylanguages.github.io/COSYpractice/) e consulta le tabelle dei verbi su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

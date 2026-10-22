@@ -13,7 +13,7 @@
   "date": "2026-03-01",
   "title": "Les 10 verbes essentiels en français pour débutants (CEFR A0–A1)",
   "kicker": "GUIDE DU FRANÇAIS — PARTIE 1",
-  "dek": "Maîtrisez les 10 verbes les plus fréquents en français avec leurs conjugaisons A0–A1, leurs collocations, leurs pièges et une matrice comparative en 14 langues.",
+  "dek": "Maîtrisez les 10 verbes clés : être, avoir, penser, savoir/connaître, aimer, vouloir/aimerait, aller/aller + inf, pouvoir, manger et boire avec expressions et cadres de phrases.",
   "tags": [
     "Verbs",
     "French",
@@ -45,7 +45,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans le guide des verbes français essentiels pour le niveau A0–A1 ! La maîtrise de ces 10 verbes clés vous permettra d'exprimer vos besoins quotidiens avec assurance."
+      "text": "Bienvenue dans la première partie du guide des verbes essentiels en français pour débutants (A0–A1) ! Retrouvez pour chaque verbe des structures pratiques, des collocations utiles et des règles de grammaire."
     },
     {
       "type": "heading",
@@ -56,16 +56,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Être (suis, es, est, sommes, êtes, sont) :** Identité et état (*Je suis étudiant*, *Il est à la maison*).",
-        "**2. Avoir (ai, as, a, avons, avez, ont) :** Possession et âge (*J'ai un livre*, *J'ai 20 ans*).",
-        "**3. Faire (fais, fait, faisons, faites, font) :** Activités et création (*Faire du sport*, *Faire la cuisine*).",
-        "**4. Aller (vais, vas, va, allons, allez, vont) :** Déplacement et futur proche (*Je vais au travail*, *Je vais manger*).",
-        "**5. Venir (viens, vient, venons, venez, viennent) :** Provenance et passé récent (*Je viens de Paris*, *Il vient d'arriver*).",
-        "**6. Dire (dis, dit, disons, dites, disent) :** Communication (*Dire bonjour*, *Dire la vérité*).",
-        "**7. Voir / Regarder :** Perception visuelle (*Je vois la mer*, *Regarder la télévision*).",
-        "**8. Savoir / Connaître :** Faits et connaissance (*Je sais la réponse*, *Je connais Marie*).",
-        "**9. Vouloir (veux, veut, voulons, voulez, veulent) :** Désir et politesse (*Je veux de l'eau*, *Je voudrais un café*).",
-        "**10. Aimer :** Préférences et goûts (*J'aime le chocolat*, *J'aime voyager*)."
+        "**1. Être (suis, es, est, sommes, êtes, sont) :** Identité, états et localisation.\n  • *Exemples :* 'Je suis étudiant', 'Il est à la maison', 'Nous sommes prêts'.\n  • *Expressions utiles :* 'être à l'heure', 'être d'accord', 'être en train de'.",
+        "**2. Avoir (ai, as, a, avons, avez, ont) :** Possession, âge et sensations physiques.\n  • *Exemples :* 'J'ai une voiture', 'J'ai 25 ans', 'J'ai faim / j'ai soif'.\n  • *Expressions utiles :* 'avoir besoin de', 'avoir envie de', 'avoir peur'.",
+        "**3. Penser :** Exprimer ses opinions et ses pensées.\n  • *Exemples :* 'Je pense que oui', 'Qu'en penses-tu ?', 'Je pense à toi'.\n  • *Expressions utiles :* 'penser à', 'penser de', 'bien penser'.",
+        "**4. Savoir / Connaître :** Faits, compétences et connaissance des personnes/lieux.\n  • *Exemples :* 'Je sais parler français', 'Je connais cette ville', 'Tu sais où c'est ?'.\n  • *Expressions utiles :* 'savoir faire', 'faire savoir', 'connaître du monde'.",
+        "**5. Aimer :** Préférences, goûts et affection.\n  • *Exemples :* 'J'aime le café', 'J'aime voyager', 'Il aime le sport'.\n  • *Expressions utiles :* 'aimer bien', 'aimer beaucoup', 'j'aimerais'.",
+        "**6. Vouloir / Voudrais :** Désirs, projets et demandes polies.\n  • *Exemples :* 'Je veux un verre d'eau', 'Je voudrais réserver une table', 'Qu'est-ce que tu veux faire ?'.\n  • *Expressions utiles :* 'vouloir dire', 'si vous voulez', 'je voudrais bien'.",
+        "**7. Aller / Futur Proche :** Deplacements et intentions futures.\n  • *Exemples :* 'Je vais au travail', 'Elle va à Paris', 'Nous allons manger'.\n  • *Expressions utiles :* 'comment ça va ?', 'y aller', 'aller à pied'.",
+        "**8. Pouvoir :** Capacité, possibilité et permission.\n  • *Exemples :* 'Je peux vous aider ?', 'On peut utiliser ce livre', 'Tu peux venir ?'.\n  • *Expressions utiles :* 'pouvoir faire', 'si possible', 'autant que possible'.",
+        "**9. Manger :** Repas et alimentation.\n  • *Exemples :* 'Je mange une pomme', 'Qu'est-ce qu'on mange ce soir ?', 'Manger au restaurant'.\n  • *Expressions utiles :* 'bon appétit', 'donner à manger', 'manger équilibré'.",
+        "**10. Boire :** Boissons et rafraîchissements.\n  • *Exemples :* 'Je bois du thé', 'Voulez-vous quelque chose à boire ?', 'Il boit de l'eau'.\n  • *Expressions utiles :* 'avoir à boire', 'boire un coup', 'boire du café'."
       ]
     },
     {
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -146,7 +146,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explorez les 14 articles linguistiques dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://example.com) et consultez les tables de verbes sur [COSYtools](https://example.com)."
+      "text": "📌 Explorez les 14 articles dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://cosylanguages.github.io/COSYpractice/) et consultez les tables de verbes sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

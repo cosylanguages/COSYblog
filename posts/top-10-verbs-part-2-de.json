@@ -55,16 +55,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Machen / Tun:** Handlungen und Aktivitäten (*Hausaufgaben machen*, *Was tust du?*).",
-        "**2. Sprechen / Sagen:** Kommunikation (*Sprechen Sie Deutsch?*, *Sag mir Bescheid*).",
-        "**3. Schauen / Sehen:** Visuelle Aufmerksamkeit (*Fernsehen schauen*, *Ich sehe ein Haus*).",
-        "**4. Hören:** Akustische Wahrnehmung (*Musik hören*, *Ich höre ein Geräusch*).",
-        "**5. Müssen / Sollen:** Notwendigkeit (*Ich muss lernen*, *Du sollst schlafen*).",
-        "**6. Nehmen / Geben:** Austausch (*Nimm einen Kaffee*, *Gib mir das Buch*).",
-        "**7. Wohnen / Leben:** Wohnort und Leben (*Ich wohne in Berlin*, *Wir leben gut*).",
-        "**8. Warten:** Geduld (*Auf den Bus warten*, *Warte einen Moment*).",
-        "**9. Verstehen:** Verständnis (*Ich verstehe die Lektion*, *Ich verstehe nicht*).",
-        "**10. Fragen / Antworten & Wollen / Ich möchte:** Fragen und Höflichkeit (*Eine Frage stellen*, *Ich möchte einen Tee*)."
+        "**1. Machen / Tun:** Aktivitäten und Handlungen.\n  • *Beispiele:* 'Hausaufgaben machen', 'Was tust du?'.\n  • *Nützliche Phrasen:* 'Freude machen', 'Sinn machen', 'Nichts zu tun'.",
+        "**2. Sprechen / Sagen:** Kommunikation.\n  • *Beispiele:* 'Deutsch sprechen', 'Die Wahrheit sagen', 'Sag mir Bescheid'.\n  • *Nützliche Phrasen:* 'sprechen über', 'Hallo sagen', 'sozusagen'.",
+        "**3. Schauen / Sehen:** Visuelle Aufmerksamkeit.\n  • *Beispiele:* 'Fernsehen schauen', 'Ich sehe einen Vogel'.\n  • *Nützliche Phrasen:* 'Schau mal!', 'Ausschau halten', 'Bis später!'.",
+        "**4. Hören:** Akustische Wahrnehmung.\n  • *Beispiele:* 'Musik hören', 'Ich höre ein Geräusch'.\n  • *Nützliche Phrasen:* 'zuhören', 'von jemandem hören'.",
+        "**5. Müssen / Sollen:** Notwendigkeit und Pflicht.\n  • *Beispiele:* 'Ich muss lernen', 'Du sollst schlafen'.\n  • *Nützliche Phrasen:* 'muss sein', 'soll ich helfen?'.",
+        "**6. Nehmen / Geben:** Austausch und Übergabe.\n  • *Beispiele:* 'Den Bus nehmen', 'Ein Geschenk geben', 'Bescheid bekommen'.\n  • *Nützliche Phrasen:* 'Rücksicht nehmen', 'Acht geben', 'Platz nehmen'.",
+        "**7. Wohnen / Leben:** Wohnort und Lebensstil.\n  • *Beispiele:* 'Ich wohne in Berlin', 'Gut leben'.\n  • *Nützliche Phrasen:* 'im Ausland leben', 'zusammenwohnen'.",
+        "**8. Warten:** Geduld und Erwartung.\n  • *Beispiele:* 'Auf den Bus warten', 'Warten Sie einen Moment'.\n  • *Nützliche Phrasen:* 'warten auf', 'kaum erwarten können'.",
+        "**9. Verstehen:** Verständnis.\n  • *Beispiele:* 'Ich verstehe die Lektion', 'Verstehst du mich?'.\n  • *Nützliche Phrasen:* 'sich verstehen', 'vollkommen verstehen'.",
+        "**10. Fragen / Antworten:** Fragen und Antworten.\n  • *Beispiele:* 'Eine Frage stellen', 'Auf die E-Mail antworten'.\n  • *Nützliche Phrasen:* 'um Hilfe fragen', 'schnell antworten'."
       ]
     },
     {
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -145,7 +145,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://example.com) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://example.com)."
+      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

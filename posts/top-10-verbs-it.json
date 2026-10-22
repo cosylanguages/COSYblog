@@ -13,7 +13,7 @@
   "date": "2026-03-01",
   "title": "I 10 verbi essenziali in italiano per principianti (CEFR A0–A1)",
   "kicker": "GUIDA ALL'ITALIANO — PARTE 1",
-  "dek": "Impara i 10 verbi italiani ad altissima frequenza con coniugazioni A0–A1, collocazioni utili, avvertenze sui falsi amici e tabella comparativa in 14 lingue.",
+  "dek": "Domina i 10 verbi chiave: essere, avere, pensare, sapere/conoscere, piacere, volere/vorrei, andare/stare per, potere, mangiare e bere con frasi ed esempi pratici.",
   "tags": [
     "Verbs",
     "Italian",
@@ -45,7 +45,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Benvenuti nella guida ai verbi essenziali della lingua italiana per il livello A0–A1! Dominare questi 10 verbi ti consentirà di gestire le situazioni quotidiane con facilità."
+      "text": "Benvenuti nella prima parte della guida ai verbi essenziali della lingua italiana per il livello A0–A1! Per ogni verbo troverai frasi utili, combinazioni frequenti e note grammaticali."
     },
     {
       "type": "heading",
@@ -56,16 +56,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Essere (sono, sei, è, siamo, siete, sono):** Identità e stato (*Sono studente*, *Lui è a casa*).",
-        "**2. Avere (ho, hai, ha, abbiamo, avete, hanno):** Possesso ed età (*Ho un libro*, *Ho 20 anni*).",
-        "**3. Fare (faccio, fai, fa, facciamo, fate, fanno):** Attività e creazione (*Fare la spesa*, *Fare il caffè*).",
-        "**4. Andare (vado, vai, va, andiamo, andate, vanno):** Movimento (*Vado a scuola*, *Andare al mare*).",
-        "**5. Venire (vengo, vieni, viene, veniamo, venite, vengono):** Provenienza (*Vengo da Roma*).",
-        "**6. Dire (dico, dici, dice, diciamo, dite, dicono):** Comunicazione (*Dire la verità*, *Dire di sì*).",
-        "**7. Vedere / Guardare:** Percezione visiva (*Vedo un gelato*, *Guardare la TV*).",
-        "**8. Sapere / Conoscere:** Conoscenza e familiarità (*So la risposta*, *Conosco Marco*).",
-        "**9. Volere (voglio, vuoi, vuole, vogliamo, volete, vogliono):** Desiderio e cortesia (*Voglio l'acqua*, *Vorrei un caffè*).",
-        "**10. Piacere:** Preferenze (*Mi piace la pizza*, *Mi piacciono i libri*)."
+        "**1. Essere:** Identità, stati, età e posizione.\n  • *Esempi:* 'Sono uno studente', 'Lui è a casa', 'Siamo pronti'.\n  • *Frasi utili:* 'essere in orario', 'essere d'accordo', 'essere felice'.",
+        "**2. Avere:** Possesso, età e sensazioni fisiche.\n  • *Esempi:* 'Ho una macchina', 'Ho 25 anni', 'Ho fame / ho sete'.\n  • *Frasi utili:* 'avere bisogno di', 'avere voglia di', 'avere fretta'.",
+        "**3. Pensare:** Esprimere opinioni e pensieri.\n  • *Esempi:* 'Penso di sì', 'Che cosa ne pensi?', 'Penso a te'.\n  • *Frasi utili:* 'pensare a', 'pensarci sopra', 'pensare bene'.",
+        "**4. Sapere / Conoscere:** Fatti, abilità e familiarità.\n  • *Esempi:* 'So parlare italiano', 'Conosco questa città', 'Sai dov'è?'.\n  • *Frasi utili:* 'fai sapere', 'per quanto ne so', 'conoscere gente'.",
+        "**5. Piacere:** Esprimere preferenze e gusti.\n  • *Esempi:* 'Mi piace il caffè', 'Mi piace viaggiare', 'Le piace lo sport'.\n  • *Frasi utili:* 'mi piace molto', 'mi piacerebbe', 'ti piace?'.",
+        "**6. Volere / Vorrei:** Desideri e richieste cortesi.\n  • *Esempi:* 'Voglio un bicchiere d'acqua', 'Vorrei prenotare un tavolo', 'Cosa vuoi fare?'.\n  • *Frasi utili:* 'vorrei un caffè', 'se vuoi', 'voler dire'.",
+        "**7. Andare / Stare per:** Movimento e intenzioni future.\n  • *Esempi:* 'Vado al lavoro', 'Lei va a Roma', 'Stiamo per mangiare'.\n  • *Frasi utili:* 'come va?', 'andare a piedi', 'andare in vacanza'.",
+        "**8. Potere:** Capacità, possibilità e permesso.\n  • *Esempi:* 'Posso aiutarti?', 'Possiamo usare questo libro', 'Puoi venire?'.\n  • *Frasi utili:* 'se possibile', 'può darsi', 'fai come puoi'.",
+        "**9. Mangiare:** Pasti e alimentazione.\n  • *Esempi:* 'Mangio una mela', 'Cosa mangiamo stasera?', 'Mangiare al ristorante'.\n  • *Frasi utili:* 'buon appetito', 'dare da mangiare', 'mangiare sano'.",
+        "**10. Bere:** Bevande e idratazione.\n  • *Esempi:* 'Bevo un tè', 'Vuoi qualcosa da bere?', 'Lui beve acqua'.\n  • *Frasi utili:* 'qualcosa da bere', 'bere un caffè', 'bere alla salute'."
       ]
     },
     {
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -146,7 +146,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Esplora tutti i 14 articoli linguistici nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://example.com) e consulta le tabelle dei verbi su [COSYtools](https://example.com)."
+      "text": "📌 Esplora tutti i 14 articoli nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://cosylanguages.github.io/COSYpractice/) e consulta le tabelle dei verbi su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

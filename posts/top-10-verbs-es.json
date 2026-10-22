@@ -13,7 +13,7 @@
   "date": "2026-03-01",
   "title": "Los 10 verbos esenciales en español para principiantes (CEFR A0–A1)",
   "kicker": "GUÍA DE ESPAÑOL — PARTE 1",
-  "dek": "Aprende los 10 verbos más frecuentes en español con conjugaciones adaptadas a A0–A1, colocaciones útiles, notas sobre falsos amigos y tabla comparativa en 14 idiomas.",
+  "dek": "Domina los 10 verbos clave: ser/estar, tener, pensar, saber/conocer, gustar, querer/gustaría, ir/ir a, poder, comer y beber con frases y cuadros de uso.",
   "tags": [
     "Verbs",
     "Spanish",
@@ -45,7 +45,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "¡Bienvenidos a la guía de verbos esenciales en español para nivel A0–A1! El dominio de estos 10 verbos te permitirá desenvolverte con soltura en la vida cotidiana."
+      "text": "¡Bienvenidos a la primera parte de la guía de verbos esenciales en español para el nivel A0–A1! Incluye frases útiles, colocaciones y consejos gramaticales para cada verbo."
     },
     {
       "type": "heading",
@@ -56,16 +56,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Ser / Estar:** Identidad y ubicación (*Soy estudiante*, *Estoy en casa*).",
-        "**2. Tener (tengo, tienes, tiene, tenemos, tenéis, tienen):** Posesión y edad (*Tengo un libro*, *Tengo 20 años*).",
-        "**3. Hacer (hago, haces, hace, hacemos, hacéis, hacen):** Actividades (*Hacer la tarea*, *Hacer café*).",
-        "**4. Ir (voy, vas, va, vamos, vais, van):** Movimiento y futuro cercano (*Voy a la escuela*, *Voy a comer*).",
-        "**5. Venir (vengo, vienes, viene, venimos, venís, vienen):** Procedencia (*Vengo de Madrid*).",
-        "**6. Decir (digo, dices, dice, decimos, decís, dicen):** Comunicación (*Decir la verdad*, *Decir que sí*).",
-        "**7. Ver / Mirar:** Percepción visual (*Veo una película*, *Mirar la televisión*).",
-        "**8. Saber / Conocer:** Información y familiaridad (*Sé la respuesta*, *Conozco a Juan*).",
-        "**9. Querer (quiero, quieres, quiere...):** Deseo y cortesía (*Quiero agua*, *Quisiera un café*).",
-        "**10. Gustar:** Expresar gustos (*Me gusta la música*, *Me gustan los libros*)."
+        "**1. Ser / Estar:** Identidad, estados, ubicación y características.\n  • *Ejemplos:* 'Soy estudiante', 'Estoy en casa', 'Estamos listos'.\n  • *Frases útiles:* 'estar a tiempo', 'estar de acuerdo', 'estar bien'.",
+        "**2. Tener:** Posesión, edad y estados físicos.\n  • *Ejemplos:* 'Tengo un coche', 'Tengo 25 años', 'Tengo hambre / tengo sed'.\n  • *Frases útiles:* 'tener que', 'tener ganas de', 'tener prisa'.",
+        "**3. Pensar:** Expresar opiniones y pensamientos.\n  • *Ejemplos:* 'Pienso que sí', '¿Qué piensas de esto?', 'Pienso en ti'.\n  • *Frases útiles:* 'pensar en', 'pensarlo bien', 'pensar que'.",
+        "**4. Saber / Conocer:** Información, habilidades y familiaridad.\n  • *Ejemplos:* 'Sé hablar español', 'Conozco esta ciudad', '¿Sabes dónde está?'.\n  • *Frases útiles:* 'dar a conocer', 'que yo sepa', 'conocer gente'.",
+        "**5. Gustar:** Expresar preferencias y gustos personales.\n  • *Ejemplos:* 'Me gusta el café', 'Me gusta viajar', 'Le gusta el deporte'.\n  • *Frases útiles:* 'me gusta mucho', 'me gustaría', '¿te gusta?'.",
+        "**6. Querer / Me Gustaría:** Deseos, proyectos y peticiones corteses.\n  • *Ejemplos:* 'Quiero un vaso de agua', 'Me gustaría reservar una mesa', '¿Qué quieres hacer?'.\n  • *Frases útiles:* 'querer decir', 'si quieres', 'me gustaría pedir'.",
+        "**7. Ir / Ir a + Infinitivo:** Movimiento e intenciones futuras.\n  • *Ejemplos:* 'Voy al trabajo en autobús', 'Ella va a Madrid', 'Vamos a comer'.\n  • *Frases útiles:* '¿cómo te va?', 'ir a pie', 'ir de compras'.",
+        "**8. Poder:** Capacidad, posibilidad y permiso.\n  • *Ejemplos:* '¿Puedo ayudarte?', 'Podemos usar este libro', '¿Puedes venir?'.\n  • *Frases útiles:* 'si se puede', 'se puede pasar', 'lo más rápido que pueda'.",
+        "**9. Comer:** Comidas y alimentación.\n  • *Ejemplos:* 'Como una manzana cada mañana', '¿Qué vamos a comer?', 'Comer en un restaurante'.\n  • *Frases útiles:* 'buen provecho', 'dar de comer', 'comer sano'.",
+        "**10. Beber:** Bebidas e hidratación.\n  • *Ejemplos:* 'Bebo té', '¿Quieres algo de beber?', 'Él bebe agua'.\n  • *Frases útiles:* 'algo de beber', 'tomar un trago', 'beber café'."
       ]
     },
     {
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -146,7 +146,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explora los 14 artículos lingüísticos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://example.com) y consulta las tablas de verbos en [COSYtools](https://example.com)."
+      "text": "📌 Explora los 14 artículos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://cosylanguages.github.io/COSYpractice/) y consulta las tablas de verbos en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

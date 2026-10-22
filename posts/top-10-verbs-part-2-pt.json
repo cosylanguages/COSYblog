@@ -13,7 +13,7 @@
   "date": "2026-12-01",
   "title": "Os 10 verbos essenciais em português, Parte 2 (CEFR A0–A1)",
   "kicker": "GUIA DE PORTUGUÊS — PARTE 2",
-  "dek": "Segunda parte do guia essencial de verbos em português para principiantes (A0–A1): fazer, falar/dizer, olhar/ver, ouvir/escutar, ter de/dever, tomar/dar, viver/morar, esperar, entender e perguntar/responder.",
+  "dek": "Segunda parte do guia essencial de verbos em português (A0–A1): fazer, falar/dizer, olhar/ver, ouvir/escutar, ter de/dever, tomar/dar, viver/morar, esperar, entender e perguntar/responder.",
   "tags": [
     "Verbs",
     "Portuguese",
@@ -44,7 +44,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bem-vindo à segunda parte do guia de verbos em português para principiantes (A0–A1)! Apresentamos 10 novos verbos chave de ação, percepção e comunicação."
+      "text": "Bem-vindo à segunda parte do guia de verbos em português para principiantes (A0–A1)!"
     },
     {
       "type": "heading",
@@ -55,16 +55,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Fazer:** Atividades do quotidiano (*Fazer os TPC*, *Fazer o pequeno-almoço*).",
-        "**2. Falar / Dizer:** Comunicação (*Falar português*, *Dizer uma palavra*).",
-        "**3. Olhar / Ver:** Atenção visual (*Olhar para um filme*, *Vejo uma casa*).",
-        "**4. Ouvir / Escutar:** Percepção auditiva (*Ouvir música*, *Ouço um barulho*).",
-        "**5. Ter de / Dever:** Obrigação (*Tenho de estudar*, *Devo ir*).",
-        "**6. Tomar / Dar:** Troca (*Tomar um café*, *Dar um presente*).",
-        "**7. Morar / Viver:** Residência (*Moro em Lisboa*, *Viver bem*).",
-        "**8. Esperar:** Paciência (*Esperar o autocarro*, *Espere um momento*).",
-        "**9. Entender / Compreender:** Compreensão (*Entendo a lição*, *Não entendo*).",
-        "**10. Perguntar / Responder & Querer / Gostaria:** Perguntas e cortesia (*Fazer uma pergunta*, *Gostaria de um chá*)."
+        "**1. Fazer:** Atividades (*Fazer os TPC*).",
+        "**2. Falar / Dizer:** Comunicação (*Falar português*).",
+        "**3. Olhar / Ver:** Atenção visual (*Olhar para um filme*).",
+        "**4. Ouvir / Escutar:** Audição (*Ouvir música*).",
+        "**5. Ter de / Dever:** Obrigação (*Tenho de estudar*).",
+        "**6. Tomar / Dar:** Troca (*Tomar um café*).",
+        "**7. Morar / Viver:** Residência (*Moro em Lisboa*).",
+        "**8. Esperar:** Paciência (*Esperar o autocarro*).",
+        "**9. Entender / Compreender:** Compreensão (*Entendo a lição*).",
+        "**10. Perguntar / Responder:** Perguntas (*Fazer uma pergunta*)."
       ]
     },
     {
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -136,7 +136,7 @@
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-europeu:** Utiliza auxiliares de tempo e flexões de pessoa/número.\n• **Família túrquica (tártaro, basqueir, chuvache):** Estruturas de sufixos aglutinantes para tempo e pessoa sem auxiliares separados.\n• **Kartveliano (georgiano):** Concordância verbal polipessoal indicando sujeito e objetos."
+      "text": "• **Indo-europeu:** Utiliza auxiliares de tempo."
     },
     {
       "type": "heading",
@@ -145,7 +145,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore todos os 14 artigos no hub da COSYmagazine ou teste os seus conhecimentos no [COSYpractice](https://example.com) e consulte as tabelas de verbos no [COSYtools](https://example.com)."
+      "text": "📌 Explore todos os 14 artigos no hub da COSYmagazine."
     }
   ],
   "draft": false

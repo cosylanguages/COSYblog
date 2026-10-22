@@ -13,7 +13,7 @@
   "date": "2026-12-01",
   "title": "Les 10 verbes essentiels en français, Partie 2 (CEFR A0–A1)",
   "kicker": "GUIDE DU FRANÇAIS — PARTIE 2",
-  "dek": "Deuxième partie du guide des verbes français pour le niveau A0–A1 : faire, parler/dire, regarder/voir, écouter/entendre, devoir/falloir, prendre/donner, vivre/habiter, attendre, comprendre et demander/répondre.",
+  "dek": "Deuxième partie du guide des verbes français (A0–A1) : faire, parler/dire, regarder/voir, écouter/entendre, devoir/falloir, prendre/donner/recevoir, vivre/habiter, attendre, comprendre et demander/répondre.",
   "tags": [
     "Verbs",
     "French",
@@ -44,7 +44,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans la deuxième partie du guide des verbes français pour le niveau A0–A1 ! Nous découvrons 10 verbes d'action, de perception et de communication indispensables au quotidien."
+      "text": "Bienvenue dans la deuxième partie du guide des verbes français pour le niveau A0–A1 ! Nous abordons 10 paires et groupes de verbes fondamentaux pour communiquer au quotidien."
     },
     {
       "type": "heading",
@@ -55,16 +55,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Faire :** Activités quotidiennes (*Faire les devoirs*, *Faire le café*).",
-        "**2. Parler / Dire :** Communication (*Parler français*, *Dire une histoire*).",
-        "**3. Regarder / Voir :** Regard attentif ou perception (*Regarder un film*, *Je vois un oiseau*).",
-        "**4. Écouter / Entendre :** Écoute active vs auditive (*Écouter de la musique*, *J'entends du bruit*).",
-        "**5. Devoir / Falloir :** Obligation et nécessité (*Je dois étudier*, *Il faut manger*).",
-        "**6. Prendre / Donner :** Échange (*Prendre le bus*, *Donner un cadeau*).",
-        "**7. Habiter / Vivre :** Lieu de résidence (*J'habite à Paris*, *Vivre bien*).",
-        "**8. Attendre :** Patience (*Attendre le train*, *J'attends mon ami*).",
-        "**9. Comprendre :** Assimilation (*Je comprends la leçon*, *Je ne comprends pas*).",
-        "**10. Demander / Répondre & Vouloir / Je voudrais :** Demandes et formules de politesse (*Poser une question*, *Je voudrais un thé*)."
+        "**1. Faire :** Activités quotidiennes et créations.\n  • *Exemples :* 'Faire du sport', 'Faire la cuisine', 'Faire les courses'.\n  • *Expressions utiles :* 'faire attention', 'faire du bien', 'faire plaisir'.",
+        "**2. Parler / Dire :** Communication et récit.\n  • *Exemples :* 'Parler français', 'Dire la vérité', 'Dis-moi'.\n  • *Expressions utiles :* 'parler de', 'dire bonjour', 'pour ainsi dire'.",
+        "**3. Regarder / Voir :** Regard attentif et perception visuelle.\n  • *Exemples :* 'Regarder un film', 'Je vois un oiseau'.\n  • *Expressions utiles :* 'regarder la télé', 'voyons voir', 'à voir'.",
+        "**4. Écouter / Entendre :** Écoute active vs perception auditive.\n  • *Exemples :* 'Écouter de la musique', 'J'entends du bruit'.\n  • *Expressions utiles :* 'écouter attentivement', 'entendre parler de'.",
+        "**5. Devoir / Falloir :** Obligation et nécessité.\n  • *Exemples :* 'Je dois étudier', 'Il faut partir maintenant'.\n  • *Expressions utiles :* 'devoir faire', 'comme il faut', 'il faut absolument'.",
+        "**6. Prendre / Donner / Obtenir :** Échanges physiques et abstraits.\n  • *Exemples :* 'Prendre le bus', 'Donner un cadeau', 'Obtenir un rendez-vous'.\n  • *Expressions utiles :* 'prendre soin', 'donner rendez-vous', 'prendre son temps'.",
+        "**7. Vivre / Habiter :** Résidence et mode de vie.\n  • *Exemples :* 'J'habite à Paris', 'Vivre en paix'.\n  • *Expressions utiles :* 'vivre à l'étranger', 'habiter près d'ici'.",
+        "**8. Attendre :** Patience et attente.\n  • *Exemples :* 'Attendre le bus', 'Attendez une minute'.\n  • *Expressions utiles :* 'attendre avec impatience', 'en attendant'.",
+        "**9. Comprendre :** Assimilation et compréhension.\n  • *Exemples :* 'Je comprends la leçon', 'Vous comprenez ?'.\n  • *Expressions utiles :* 'faire comprendre', 'bien comprendre'.",
+        "**10. Demander / Répondre :** Questions, réponses et formules de politesse.\n  • *Exemples :* 'Demander une question / un service', 'Répondre au téléphone'.\n  • *Expressions utiles :* 'demander de l'aide', 'répondre vite'."
       ]
     },
     {
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -145,7 +145,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explorez les 14 articles linguistiques dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://example.com) et consultez les tables de verbes sur [COSYtools](https://example.com)."
+      "text": "📌 Explorez les 14 articles dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://cosylanguages.github.io/COSYpractice/) et consultez les tables de verbes sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

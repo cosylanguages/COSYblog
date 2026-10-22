@@ -44,7 +44,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to Part 2 of our English verb guide for A0–A1 learners! In this edition, we explore 10 vital action, perception, and communication verbs."
+      "text": "Welcome to Part 2 of our English verb guide for A0–A1 learners! In this edition, we explore 10 vital action, perception, modality, and communication verb pairs and clusters with rich phrase examples."
     },
     {
       "type": "heading",
@@ -55,16 +55,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Do / Make:** Activity vs Creation (*I do my homework*, *I make breakfast*).",
-        "**2. Speak / Talk / Say / Tell:** Communication nuances (*I speak English*, *Let's talk*, *Say hi*, *Tell a secret*).",
-        "**3. Look / Watch / See:** Visual attention (*Look at this*, *Watch TV*, *I see a tree*).",
-        "**4. Listen / Hear:** Auditory focus vs involuntary hearing (*Listen to music*, *I hear a sound*).",
-        "**5. Must / Have to:** Expressing necessity (*I must study*, *We have to leave*).",
-        "**6. Take / Give / Get:** Physical and abstract exchange (*Take a coat*, *Give a present*, *Get a gift*).",
-        "**7. Live:** Dwelling and life (*I live in London*, *We live well*).",
-        "**8. Wait:** Patience and expectation (*Wait for the bus*, *Wait a minute*).",
-        "**9. Understand:** Comprehension (*I understand the lesson*, *I don't understand*).",
-        "**10. Ask / Answer & Want / Would like:** Questions and polite requests (*Ask a question*, *Answer the phone*, *I would like a coffee*)."
+        "**1. Do / Make:** Activity vs Creation.\n  • *Usage & Frames:* 'I do my homework' vs 'I make breakfast'.\n  • *Useful Phrases:* 'do business', 'do research' | 'make progress', 'make a mistake'.",
+        "**2. Speak / Talk / Say / Tell:** Communication nuances.\n  • *Usage & Frames:* 'I speak English', 'Let's talk about it', 'Say hello to her', 'Tell me the truth'.\n  • *Useful Phrases:* 'speak fluently', 'talk with', 'say yes', 'tell a story'.",
+        "**3. Look / Watch / See:** Visual perception & attention.\n  • *Usage & Frames:* 'Look at this picture', 'Watch a movie', 'I see a bird outside'.\n  • *Useful Phrases:* 'look for', 'look forward to', 'watch out', 'see you soon'.",
+        "**4. Listen / Hear:** Auditory focus vs involuntary perception.\n  • *Usage & Frames:* 'Listen to music', 'Did you hear that noise?'.\n  • *Useful Phrases:* 'listen carefully', 'hear from', 'glad to hear that'.",
+        "**5. Must / Have To:** Expressing necessity & obligation.\n  • *Usage & Frames:* 'I must study for the exam', 'We have to leave now'.\n  • *Useful Phrases:* 'must be', 'have to go', 'don't have to'.",
+        "**6. Take / Give / Get:** Physical and abstract exchange.\n  • *Usage & Frames:* 'Take a coat', 'Give me a hand', 'Get a gift / Get home'.\n  • *Useful Phrases:* 'take care', 'give up', 'get tired', 'get ready'.",
+        "**7. Live:** Dwelling, existence, and lifestyle.\n  • *Usage & Frames:* 'I live in London', 'She lives with her family'.\n  • *Useful Phrases:* 'live abroad', 'live well', 'live together'.",
+        "**8. Wait:** Patience, expectation, and time.\n  • *Usage & Frames:* 'Wait for the bus', 'Can you wait a minute?'.\n  • *Useful Phrases:* 'wait for', 'wait in line', 'can't wait'.",
+        "**9. Understand:** Comprehension and active listening.\n  • *Usage & Frames:* 'I understand the lesson', 'Do you understand what I mean?'.\n  • *Useful Phrases:* 'make yourself understood', 'as I understand', 'fully understand'.",
+        "**10. Ask / Answer:** Questions and responses.\n  • *Usage & Frames:* 'Ask a question', 'Answer the phone / email'.\n  • *Useful Phrases:* 'ask for help', 'answer questions', 'ask a favour'."
       ]
     },
     {
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -145,7 +145,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
+      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://cosylanguages.github.io/COSYpractice/) and view full verb tables in [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

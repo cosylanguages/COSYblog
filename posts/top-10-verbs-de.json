@@ -13,7 +13,7 @@
   "date": "2026-03-01",
   "title": "Die 10 wichtigsten Verben im Deutschen für Anfänger (CEFR A0–A1)",
   "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 1",
-  "dek": "Meistern Sie die 10 häufigsten deutschen Verben mit Anfänger-Konjugationen (A0–A1), nützlichen Kollokationen, Falschen Freunden und einer 14-Sprachen-Vergleichstabelle.",
+  "dek": "Meistern Sie die 10 wichtigsten Verben: sein, haben, denken, wissen/kennen, mögen/gefallen, wollen/möchte, gehen/werden, können, essen und trinken mit Sätzen und Tipps.",
   "tags": [
     "Verbs",
     "German",
@@ -45,7 +45,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Willkommen zum Verben-Leitfaden für das Niveau A0–A1 im Deutschen! Diese 10 Verben bilden das Fundament der alltäglichen Kommunikation."
+      "text": "Willkommen zum ersten Teil unseres Verben-Leitfadens für das Niveau A0–A1 im Deutschen! Zu jedem Verb finden Sie Beispielsätze, feste Wendungen und Grammatik-Tipps."
     },
     {
       "type": "heading",
@@ -56,16 +56,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Sein (bin, bist, ist, sind, seid, sind):** Identität und Ort (*Ich bin Student*, *Er ist zu Hause*).",
-        "**2. Haben (habe, hast, hat, haben, habt, haben):** Besitz (*Ich habe ein Buch*, *Hast du Zeit?*). Note: Alter benutzt *sein* (*Ich bin 20 Jahre alt*).",
-        "**3. Machen (mache, machst, macht, machen, macht, machen):** Aktivitäten (*Hausaufgaben machen*, *Kaffee machen*).",
-        "**4. Gehen (gehe, gehst, geht, gehen...):** Bewegung zu Fuß (*Ich gehe nach Hause*, *Wir gehen ins Kino*).",
-        "**5. Kommen (komme, kommst, kommt...):** Herkunft (*Ich komme aus Berlin*, *Er kommt pünktlich*).",
-        "**6. Sagen (sage, sagst, sagt...):** Kommunikation (*Hallo sagen*, *Die Wahrheit sagen*).",
-        "**7. Sehen / Schauen:** Visuelle Wahrnehmung (*Ich sehe einen Vogel*, *Schau mal!*).",
-        "**8. Wissen / Kennen:** Faktenwissen vs Bekanntschaft (*Ich weiß das*, *Ich kenne Paul*).",
-        "**9. Wollen / Möchte:** Wunsch und Höflichkeit (*Ich will lernen*, *Ich möchte einen Tee*).",
-        "**10. Mögen / Gefallen:** Vorlieben (*Ich mag Musik*, *Das gefällt mir*)."
+        "**1. Sein:** Identität, Zustand, Alter und Ort.\n  • *Beispiele:* 'Ich bin Student', 'Er ist zu Hause', 'Wir sind fertig'.\n  • *Nützliche Phrasen:* 'pünktlich sein', 'einverstanden sein', '25 Jahre alt sein'.",
+        "**2. Haben:** Besitz, Beziehungen und körperliche Zustände.\n  • *Beispiele:* 'Ich habe ein Auto', 'Sie hat eine Schwester', 'Ich habe Kopfschmerzen'.\n  • *Nützliche Phrasen:* 'Hunger/Durst haben', 'Zeit haben', 'Glück haben'.",
+        "**3. Denken:** Meinungen und Denkvorgänge.\n  • *Beispiele:* 'Ich denke schon', 'Was denkst du darüber?', 'Ich denke an dich'.\n  • *Nützliche Phrasen:* 'denken an', 'nachdenken', 'meiner Meinung nach'.",
+        "**4. Wissen / Kennen:** Faktenwissen vs Bekanntschaft.\n  • *Beispiele:* 'Ich weiß die Antwort', 'Ich kenne diese Stadt', 'Weißt du wo das ist?'.\n  • *Nützliche Phrasen:* 'Bescheid wissen', 'kennenlernen', 'soweit ich weiß'.",
+        "**5. Mögen / Gefallen:** Vorlieben und Geschmack.\n  • *Beispiele:* 'Ich mag Kaffee', 'Das Buch gefällt mir', 'Magst du Sport?'.\n  • *Nützliche Phrasen:* 'sehr mögen', 'Gefallen finden', 'wie du magst'.",
+        "**6. Wollen / Ich möchte:** Wünsche, Pläne und höfliche Bitten.\n  • *Beispiele:* 'Ich will Wasser trinken', 'Ich möchte einen Kaffee bitte', 'Was willst du machen?'.\n  • *Nützliche Phrasen:* 'möchte bestellen', 'wenn du willst', 'willkommen'.",
+        "**7. Gehen / Werden:** Bewegung und Zukunftsvorhaben.\n  • *Beispiele:* 'Ich gehe zur Arbeit', 'Sie geht nach Hause', 'Wir werden morgen reisen'.\n  • *Nützliche Phrasen:* 'Wie geht's?', 'zu Fuß gehen', 'einkaufen gehen'.",
+        "**8. Können:** Fähigkeit, Möglichkeit und Erlaubnis.\n  • *Beispiele:* 'Ich kann Deutsch sprechen', 'Kannst du mir helfen?', 'Man kann hier sitzen'.\n  • *Nützliche Phrasen:* 'kann sein', 'so gut ich kann', 'was kann ich tun?'.",
+        "**9. Essen:** Mahlzeiten und Nahrung.\n  • *Beispiele:* 'Ich esse jeden Morgen Obst', 'Was wollen wir essen?', 'Im Restaurant essen'.\n  • *Nützliche Phrasen:* 'Guten Appetit!', 'gesund essen', 'etwas zu essen'.",
+        "**10. Trinken:** Getränke und Flüssigkeit.\n  • *Beispiele:* 'Ich trinke Tee', 'Möchten Sie etwas trinken?', 'Er trinkt Wasser'.\n  • *Nützliche Phrasen:* 'etwas zu trinken', 'Kaffee trinken', 'Prost!'."
       ]
     },
     {
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -146,7 +146,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://example.com) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://example.com)."
+      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

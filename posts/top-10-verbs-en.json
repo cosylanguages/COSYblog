@@ -13,7 +13,7 @@
   "date": "2026-03-01",
   "title": "Top 10 Essential Verbs in English for Absolute Beginners (A0–A1)",
   "kicker": "ENGLISH CORE GUIDE — PART 1",
-  "dek": "Master the 10 most high-frequency verbs in English with A0–A1 adapted conjugations, collocations, false-friend warnings, and a 14-language comparative matrix.",
+  "dek": "Master the 10 most high-frequency verbs in English: be, have, think, know, like, want/would like, go/be going to, can, eat, and drink with rich phrases and sentence frames.",
   "tags": [
     "Verbs",
     "English",
@@ -45,7 +45,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to the essential guide to high-frequency English verbs for absolute beginners (A0–A1)! Mastering these core verbs will unlock over 80% of daily conversations."
+      "text": "Welcome to Part 1 of our essential guide to high-frequency English verbs for absolute beginners (A0–A1)! Mastering these core verbs will unlock over 80% of daily spoken output. Each verb includes practical usages, collocations, sentence frames, and key grammar notes."
     },
     {
       "type": "heading",
@@ -56,16 +56,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. To Be (am / is / are):** Identity, states, and locations (*I am a student*, *He is at home*, *They are ready*).",
-        "**2. To Have (have / has):** Possession and relationships (*I have a book*, *She has a sister*). Note: Age uses *to be* (*I am 20 years old*).",
-        "**3. To Do / To Make:** Actions and creation (*Do homework*, *Do laundry* vs. *Make coffee*, *Make dinner*).",
-        "**4. To Go (go / goes):** Movement away from speaker (*I go to school*, *She goes home*).",
-        "**5. To Come (come / comes):** Movement toward speaker (*Come here*, *They come from France*).",
-        "**6. To Say / To Tell:** Speech and communication (*Say hello*, *Say yes* vs. *Tell a story*, *Tell me*).",
-        "**7. To See / To Look:** Visual perception (*I see a bird* vs. *Look at the map*).",
-        "**8. To Know:** Factual knowledge and familiarity (*I know the answer*, *Do you know John?*).",
-        "**9. To Want:** Expressing desire (*I want water*, *She wants to learn*).",
-        "**10. To Like:** Expressing preference (*I like tea*, *They like soccer*)."
+        "**1. To Be (am / is / are):** Identity, states, age, and location.\n  • *Usage & Frames:* 'I am a student', 'He is at home', 'They are ready', 'I am 25 years old'.\n  • *Useful Phrases:* 'be on time', 'be quiet', 'be right'.",
+        "**2. To Have (have / has):** Possession, relationships, and bodily states.\n  • *Usage & Frames:* 'I have a car', 'She has a sister', 'I have a headache'.\n  • *Useful Phrases:* 'have breakfast', 'have a shower', 'have a good day'.",
+        "**3. To Think:** Expressing opinions, belief, and mental processing.\n  • *Usage & Frames:* 'I think so', 'What do you think about this?', 'I think it is a great idea'.\n  • *Useful Phrases:* 'think twice', 'think about', 'think of'.",
+        "**4. To Know:** Factual knowledge, familiarity, and skills.\n  • *Usage & Frames:* 'I know the answer', 'Do you know him?', 'I know how to drive'.\n  • *Useful Phrases:* 'let me know', 'as far as I know', 'you know'.",
+        "**5. To Like:** Expressing preferences and personal taste.\n  • *Usage & Frames:* 'I like coffee', 'She likes reading', 'Do you like sports?'.\n  • *Useful Phrases:* 'like very much', 'would like', 'look like'.",
+        "**6. To Want / Would Like:** Desires, intentions, and polite requests.\n  • *Usage & Frames:* 'I want some water', 'I would like a cup of tea, please', 'Where do you want to go?'.\n  • *Useful Phrases:* 'want to learn', 'would like to order', 'if you want'.",
+        "**7. To Go / Be Going To:** Movement, direction, and future intentions.\n  • *Usage & Frames:* 'I go to work by bus', 'She goes home', 'We are going to visit London next week'.\n  • *Useful Phrases:* 'go home', 'go shopping', 'go on foot', 'be going to eat'.",
+        "**8. To Can (Modal):** Ability, possibility, and polite permission.\n  • *Usage & Frames:* 'I can speak English', 'Can you help me?', 'You can sit here'.\n  • *Useful Phrases:* 'can I have...', 'as fast as I can', 'can do'.",
+        "**9. To Eat:** Meals, food consumption, and dining out.\n  • *Usage & Frames:* 'I eat fruit every morning', 'What do you want to eat?', 'Let's eat out tonight'.\n  • *Useful Phrases:* 'eat healthy', 'eat out', 'something to eat'.",
+        "**10. To Drink:** Beverages, hydration, and social drinking.\n  • *Usage & Frames:* 'I drink water', 'Would you like something to drink?', 'He drinks coffee with milk'.\n  • *Useful Phrases:* 'drink water', 'a hot drink', 'something to drink'."
       ]
     },
     {
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -146,7 +146,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
+      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://cosylanguages.github.io/COSYpractice/) and view full verb tables in [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

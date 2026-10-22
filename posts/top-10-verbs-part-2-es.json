@@ -13,7 +13,7 @@
   "date": "2026-12-01",
   "title": "Los 10 verbos esenciales en español, Parte 2 (CEFR A0–A1)",
   "kicker": "GUÍA DE ESPAÑOL — PARTE 2",
-  "dek": "Segunda parte de la guía esencial de verbos en español para principiantes (A0–A1): hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender y preguntar/responder.",
+  "dek": "Segunda parte de la guía de verbos en español (A0–A1): hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender y preguntar/responder.",
   "tags": [
     "Verbs",
     "Spanish",
@@ -44,7 +44,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "¡Bienvenidos a la segunda parte de la guía de verbos en español para principiantes (A0–A1)! Presentamos 10 nuevos verbos clave para expresar acciones y comunicación diaria."
+      "text": "¡Bienvenidos a la segunda parte de la guía de verbos en español para principiantes (A0–A1)! Presentamos 10 grupos de verbos clave para la comunicación diaria."
     },
     {
       "type": "heading",
@@ -55,16 +55,16 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Hacer:** Actividades cotidianas (*Hacer los deberes*, *Hacer el desayuno*).",
-        "**2. Hablar / Decir:** Comunicación (*Hablar español*, *Decir una palabra*).",
-        "**3. Mirar / Ver:** Atención visual (*Mirar un vídeo*, *Veo una casa*).",
-        "**4. Escuchar / Oír:** Atención auditiva vs oído (*Escuchar música*, *Oigo un ruido*).",
-        "**5. Tener que / Deber:** Obligación (*Tengo que estudiar*, *Debo irme*).",
-        "**6. Tomar / Dar:** Intercambio (*Tomar un café*, *Dar un regalo*).",
-        "**7. Vivir:** Residencia (*Vivo en Barcelona*, *Vivir bien*).",
-        "**8. Esperar:** Paciencia y esperanza (*Esperar el autobús*, *Espere un momento*).",
-        "**9. Entender / Comprender:** Comprensión (*Entiendo la lección*, *No entiendo*).",
-        "**10. Preguntar / Responder & Querer / Me gustaría:** Preguntas y cortesía (*Hacer una pregunta*, *Me gustaría un té*)."
+        "**1. Hacer:** Actividades cotidianas y creación.\n  • *Ejemplos:* 'Hacer los deberes', 'Hacer el desayuno', 'Hacer ejercicio'.\n  • *Frases útiles:* 'hacer falta', 'hacer el favor', 'hacer fotos'.",
+        "**2. Hablar / Decir:** Comunicación y relatos.\n  • *Ejemplos:* 'Hablar español', 'Decir la verdad', 'Dime'.\n  • *Frases útiles:* 'hablar de', 'decir que sí', 'por decir algo'.",
+        "**3. Mirar / Ver:** Atención visual y percepción.\n  • *Ejemplos:* 'Mirar una película', 'Veo un pájaro'.\n  • *Frases útiles:* 'mirar la televisión', 'a ver', 'nos vemos'.",
+        "**4. Escuchar / Oír:** Atención auditiva vs percepción.\n  • *Ejemplos:* 'Escuchar música', 'Oigo un ruido'.\n  • *Frases útiles:* 'escuchar con atención', 'oír hablar de'.",
+        "**5. Tener que / Deber:** Obligación y necesidad.\n  • *Ejemplos:* 'Tengo que estudiar', 'Debemos salir ya'.\n  • *Frases útiles:* 'tener que hacer', 'debería ser', 'hay que'.",
+        "**6. Tomar / Dar / Conseguir:** Intercambios y obtención.\n  • *Ejemplos:* 'Tomar el autobús', 'Dar un regalo', 'Conseguir una cita'.\n  • *Frases útiles:* 'darse prisa', 'dar la mano', 'tomar un café'.",
+        "**7. Vivir:** Residencia y estilo de vida.\n  • *Ejemplos:* 'Vivo en Madrid', 'Vivir bien'.\n  • *Frases útiles:* 'vivir en el extranjero', 'vivir juntos'.",
+        "**8. Esperar:** Paciencia, espera y esperanza.\n  • *Ejemplos:* 'Esperar el autobús', 'Espere un momento'.\n  • *Frases útiles:* 'esperar que', 'hacer cola', 'no ver la hora'.",
+        "**9. Entender / Comprender:** Comprensión.\n  • *Ejemplos:* 'Entiendo la lección', '¿Entiendes lo que digo?'.\n  • *Frases útiles:* 'hacerse entender', 'entiendo perfectamente'.",
+        "**10. Preguntar / Responder:** Preguntas, respuestas y cortesía.\n  • *Ejemplos:* 'Hacer una pregunta', 'Responder al teléfono'.\n  • *Frases útiles:* 'pedir ayuda', 'responder rápido'."
       ]
     },
     {
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "წاسვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -145,7 +145,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Explora los 14 artículos lingüísticos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://example.com) y consulta las tablas de verbos en [COSYtools](https://example.com)."
+      "text": "📌 Explora los 14 artículos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://cosylanguages.github.io/COSYpractice/) y consulta las tablas de verbos en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false
