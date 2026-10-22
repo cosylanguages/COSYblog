@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Top 10 Essential Verbs in English for Absolute Beginners (A0–A1)",
-  "kicker": "ENGLISH CORE GUIDE — PART 1",
-  "dek": "Master the 10 most high-frequency verbs in English: be, have, think, know, like, want/would like, go/be going to, can, eat, and drink with rich phrases and sentence frames.",
+  "title": "Top 10 Essential Verbs in English for Absolute Beginners (A0–A1 / A2)",
+  "kicker": "ENGLISH CORE GUIDE — PART 1 OF 2",
+  "dek": "Master the first 10 high-frequency verbs in English (be, have, think, know, like, want/would like, go/be going to, can, eat, drink). Conjugation tables are consultable on COSYtools.",
   "tags": [
     "Verbs",
     "English",
@@ -45,7 +45,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to Part 1 of our essential guide to high-frequency English verbs for absolute beginners (A0–A1)! Mastering these core verbs will unlock over 80% of daily spoken output. Each verb includes practical usages, collocations, sentence frames, and key grammar notes."
+      "text": "Welcome to Part 1 of our 2-part core verb series for A0–A1 and A2 English learners! This article introduces the first 10 essential verbs for daily communication with simple sentences and useful phrases. (Explore [Part 2](top-10-verbs-part-2-en.html) for the next 10 verbs). Complete conjugation tables for all verbs are consultable on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
@@ -57,25 +57,25 @@
       "ordered": false,
       "items": [
         "**1. To Be (am / is / are):** Identity, states, age, and location.\n  • *Usage & Frames:* 'I am a student', 'He is at home', 'They are ready', 'I am 25 years old'.\n  • *Useful Phrases:* 'be on time', 'be quiet', 'be right'.",
-        "**2. To Have (have / has):** Possession, relationships, and bodily states.\n  • *Usage & Frames:* 'I have a car', 'She has a sister', 'I have a headache'.\n  • *Useful Phrases:* 'have breakfast', 'have a shower', 'have a good day'.",
-        "**3. To Think:** Expressing opinions, belief, and mental processing.\n  • *Usage & Frames:* 'I think so', 'What do you think about this?', 'I think it is a great idea'.\n  • *Useful Phrases:* 'think twice', 'think about', 'think of'.",
-        "**4. To Know:** Factual knowledge, familiarity, and skills.\n  • *Usage & Frames:* 'I know the answer', 'Do you know him?', 'I know how to drive'.\n  • *Useful Phrases:* 'let me know', 'as far as I know', 'you know'.",
-        "**5. To Like:** Expressing preferences and personal taste.\n  • *Usage & Frames:* 'I like coffee', 'She likes reading', 'Do you like sports?'.\n  • *Useful Phrases:* 'like very much', 'would like', 'look like'.",
-        "**6. To Want / Would Like:** Desires, intentions, and polite requests.\n  • *Usage & Frames:* 'I want some water', 'I would like a cup of tea, please', 'Where do you want to go?'.\n  • *Useful Phrases:* 'want to learn', 'would like to order', 'if you want'.",
-        "**7. To Go / Be Going To:** Movement, direction, and future intentions.\n  • *Usage & Frames:* 'I go to work by bus', 'She goes home', 'We are going to visit London next week'.\n  • *Useful Phrases:* 'go home', 'go shopping', 'go on foot', 'be going to eat'.",
-        "**8. To Can (Modal):** Ability, possibility, and polite permission.\n  • *Usage & Frames:* 'I can speak English', 'Can you help me?', 'You can sit here'.\n  • *Useful Phrases:* 'can I have...', 'as fast as I can', 'can do'.",
-        "**9. To Eat:** Meals, food consumption, and dining out.\n  • *Usage & Frames:* 'I eat fruit every morning', 'What do you want to eat?', 'Let's eat out tonight'.\n  • *Useful Phrases:* 'eat healthy', 'eat out', 'something to eat'.",
-        "**10. To Drink:** Beverages, hydration, and social drinking.\n  • *Usage & Frames:* 'I drink water', 'Would you like something to drink?', 'He drinks coffee with milk'.\n  • *Useful Phrases:* 'drink water', 'a hot drink', 'something to drink'."
+        "**2. To Have (have / has):** Possession, relationships, and states.\n  • *Usage & Frames:* 'I have a car', 'She has a sister', 'I have a headache'.\n  • *Useful Phrases:* 'have breakfast', 'have a shower', 'have a good day'.",
+        "**3. To Think:** Opinions and thoughts.\n  • *Usage & Frames:* 'I think so', 'What do you think?', 'I think it is good'.\n  • *Useful Phrases:* 'think twice', 'think about', 'think of'.",
+        "**4. To Know:** Facts, familiarity, and skills.\n  • *Usage & Frames:* 'I know the answer', 'Do you know him?', 'I know how to drive'.\n  • *Useful Phrases:* 'let me know', 'as far as I know', 'you know'.",
+        "**5. To Like:** Preferences and taste.\n  • *Usage & Frames:* 'I like coffee', 'She likes reading', 'Do you like sports?'.\n  • *Useful Phrases:* 'like very much', 'would like', 'look like'.",
+        "**6. To Want / Would Like:** Desires and polite requests.\n  • *Usage & Frames:* 'I want water', 'I would like tea, please', 'Where do you want to go?'.\n  • *Useful Phrases:* 'want to learn', 'would like to order', 'if you want'.",
+        "**7. To Go / Be Going To:** Movement and future intentions.\n  • *Usage & Frames:* 'I go to work', 'She goes home', 'We are going to eat'.\n  • *Useful Phrases:* 'go home', 'go shopping', 'go on foot', 'be going to eat'.",
+        "**8. To Can (Modal):** Ability and permission.\n  • *Usage & Frames:* 'I can speak English', 'Can you help me?', 'You can sit here'.\n  • *Useful Phrases:* 'can I have...', 'as fast as I can', 'can do'.",
+        "**9. To Eat:** Food and meals.\n  • *Usage & Frames:* 'I eat fruit', 'What do you want to eat?', 'Let's eat out'.\n  • *Useful Phrases:* 'eat healthy', 'eat out', 'something to eat'.",
+        "**10. To Drink:** Beverages and hydration.\n  • *Usage & Frames:* 'I drink water', 'Would you like to drink?', 'He drinks coffee'.\n  • *Useful Phrases:* 'drink water', 'a hot drink', 'something to drink'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Comparative Linguistics Matrix across 14 Languages"
+      "text": "Comparative Matrix across Language Families"
     },
     {
       "type": "paragraph",
-      "text": "Below is the comparative breakdown for core verbs across all 14 official languages:"
+      "text": "Comparative breakdown for core verbs across language families:"
     },
     {
       "type": "table",
@@ -102,7 +102,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -110,7 +110,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -133,20 +133,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Language Family Nuances & Grammatical Highlights"
+      "text": "Grammar & Structure for A0–A1 / A2 Learners"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-European:** Features tense auxiliary verbs and person/number inflections.\n• **Turkic Family (Tatar, Bashkir, Chuvash):** Agglutinative suffix structures expressing tense and person without separate helper verbs.\n• **Kartvelian (Georgian):** Polypersonal verb agreement marking subject and indirect/direct objects."
+      "text": "• **Simple Sentence Structures:** Focus on Subject + Verb + Object.\n• **Auxiliaries & Modals:** Use 'can', 'must', and 'be going to' for simple daily intentions.\n• **Conjugations:** Check full present, past, and future tense tables on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Interactive Practice & Navigation"
+      "text": "Practice & Conjugation Resources"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://cosylanguages.github.io/COSYpractice/) and view full verb tables in [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Test your skills in [COSYpractice](https://cosylanguages.github.io/COSYpractice/), read [Part 1](top-10-verbs-en.html) and [Part 2](top-10-verbs-part-2-en.html), and consult full verb conjugations on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

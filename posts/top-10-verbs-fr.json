@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Les 10 verbes essentiels en français pour débutants (CEFR A0–A1)",
-  "kicker": "GUIDE DU FRANÇAIS — PARTIE 1",
-  "dek": "Maîtrisez les 10 verbes clés : être, avoir, penser, savoir/connaître, aimer, vouloir/aimerait, aller/aller + inf, pouvoir, manger et boire avec expressions et cadres de phrases.",
+  "title": "Les 10 verbes essentiels en français pour débutants (A0–A1 / A2)",
+  "kicker": "GUIDE DU FRANÇAIS — PARTIE 1 SUR 2",
+  "dek": "Apprenez les 10 premiers verbes fondamentaux en français (être, avoir, penser, savoir/connaître, aimer, vouloir/aimerait, aller/futur proche, pouvoir, manger, boire). Conjugaisons consultables sur COSYtools.",
   "tags": [
     "Verbs",
     "French",
@@ -45,37 +45,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans la première partie du guide des verbes essentiels en français pour débutants (A0–A1) ! Retrouvez pour chaque verbe des structures pratiques, des collocations utiles et des règles de grammaire."
+      "text": "Bienvenue dans la Partie 1 de notre série en 2 parties sur les verbes essentiels en français pour les niveaux A0–A1 et A2 ! Ce guide présente des phrases simples adaptées à l'apprentissage pratique. (Consultez aussi la [Partie 2](top-10-verbs-part-2-fr.html)). Les tableaux complets de conjugaison sont consultables sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Analyse détaillée : Les 10 verbes français (Partie 1)"
+      "text": "Les 10 verbes fondamentaux (Partie 1)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Être (suis, es, est, sommes, êtes, sont) :** Identité, états et localisation.\n  • *Exemples :* 'Je suis étudiant', 'Il est à la maison', 'Nous sommes prêts'.\n  • *Expressions utiles :* 'être à l'heure', 'être d'accord', 'être en train de'.",
-        "**2. Avoir (ai, as, a, avons, avez, ont) :** Possession, âge et sensations physiques.\n  • *Exemples :* 'J'ai une voiture', 'J'ai 25 ans', 'J'ai faim / j'ai soif'.\n  • *Expressions utiles :* 'avoir besoin de', 'avoir envie de', 'avoir peur'.",
-        "**3. Penser :** Exprimer ses opinions et ses pensées.\n  • *Exemples :* 'Je pense que oui', 'Qu'en penses-tu ?', 'Je pense à toi'.\n  • *Expressions utiles :* 'penser à', 'penser de', 'bien penser'.",
-        "**4. Savoir / Connaître :** Faits, compétences et connaissance des personnes/lieux.\n  • *Exemples :* 'Je sais parler français', 'Je connais cette ville', 'Tu sais où c'est ?'.\n  • *Expressions utiles :* 'savoir faire', 'faire savoir', 'connaître du monde'.",
-        "**5. Aimer :** Préférences, goûts et affection.\n  • *Exemples :* 'J'aime le café', 'J'aime voyager', 'Il aime le sport'.\n  • *Expressions utiles :* 'aimer bien', 'aimer beaucoup', 'j'aimerais'.",
-        "**6. Vouloir / Voudrais :** Désirs, projets et demandes polies.\n  • *Exemples :* 'Je veux un verre d'eau', 'Je voudrais réserver une table', 'Qu'est-ce que tu veux faire ?'.\n  • *Expressions utiles :* 'vouloir dire', 'si vous voulez', 'je voudrais bien'.",
-        "**7. Aller / Futur Proche :** Deplacements et intentions futures.\n  • *Exemples :* 'Je vais au travail', 'Elle va à Paris', 'Nous allons manger'.\n  • *Expressions utiles :* 'comment ça va ?', 'y aller', 'aller à pied'.",
-        "**8. Pouvoir :** Capacité, possibilité et permission.\n  • *Exemples :* 'Je peux vous aider ?', 'On peut utiliser ce livre', 'Tu peux venir ?'.\n  • *Expressions utiles :* 'pouvoir faire', 'si possible', 'autant que possible'.",
-        "**9. Manger :** Repas et alimentation.\n  • *Exemples :* 'Je mange une pomme', 'Qu'est-ce qu'on mange ce soir ?', 'Manger au restaurant'.\n  • *Expressions utiles :* 'bon appétit', 'donner à manger', 'manger équilibré'.",
-        "**10. Boire :** Boissons et rafraîchissements.\n  • *Exemples :* 'Je bois du thé', 'Voulez-vous quelque chose à boire ?', 'Il boit de l'eau'.\n  • *Expressions utiles :* 'avoir à boire', 'boire un coup', 'boire du café'."
+        "**1. Être:** Identité, état et lieu.\n  • *Phrases simples:* 'Je suis étudiant', 'Il est à la maison', 'Nous sommes prêts'.\n  • *Expressions:* 'être à l'heure', 'être d'accord', 'être en forme'.",
+        "**2. Avoir:** Possession, âge et sensations.\n  • *Phrases simples:* 'J'ai une voiture', 'J'ai 25 ans', 'J'ai faim'.\n  • *Expressions:* 'avoir besoin de', 'avoir envie de', 'avoir peur'.",
+        "**3. Penser:** Opinion et réflexion.\n  • *Phrases simples:* 'Je pense que oui', 'Qu'en penses-tu ?', 'Je pense à toi'.\n  • *Expressions:* 'penser à', 'penser de', 'bien penser'.",
+        "**4. Savoir / Connaître:** Faits, compétences et lieux/personnes.\n  • *Phrases simples:* 'Je sais parler français', 'Je connais cette ville'.\n  • *Expressions:* 'savoir faire', 'faire savoir', 'connaître du monde'.",
+        "**5. Aimer:** Goûts et préférences.\n  • *Phrases simples:* 'J'aime le café', 'J'aime voyager', 'Il aime le sport'.\n  • *Expressions:* 'aimer bien', 'aimer beaucoup', 'j'aimerais'.",
+        "**6. Vouloir / Voudrais:** Souhaits et politesse.\n  • *Phrases simples:* 'Je veux de l'eau', 'Je voudrais réserver une table'.\n  • *Expressions:* 'vouloir dire', 'si vous voulez', 'je voudrais bien'.",
+        "**7. Aller / Futur proche:** Déplacement et futur immédiat.\n  • *Phrases simples:* 'Je vais au travail', 'Elle va à Paris', 'Nous allons manger'.\n  • *Expressions:* 'comment ça va ?', 'y aller', 'aller à pied'.",
+        "**8. Pouvoir:** Capacité et permission.\n  • *Phrases simples:* 'Je peux vous aider ?', 'Tu peux venir ?'.\n  • *Expressions:* 'pouvoir faire', 'si possible', 'comme vous pouvez'.",
+        "**9. Manger:** Alimentation et repas.\n  • *Phrases simples:* 'Je mange une pomme', 'Qu'est-ce qu'on mange ?'.\n  • *Expressions:* 'bon appétit', 'donner à manger', 'manger équilibré'.",
+        "**10. Boire:** Boissons et hydratation.\n  • *Phrases simples:* 'Je bois du thé', 'Voulez-vous boire quelque chose ?'.\n  • *Expressions:* 'avoir à boire', 'boire un coup', 'boire du café'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matrice linguistique comparative en 14 langues"
+      "text": "Tableau comparatif des verbes"
     },
     {
       "type": "paragraph",
-      "text": "Voici le tableau comparatif des verbes essentiels à travers nos 14 langues officielles :"
+      "text": "Comparaison des verbes essentiels selon les familles linguistiques :"
     },
     {
       "type": "table",
@@ -102,7 +102,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -110,7 +110,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -133,20 +133,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Nuances familiales et caractéristiques grammaticales"
+      "text": "Structures grammaticales adaptées (A0–A1 / A2)"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-européen :** Utilise des auxiliaires temporels et des inflexions de personne/nombre.\n• **Famille turcique (tatar, bachkir, tchouvache) :** Structures à suffixes agglutinants exprimant le temps et la personne sans auxiliaires distincts.\n• **Kartvélien (géorgien) :** Accord verbal polypersonnel marquant le sujet et les objets."
+      "text": "• **Structures simples :** Sujet + Verbe + Complément.\n• **Futur proche et modaux :** Utilisation de 'aller + infinitif' et 'pouvoir/devoir'.\n• **Conjugaisons :** Tous les temps et formes sont consultables sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Exercices pratiques et navigation"
+      "text": "Pratique et conjugaison"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explorez les 14 articles dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://cosylanguages.github.io/COSYpractice/) et consultez les tables de verbes sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Pratiquez vos connaissances sur [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lisez la [Partie 1](top-10-verbs-fr.html) et la [Partie 2](top-10-verbs-part-2-fr.html), et consultez les conjugaisons sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Los 10 verbos esenciales en español, Parte 2 (CEFR A0–A1)",
-  "kicker": "GUÍA DE ESPAÑOL — PARTE 2",
-  "dek": "Segunda parte de la guía de verbos en español (A0–A1): hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender y preguntar/responder.",
+  "title": "Los 10 verbos esenciales en español, Parte 2 (A0–A1 / A2)",
+  "kicker": "GUÍA DE ESPAÑOL — PARTE 2 DE 2",
+  "dek": "Descubre los siguientes 10 verbos clave (hacer, hablar/decir, mirar/ver, escuchar/oír, tener que/deber, tomar/dar, vivir, esperar, entender, preguntar/responder). Conjugaciones consultables en COSYtools.",
   "tags": [
     "Verbs",
     "Spanish",
@@ -44,37 +44,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "¡Bienvenidos a la segunda parte de la guía de verbos en español para principiantes (A0–A1)! Presentamos 10 grupos de verbos clave para la comunicación diaria."
+      "text": "¡Bienvenidos a la Parte 2 de nuestra guía de verbos en español para principiantes A0–A1 y A2! (Lee la [Parte 1](top-10-verbs-es.html) si aún no la has visto). Aquí estudiamos 10 nuevos verbos esenciales. Todas las tablas de conjugación se pueden consultar en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Análisis detallado: Los 10 verbos en español (Parte 2)"
+      "text": "Los 10 verbos fundamentales (Parte 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Hacer:** Actividades cotidianas y creación.\n  • *Ejemplos:* 'Hacer los deberes', 'Hacer el desayuno', 'Hacer ejercicio'.\n  • *Frases útiles:* 'hacer falta', 'hacer el favor', 'hacer fotos'.",
-        "**2. Hablar / Decir:** Comunicación y relatos.\n  • *Ejemplos:* 'Hablar español', 'Decir la verdad', 'Dime'.\n  • *Frases útiles:* 'hablar de', 'decir que sí', 'por decir algo'.",
-        "**3. Mirar / Ver:** Atención visual y percepción.\n  • *Ejemplos:* 'Mirar una película', 'Veo un pájaro'.\n  • *Frases útiles:* 'mirar la televisión', 'a ver', 'nos vemos'.",
-        "**4. Escuchar / Oír:** Atención auditiva vs percepción.\n  • *Ejemplos:* 'Escuchar música', 'Oigo un ruido'.\n  • *Frases útiles:* 'escuchar con atención', 'oír hablar de'.",
-        "**5. Tener que / Deber:** Obligación y necesidad.\n  • *Ejemplos:* 'Tengo que estudiar', 'Debemos salir ya'.\n  • *Frases útiles:* 'tener que hacer', 'debería ser', 'hay que'.",
-        "**6. Tomar / Dar / Conseguir:** Intercambios y obtención.\n  • *Ejemplos:* 'Tomar el autobús', 'Dar un regalo', 'Conseguir una cita'.\n  • *Frases útiles:* 'darse prisa', 'dar la mano', 'tomar un café'.",
-        "**7. Vivir:** Residencia y estilo de vida.\n  • *Ejemplos:* 'Vivo en Madrid', 'Vivir bien'.\n  • *Frases útiles:* 'vivir en el extranjero', 'vivir juntos'.",
-        "**8. Esperar:** Paciencia, espera y esperanza.\n  • *Ejemplos:* 'Esperar el autobús', 'Espere un momento'.\n  • *Frases útiles:* 'esperar que', 'hacer cola', 'no ver la hora'.",
-        "**9. Entender / Comprender:** Comprensión.\n  • *Ejemplos:* 'Entiendo la lección', '¿Entiendes lo que digo?'.\n  • *Frases útiles:* 'hacerse entender', 'entiendo perfectamente'.",
-        "**10. Preguntar / Responder:** Preguntas, respuestas y cortesía.\n  • *Ejemplos:* 'Hacer una pregunta', 'Responder al teléfono'.\n  • *Frases útiles:* 'pedir ayuda', 'responder rápido'."
+        "**1. Hacer:** Actividades cotidianas.\n  • *Frases sencillas:* 'Hacer los deberes', 'Hacer el desayuno', 'Hacer ejercicio'.\n  • *Frases útiles:* 'hacer falta', 'hacer el favor', 'hacer fotos'.",
+        "**2. Hablar / Decir:** Comunicación.\n  • *Frases sencillas:* 'Hablar español', 'Decir la verdad', 'Dime'.\n  • *Frases útiles:* 'hablar de', 'decir que sí', 'por decir algo'.",
+        "**3. Mirar / Ver:** Percepción visual.\n  • *Frases sencillas:* 'Mirar una película', 'Veo un pájaro'.\n  • *Frases útiles:* 'mirar la televisión', 'a ver', 'nos vemos'.",
+        "**4. Escuchar / Oír:** Percepción auditiva.\n  • *Frases sencillas:* 'Escuchar música', 'Oigo un ruido'.\n  • *Frases útiles:* 'escuchar con atención', 'oír hablar de'.",
+        "**5. Tener que / Deber:** Obligación.\n  • *Frases sencillas:* 'Tengo que estudiar', 'Debemos salir ya'.\n  • *Frases útiles:* 'tener que hacer', 'debería ser', 'hay que'.",
+        "**6. Tomar / Dar:** Intercambios.\n  • *Frases sencillas:* 'Tomar el autobús', 'Dar un regalo'.\n  • *Frases útiles:* 'darse prisa', 'dar la mano', 'tomar un café'.",
+        "**7. Vivir:** Residencia.\n  • *Frases sencillas:* 'Vivo en Madrid', 'Vivir bien'.\n  • *Frases útiles:* 'vivir en el extranjero', 'vivir juntos'.",
+        "**8. Esperar:** Espera.\n  • *Frases sencillas:* 'Esperar el autobús', 'Espere un momento'.\n  • *Frases útiles:* 'esperar que', 'hacer cola', 'no ver la hora'.",
+        "**9. Entender:** Comprensión.\n  • *Frases sencillas:* 'Entiendo la lección', '¿Entiendes lo que digo?'.\n  • *Frases útiles:* 'hacerse entender', 'entiendo perfectamente'.",
+        "**10. Preguntar / Responder:** Preguntas y respuestas.\n  • *Frases sencillas:* 'Hacer una pregunta', 'Responder al teléfono'.\n  • *Frases útiles:* 'pedir ayuda', 'responder rápido'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matriz lingüística comparativa en 14 idiomas"
+      "text": "Tabla comparativa de verbos"
     },
     {
       "type": "paragraph",
-      "text": "A continuación se muestra el desglose comparativo de los verbos principales en los 14 idiomas oficiales:"
+      "text": "Comparación de los verbos esenciales en las familias lingüísticas:"
     },
     {
       "type": "table",
@@ -101,7 +101,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -109,7 +109,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -132,20 +132,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Matices familiares y aspectos gramaticales"
+      "text": "Estructuras gramaticales para nivel A0–A1 / A2"
     },
     {
       "type": "paragraph",
-      "text": "• **Indoeuropeo:** Utiliza auxiliares de tiempo e inflexiones de persona/número.\n• **Familia turca (tártaro, bashkir, chuvash):** Estructuras de sufijos aglutinantes que expresan tiempo y persona sin auxiliares separados.\n• **Kartveliano (georgiano):** Concordancia verbal polipersonal para sujeto y objetos."
+      "text": "• **Oraciones simples:** Sujeto + Verbo + Complemento.\n• **Futuro próximo y modales:** Uso de 'ir a + infinitivo' y 'poder/tener que'.\n• **Conjugaciones:** Consulta las tablas de tiempos verbales en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Ejercicios prácticos y navegación"
+      "text": "Práctica y conjugación"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explora los 14 artículos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://cosylanguages.github.io/COSYpractice/) y consulta las tablas de verbos en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Practica en [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lee la [Parte 1](top-10-verbs-es.html) y la [Parte 2](top-10-verbs-part-2-es.html), y consulta las conjugaciones de los verbos en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

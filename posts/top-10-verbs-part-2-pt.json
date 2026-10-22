@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Os 10 verbos essenciais em português, Parte 2 (CEFR A0–A1)",
-  "kicker": "GUIA DE PORTUGUÊS — PARTE 2",
-  "dek": "Segunda parte do guia essencial de verbos em português (A0–A1): fazer, falar/dizer, olhar/ver, ouvir/escutar, ter de/dever, tomar/dar, viver/morar, esperar, entender e perguntar/responder.",
+  "title": "Os 10 verbos essenciais em português, Parte 2 (A0–A1 / A2)",
+  "kicker": "GUIA DE PORTUGUÊS — PARTE 2 DE 2",
+  "dek": "Descubra os 10 verbos seguintes (fazer, falar/dizer, olhar/ver, ouvir/escutar, ter de/dever, tomar/dar, viver/morar, esperar, entender, perguntar/responder). Tabelas no COSYtools.",
   "tags": [
     "Verbs",
     "Portuguese",
@@ -44,12 +44,12 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bem-vindo à segunda parte do guia de verbos em português para principiantes (A0–A1)!"
+      "text": "Bem-vindo à Parte 2 do nosso guia de verbos em português para principiantes A0–A1 e A2! (Consulte a [Parte 1](top-10-verbs-pt.html) se ainda não leu). Aqui abordamos 10 novos verbos do dia a dia. Todas as tabelas de conjugação estão no [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Análise detalhada: Os 10 verbos em português (Parte 2)"
+      "text": "Os 10 verbos fundamentais (Parte 2)"
     },
     {
       "type": "list-item",
@@ -70,11 +70,11 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Matriz linguística comparativa em 14 línguas"
+      "text": "Tabela comparativa de verbos"
     },
     {
       "type": "paragraph",
-      "text": "Apresentamos abaixo a análise comparativa dos principais verbos nas 14 línguas oficiais:"
+      "text": "Comparação dos principais verbos entre famílias linguísticas:"
     },
     {
       "type": "table",
@@ -101,7 +101,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -109,7 +109,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -132,20 +132,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Nuances das famílias linguísticas e aspetos gramaticais"
+      "text": "Gramática e estruturas para o nível A0–A1 / A2"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-europeu:** Utiliza auxiliares de tempo."
+      "text": "• **Frases simples:** Sujeito + Verbo + Complemento.\n• **Verbos auxiliares:** Uso de 'ir + infinitivo' e 'poder/ter de'.\n• **Tabelas de conjugação:** Consulte todas as formas verbais em [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Exercícios práticos e navegação"
+      "text": "Prática e conjugação"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore todos os 14 artigos no hub da COSYmagazine."
+      "text": "📌 Pratique no [COSYpractice](https://cosylanguages.github.io/COSYpractice/), leia a [Parte 1](top-10-verbs-pt.html) e a [Parte 2](top-10-verbs-part-2-pt.html), e consulte as conjuções no [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

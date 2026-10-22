@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Les 10 verbes essentiels en français, Partie 2 (CEFR A0–A1)",
-  "kicker": "GUIDE DU FRANÇAIS — PARTIE 2",
-  "dek": "Deuxième partie du guide des verbes français (A0–A1) : faire, parler/dire, regarder/voir, écouter/entendre, devoir/falloir, prendre/donner/recevoir, vivre/habiter, attendre, comprendre et demander/répondre.",
+  "title": "Les 10 verbes essentiels en français, Partie 2 (A0–A1 / A2)",
+  "kicker": "GUIDE DU FRANÇAIS — PARTIE 2 SUR 2",
+  "dek": "Découvrez les 10 verbes suivants (faire, parler/dire, regarder/voir, écouter/entendre, devoir/falloir, prendre/donner/obtenir, vivre/habiter, attendre, comprendre, demander/répondre). Conjugaisons consultables sur COSYtools.",
   "tags": [
     "Verbs",
     "French",
@@ -44,37 +44,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bienvenue dans la deuxième partie du guide des verbes français pour le niveau A0–A1 ! Nous abordons 10 paires et groupes de verbes fondamentaux pour communiquer au quotidien."
+      "text": "Bienvenue dans la Partie 2 de notre série sur les verbes français pour débutants A0–A1 et A2 ! (Relisez la [Partie 1](top-10-verbs-fr.html) si besoin). Nous étudions ici 10 nouveaux verbes clés du quotidien. Retrouvez tous les tableaux de conjugaison sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Analyse détaillée : Les 10 verbes français (Partie 2)"
+      "text": "Les 10 verbes fondamentaux (Partie 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Faire :** Activités quotidiennes et créations.\n  • *Exemples :* 'Faire du sport', 'Faire la cuisine', 'Faire les courses'.\n  • *Expressions utiles :* 'faire attention', 'faire du bien', 'faire plaisir'.",
-        "**2. Parler / Dire :** Communication et récit.\n  • *Exemples :* 'Parler français', 'Dire la vérité', 'Dis-moi'.\n  • *Expressions utiles :* 'parler de', 'dire bonjour', 'pour ainsi dire'.",
-        "**3. Regarder / Voir :** Regard attentif et perception visuelle.\n  • *Exemples :* 'Regarder un film', 'Je vois un oiseau'.\n  • *Expressions utiles :* 'regarder la télé', 'voyons voir', 'à voir'.",
-        "**4. Écouter / Entendre :** Écoute active vs perception auditive.\n  • *Exemples :* 'Écouter de la musique', 'J'entends du bruit'.\n  • *Expressions utiles :* 'écouter attentivement', 'entendre parler de'.",
-        "**5. Devoir / Falloir :** Obligation et nécessité.\n  • *Exemples :* 'Je dois étudier', 'Il faut partir maintenant'.\n  • *Expressions utiles :* 'devoir faire', 'comme il faut', 'il faut absolument'.",
-        "**6. Prendre / Donner / Obtenir :** Échanges physiques et abstraits.\n  • *Exemples :* 'Prendre le bus', 'Donner un cadeau', 'Obtenir un rendez-vous'.\n  • *Expressions utiles :* 'prendre soin', 'donner rendez-vous', 'prendre son temps'.",
-        "**7. Vivre / Habiter :** Résidence et mode de vie.\n  • *Exemples :* 'J'habite à Paris', 'Vivre en paix'.\n  • *Expressions utiles :* 'vivre à l'étranger', 'habiter près d'ici'.",
-        "**8. Attendre :** Patience et attente.\n  • *Exemples :* 'Attendre le bus', 'Attendez une minute'.\n  • *Expressions utiles :* 'attendre avec impatience', 'en attendant'.",
-        "**9. Comprendre :** Assimilation et compréhension.\n  • *Exemples :* 'Je comprends la leçon', 'Vous comprenez ?'.\n  • *Expressions utiles :* 'faire comprendre', 'bien comprendre'.",
-        "**10. Demander / Répondre :** Questions, réponses et formules de politesse.\n  • *Exemples :* 'Demander une question / un service', 'Répondre au téléphone'.\n  • *Expressions utiles :* 'demander de l'aide', 'répondre vite'."
+        "**1. Faire:** Activités quotidiennes.\n  • *Phrases simples:* 'Faire du sport', 'Faire la cuisine', 'Faire les courses'.\n  • *Expressions:* 'faire attention', 'faire plaisir', 'faire du bien'.",
+        "**2. Parler / Dire:** Communication.\n  • *Phrases simples:* 'Parler français', 'Dire la vérité', 'Dis-moi'.\n  • *Expressions:* 'parler de', 'dire bonjour', 'pour ainsi dire'.",
+        "**3. Regarder / Voir:** Perception visuelle.\n  • *Phrases simples:* 'Regarder un film', 'Je vois un oiseau'.\n  • *Expressions:* 'regarder la télé', 'voyons voir', 'à voir'.",
+        "**4. Écouter / Entendre:** Perception auditive.\n  • *Phrases simples:* 'Écouter de la musique', 'J'entends du bruit'.\n  • *Expressions:* 'écouter attentivement', 'entendre parler de'.",
+        "**5. Devoir / Falloir:** Obligation.\n  • *Phrases simples:* 'Je dois étudier', 'Il faut partir'.\n  • *Expressions:* 'devoir faire', 'comme il faut', 'il faut absolument'.",
+        "**6. Prendre / Donner / Obtenir:** Échanges.\n  • *Phrases simples:* 'Prendre le bus', 'Donner un cadeau'.\n  • *Expressions:* 'prendre soin', 'donner rendez-vous', 'prendre son temps'.",
+        "**7. Vivre / Habiter:** Résidence.\n  • *Phrases simples:* 'J'habite à Paris', 'Vivre en paix'.\n  • *Expressions:* 'vivre à l'étranger', 'habiter près d'ici'.",
+        "**8. Attendre:** Attente.\n  • *Phrases simples:* 'Attendre le bus', 'Attendez une minute'.\n  • *Expressions:* 'attendre avec impatience', 'en attendant'.",
+        "**9. Comprendre:** Assimilation.\n  • *Phrases simples:* 'Je comprends la leçon', 'Vous comprenez ?'.\n  • *Expressions:* 'faire comprendre', 'bien comprendre'.",
+        "**10. Demander / Répondre:** Questions et réponses.\n  • *Phrases simples:* 'Demander un service', 'Répondre au téléphone'.\n  • *Expressions:* 'demander de l'aide', 'répondre vite'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matrice linguistique comparative en 14 langues"
+      "text": "Tableau comparatif des verbes"
     },
     {
       "type": "paragraph",
-      "text": "Voici le tableau comparatif des verbes essentiels à travers nos 14 langues officielles :"
+      "text": "Comparaison des verbes essentiels selon les familles linguistiques :"
     },
     {
       "type": "table",
@@ -101,7 +101,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -109,7 +109,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -132,20 +132,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Nuances familiales et caractéristiques grammaticales"
+      "text": "Structures grammaticales adaptées (A0–A1 / A2)"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-européen :** Utilise des auxiliaires temporels et des inflexions de personne/nombre.\n• **Famille turcique (tatar, bachkir, tchouvache) :** Structures à suffixes agglutinants exprimant le temps et la personne sans auxiliaires distincts.\n• **Kartvélien (géorgien) :** Accord verbal polypersonnel marquant le sujet et les objets."
+      "text": "• **Structures simples :** Sujet + Verbe + Complément.\n• **Futur proche et modaux :** Utilisation de 'aller + infinitif' et 'pouvoir/devoir'.\n• **Conjugaisons :** Tous les temps et formes sont consultables sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Exercices pratiques et navigation"
+      "text": "Pratique et conjugaison"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explorez les 14 articles dans le hub COSYmagazine ou testez vos connaissances sur [COSYpractice](https://cosylanguages.github.io/COSYpractice/) et consultez les tables de verbes sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Pratiquez vos connaissances sur [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lisez la [Partie 1](top-10-verbs-fr.html) et la [Partie 2](top-10-verbs-part-2-fr.html), et consultez les conjugaisons sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

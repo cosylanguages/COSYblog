@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "I 10 verbi essenziali in italiano, Parte 2 (CEFR A0–A1)",
-  "kicker": "GUIDA ALL'ITALIANO — PARTE 2",
-  "dek": "La seconda parte della guida ai verbi italiani per principianti (A0–A1): fare, parlare/dire, guardare/vedere, ascoltare/sentire, dovere/bisognare, prendere/dare, vivere/abitare, aspettare, capire e chiedere/rispondere.",
+  "title": "I 10 verbi essenziali in italiano, Parte 2 (A0–A1 / A2)",
+  "kicker": "GUIDA ALL'ITALIANO — PARTE 2 DI 2",
+  "dek": "Scopri i successivi 10 verbi essenziali (fare, parlare/dire, guardare/vedere, ascoltare/sentire, dovere/bisognare, prendere/dare, vivere/abitare, aspettare, capire, chiedere/rispondere). Coniugazioni consultabili su COSYtools.",
   "tags": [
     "Verbs",
     "Italian",
@@ -44,37 +44,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Benvenuti alla seconda parte della guida ai verbi italiani per il livello A0–A1! Scopriamo 10 nuovi gruppi di verbi fondamentali per comunicare ogni giorno."
+      "text": "Benvenuti alla Parte 2 della nostra guida ai verbi italiani per principianti A0–A1 e A2! (Leggi la [Parte 1](top-10-verbs-it.html) se te la sei persa). Analizziamo 10 nuovi verbi quotidiani. Tutte le tabelle di coniugazione sono consultabili su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Analisi approfondita: I 10 verbi italiani (Parte 2)"
+      "text": "I 10 verbi principali (Parte 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Fare:** Attività quotidiane e creazioni.\n  • *Esempi:* 'Fare la spesa', 'Fare colazione', 'Fare i compiti'.\n  • *Frasi utili:* 'fare attenzione', 'fare piacere', 'fare bella figura'.",
-        "**2. Parlare / Dire:** Comunicazione e racconto.\n  • *Esempi:* 'Parlare italiano', 'Dire la verità', 'Dimmi'.\n  • *Frasi utili:* 'parlare di', 'dire di sì', 'per così dire'.",
-        "**3. Guardare / Vedere:** Attenzione visiva e percezione.\n  • *Esempi:* 'Guardare un film', 'Vedo un uccello'.\n  • *Frasi utili:* 'guardare la TV', 'stare a vedere', 'ci vediamo'.",
-        "**4. Ascoltare / Sentire:** Ascolto attivo e percezione uditiva.\n  • *Esempi:* 'Ascoltare musica', 'Sento un rumore'.\n  • *Frasi utili:* 'ascolta con attenzione', 'sentire parlare di'.",
-        "**5. Dovere / Bisognare:** Obbligo e necessità.\n  • *Esempi:* 'Devo studiare', 'Bisogna partire ora'.\n  • *Frasi utili:* 'dovere fare', 'come si deve', 'bisogna stare attenti'.",
-        "**6. Prendere / Dare / Ricevere:** Scambi fisici e astratti.\n  • *Esempi:* 'Prendere il treno', 'Dare un regalo', 'Ricevere una lettera'.\n  • *Frasi utili:* 'prendersi cura', 'dare un passaggio', 'prendere un caffè'.",
-        "**7. Vivere / Abitare:** Residenza e stile di vita.\n  • *Esempi:* 'Abito a Milano', 'Vivere in pace'.\n  • *Frasi utili:* 'vivere all'estero', 'abitare vicino'.",
-        "**8. Aspettare:** Pazienza e attesa.\n  • *Esempi:* 'Aspettare l'autobus', 'Aspetta un momento'.\n  • *Frasi utili:* 'non vedere l'ora', 'aspettare in fila'.",
-        "**9. Capire:** Comprensione ed empatia.\n  • *Esempi:* 'Capisco la lezione', 'Capisci cosa intendo?'.\n  • *Frasi utili:* 'farsi capire', 'capisco benissimo'.",
-        "**10. Chiedere / Rispondere:** Domande, risposte e cortesia.\n  • *Esempi:* 'Chiedere un'informazione', 'Rispondere al telefono'.\n  • *Frasi utili:* 'chiedere aiuto', 'rispondere subito'."
+        "**1. Fare:** Attività quotidiane.\n  • *Frasi semplici:* 'Fare la spesa', 'Fare colazione', 'Fare i compiti'.\n  • *Frasi utili:* 'fare attenzione', 'fare piacere', 'fare bella figura'.",
+        "**2. Parlare / Dire:** Comunicazione.\n  • *Frasi semplici:* 'Parlare italiano', 'Dire la verità', 'Dimmi'.\n  • *Frasi utili:* 'parlare di', 'dire di sì', 'per così dire'.",
+        "**3. Guardare / Vedere:** Percezione visiva.\n  • *Frasi semplici:* 'Guardare un film', 'Vedo un uccello'.\n  • *Frasi utili:* 'guardare la TV', 'stare a vedere', 'ci vediamo'.",
+        "**4. Ascoltare / Sentire:** Percezione uditiva.\n  • *Frasi semplici:* 'Ascoltare musica', 'Sento un rumore'.\n  • *Frasi utili:* 'ascolta con attenzione', 'sentire parlare di'.",
+        "**5. Dovere / Bisognare:** Obbligo e necessità.\n  • *Frasi semplici:* 'Devo studiare', 'Bisogna partire ora'.\n  • *Frasi utili:* 'dovere fare', 'come si deve', 'bisogna stare attenti'.",
+        "**6. Prendere / Dare:** Scambi.\n  • *Frasi semplici:* 'Prendere il treno', 'Dare un regalo'.\n  • *Frasi utili:* 'prendersi cura', 'dare un passaggio', 'prendere un caffè'.",
+        "**7. Vivere / Abitare:** Residensa.\n  • *Frasi semplici:* 'Abito a Milano', 'Vivere in pace'.\n  • *Frasi utili:* 'vivere all'estero', 'abitare vicino'.",
+        "**8. Aspettare:** Attesa.\n  • *Frasi semplici:* 'Aspettare l'autobus', 'Aspetta un momento'.\n  • *Frasi utili:* 'non vedere l'ora', 'aspettare in fila'.",
+        "**9. Capire:** Comprensione.\n  • *Frasi semplici:* 'Capisco la lezione', 'Capisci cosa intendo?'.\n  • *Frasi utili:* 'farsi capire', 'capisco benissimo'.",
+        "**10. Chiedere / Rispondere:** Domande e risposte.\n  • *Frasi semplici:* 'Chiedere un'informazione', 'Rispondere al telefono'.\n  • *Frasi utili:* 'chiedere aiuto', 'rispondere subito'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matrice comparativa tra 14 lingue"
+      "text": "Tabella comparativa dei verbi"
     },
     {
       "type": "paragraph",
-      "text": "Ecco la tabella comparativa dei verbi principali nelle 14 lingue ufficiali:"
+      "text": "Confronto dei verbi essenziali nelle famiglie linguistiche:"
     },
     {
       "type": "table",
@@ -101,7 +101,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -109,7 +109,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -132,20 +132,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Sfumature linguistiche e aspetti grammaticali"
+      "text": "Strutture grammaticali per principianti (A0–A1 / A2)"
     },
     {
       "type": "paragraph",
-      "text": "• **Indoeuropeo:** Utilizza ausiliari e flessioni di persona/numero.\n• **Famiglia turchica (tataro, baschiro, ciuvascio):** Strutture a suffissi agglutinanti per tempo e persona senza ausiliari separati.\n• **Kartvelico (georgiano):** Accordo verbale polipersonale che marca soggetto e oggetti."
+      "text": "• **Frasi semplici:** Soggetto + Verbo + Oggetto.\n• **Modali e tempo futuro:** Uso di 'andare', 'stare per' e 'potere/dovere'.\n• **Coniugazioni verbali:** Consulta le tabelle dei tempi verbali su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Esercizi pratici e navigazione"
+      "text": "Pratica e coniugazione"
     },
     {
       "type": "paragraph",
-      "text": "📌 Esplora tutti i 14 articoli nell'hub di COSYmagazine o metti alla prova le tue conoscenze su [COSYpractice](https://cosylanguages.github.io/COSYpractice/) e consulta le tabelle dei verbi su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Esercitati su [COSYpractice](https://cosylanguages.github.io/COSYpractice/), leggi la [Parte 1](top-10-verbs-it.html) e la [Parte 2](top-10-verbs-part-2-it.html), e consulta le coniugazioni dei verbi su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

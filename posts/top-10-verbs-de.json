@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Die 10 wichtigsten Verben im Deutschen für Anfänger (CEFR A0–A1)",
-  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 1",
-  "dek": "Meistern Sie die 10 wichtigsten Verben: sein, haben, denken, wissen/kennen, mögen/gefallen, wollen/möchte, gehen/werden, können, essen und trinken mit Sätzen und Tipps.",
+  "title": "Die 10 wichtigsten Verben im Deutschen für Anfänger (A0–A1 / A2)",
+  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 1 VON 2",
+  "dek": "Lernen Sie die ersten 10 Grundverben im Deutschen (sein, haben, denken, wissen/kennen, mögen/gefallen, wollen/möchte, gehen/werden, können, essen, trinken). Konjugationstabellen sind auf COSYtools abrufbar.",
   "tags": [
     "Verbs",
     "German",
@@ -45,37 +45,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Willkommen zum ersten Teil unseres Verben-Leitfadens für das Niveau A0–A1 im Deutschen! Zu jedem Verb finden Sie Beispielsätze, feste Wendungen und Grammatik-Tipps."
+      "text": "Willkommen zu Teil 1 unseres 2-teiligen Verben-Leitfadens für Deutschlernende der Niveaus A0–A1 und A2! Hier finden Sie einfache Beispielsätze und nützliche Phrasen. (Lesen Sie auch [Teil 2](top-10-verbs-part-2-de.html)). Die vollständigen Konjugationstabellen aller Verben sind auf [COSYtools](https://cosylanguages.github.io/COSYtools/) einsehbar."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Detaillierte Analyse: Die 10 deutschen Verben (Teil 1)"
+      "text": "Die 10 Grundverben (Teil 1)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Sein:** Identität, Zustand, Alter und Ort.\n  • *Beispiele:* 'Ich bin Student', 'Er ist zu Hause', 'Wir sind fertig'.\n  • *Nützliche Phrasen:* 'pünktlich sein', 'einverstanden sein', '25 Jahre alt sein'.",
-        "**2. Haben:** Besitz, Beziehungen und körperliche Zustände.\n  • *Beispiele:* 'Ich habe ein Auto', 'Sie hat eine Schwester', 'Ich habe Kopfschmerzen'.\n  • *Nützliche Phrasen:* 'Hunger/Durst haben', 'Zeit haben', 'Glück haben'.",
-        "**3. Denken:** Meinungen und Denkvorgänge.\n  • *Beispiele:* 'Ich denke schon', 'Was denkst du darüber?', 'Ich denke an dich'.\n  • *Nützliche Phrasen:* 'denken an', 'nachdenken', 'meiner Meinung nach'.",
-        "**4. Wissen / Kennen:** Faktenwissen vs Bekanntschaft.\n  • *Beispiele:* 'Ich weiß die Antwort', 'Ich kenne diese Stadt', 'Weißt du wo das ist?'.\n  • *Nützliche Phrasen:* 'Bescheid wissen', 'kennenlernen', 'soweit ich weiß'.",
-        "**5. Mögen / Gefallen:** Vorlieben und Geschmack.\n  • *Beispiele:* 'Ich mag Kaffee', 'Das Buch gefällt mir', 'Magst du Sport?'.\n  • *Nützliche Phrasen:* 'sehr mögen', 'Gefallen finden', 'wie du magst'.",
-        "**6. Wollen / Ich möchte:** Wünsche, Pläne und höfliche Bitten.\n  • *Beispiele:* 'Ich will Wasser trinken', 'Ich möchte einen Kaffee bitte', 'Was willst du machen?'.\n  • *Nützliche Phrasen:* 'möchte bestellen', 'wenn du willst', 'willkommen'.",
-        "**7. Gehen / Werden:** Bewegung und Zukunftsvorhaben.\n  • *Beispiele:* 'Ich gehe zur Arbeit', 'Sie geht nach Hause', 'Wir werden morgen reisen'.\n  • *Nützliche Phrasen:* 'Wie geht's?', 'zu Fuß gehen', 'einkaufen gehen'.",
-        "**8. Können:** Fähigkeit, Möglichkeit und Erlaubnis.\n  • *Beispiele:* 'Ich kann Deutsch sprechen', 'Kannst du mir helfen?', 'Man kann hier sitzen'.\n  • *Nützliche Phrasen:* 'kann sein', 'so gut ich kann', 'was kann ich tun?'.",
-        "**9. Essen:** Mahlzeiten und Nahrung.\n  • *Beispiele:* 'Ich esse jeden Morgen Obst', 'Was wollen wir essen?', 'Im Restaurant essen'.\n  • *Nützliche Phrasen:* 'Guten Appetit!', 'gesund essen', 'etwas zu essen'.",
-        "**10. Trinken:** Getränke und Flüssigkeit.\n  • *Beispiele:* 'Ich trinke Tee', 'Möchten Sie etwas trinken?', 'Er trinkt Wasser'.\n  • *Nützliche Phrasen:* 'etwas zu trinken', 'Kaffee trinken', 'Prost!'."
+        "**1. Sein:** Identität, Zustand und Ort.\n  • *Einfache Sätze:* 'Ich bin Student', 'Er ist zu Hause', 'Wir sind fertig'.\n  • *Phrasen:* 'pünktlich sein', 'einverstanden sein', 'bereit sein'.",
+        "**2. Haben:** Besitz, Alter und Zustände.\n  • *Einfache Sätze:* 'Ich habe ein Auto', 'Sie hat eine Schwester', 'Ich habe Hunger'.\n  • *Phrasen:* 'Hunger/Durst haben', 'Zeit haben', 'Glück haben'.",
+        "**3. Denken:** Meinungen und Gedanken.\n  • *Einfache Sätze:* 'Ich denke schon', 'Was denkst du darüber?', 'Ich denke an dich'.\n  • *Phrasen:* 'denken an', 'nachdenken', 'meiner Meinung nach'.",
+        "**4. Wissen / Kennen:** Faktenwissen vs. Personen/Orte.\n  • *Einfache Sätze:* 'Ich weiß die Antwort', 'Ich kenne diese Stadt'.\n  • *Phrasen:* 'Bescheid wissen', 'kennenlernen', 'soweit ich weiß'.",
+        "**5. Mögen / Gefallen:** Vorlieben und Geschmack.\n  • *Einfache Sätze:* 'Ich mag Kaffee', 'Das Buch gefällt mir'.\n  • *Phrasen:* 'sehr mögen', 'Gefallen finden', 'wie du magst'.",
+        "**6. Wollen / Ich möchte:** Wünsche und Höflichkeit.\n  • *Einfache Sätze:* 'Ich will Wasser trinken', 'Ich möchte einen Kaffee bitte'.\n  • *Phrasen:* 'möchte bestellen', 'wenn du willst', 'willkommen'.",
+        "**7. Gehen / Werden:** Bewegung und Zukunftsvorhaben.\n  • *Einfache Sätze:* 'Ich gehe zur Arbeit', 'Sie geht nach Hause', 'Wir werden essen'.\n  • *Phrasen:* 'Wie geht's?', 'zu Fuß gehen', 'einkaufen gehen'.",
+        "**8. Können:** Fähigkeit und Erlaubnis.\n  • *Einfache Sätze:* 'Ich kann Deutsch sprechen', 'Kannst du mir helfen?'.\n  • *Phrasen:* 'kann sein', 'so gut ich kann', 'was kann ich tun?'.",
+        "**9. Essen:** Mahlzeiten und Nahrung.\n  • *Einfache Sätze:* 'Ich esse einen Apfel', 'Was wollen wir essen?'.\n  • *Phrasen:* 'Guten Appetit!', 'gesund essen', 'etwas zu essen'.",
+        "**10. Trinken:** Getränke.\n  • *Einfache Sätze:* 'Ich trinke Tee', 'Möchten Sie etwas trinken?'.\n  • *Phrasen:* 'etwas zu trinken', 'Kaffee trinken', 'Prost!'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachvergleichsmatrix über 14 Sprachen"
+      "text": "Sprachenvergleichstabelle"
     },
     {
       "type": "paragraph",
-      "text": "Nachfolgend finden Sie den vergleichenden Überblick über die wichtigsten Verben in allen 14 Amtssprachen:"
+      "text": "Vergleich der wichtigsten Verben in verschiedenen Sprachfamilien:"
     },
     {
       "type": "table",
@@ -102,7 +102,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -110,7 +110,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -118,7 +118,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -133,20 +133,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachfamilien & Grammatik-Highlights"
+      "text": "Grammatikstrukturen für Anfänger (A0–A1 / A2)"
     },
     {
       "type": "paragraph",
-      "text": "• **Indogermanisch:** Verwendet Zeitform-Hilfsverben und Person/Numerus-Flexionen.\n• **Turksprachen (Tatarisch, Baschkirisch, Tschuwaschisch):** Agglutinative Suffixstrukturen für Tempus und Person ohne separate Hilfsverben.\n• **Kartwelisch (Georgisch):** Polypersonale Verbkongruenz zur Markierung von Subjekt und Objekten."
+      "text": "• **Einfache Satzstrukturen:** Subjekt + Verb + Objekt.\n• **Modalverben & Zukunft:** Nutzung von 'können', 'müssen' und 'werden/gehen'.\n• **Verbformen & Konjugation:** Alle Zeitformen sind auf [COSYtools](https://cosylanguages.github.io/COSYtools/) abrufbar."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Interaktive Übungen und Navigation"
+      "text": "Übungen und Konjugation"
     },
     {
       "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Üben Sie auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lesen Sie [Teil 1](top-10-verbs-de.html) sowie [Teil 2](top-10-verbs-part-2-de.html), und schlagen Sie die Konjugationen auf [COSYtools](https://cosylanguages.github.io/COSYtools/) nach."
     }
   ],
   "draft": false

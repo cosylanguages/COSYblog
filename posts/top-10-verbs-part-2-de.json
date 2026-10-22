@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Die 10 wichtigsten Verben im Deutschen, Teil 2 (CEFR A0–A1)",
-  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 2",
-  "dek": "Der zweite Teil des Verben-Leitfadens für Anfänger (A0–A1): machen/tun, sprechen/sagen, schauen/sehen, hören, müssen/sollen, nehmen/geben, wohnen/leben, warten, verstehen und fragen/antworten.",
+  "title": "Die 10 wichtigsten Verben im Deutschen, Teil 2 (A0–A1 / A2)",
+  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 2 VON 2",
+  "dek": "Entdecken Sie die nächsten 10 wichtigen Verben (machen/tun, sprechen/sagen, schauen/sehen, hören, müssen/sollen, nehmen/geben, wohnen/leben, warten, verstehen, fragen/antworten). Konjugationstabellen auf COSYtools.",
   "tags": [
     "Verbs",
     "German",
@@ -44,37 +44,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Willkommen zum zweiten Teil unseres Verben-Leitfadens für A0–A1! Hier behandeln wir 10 weitere hochfrequente Alltagsverben für Handlungen und Gespräche."
+      "text": "Willkommen zu Teil 2 unseres Verben-Leitfadens für Deutschlernende (A0–A1 / A2)! (Falls Sie [Teil 1](top-10-verbs-de.html) verpasst haben, lesen Sie diesen zuerst). Hier behandeln wir 10 weitere Alltagsverben. Alle Konjugationstabellen finden Sie auf [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Detaillierte Analyse: Die 10 deutschen Verben (Teil 2)"
+      "text": "Die 10 Grundverben (Teil 2)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Machen / Tun:** Aktivitäten und Handlungen.\n  • *Beispiele:* 'Hausaufgaben machen', 'Was tust du?'.\n  • *Nützliche Phrasen:* 'Freude machen', 'Sinn machen', 'Nichts zu tun'.",
-        "**2. Sprechen / Sagen:** Kommunikation.\n  • *Beispiele:* 'Deutsch sprechen', 'Die Wahrheit sagen', 'Sag mir Bescheid'.\n  • *Nützliche Phrasen:* 'sprechen über', 'Hallo sagen', 'sozusagen'.",
-        "**3. Schauen / Sehen:** Visuelle Aufmerksamkeit.\n  • *Beispiele:* 'Fernsehen schauen', 'Ich sehe einen Vogel'.\n  • *Nützliche Phrasen:* 'Schau mal!', 'Ausschau halten', 'Bis später!'.",
-        "**4. Hören:** Akustische Wahrnehmung.\n  • *Beispiele:* 'Musik hören', 'Ich höre ein Geräusch'.\n  • *Nützliche Phrasen:* 'zuhören', 'von jemandem hören'.",
-        "**5. Müssen / Sollen:** Notwendigkeit und Pflicht.\n  • *Beispiele:* 'Ich muss lernen', 'Du sollst schlafen'.\n  • *Nützliche Phrasen:* 'muss sein', 'soll ich helfen?'.",
-        "**6. Nehmen / Geben:** Austausch und Übergabe.\n  • *Beispiele:* 'Den Bus nehmen', 'Ein Geschenk geben', 'Bescheid bekommen'.\n  • *Nützliche Phrasen:* 'Rücksicht nehmen', 'Acht geben', 'Platz nehmen'.",
-        "**7. Wohnen / Leben:** Wohnort und Lebensstil.\n  • *Beispiele:* 'Ich wohne in Berlin', 'Gut leben'.\n  • *Nützliche Phrasen:* 'im Ausland leben', 'zusammenwohnen'.",
-        "**8. Warten:** Geduld und Erwartung.\n  • *Beispiele:* 'Auf den Bus warten', 'Warten Sie einen Moment'.\n  • *Nützliche Phrasen:* 'warten auf', 'kaum erwarten können'.",
-        "**9. Verstehen:** Verständnis.\n  • *Beispiele:* 'Ich verstehe die Lektion', 'Verstehst du mich?'.\n  • *Nützliche Phrasen:* 'sich verstehen', 'vollkommen verstehen'.",
-        "**10. Fragen / Antworten:** Fragen und Antworten.\n  • *Beispiele:* 'Eine Frage stellen', 'Auf die E-Mail antworten'.\n  • *Nützliche Phrasen:* 'um Hilfe fragen', 'schnell antworten'."
+        "**1. Machen / Tun:** Aktivitäten.\n  • *Einfache Sätze:* 'Hausaufgaben machen', 'Was tust du?'.\n  • *Phrasen:* 'Freude machen', 'Sinn machen', 'Nichts zu tun'.",
+        "**2. Sprechen / Sagen:** Kommunikation.\n  • *Einfache Sätze:* 'Deutsch sprechen', 'Die Wahrheit sagen', 'Sag mir Bescheid'.\n  • *Phrasen:* 'sprechen über', 'Hallo sagen', 'sozusagen'.",
+        "**3. Schauen / Sehen:** Wahrnehmung.\n  • *Einfache Sätze:* 'Fernsehen schauen', 'Ich sehe einen Vogel'.\n  • *Phrasen:* 'Schau mal!', 'Ausschau halten', 'Bis später!'.",
+        "**4. Hören:** Akustische Wahrnehmung.\n  • *Einfache Sätze:* 'Musik hören', 'Ich höre ein Geräusch'.\n  • *Phrasen:* 'zuhören', 'von jemandem hören'.",
+        "**5. Müssen / Sollen:** Notwendigkeit und Pflicht.\n  • *Einfache Sätze:* 'Ich muss lernen', 'Du sollst schlafen'.\n  • *Phrasen:* 'muss sein', 'soll ich helfen?'.",
+        "**6. Nehmen / Geben:** Austausch.\n  • *Einfache Sätze:* 'Den Bus nehmen', 'Ein Geschenk geben'.\n  • *Phrasen:* 'Rücksicht nehmen', 'Acht geben', 'Platz nehmen'.",
+        "**7. Wohnen / Leben:** Wohnort.\n  • *Einfache Sätze:* 'Ich wohne in Berlin', 'Gut leben'.\n  • *Phrasen:* 'im Ausland leben', 'zusammenwohnen'.",
+        "**8. Warten:** Geduld.\n  • *Einfache Sätze:* 'Auf den Bus warten', 'Warten Sie einen Moment'.\n  • *Phrasen:* 'warten auf', 'kaum erwarten können'.",
+        "**9. Verstehen:** Verständnis.\n  • *Einfache Sätze:* 'Ich verstehe die Lektion', 'Verstehst du mich?'.\n  • *Phrasen:* 'sich verstehen', 'vollkommen verstehen'.",
+        "**10. Fragen / Antworten:** Fragen und Antworten.\n  • *Einfache Sätze:* 'Eine Frage stellen', 'Auf die E-Mail antworten'.\n  • *Phrasen:* 'um Hilfe fragen', 'schnell antworten'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachvergleichsmatrix über 14 Sprachen"
+      "text": "Sprachenvergleichstabelle"
     },
     {
       "type": "paragraph",
-      "text": "Nachfolgend finden Sie den vergleichenden Überblick über die wichtigsten Verben in allen 14 Amtssprachen:"
+      "text": "Vergleich der wichtigsten Verben in verschiedenen Sprachfamilien:"
     },
     {
       "type": "table",
@@ -101,7 +101,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -109,7 +109,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -117,7 +117,7 @@
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
           "бару / барыу / кайни",
-          "წاسვლა (tsasvla)"
+          "წასვლა (tsasvla)"
         ],
         [
           "See / Look",
@@ -132,20 +132,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachfamilien & Grammatik-Highlights"
+      "text": "Grammatikstrukturen für Anfänger (A0–A1 / A2)"
     },
     {
       "type": "paragraph",
-      "text": "• **Indogermanisch:** Verwendet Zeitform-Hilfsverben und Person/Numerus-Flexionen.\n• **Turksprachen (Tatarisch, Baschkirisch, Tschuwaschisch):** Agglutinative Suffixstrukturen für Tempus und Person ohne separate Hilfsverben.\n• **Kartwelisch (Georgisch):** Polypersonale Verbkongruenz zur Markierung von Subjekt und Objekten."
+      "text": "• **Einfache Satzstrukturen:** Subjekt + Verb + Objekt.\n• **Modalverben & Zukunft:** Nutzung von 'können', 'müssen' und 'werden/gehen'.\n• **Verbformen & Konjugation:** Alle Zeitformen sind auf [COSYtools](https://cosylanguages.github.io/COSYtools/) abrufbar."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Interaktive Übungen und Navigation"
+      "text": "Übungen und Konjugation"
     },
     {
       "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Üben Sie auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lesen Sie [Teil 1](top-10-verbs-de.html) sowie [Teil 2](top-10-verbs-part-2-de.html), und schlagen Sie die Konjugationen auf [COSYtools](https://cosylanguages.github.io/COSYtools/) nach."
     }
   ],
   "draft": false
