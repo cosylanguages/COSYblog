@@ -45,6 +45,10 @@
   "blocks": [
     {
       "type": "paragraph",
+      "text": "<div style=\"margin: 1rem 0 2rem 0; padding: 1rem; background: #f8fafc; border-radius: 10px; border: 1px solid #e2e8f0;\">\n    <div style=\"font-size:0.9rem; font-weight:bold; color:#475569; margin-bottom:0.6rem;\">🌐 Zu einem anderen der 14 Sprach-Leitfäden wechseln:</div>\n    <div style=\"display:flex; flex-wrap:wrap; gap:0.5rem;\">\n        <a href=\"top-10-verbs.html\" style=\"padding:0.4rem 0.75rem; background:#3b82f6; color:#ffffff; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:bold;\">🏛 Hub</a> <a href=\"top-10-verbs-en.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇬🇧 EN</a> <a href=\"top-10-verbs-fr.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇫🇷 FR</a> <a href=\"top-10-verbs-it.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇮🇹 IT</a> <a href=\"top-10-verbs-ru.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇷🇺 RU</a> <a href=\"top-10-verbs-el.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇬🇷 EL</a> <a href=\"top-10-verbs-tt.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🌐 TT</a> <a href=\"top-10-verbs-ba.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🌐 BA</a> <a href=\"top-10-verbs-br.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🌐 BR</a> <a href=\"top-10-verbs-pt.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇵🇹 PT</a> <a href=\"top-10-verbs-es.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇪🇸 ES</a> <a href=\"top-10-verbs-hy.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇦🇲 HY</a> <a href=\"top-10-verbs-ka.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🇬🇪 KA</a> <a href=\"top-10-verbs-cv.html\" style=\"padding:0.4rem 0.75rem; background:#ffffff; border:1px solid #cbd5e1; color:#1e293b; border-radius:6px; text-decoration:none; font-size:0.85rem; font-weight:500;\">🌐 CV</a>\n    </div>\n</div>"
+    },
+    {
+      "type": "paragraph",
       "text": "Willkommen zum Verben-Leitfaden für das Niveau A0–A1 im Deutschen! Diese 10 Verben bilden das Fundament der alltäglichen Kommunikation."
     },
     {
@@ -83,21 +87,21 @@
         "Concept",
         "Romance (FR/IT/ES/PT)",
         "Germanic (EN/DE)",
-        "Slavic / Hellenic / Celtic / Arm",
+        "Slavic/Hellenic/Celtic/Arm (RU/EL/BR/HY)",
         "Turkic (TT/BA/CV)",
         "Kartvelian (KA)"
       ],
       "rows": [
         [
-          "Be / Exist",
+          "1. Be / Exist",
           "être / essere / ser, estar / ser, estar",
           "be / sein",
           "быть / είναι / bezañ / լինել",
-          "булу / булыу / пуласси",
+          "булу / булыу / пулма",
           "ყოფნა (qopna)"
         ],
         [
-          "Have / Possess",
+          "2. Have / Possess",
           "avoir / avere / tener / ter",
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
@@ -105,28 +109,68 @@
           "ქონა / ყოლა"
         ],
         [
-          "Do / Make",
+          "3. Do / Make",
           "faire / fare / hacer / fazer",
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
+          "эшләү / эшләү / тăвас",
           "კეთება (keteba)"
         ],
         [
-          "Go",
+          "4. Go",
           "aller / andare / ir / ir",
           "go / gehen",
           "идти, ехать / πηγαίνω / mont / գնալ",
-          "бару / барыу / кайни",
+          "бару / барыу / кайнӑ",
           "წასვლა (tsasvla)"
         ],
         [
-          "See / Look",
+          "5. Come",
+          "venir / venire / venir / vir",
+          "come / kommen",
+          "приходить / έρχομαι / dont / գալ",
+          "килү / килеү / килме",
+          "მოსვლა (mosvla)"
+        ],
+        [
+          "6. Say / Tell",
+          "dire / dire / decir / dizer",
+          "say, tell / sagen",
+          "говорить / λέω / lavar / ասել",
+          "әйтү / әйтеү / калама",
+          "თქμα (tqma)"
+        ],
+        [
+          "7. See / Look",
           "voir, regarder / vedere, guardare",
           "see, look / sehen, schauen",
           "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "күрү, карау / күреү, ҡарау / курма",
+          "ნახვა (nakhva)"
+        ],
+        [
+          "8. Know",
+          "savoir, connaître / sapere, conoscere",
+          "know / wissen, kennen",
+          "знать / ξέρω / gouzout / իմանալ",
+          "белү / белеү / пĕлме",
+          "ცოდნა (tsodna)"
+        ],
+        [
+          "9. Want",
+          "vouloir / volere / querer / querer",
+          "want / wollen",
+          "хотеть / θέλω / c'hoant kaout / ուզել",
+          "теләү / теләү / былмаш",
+          "ნდომა (ndoma)"
+        ],
+        [
+          "10. Like / Give",
+          "aimer, donner / piacere, dare",
+          "like, give / mögen, geben",
+          "нравиться, давать / αρέσει, δίνω / plijout, reiñ / հավանել, տալ",
+          "ярату, бирү / яратыу, биреү / килĕшме, парас",
+          "მოწონება, მიცემა"
         ]
       ]
     },
@@ -146,7 +190,7 @@
     },
     {
       "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://example.com) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://example.com)."
+      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false
