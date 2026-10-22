@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Los 10 verbos esenciales en español para principiantes (CEFR A0–A1)",
-  "kicker": "GUÍA DE ESPAÑOL — PARTE 1",
-  "dek": "Aprende los 10 verbos más frecuentes en español con conjugaciones adaptadas a A0–A1, colocaciones útiles, notas sobre falsos amigos y tabla comparativa en 14 idiomas.",
+  "title": "Los 10 verbos esenciales en español para principiantes (A0–A1 / A2)",
+  "kicker": "GUÍA DE ESPAÑOL — PARTE 1 DE 2",
+  "dek": "Aprende los primeros 10 verbos fundamentales en español (ser/estar, tener, pensar, saber/conocer, gustar, querer/gustaría, ir/ir a, poder, comer, beber). Conjugaciones consultables en COSYtools.",
   "tags": [
     "Verbs",
     "Spanish",
@@ -45,37 +45,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "¡Bienvenidos a la guía de verbos esenciales en español para nivel A0–A1! El dominio de estos 10 verbos te permitirá desenvolverte con soltura en la vida cotidiana."
+      "text": "¡Bienvenidos a la Parte 1 de nuestra guía en 2 partes sobre verbos esenciales en español para estudiantes de nivel A0–A1 y A2! Aprende estructuras sencillas y expresiones útiles. (Consulta también la [Parte 2](top-10-verbs-part-2-es.html)). Las tablas de conjugación completas se pueden consultar en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Análisis detallado: Los 10 verbos en español (Parte 1)"
+      "text": "Los 10 verbos fundamentales (Parte 1)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Ser / Estar:** Identidad y ubicación (*Soy estudiante*, *Estoy en casa*).",
-        "**2. Tener (tengo, tienes, tiene, tenemos, tenéis, tienen):** Posesión y edad (*Tengo un libro*, *Tengo 20 años*).",
-        "**3. Hacer (hago, haces, hace, hacemos, hacéis, hacen):** Actividades (*Hacer la tarea*, *Hacer café*).",
-        "**4. Ir (voy, vas, va, vamos, vais, van):** Movimiento y futuro cercano (*Voy a la escuela*, *Voy a comer*).",
-        "**5. Venir (vengo, vienes, viene, venimos, venís, vienen):** Procedencia (*Vengo de Madrid*).",
-        "**6. Decir (digo, dices, dice, decimos, decís, dicen):** Comunicación (*Decir la verdad*, *Decir que sí*).",
-        "**7. Ver / Mirar:** Percepción visual (*Veo una película*, *Mirar la televisión*).",
-        "**8. Saber / Conocer:** Información y familiaridad (*Sé la respuesta*, *Conozco a Juan*).",
-        "**9. Querer (quiero, quieres, quiere...):** Deseo y cortesía (*Quiero agua*, *Quisiera un café*).",
-        "**10. Gustar:** Expresar gustos (*Me gusta la música*, *Me gustan los libros*)."
+        "**1. Ser / Estar:** Identidad, estados y ubicación.\n  • *Frases sencillas:* 'Soy estudiante', 'Estoy en casa', 'Estamos listos'.\n  • *Frases útiles:* 'estar a tiempo', 'estar de acuerdo', 'estar bien'.",
+        "**2. Tener:** Posesión, edad y estados físicos.\n  • *Frases sencillas:* 'Tengo un coche', 'Tengo 25 años', 'Tengo hambre'.\n  • *Frases útiles:* 'tener que', 'tener ganas de', 'tener prisa'.",
+        "**3. Pensar:** Opiniones y pensamientos.\n  • *Frases sencillas:* 'Pienso que sí', '¿Qué piensas de esto?', 'Pienso en ti'.\n  • *Frases útiles:* 'pensar en', 'pensarlo bien', 'pensar que'.",
+        "**4. Saber / Conocer:** Información, habilidades y lugares/personas.\n  • *Frases sencillas:* 'Sé hablar español', 'Conozco esta ciudad'.\n  • *Frases útiles:* 'dar a conocer', 'que yo sepa', 'conocer gente'.",
+        "**5. Gustar:** Preferencias y gustos.\n  • *Frases sencillas:* 'Me gusta el café', 'Me gusta viajar', 'Le gusta el deporte'.\n  • *Frases útiles:* 'me gusta mucho', 'me gustaría', '¿te gusta?'.",
+        "**6. Querer / Me gustaría:** Deseos y cortesía.\n  • *Frases sencillas:* 'Quiero agua', 'Me gustaría reservar una mesa'.\n  • *Frases útiles:* 'querer decir', 'si quieres', 'me gustaría pedir'.",
+        "**7. Ir / Ir a + Infinitivo:** Movimiento e intenciones futuras.\n  • *Frases sencillas:* 'Voy al trabajo', 'Ella va a Madrid', 'Vamos a comer'.\n  • *Frases útiles:* '¿cómo te va?', 'ir a pie', 'ir de compras'.",
+        "**8. Poder:** Capacidad y permiso.\n  • *Frases sencillas:* '¿Puedo ayudarte?', '¿Puedes venir?'.\n  • *Frases útiles:* 'si se puede', 'se puede pasar', 'lo antes posible'.",
+        "**9. Comer:** Alimentación y comidas.\n  • *Frases sencillas:* 'Como una manzana', '¿Qué vamos a comer?'.\n  • *Frases útiles:* 'buen provecho', 'dar de comer', 'comer sano'.",
+        "**10. Beber:** Bebidas e hidratación.\n  • *Frases sencillas:* 'Bebo té', '¿Quieres algo de beber?'.\n  • *Frases útiles:* 'algo de beber', 'tomar un trago', 'beber café'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matriz lingüística comparativa en 14 idiomas"
+      "text": "Tabla comparativa de verbos"
     },
     {
       "type": "paragraph",
-      "text": "A continuación se muestra el desglose comparativo de los verbos principales en los 14 idiomas oficiales:"
+      "text": "Comparación de los verbos esenciales en las familias lingüísticas:"
     },
     {
       "type": "table",
@@ -102,7 +102,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -110,7 +110,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -133,20 +133,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Matices familiares y aspectos gramaticales"
+      "text": "Estructuras gramaticales para nivel A0–A1 / A2"
     },
     {
       "type": "paragraph",
-      "text": "• **Indoeuropeo:** Utiliza auxiliares de tiempo e inflexiones de persona/número.\n• **Familia turca (tártaro, bashkir, chuvash):** Estructuras de sufijos aglutinantes que expresan tiempo y persona sin auxiliares separados.\n• **Kartveliano (georgiano):** Concordancia verbal polipersonal para sujeto y objetos."
+      "text": "• **Oraciones simples:** Sujeto + Verbo + Complemento.\n• **Futuro próximo y modales:** Uso de 'ir a + infinitivo' y 'poder/tener que'.\n• **Conjugaciones:** Consulta las tablas de tiempos verbales en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Ejercicios prácticos y navegación"
+      "text": "Práctica y conjugación"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explora los 14 artículos lingüísticos en el hub de COSYmagazine o pon a prueba tus conocimientos en [COSYpractice](https://example.com) y consulta las tablas de verbos en [COSYtools](https://example.com)."
+      "text": "📌 Practica en [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lee la [Parte 1](top-10-verbs-es.html) y la [Parte 2](top-10-verbs-part-2-es.html), y consulta las conjugaciones de los verbos en [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

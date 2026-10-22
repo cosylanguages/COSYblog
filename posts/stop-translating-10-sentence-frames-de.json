@@ -1,0 +1,108 @@
+{
+  "id": "post-stop-translating-10-sentence-frames-de",
+  "slug": "stop-translating-10-sentence-frames-de",
+  "language": "de",
+  "translationOf": "stop-translating-10-sentence-frames",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2026.10",
+    "title": "JY DM's birthday & His favs"
+  },
+  "date": "2026-09-14",
+  "title": "Hör auf zu übersetzen! 10 wiederverwendbare Satzstrukturen, um sofort zu sprechen",
+  "kicker": "SPRICHT JETZT",
+  "dek": "Meistern Sie 10 Satzstrukturen und 10 Überlebenssätze, um Wort-für-Wort-Übersetzungen zu stoppen und direkt auf Deutsch zu denken.",
+  "tags": [
+    "SentenceFrames",
+    "Circumlocution",
+    "Fluency",
+    "A0-B1",
+    "German"
+  ],
+  "readingTime": 8,
+  "podcast": {
+    "episode": 1,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#0d9488",
+      "#faf7f2",
+      "#1e293b",
+      "#f59e0b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "ticket-stub",
+    "seed": "stop-translating-10-sentence-frames-de",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Eines der größten Hindernisse beim Sprachenlernen ist das Wort-für-Wort-Übersetzen. Wenn Sie ein Wort nicht kennen, beschreiben Sie es einfach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dinge direkt auf Deutsch zu beschreiben schafft echte Flüssigkeit. Diese 10 Strukturen helfen Ihnen, Personen, Orte und Gegenstände zu erklären."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "💡 Die 10 wichtigsten Satzstrukturen"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Das ist eine Person, die...** → *Das ist eine Person, die Kinder unterrichtet.* (Lehrer)",
+        "**2. Das ist ein Ort, wo...** → *Das ist ein Ort, wo man Essen kauft.* (Markt)",
+        "**3. Das ist ein Ding, das...** → *Das ist ein Ding, das die Zeit zeigt.* (Uhr)",
+        "**4. Das nutzt man, um zu...** → *Das nutzt man, um zu schreiben.* (Stift)",
+        "**5. Das ist eine Zeit, in der...** → *Das ist eine Zeit, in der Menschen schlafen.* (Nacht)",
+        "**6. Das ist ein Tag, an dem...** → *Das ist ein Tag, an dem man feiert.* (Feiertag)",
+        "**7. Zum Beispiel...** → *Ich mag Sport. Zum Beispiel Fußball.*",
+        "**8. Das bedeutet...** → *'Groß' bedeutet nicht klein.*",
+        "**9. Das sieht aus wie...** → *Das sieht aus wie ein kleiner Computer.*",
+        "**10. Wie sagt man... auf Deutsch?** → *Wie sagt man das auf Deutsch?*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🚀 10 wichtige Überlebenssätze"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Das ist eine Art von...** (*Das ist eine Art von Tier.*)",
+        "**2. Das ist aus... gemacht.** (*Das ist aus Holz gemacht.*)",
+        "**3. Das benutzt man für...** (*Das benutzt man zum Reisen.*)",
+        "**4. Das ist das Gegenteil von...** (*Das ist das Gegenteil von teuer.*)",
+        "**5. Das klingt wie...** (*Das klingt wie Musik.*)",
+        "**6. Das hat...** (*Das hat vier Räder.*)",
+        "**7. Das ist ähnlich wie...** (*Das ist ähnlich wie ein Auto.*)",
+        "**8. Das kommt aus...** (*Das kommt aus Deutschland.*)",
+        "**9. Ich kenne das Wort nicht, aber...** (*Ich kenne das Wort nicht, aber es ist zum Kochen.*)",
+        "**10. Können Sie das bitte wiederholen?** (*Noch einmal bitte?*)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "📌 Summary"
+    },
+    {
+      "type": "paragraph",
+      "text": "Flüssigkeit bedeutet nicht, jedes Wort zu kennen, sondern nie zu verstummen. Nutzen Sie diese Sätze!"
+    }
+  ],
+  "draft": false
+}

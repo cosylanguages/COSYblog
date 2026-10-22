@@ -11,9 +11,9 @@
     "title": "Winter Grammar & High Frequency Verbs"
   },
   "date": "2026-12-01",
-  "title": "Top 10 Essential Verbs in English, Part 2 (CEFR A0–A1)",
-  "kicker": "ENGLISH CORE GUIDE — PART 2",
-  "dek": "Part 2 of the ultimate beginner guide to high-frequency English verbs (A0–A1): do/make, speak/talk/say/tell, look/watch/see, listen/hear, must/have to, take/give/get, live, wait, understand, and ask/answer.",
+  "title": "Top 10 Essential Verbs in English, Part 2 (CEFR A0–A1 / A2)",
+  "kicker": "ENGLISH CORE GUIDE — PART 2 OF 2",
+  "dek": "Master the second 10 high-frequency verbs in English (do/make, speak/talk/say/tell, look/watch/see, listen/hear, must/have to, take/give/get, live, wait, understand, ask/answer). Conjugation tables on COSYtools.",
   "tags": [
     "Verbs",
     "English",
@@ -44,7 +44,7 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to Part 2 of our English verb guide for A0–A1 learners! In this edition, we explore 10 vital action, perception, and communication verbs."
+      "text": "Welcome to Part 2 of our 2-part core verb series for A0–A1 and A2 English learners! (Read [Part 1](top-10-verbs-en.html) if you missed it). Here we cover 10 core action, perception, and modal verbs. All conjugation tables and verb forms are consultable on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
@@ -55,26 +55,26 @@
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Do / Make:** Activity vs Creation (*I do my homework*, *I make breakfast*).",
-        "**2. Speak / Talk / Say / Tell:** Communication nuances (*I speak English*, *Let's talk*, *Say hi*, *Tell a secret*).",
-        "**3. Look / Watch / See:** Visual attention (*Look at this*, *Watch TV*, *I see a tree*).",
-        "**4. Listen / Hear:** Auditory focus vs involuntary hearing (*Listen to music*, *I hear a sound*).",
-        "**5. Must / Have to:** Expressing necessity (*I must study*, *We have to leave*).",
-        "**6. Take / Give / Get:** Physical and abstract exchange (*Take a coat*, *Give a present*, *Get a gift*).",
-        "**7. Live:** Dwelling and life (*I live in London*, *We live well*).",
-        "**8. Wait:** Patience and expectation (*Wait for the bus*, *Wait a minute*).",
-        "**9. Understand:** Comprehension (*I understand the lesson*, *I don't understand*).",
-        "**10. Ask / Answer & Want / Would like:** Questions and polite requests (*Ask a question*, *Answer the phone*, *I would like a coffee*)."
+        "**1. Do / Make:** Activities and creation.\n  • *Usage & Frames:* 'I do my homework' vs 'I make breakfast'.\n  • *Useful Phrases:* 'do business', 'do research' | 'make progress', 'make a mistake'.",
+        "**2. Speak / Talk / Say / Tell:** Communication.\n  • *Usage & Frames:* 'I speak English', 'Let's talk', 'Say hello', 'Tell me'.\n  • *Useful Phrases:* 'speak fluently', 'talk with', 'say yes', 'tell a story'.",
+        "**3. Look / Watch / See:** Vision and attention.\n  • *Usage & Frames:* 'Look at this', 'Watch a movie', 'I see a bird'.\n  • *Useful Phrases:* 'look for', 'look forward to', 'watch out', 'see you soon'.",
+        "**4. Listen / Hear:** Listening and perception.\n  • *Usage & Frames:* 'Listen to music', 'Did you hear that?'.\n  • *Useful Phrases:* 'listen carefully', 'hear from', 'glad to hear that'.",
+        "**5. Must / Have To:** Necessity and obligation.\n  • *Usage & Frames:* 'I must study', 'We have to leave now'.\n  • *Useful Phrases:* 'must be', 'have to go', 'don't have to'.",
+        "**6. Take / Give / Get:** Exchange and receiving.\n  • *Usage & Frames:* 'Take a coat', 'Give me a hand', 'Get home'.\n  • *Useful Phrases:* 'take care', 'give up', 'get tired', 'get ready'.",
+        "**7. Live:** Residence and lifestyle.\n  • *Usage & Frames:* 'I live in London', 'She lives with her family'.\n  • *Useful Phrases:* 'live abroad', 'live well', 'live together'.",
+        "**8. Wait:** Patience and time.\n  • *Usage & Frames:* 'Wait for the bus', 'Can you wait a minute?'.\n  • *Useful Phrases:* 'wait for', 'wait in line', 'can't wait'.",
+        "**9. Understand:** Comprehension.\n  • *Usage & Frames:* 'I understand', 'Do you understand me?'.\n  • *Useful Phrases:* 'make yourself understood', 'as I understand', 'fully understand'.",
+        "**10. Ask / Answer:** Questions and answers.\n  • *Usage & Frames:* 'Ask a question', 'Answer the phone'.\n  • *Useful Phrases:* 'ask for help', 'answer questions', 'ask a favour'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Comparative Linguistics Matrix across 14 Languages"
+      "text": "Comparative Matrix across Language Families"
     },
     {
       "type": "paragraph",
-      "text": "Below is the comparative breakdown for core verbs across all 14 official languages:"
+      "text": "Comparative breakdown for core verbs across language families:"
     },
     {
       "type": "table",
@@ -101,7 +101,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -109,7 +109,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -132,20 +132,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Language Family Nuances & Grammatical Highlights"
+      "text": "Grammar & Structure for A0–A1 / A2 Learners"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-European:** Features tense auxiliary verbs and person/number inflections.\n• **Turkic Family (Tatar, Bashkir, Chuvash):** Agglutinative suffix structures expressing tense and person without separate helper verbs.\n• **Kartvelian (Georgian):** Polypersonal verb agreement marking subject and indirect/direct objects."
+      "text": "• **Simple Sentence Structures:** Focus on Subject + Verb + Object.\n• **Auxiliaries & Modals:** Use 'can', 'must', and 'be going to' for simple daily intentions.\n• **Conjugations:** Check full present, past, and future tense tables on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Interactive Practice & Navigation"
+      "text": "Practice & Conjugation Resources"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore all 14 language articles in the COSYmagazine hub or test your knowledge in [COSYpractice](https://example.com) and view full verb tables in [COSYtools](https://example.com)."
+      "text": "📌 Test your skills in [COSYpractice](https://cosylanguages.github.io/COSYpractice/), read [Part 1](top-10-verbs-en.html) and [Part 2](top-10-verbs-part-2-en.html), and consult full verb conjugations on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

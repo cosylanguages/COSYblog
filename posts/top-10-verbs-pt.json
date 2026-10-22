@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Os 10 verbos essenciais em português para principiantes (CEFR A0–A1)",
-  "kicker": "GUIA DE PORTUGUÊS — PARTE 1",
-  "dek": "Domine os 10 verbos mais frequentes em português com conjugações A0–A1, colocações práticas, alertas de falsos amigos e matriz comparativa em 14 línguas.",
+  "title": "Os 10 verbos essenciais em português para principiantes (A0–A1 / A2)",
+  "kicker": "GUIA DE PORTUGUÊS — PARTE 1 DE 2",
+  "dek": "Aprenda os primeiros 10 verbos fundamentais em português (ser/estar, ter, pensar, saber/conhecer, gostar, querer/gostaria, ir/ir a, poder, comer, beber). Tabelas de conjugação no COSYtools.",
   "tags": [
     "Verbs",
     "Portuguese",
@@ -45,37 +45,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Bem-vindo ao guia de verbos essenciais em português para o nível A0–A1! Dominar estes 10 verbos ser-lhe-á indispensável no dia a dia."
+      "text": "Bem-vindo à Parte 1 do nosso guia de 2 partes sobre os verbos essenciais em português para os níveis A0–A1 e A2! (Veja também a [Parte 2](top-10-verbs-part-2-pt.html)). As tabelas de conjugação completas de todos os verbos podem ser consultadas em [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Análise detalhada: Os 10 verbos em português (Parte 1)"
+      "text": "Os 10 verbos fundamentais (Parte 1)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Ser / Estar:** Identidade e localização (*Sou estudante*, *Estou em casa*).",
-        "**2. Ter (tenho, tens, tem, temos, têm):** Posse e idade (*Tenho um livro*, *Tenho 20 anos*).",
-        "**3. Fazer (faço, fazes, faz, fazemos, fazem):** Atividades e criação (*Fazer os trabalhos*, *Fazer café*).",
-        "**4. Ir (vou, vais, vai, vamos, vão):** Movimento e futuro próximo (*Vou para a escola*, *Vou comer*).",
-        "**5. Vir (venho, vens, vem, vimos, vêm):** Origem (*Venho de Lisboa*).",
-        "**6. Dizer (digo, dizes, diz, dizemos, dizem):** Comunicação (*Dizer a verdade*, *Dizer sim*).",
-        "**7. Ver / Olhar:** Percepção visual (*Vejo um filme*, *Olhar para o mapa*).",
-        "**8. Saber / Conhecer:** Conhecimento e familiaridade (*Sei a resposta*, *Conheço o João*).",
-        "**9. Querer (quero, queres, quer...):** Desejo e cortesia (*Quero água*, *Gostaria de um café*).",
-        "**10. Gostar:** Preferências (*Gosto de música*, *Gosto de viajar*)."
+        "**1. Ser / Estar:** Identidade e estado (*Sou estudante*, *Estou em casa*).",
+        "**2. Ter:** Posse e idade (*Tenho um livro*, *Tenho 25 anos*).",
+        "**3. Pensar:** Opiniões (*Penso que sim*).",
+        "**4. Saber / Conhecer:** Conhecimento (*Sei a resposta*).",
+        "**5. Gostar:** Preferências (*Gosto de café*).",
+        "**6. Querer / Gostaria:** Desejos (*Quero água*, *Gostaria de um chá*).",
+        "**7. Ir:** Movimento (*Vou trabalhar*).",
+        "**8. Poder:** Capacidade (*Posso ajudar?*).",
+        "**9. Comer:** Alimentação (*Comer uma maçã*).",
+        "**10. Beber:** Bebidas (*Beber água*)."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Matriz linguística comparativa em 14 línguas"
+      "text": "Tabela comparativa de verbos"
     },
     {
       "type": "paragraph",
-      "text": "Apresentamos abaixo a análise comparativa dos principais verbos nas 14 línguas oficiais:"
+      "text": "Comparação dos principais verbos entre famílias linguísticas:"
     },
     {
       "type": "table",
@@ -102,7 +102,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -110,7 +110,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -133,20 +133,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Nuances das famílias linguísticas e aspetos gramaticais"
+      "text": "Gramática e estruturas para o nível A0–A1 / A2"
     },
     {
       "type": "paragraph",
-      "text": "• **Indo-europeu:** Utiliza auxiliares de tempo e flexões de pessoa/número.\n• **Família túrquica (tártaro, basqueir, chuvache):** Estruturas de sufixos aglutinantes para tempo e pessoa sem auxiliares separados.\n• **Kartveliano (georgiano):** Concordância verbal polipessoal indicando sujeito e objetos."
+      "text": "• **Frases simples:** Sujeito + Verbo + Complemento.\n• **Verbos auxiliares:** Uso de 'ir + infinitivo' e 'poder/ter de'.\n• **Tabelas de conjugação:** Consulte todas as formas verbais em [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Exercícios práticos e navegação"
+      "text": "Prática e conjugação"
     },
     {
       "type": "paragraph",
-      "text": "📌 Explore todos os 14 artigos no hub da COSYmagazine ou teste os seus conhecimentos no [COSYpractice](https://example.com) e consulte as tabelas de verbos no [COSYtools](https://example.com)."
+      "text": "📌 Pratique no [COSYpractice](https://cosylanguages.github.io/COSYpractice/), leia a [Parte 1](top-10-verbs-pt.html) e a [Parte 2](top-10-verbs-part-2-pt.html), e consulte as conjuções no [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
   ],
   "draft": false

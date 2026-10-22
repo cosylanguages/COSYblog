@@ -104,7 +104,15 @@
         if (!map.has(key)) map.set(key, []);
         map.get(key).push(p);
       });
-      return [...map.values()].map((variants) => {
+      return [...map.values()].map((rawVariants) => {
+        const seenLangs = new Set();
+        const variants = [];
+        for (const v of rawVariants) {
+          if (!seenLangs.has(v.language)) {
+            seenLangs.add(v.language);
+            variants.push(v);
+          }
+        }
         variants.sort((a, b) => (a.translationOf ? 1 : 0) - (b.translationOf ? 1 : 0));
         return { base: variants[0], variants };
       });
@@ -179,7 +187,13 @@
       renderLead(groups);
       $('ns-grid').innerHTML = groups.map((g) => {
         const p = g.shown;
-        const others = g.variants.filter((v) => v !== p);
+        const totalLangs = g.variants.length;
+        const langPills = g.variants.map((v) => {
+          const isActive = v === p;
+          const langName = LANG_NAMES[v.language] || v.language.toUpperCase();
+          return `<a href="${url(v)}" class="ns-lang-pill ${isActive ? 'is-active' : ''}" lang="${v.language}" title="${esc(langName)}" data-cover>${esc(v.language)}</a>`;
+        }).join('');
+
         return `
         <article class="ns-card">
           <span class="ns-card-art" aria-hidden="true">${renderCover(p, { width: 480, height: 270, showText: false })}</span>
@@ -187,8 +201,16 @@
             <div class="ns-meta">${esc(deskLabel(g.base.desk))} <i>· ${esc(p.level || '')}</i></div>
             <h3><a href="${url(p)}" data-cover lang="${p.language}">${esc(p.title)}</a></h3>
             <p class="ns-dek" lang="${p.language}">${esc(p.dek)}</p>
-            <div class="ns-foot"><span>${fmtDate(g.base.date)}</span><span>·</span><span>${p.readingTime || 5} min</span>
-              ${others.length ? `<span class="ns-langs" aria-label="Also available in">${others.map((v) => `<a href="${url(v)}" lang="${v.language}" title="${esc(LANG_NAMES[v.language] || v.language)}">${v.language}</a>`).join('')}</span>` : ''}
+
+            <div class="ns-card-langs">
+              <span class="ns-langs-badge">🌐 ${totalLangs} ${totalLangs === 1 ? 'Language' : 'Languages'}</span>
+              <div class="ns-langs-pills" aria-label="Available languages">
+                ${langPills}
+              </div>
+            </div>
+
+            <div class="ns-foot">
+              <span>${fmtDate(g.base.date)}</span><span>·</span><span>${p.readingTime || 5} min</span>
             </div>
           </div>
         </article>`;

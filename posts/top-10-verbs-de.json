@@ -11,9 +11,9 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Die 10 wichtigsten Verben im Deutschen für Anfänger (CEFR A0–A1)",
-  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 1",
-  "dek": "Meistern Sie die 10 häufigsten deutschen Verben mit Anfänger-Konjugationen (A0–A1), nützlichen Kollokationen, Falschen Freunden und einer 14-Sprachen-Vergleichstabelle.",
+  "title": "Die 10 wichtigsten Verben im Deutschen für Anfänger (A0–A1 / A2)",
+  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 1 VON 2",
+  "dek": "Lernen Sie die ersten 10 Grundverben im Deutschen (sein, haben, denken, wissen/kennen, mögen/gefallen, wollen/möchte, gehen/werden, können, essen, trinken). Konjugationstabellen sind auf COSYtools abrufbar.",
   "tags": [
     "Verbs",
     "German",
@@ -45,37 +45,37 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Willkommen zum Verben-Leitfaden für das Niveau A0–A1 im Deutschen! Diese 10 Verben bilden das Fundament der alltäglichen Kommunikation."
+      "text": "Willkommen zu Teil 1 unseres 2-teiligen Verben-Leitfadens für Deutschlernende der Niveaus A0–A1 und A2! Hier finden Sie einfache Beispielsätze und nützliche Phrasen. (Lesen Sie auch [Teil 2](top-10-verbs-part-2-de.html)). Die vollständigen Konjugationstabellen aller Verben sind auf [COSYtools](https://cosylanguages.github.io/COSYtools/) einsehbar."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Detaillierte Analyse: Die 10 deutschen Verben (Teil 1)"
+      "text": "Die 10 Grundverben (Teil 1)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. Sein (bin, bist, ist, sind, seid, sind):** Identität und Ort (*Ich bin Student*, *Er ist zu Hause*).",
-        "**2. Haben (habe, hast, hat, haben, habt, haben):** Besitz (*Ich habe ein Buch*, *Hast du Zeit?*). Note: Alter benutzt *sein* (*Ich bin 20 Jahre alt*).",
-        "**3. Machen (mache, machst, macht, machen, macht, machen):** Aktivitäten (*Hausaufgaben machen*, *Kaffee machen*).",
-        "**4. Gehen (gehe, gehst, geht, gehen...):** Bewegung zu Fuß (*Ich gehe nach Hause*, *Wir gehen ins Kino*).",
-        "**5. Kommen (komme, kommst, kommt...):** Herkunft (*Ich komme aus Berlin*, *Er kommt pünktlich*).",
-        "**6. Sagen (sage, sagst, sagt...):** Kommunikation (*Hallo sagen*, *Die Wahrheit sagen*).",
-        "**7. Sehen / Schauen:** Visuelle Wahrnehmung (*Ich sehe einen Vogel*, *Schau mal!*).",
-        "**8. Wissen / Kennen:** Faktenwissen vs Bekanntschaft (*Ich weiß das*, *Ich kenne Paul*).",
-        "**9. Wollen / Möchte:** Wunsch und Höflichkeit (*Ich will lernen*, *Ich möchte einen Tee*).",
-        "**10. Mögen / Gefallen:** Vorlieben (*Ich mag Musik*, *Das gefällt mir*)."
+        "**1. Sein:** Identität, Zustand und Ort.\n  • *Einfache Sätze:* 'Ich bin Student', 'Er ist zu Hause', 'Wir sind fertig'.\n  • *Phrasen:* 'pünktlich sein', 'einverstanden sein', 'bereit sein'.",
+        "**2. Haben:** Besitz, Alter und Zustände.\n  • *Einfache Sätze:* 'Ich habe ein Auto', 'Sie hat eine Schwester', 'Ich habe Hunger'.\n  • *Phrasen:* 'Hunger/Durst haben', 'Zeit haben', 'Glück haben'.",
+        "**3. Denken:** Meinungen und Gedanken.\n  • *Einfache Sätze:* 'Ich denke schon', 'Was denkst du darüber?', 'Ich denke an dich'.\n  • *Phrasen:* 'denken an', 'nachdenken', 'meiner Meinung nach'.",
+        "**4. Wissen / Kennen:** Faktenwissen vs. Personen/Orte.\n  • *Einfache Sätze:* 'Ich weiß die Antwort', 'Ich kenne diese Stadt'.\n  • *Phrasen:* 'Bescheid wissen', 'kennenlernen', 'soweit ich weiß'.",
+        "**5. Mögen / Gefallen:** Vorlieben und Geschmack.\n  • *Einfache Sätze:* 'Ich mag Kaffee', 'Das Buch gefällt mir'.\n  • *Phrasen:* 'sehr mögen', 'Gefallen finden', 'wie du magst'.",
+        "**6. Wollen / Ich möchte:** Wünsche und Höflichkeit.\n  • *Einfache Sätze:* 'Ich will Wasser trinken', 'Ich möchte einen Kaffee bitte'.\n  • *Phrasen:* 'möchte bestellen', 'wenn du willst', 'willkommen'.",
+        "**7. Gehen / Werden:** Bewegung und Zukunftsvorhaben.\n  • *Einfache Sätze:* 'Ich gehe zur Arbeit', 'Sie geht nach Hause', 'Wir werden essen'.\n  • *Phrasen:* 'Wie geht's?', 'zu Fuß gehen', 'einkaufen gehen'.",
+        "**8. Können:** Fähigkeit und Erlaubnis.\n  • *Einfache Sätze:* 'Ich kann Deutsch sprechen', 'Kannst du mir helfen?'.\n  • *Phrasen:* 'kann sein', 'so gut ich kann', 'was kann ich tun?'.",
+        "**9. Essen:** Mahlzeiten und Nahrung.\n  • *Einfache Sätze:* 'Ich esse einen Apfel', 'Was wollen wir essen?'.\n  • *Phrasen:* 'Guten Appetit!', 'gesund essen', 'etwas zu essen'.",
+        "**10. Trinken:** Getränke.\n  • *Einfache Sätze:* 'Ich trinke Tee', 'Möchten Sie etwas trinken?'.\n  • *Phrasen:* 'etwas zu trinken', 'Kaffee trinken', 'Prost!'."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachvergleichsmatrix über 14 Sprachen"
+      "text": "Sprachenvergleichstabelle"
     },
     {
       "type": "paragraph",
-      "text": "Nachfolgend finden Sie den vergleichenden Überblick über die wichtigsten Verben in allen 14 Amtssprachen:"
+      "text": "Vergleich der wichtigsten Verben in verschiedenen Sprachfamilien:"
     },
     {
       "type": "table",
@@ -102,7 +102,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქონა / ყოლა"
+          "ქոնա / ყოლა"
         ],
         [
           "Do / Make",
@@ -110,7 +110,7 @@
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "კეთება (keteba)"
+          "կետება (keteba)"
         ],
         [
           "Go",
@@ -133,20 +133,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Sprachfamilien & Grammatik-Highlights"
+      "text": "Grammatikstrukturen für Anfänger (A0–A1 / A2)"
     },
     {
       "type": "paragraph",
-      "text": "• **Indogermanisch:** Verwendet Zeitform-Hilfsverben und Person/Numerus-Flexionen.\n• **Turksprachen (Tatarisch, Baschkirisch, Tschuwaschisch):** Agglutinative Suffixstrukturen für Tempus und Person ohne separate Hilfsverben.\n• **Kartwelisch (Georgisch):** Polypersonale Verbkongruenz zur Markierung von Subjekt und Objekten."
+      "text": "• **Einfache Satzstrukturen:** Subjekt + Verb + Objekt.\n• **Modalverben & Zukunft:** Nutzung von 'können', 'müssen' und 'werden/gehen'.\n• **Verbformen & Konjugation:** Alle Zeitformen sind auf [COSYtools](https://cosylanguages.github.io/COSYtools/) abrufbar."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Interaktive Übungen und Navigation"
+      "text": "Übungen und Konjugation"
     },
     {
       "type": "paragraph",
-      "text": "📌 Entdecken Sie alle 14 Sprachartikel im COSYmagazine-Hub oder testen Sie Ihr Wissen auf [COSYpractice](https://example.com) und nutzen Sie die Verb-Tabellen auf [COSYtools](https://example.com)."
+      "text": "📌 Üben Sie auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lesen Sie [Teil 1](top-10-verbs-de.html) sowie [Teil 2](top-10-verbs-part-2-de.html), und schlagen Sie die Konjugationen auf [COSYtools](https://cosylanguages.github.io/COSYtools/) nach."
     }
   ],
   "draft": false
