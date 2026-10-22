@@ -84,17 +84,18 @@
         Object.keys(LANGS).map(function (c) { return '<option value="' + c + '"' + (c === cur ? ' selected' : '') + '>' + LANGS[c] + '</option>'; }).join('') + '</select>'
       : '';
     host.className = 'bn';
+    host.setAttribute('aria-label', 'Global Navigation');
     host.innerHTML =
       '<div class="bn-inner">' +
         '<a class="bn-brand" href="' + ECO.hub + '"><img src="images/logo.png" alt="" width="30" height="30"><span>COSY<b>languages</b></span></a>' +
-        '<nav class="bn-links" aria-label="COSY sites">' +
+        '<div class="bn-links" role="group" aria-label="COSY sites">' +
           '<a href="' + ECO.courses + '" data-i18n="nav.courses">Courses</a>' +
           '<a href="' + ECO.practice + '" data-i18n="nav.practice">Practice</a>' +
           '<a href="index.html" aria-current="page" data-i18n="nav.magazine">Magazine</a>' +
           '<a href="' + ECO.tools + '" data-i18n="nav.tools">Tools</a>' +
           '<a href="' + ECO.games + '" data-i18n="nav.games">Games</a>' +
           '<a href="' + ECO.events + '" data-i18n="nav.events">Events</a>' +
-        '</nav>' +
+        '</div>' +
         '<div class="bn-actions">' + langSelect +
           '<button type="button" id="bn-theme" class="bn-icon" aria-label="Toggle dark mode" aria-pressed="false">🌙</button>' +
         '</div>' +

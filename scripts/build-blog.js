@@ -259,14 +259,14 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
     }
     case 'quiz': {
       const optionsHtml = (block.options || []).map((opt, i) => `
-        <button type="button" class="quiz-option-btn${i === block.correctIndex ? ' correct-option' : ''}">
+        <button type="button" class="quiz-option-btn${i === block.correctIndex ? ' correct-option' : ''}" aria-pressed="false">
           <span>${i === block.correctIndex ? '✅' : '⚪'}</span> ${parseFormattedText(opt)}
         </button>
       `).join('');
       return `
-<div class="gazette-quiz-card">
+<div class="gazette-quiz-card" role="region" aria-label="Interactive Lesson Quiz">
   <h4 class="quiz-question">❓ ${parseFormattedText(block.question)}</h4>
-  <div class="quiz-options-list">${optionsHtml}</div>
+  <div class="quiz-options-list" role="group" aria-label="Quiz Answer Options">${optionsHtml}</div>
   ${block.explanation ? `<p class="quiz-explanation">${parseFormattedText(block.explanation)}</p>` : ''}
 </div>`;
     }
@@ -307,9 +307,9 @@ function renderLanguageSwitcherHtml(currentPost, allPosts, langDict, lang) {
     const flag = LANG_FLAG_MAP[v.language] || '🌐';
     const langCode = v.language.toUpperCase();
     if (v.slug === currentPost.slug) {
-      return `<span class="lang-switcher-active">${flag} ${langCode}</span>`;
+      return `<span class="lang-switcher-active" lang="${escapeHtml(v.language)}" aria-current="true">${flag} ${langCode}</span>`;
     }
-    return `<a href="${v.slug}.html" class="lang-switcher-link">${flag} ${langCode}</a>`;
+    return `<a href="${v.slug}.html" class="lang-switcher-link" lang="${escapeHtml(v.language)}">${flag} ${langCode}</a>`;
   }).join(' ');
 
   const readInLabel = (langDict && langDict.blog && langDict.blog.read_in) ? langDict.blog.read_in : 'Read in';
@@ -566,6 +566,29 @@ async function buildBlog() {
       coverSvg: coverSvgHtml
     };
 
+    const jsonLdData = {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": post.title,
+      "description": post.dek,
+      "datePublished": post.date,
+      "dateModified": post.updated || post.date,
+      "author": {
+        "@type": "Person",
+        "name": authorName
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "COSYmagazine",
+        "url": "https://cosylanguages.github.io/COSYblog/"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": `https://cosylanguages.github.io/COSYblog/${post.slug}.html`
+      },
+      "inLanguage": post.language || "en"
+    };
+
     const htmlContent = `<!DOCTYPE html>
 <html lang="${escapeHtml(post.language)}">
 <head>
@@ -577,7 +600,14 @@ async function buildBlog() {
     <meta property="og:title" content="${escapeHtml(getDocumentTitle(post.title))}">
     <meta property="og:description" content="${escapeHtml(post.dek)}">
     <meta property="og:type" content="article">
+    <meta property="og:site_name" content="COSYmagazine">
     <meta property="og:url" content="https://cosylanguages.github.io/COSYblog/${escapeHtml(post.slug)}.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="${escapeHtml(getDocumentTitle(post.title))}">
+    <meta name="twitter:description" content="${escapeHtml(post.dek)}">
+    <script type="application/ld+json">
+${JSON.stringify(jsonLdData, null, 2).replace(/</g, '\\u003c')}
+    </script>
     <link rel="icon" href="images/logo.png">
     <meta name="theme-color" content="${escapeHtml(palette[1] || '#faf7f2')}">
     <script src="js/theme-init.js"></script>
@@ -849,7 +879,10 @@ async function buildBlog() {
 }
 
 if (require.main === module) {
-  buildBlog();
+  buildBlog().catch(err => {
+    console.error('❌ Build failed:', err);
+    process.exit(1);
+  });
 }
 
 module.exports = { buildBlog };

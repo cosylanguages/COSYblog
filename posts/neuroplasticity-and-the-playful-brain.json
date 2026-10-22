@@ -236,16 +236,21 @@
       }
     },
     {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related COSYtalks & Learning Science Reads"
+    },
+    {
       "type": "links",
-      "destination": "cosydata",
-      "url": "index.html",
-      "label": "Join Mind Matters Speaking Club & Read More COSYtalks Articles",
-      "say": "Join Mind Matters Speaking Club and Read More COSYtalks Articles",
-      "beat": {
-        "duration": 5000,
-        "camera": "focus",
-        "target": "#block-17"
-      }
+      "destination": "cosymagazine",
+      "url": "why-do-we-freeze-when-conversations-go-off-script.html",
+      "label": "Why Do We Freeze When Conversations Go Off Script?"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "beyond-code-switching-and-translation.html",
+      "label": "Beyond Code-Switching & Translation: Practical L2 Integration"
     }
   ],
   "draft": false

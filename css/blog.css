@@ -1003,14 +1003,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Broadsheet Newspaper Tables & Content Blocks */
 .post-full-content table {
+    display: block;
     width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
     border-collapse: collapse;
     margin: 1.5rem 0;
     font-size: 0.95rem;
     background: #ffffff;
     border: 1px solid var(--border, rgba(74, 107, 80, 0.15));
     border-radius: 8px;
-    overflow: hidden;
 }
 
 .post-full-content th {
@@ -1044,6 +1047,26 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--sage-dark, #233827);
     padding: 2px 6px;
     border-radius: 4px;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
+
+.post-full-content pre {
+    background: var(--warm-white, #fdfbf7);
+    border: 1px solid var(--border, rgba(74, 107, 80, 0.15));
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    max-width: 100%;
+    box-sizing: border-box;
+    white-space: pre-wrap;
+    word-break: break-word;
+}
+
+.post-full-content pre code {
+    background: transparent;
+    padding: 0;
 }
 
 /* Verb & Language Matrix Custom Styling */

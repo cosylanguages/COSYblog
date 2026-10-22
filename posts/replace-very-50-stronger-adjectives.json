@@ -547,6 +547,40 @@
     {
       "type": "paragraph",
       "text": "When learning these new words, try substituting them directly into your daily journal or speaking practice. For instance, instead of saying *\"I had a very busy day and I am very tired\"*, say **\"I had a hectic day and I am exhausted.\"** Notice how much more vivid and clear your sentence becomes!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Active Recall Check: Test Your Precision"
+    },
+    {
+      "type": "quiz",
+      "question": "Which adjective upgrade best completes this formal sentence? 'After working 14 hours straight on the release, the entire engineering team was completely ______.'",
+      "options": [
+        "exhausted",
+        "very tired",
+        "super tired",
+        "extremely sleepy"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Exhausted' is the precise single-word strong adjective that eliminates the repetitive 'very/super' modifier while communicating total mental and physical energy depletion."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related Vocabulary Upgrades in COSYmagazine"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "top-10-verb-synonyms-intermediate-plateau.html",
+      "label": "Top 10 Overused Verbs & Their Precise Synonyms"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "replace-50-overused-phrases.html",
+      "label": "Stop Saying These 50 Conversational Phrases: Conversational Alternatives"
     }
   ],
   "draft": false

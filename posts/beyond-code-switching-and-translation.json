@@ -371,6 +371,23 @@
         "camera": "pan-zoom",
         "target": "#block-26"
       }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related COSYtalks & Learning Science Reads"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "why-do-we-freeze-when-conversations-go-off-script.html",
+      "label": "Why Do We Freeze When Conversations Go Off Script?"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "neuroplasticity-and-the-playful-brain.html",
+      "label": "Unlocking Neuroplasticity: The Playful Brain in Language Learning"
     }
   ],
   "draft": false

@@ -146,6 +146,18 @@
     {
       "type": "paragraph",
       "text": "📌 [COSYpractice](https://cosylanguages.github.io/COSYpractice/) битендә тикшерегеҙ, [1-се өлөш](top-10-verbs-ba.html) һәм [2-се өлөш](top-10-verbs-part-2-ba.html) мәҡәләләрен уҡығыҙ, [COSYtools](https://cosylanguages.github.io/COSYtools/) битенә инегеҙ."
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "top-10-verbs-ba.html",
+      "label": "Башҡорт теле буйынса иң мөһим 10 ҡылым (1-се өлөш)"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "stop-translating-10-sentence-frames-ba.html",
+      "label": "Тәржемә итмәгеҙ! Беренсе көндән һөйләшеү өсөн 10 һөйләм өлгөһө"
     }
   ],
   "draft": false

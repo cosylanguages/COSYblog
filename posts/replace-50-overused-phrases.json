@@ -705,6 +705,40 @@
     {
       "type": "paragraph",
       "text": "Try picking **three phrases** from this list every week and actively applying them during your speaking club or writing practice!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Active Recall Check: Test Your Conversational Upgrades"
+    },
+    {
+      "type": "quiz",
+      "question": "In a professional meeting, a colleague presents a well-reasoned marketing strategy. Which natural phrase expresses strong, polished agreement?",
+      "options": [
+        "I couldn't agree more.",
+        "I think yes.",
+        "Yes, good idea.",
+        "I agree 100 times."
+      ],
+      "correctIndex": 0,
+      "explanation": "'I couldn't agree more' is an authentic, natural B2 conversational upgrade that conveys enthusiastic agreement in both professional and social settings."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related Vocabulary Upgrades in COSYmagazine"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "replace-very-50-stronger-adjectives.html",
+      "label": "Stop Saying 'Very'! 50 Stronger Words Every Intermediate English Learner Should Know"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "top-10-verb-synonyms-intermediate-plateau.html",
+      "label": "Top 10 Overused Verbs and Their Precise Synonyms for the Intermediate Plateau"
     }
   ],
   "draft": false

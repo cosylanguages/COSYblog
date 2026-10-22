@@ -58,6 +58,20 @@
     {
       "type": "heading",
       "level": 2,
+      "text": "🧭 Quick Tense Decision Flow (CEFR A2–C1 Route)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Question 1: When is the event happening?** (Past, Present, or Future?)",
+        "**Question 2: How do you view the action?** (As a finished fact → Simple; as an active process → Progressive; as a connection/result → Perfect).",
+        "**Level Guidance:** A2 learners master Simple & Progressive forms first. B1 learners focus on Present Perfect vs Past Simple. B2–C1 learners apply Past Perfect and aspectual nuances in writing."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
       "text": "Introduction: Why English Tenses Feel Overwhelming (And Why They Shouldn't)",
       "say": "Welcome to our November Grammar Masterclass! If you have ever felt confused by tables of twelve English tenses, you are not alone. But here is a secret: English fundamentally has only three true times, and everyday native speakers use just four or five tenses for ninety percent of their conversation.",
       "beat": {
@@ -593,6 +607,23 @@
         "camera": "focus",
         "target": "#block-33"
       }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related Grammar Corner Articles"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "top-5-favourite-grammar-rules.html",
+      "label": "My Top 5 Favourite English Grammar Rules for Intermediate Learners"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "saturday-mistakes-5-english-mistakes.html",
+      "label": "Saturday Mistakes Episode 1: 5 Common English Mistakes & How to Fix Them"
     }
   ],
   "draft": false

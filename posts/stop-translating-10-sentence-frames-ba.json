@@ -102,6 +102,18 @@
     {
       "type": "paragraph",
       "text": "Иркен һөйләшеү — бөтә һүҙҙәрҙе белеү түгел, ә туҡтамай һөйләү. Бу фразаларҙы ҡулланығыҙ!"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "top-10-verbs-ba.html",
+      "label": "Башҡорт теле буйынса иң мөһим 10 ҡылым (1-се өлөш)"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "top-10-verbs-part-2-ba.html",
+      "label": "Башҡорт теле буйынса иң мөһим 10 ҡылым (2-се өлөш)"
     }
   ],
   "draft": false

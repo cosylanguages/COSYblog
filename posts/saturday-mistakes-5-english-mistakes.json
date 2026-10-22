@@ -136,6 +136,23 @@
         "camera": "pan-zoom",
         "target": "#block-8"
       }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related Grammar Guides in COSYmagazine"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "demystifying-english-tenses-timeline-guide.html",
+      "label": "Demystifying English Tenses: The Master Timeline Guide"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "top-5-favourite-grammar-rules.html",
+      "label": "My Top 5 Favourite English Grammar Rules for Intermediate Learners"
     }
   ],
   "draft": false

@@ -279,6 +279,23 @@
     {
       "type": "paragraph",
       "text": "  <div class=\"flipbook-page-footer\">\n    <span>🍁 COSY Gazette • October Birthday Issue</span>\n    <span>Page 7 of 7</span>\n  </div>\n</section>\n                </article>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related Grammar Corner Articles"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "demystifying-english-tenses-timeline-guide.html",
+      "label": "Demystifying English Tenses: The Master Timeline Guide"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "saturday-mistakes-5-english-mistakes.html",
+      "label": "Saturday Mistakes Episode 1: 5 Common English Mistakes & How to Fix Them"
     }
   ],
   "draft": false

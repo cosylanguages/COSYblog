@@ -399,6 +399,40 @@
     {
       "type": "paragraph",
       "text": "Replacing overused verbs is not about banishing words like *get* or *make* completely. They remain indispensable in native speech. The goal is recognizing when a specific verb conveys your meaning more accurately, helping you transition smoothly from B1 intermediate conversation to B2–C1 advanced precision."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🧠 Active Recall Practice: Test Your Verb Precision"
+    },
+    {
+      "type": "quiz",
+      "question": "Which verb synonym best completes this formal email sentence? 'We have ______ the preliminary market audit and identified three core growth opportunities.'",
+      "options": [
+        "conducted",
+        "done",
+        "made",
+        "gotten"
+      ],
+      "correctIndex": 0,
+      "explanation": "'Conducted' (or 'carried out') is the professional verb choice for audits and research studies, replacing vague verbs like 'done' or 'made'."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related Vocabulary Upgrades in COSYmagazine"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "replace-very-50-stronger-adjectives.html",
+      "label": "Stop Saying 'Very'! 50 Stronger Words Every Intermediate English Learner Should Know"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "replace-50-overused-phrases.html",
+      "label": "Stop Saying These 50 Conversational Phrases: Natural Conversational Alternatives"
     }
   ],
   "draft": false

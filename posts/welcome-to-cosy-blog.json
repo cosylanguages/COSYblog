@@ -51,6 +51,38 @@
     {
       "type": "heading",
       "level": 3,
+      "text": "The COSY Learning System Ecosystem"
+    },
+    {
+      "type": "paragraph",
+      "text": "COSY Magazine works as part of a connected learning system:"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**📰 COSYmagazine:** Editorial reads, vocabulary upgrades, grammar guides, and speaking psychology.",
+        "**🛠️ COSYtools:** Interactive verb conjugation tables and grammar reference sheets ([Explore COSYtools](https://cosylanguages.github.io/COSYtools/)).",
+        "**🎯 COSYpractice:** Active recall exercises and communicative practice drills ([Explore COSYpractice](https://cosylanguages.github.io/COSYpractice/))."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Choose Your Learning Pathway"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "🌱 **Pathway 1: Absolute Beginner (A0–A2)** — Build core high-frequency vocabulary and reusable sentence frames (Start with [Top 10 Verbs](top-10-verbs-ba.html) and [10 Sentence Frames](stop-translating-10-sentence-frames-ba.html)).",
+        "🗣️ **Pathway 2: Conversational Naturalness (B1–B2)** — Overcome the intermediate plateau by replacing overused words with precise expressions (Explore [50 Stronger Adjectives](replace-very-50-stronger-adjectives.html), [Verb Synonyms](top-10-verb-synonyms-intermediate-plateau.html), and [50 Overused Phrases](replace-50-overused-phrases.html)).",
+        "📐 **Pathway 3: Grammar & Fluency Mastery (A2–C1)** — Master the English tense timeline, spoken grammar rules, and unblock speaking paralysis (Read [English Tenses Timeline Guide](demystifying-english-tenses-timeline-guide.html) and [Why Do We Freeze?](why-do-we-freeze-when-conversations-go-off-script.html))."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
       "text": "Our Core Principles"
     },
     {

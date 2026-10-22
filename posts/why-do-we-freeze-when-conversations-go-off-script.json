@@ -421,16 +421,21 @@
       }
     },
     {
+      "type": "heading",
+      "level": 3,
+      "text": "🔗 Related Speaking Fluency & Science Reads"
+    },
+    {
       "type": "links",
-      "destination": "cosydata",
-      "url": "index.html",
-      "label": "Explore Cosylanguages Blog & Mind Matters Speaking Club Resources",
-      "say": "Explore Cosylanguages Blog and Mind Matters Speaking Club Resources",
-      "beat": {
-        "duration": 5000,
-        "camera": "focus",
-        "target": "#block-35"
-      }
+      "destination": "cosymagazine",
+      "url": "beyond-code-switching-and-translation.html",
+      "label": "Beyond Code-Switching & Translation: Practical L2 Integration"
+    },
+    {
+      "type": "links",
+      "destination": "cosymagazine",
+      "url": "neuroplasticity-and-the-playful-brain.html",
+      "label": "Unlocking Neuroplasticity: The Playful Brain in Language Learning"
     }
   ],
   "draft": false
