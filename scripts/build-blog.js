@@ -146,7 +146,7 @@ function getDocumentTitle(title) {
     ? fullTitle
     : `${characters.slice(0, 69).join('').trimEnd()}…`;
 
-  while (escapeHtml(documentTitle).length > 70) {
+  while (documentTitle.length > 70) {
     documentTitle = `${Array.from(documentTitle).slice(0, -2).join('').trimEnd()}…`;
   }
   return documentTitle;
@@ -618,7 +618,7 @@ async function buildBlog() {
                     <span class="gazette-link-sep">•</span>
                     <a href="index.html" class="gazette-back-link" data-i18n="blog.back_to_hub">${escapeHtml(backToHubText)}</a>
                 </div>
-                <h2 class="gazette-masthead-title">COSYMAGAZINE</h2>
+                <p class="gazette-masthead-title">COSYMAGAZINE</p>
                 <div class="gazette-masthead-links">
                     <a href="?script=1" class="gazette-mode-link" title="Open Teleprompter Script View Mode" data-i18n="blog.script_mode">${escapeHtml(scriptModeText)}</a>
                     <a href="?stage=1" class="gazette-mode-link" title="Open 16:9 Stage View Mode" data-i18n="blog.stage_mode">${escapeHtml(stageModeText)}</a>

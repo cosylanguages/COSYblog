@@ -54,7 +54,7 @@
     },
     {
       "type": "paragraph",
-      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 1 of 7</span>\n    </div>\n    <audio controls preload=\"none\" src=\"audio/top-5-favourite-grammar-rules-page-1.mp3\">\n      Your browser does not support the audio element.\n    </audio>\n  </div>"
+      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 1 of 7</span>\n    </div>\n    <div class=\"podcast-audio-notice\">\n      <span>Audio recording in production</span>\n    </div>\n  </div>"
     },
     {
       "type": "paragraph",
@@ -90,7 +90,7 @@
     },
     {
       "type": "paragraph",
-      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 2 of 7</span>\n    </div>\n    <audio controls preload=\"none\" src=\"audio/top-5-favourite-grammar-rules-page-2.mp3\">\n      Your browser does not support the audio element.\n    </audio>\n  </div>"
+      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 2 of 7</span>\n    </div>\n    <div class=\"podcast-audio-notice\">\n      <span>Audio recording in production</span>\n    </div>\n  </div>"
     },
     {
       "type": "paragraph",
@@ -122,7 +122,7 @@
     },
     {
       "type": "paragraph",
-      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 3 of 7</span>\n    </div>\n    <audio controls preload=\"none\" src=\"audio/top-5-favourite-grammar-rules-page-3.mp3\">\n      Your browser does not support the audio element.\n    </audio>\n  </div>"
+      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 3 of 7</span>\n    </div>\n    <div class=\"podcast-audio-notice\">\n      <span>Audio recording in production</span>\n    </div>\n  </div>"
     },
     {
       "type": "paragraph",
@@ -154,7 +154,7 @@
     },
     {
       "type": "paragraph",
-      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 4 of 7</span>\n    </div>\n    <audio controls preload=\"none\" src=\"audio/top-5-favourite-grammar-rules-page-4.mp3\">\n      Your browser does not support the audio element.\n    </audio>\n  </div>"
+      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 4 of 7</span>\n    </div>\n    <div class=\"podcast-audio-notice\">\n      <span>Audio recording in production</span>\n    </div>\n  </div>"
     },
     {
       "type": "paragraph",
@@ -186,7 +186,7 @@
     },
     {
       "type": "paragraph",
-      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 5 of 7</span>\n    </div>\n    <audio controls preload=\"none\" src=\"audio/top-5-favourite-grammar-rules-page-5.mp3\">\n      Your browser does not support the audio element.\n    </audio>\n  </div>"
+      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 5 of 7</span>\n    </div>\n    <div class=\"podcast-audio-notice\">\n      <span>Audio recording in production</span>\n    </div>\n  </div>"
     },
     {
       "type": "paragraph",
@@ -218,7 +218,7 @@
     },
     {
       "type": "paragraph",
-      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 6 of 7</span>\n    </div>\n    <audio controls preload=\"none\" src=\"audio/top-5-favourite-grammar-rules-page-6.mp3\">\n      Your browser does not support the audio element.\n    </audio>\n  </div>"
+      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 6 of 7</span>\n    </div>\n    <div class=\"podcast-audio-notice\">\n      <span>Audio recording in production</span>\n    </div>\n  </div>"
     },
     {
       "type": "paragraph",
@@ -250,7 +250,7 @@
     },
     {
       "type": "paragraph",
-      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 7 of 7</span>\n    </div>\n    <audio controls preload=\"none\" src=\"audio/top-5-favourite-grammar-rules-page-7.mp3\">\n      Your browser does not support the audio element.\n    </audio>\n  </div>"
+      "text": "  <div class=\"page-audio-guide\">\n    <div class=\"audio-guide-header\">\n      <span class=\"audio-guide-label\">🎧 Page Audio Guide & Narration</span>\n      <span class=\"audio-guide-badge\">Page 7 of 7</span>\n    </div>\n    <div class=\"podcast-audio-notice\">\n      <span>Audio recording in production</span>\n    </div>\n  </div>"
     },
     {
       "type": "paragraph",
