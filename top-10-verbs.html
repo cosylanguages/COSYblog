@@ -31,7 +31,91 @@
         --post-font-body: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
         --post-font-accent: 'Fraunces Italic', Georgia, serif;
       }
-    </style>
+    
+      /* Part 1 editorial refresh: spacious, couture-inspired magazine styling */
+      body.gazette-body { background: #e9e3d9; }
+      .gazette-wrapper.gazette-container.format-list {
+        width: min(1160px, calc(100% - 40px));
+        margin: 28px auto 48px;
+        padding: clamp(18px, 3vw, 42px);
+        background: #fcfaf6;
+        border: 1px solid rgba(70, 55, 42, .14);
+        box-shadow: 0 18px 55px rgba(43, 34, 26, .12);
+      }
+      .gazette-masthead { border-bottom-color: #d9cfc3; }
+      .gazette-masthead-title { letter-spacing: .18em; font-family: Georgia, 'Times New Roman', serif; }
+      .gazette-masthead-meta { color: #76675b; letter-spacing: .08em; }
+      .gazette-cover-hero { margin: 22px 0 34px; overflow: hidden; }
+      .gazette-cover-art-container { border-radius: 2px; overflow: hidden; }
+      .gazette-header-content { max-width: 900px; margin: 0 auto; padding: clamp(26px, 5vw, 60px) clamp(10px, 3vw, 34px); text-align: center; }
+      .gazette-header-content .editorial-kicker { color: #9f4b42; letter-spacing: .22em; font-size: .76rem; }
+      .gazette-header-content .cover-headline {
+        max-width: 850px; margin: 16px auto 20px; color: #201c19;
+        font-family: 'Fraunces', 'Lora', Georgia, serif;
+        font-size: clamp(2.25rem, 5vw, 4.8rem); line-height: 1.03; letter-spacing: -.045em;
+        text-wrap: balance;
+      }
+      .gazette-header-content .editorial-dek {
+        max-width: 700px; margin: 0 auto; color: #5e554d;
+        font-size: clamp(1.02rem, 1.4vw, 1.2rem); line-height: 1.8;
+      }
+      .language-switcher-bar {
+        display: flex; justify-content: center; align-items: center; flex-wrap: wrap;
+        gap: 9px; margin: 8px 0 34px; padding: 18px 16px;
+        border-top: 1px solid #e2d8cc; border-bottom: 1px solid #e2d8cc;
+      }
+      .language-switcher-bar .lang-switcher-label { width: 100%; margin-bottom: 4px; color: #8b5148; text-align: center; font-size: .76rem; letter-spacing: .16em; text-transform: uppercase; }
+      .language-switcher-bar .lang-switcher-link {
+        display: inline-flex; align-items: center; justify-content: center; min-width: 54px;
+        padding: 8px 12px; border: 1px solid #d9cfc3; border-radius: 999px;
+        background: #fffdf9; color: #312923; text-decoration: none; font-size: .88rem;
+        transition: background .18s ease, border-color .18s ease, transform .18s ease;
+      }
+      .language-switcher-bar .lang-switcher-link:hover { background: #f2e4df; border-color: #bd837b; transform: translateY(-1px); }
+      .gazette-reading-view { max-width: 1000px; margin: 0 auto; }
+      .gazette-article { font-size: 1.04rem; line-height: 1.8; color: #332d28; }
+      .august-issue-banner {
+        display: grid; grid-template-columns: minmax(150px, .34fr) 1fr; gap: 22px;
+        align-items: center; margin: 0 0 30px; padding: clamp(22px, 3.5vw, 36px);
+        background: #f4e8e3; border: 1px solid #e5cfc7; border-radius: 3px;
+      }
+      .august-banner-badge { color: #974b42; font-size: .78rem; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; }
+      .august-banner-content h4 { margin: 0 0 10px; color: #241e1a; font: italic 600 clamp(1.45rem, 2.7vw, 2rem)/1.2 'Fraunces', Georgia, serif; }
+      .august-banner-content p { margin: 0; color: #62554d; line-height: 1.8; }
+      .gazette-article section[style], .verb-map-container {
+        margin: 30px 0 !important; padding: clamp(22px, 4vw, 38px) !important;
+        background: #fffdf9 !important; border: 1px solid #e1d7cb !important; border-radius: 3px !important;
+        box-shadow: 0 7px 24px rgba(62, 46, 33, .045);
+      }
+      .gazette-article h3, .verb-map-title {
+        color: #29211d; font-family: 'Fraunces', 'Lora', Georgia, serif;
+        font-size: clamp(1.45rem, 2.5vw, 2rem); line-height: 1.25; letter-spacing: -.02em;
+      }
+      .verb-map-title { margin: 0 0 12px; }
+      .verb-map-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin-top: 22px; }
+      .verb-node-card {
+        padding: 20px 21px; border: 1px solid #e4d9ce; border-left: 3px solid #b66d65;
+        border-radius: 2px; background: #fffdfa; color: #65584e; line-height: 1.7;
+        transition: transform .18s ease, box-shadow .18s ease;
+      }
+      .verb-node-card:nth-child(3n + 2) { background: #f1f4ef; border-left-color: #6e8d7d; }
+      .verb-node-card:nth-child(3n) { background: #f4edf4; border-left-color: #8b7797; }
+      .verb-node-card strong { display: block; margin-bottom: 5px; color: #29211d; font: 600 1.22rem/1.35 'Fraunces', Georgia, serif; }
+      .verb-node-card:hover { transform: translateY(-2px); box-shadow: 0 8px 18px rgba(62, 46, 33, .08); }
+      .gazette-folio { margin-top: 36px; padding-top: 18px; border-top: 1px solid #d9cfc3; color: #75675d; }
+      @media (max-width: 680px) {
+        .gazette-wrapper.gazette-container.format-list { width: calc(100% - 16px); margin: 8px auto 20px; padding: 14px; }
+        .gazette-header-content { padding: 28px 8px 32px; }
+        .august-issue-banner { grid-template-columns: 1fr; gap: 10px; padding: 22px; }
+        .verb-map-grid { grid-template-columns: 1fr; gap: 10px; }
+        .verb-node-card { padding: 17px; }
+        .language-switcher-bar { gap: 7px; padding: 15px 6px; }
+        .language-switcher-bar .lang-switcher-link { min-width: 48px; padding: 7px 10px; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .language-switcher-bar .lang-switcher-link, .verb-node-card { transition: none; }
+      }
+</style>
 </head>
 <body class="blog-page gazette-body">
 
