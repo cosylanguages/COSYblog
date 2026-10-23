@@ -315,24 +315,291 @@
     },
     {
       "type": "paragraph",
-      "text": "**To Have** is essential for possession, relationships, bodily symptoms, daily routines, and obligations (*have to*)."
+      "text": "The verb **to have** is one of the most essential verbs in English. At A0–A1 level, you use it to talk about possessions, family, physical characteristics, food and drink, daily activities, health conditions, and obligations."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two essential present simple forms to learn first:\n• **have** — I, you, we, they\n• **has** — he, she, it"
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Forms & Sentence Frames"
+      "text": "1. Forms & Conjugation Table (Present Simple)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Subject",
+        "Affirmative (+)",
+        "Negative (-)",
+        "Question (?)"
+      ],
+      "rows": [
+        [
+          "I",
+          "I have a phone.",
+          "I don't have a car.",
+          "Do I have time?"
+        ],
+        [
+          "You",
+          "You have a nice house.",
+          "You don't have a pen.",
+          "Do you have a question?"
+        ],
+        [
+          "He",
+          "He has a sister.",
+          "He doesn't have a job.",
+          "Does he have a pet?"
+        ],
+        [
+          "She",
+          "She has blue eyes.",
+          "She doesn't have a brother.",
+          "Does she have a car?"
+        ],
+        [
+          "It",
+          "It has four legs.",
+          "It doesn't have a name.",
+          "Does it have a camera?"
+        ],
+        [
+          "We",
+          "We have two children.",
+          "We don't have time.",
+          "Do we have class today?"
+        ],
+        [
+          "They",
+          "They have a new car.",
+          "They don't have any pets.",
+          "Do they have tickets?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **IMPORTANT CONJUGATION RULE:** Use **has** only with *he*, *she*, and *it* in positive present simple sentences.\n• Correct: *She has a cat.*\n• Incorrect: *She have a cat.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Main Usages & Sentence Frames"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**Present Simple Forms:** I/You/We/They **have** | He/She/It **has**.",
-        "**Possession & Relationships:** *I have a new car in the garage.* / *She has two brothers.* / *We have a big house in Paris.*",
-        "**Bodily States & Illnesses:** *I have a bad headache today.* / *He has a cold.* / *She has a high fever.*",
-        "**Daily Routines & Meals:** *I have breakfast at 8 AM*, *have lunch with colleagues*, *have dinner*, *have a coffee*, *have a warm shower*, *have a short break*.",
-        "**Obligation (have to + verb):** *I have to work today.* / *She has to go home early.*",
-        "**British vs American (Have got):** *I have got a friendly dog (= I have a dog).* / *Have you got a fast car?*"
+        "**A. Possessions:** *I have a new laptop.* / *She has a red bicycle.* / *We have a big house in Paris.* / *They have a friendly dog.*",
+        "**B. Family & Relationships:** *I have two brothers.* / *She has a young daughter.* / *He has a big family.* / *We have many good friends.*",
+        "**C. Physical Characteristics:** *I have brown eyes.* / *She has long blonde hair.* / *He has a dark beard.* / *The cat has a long tail.*",
+        "**D. Things & Features:** *The apartment has three bedrooms.* / *The car has four doors.* / *My phone has a great camera.* / *The school has a large library.*",
+        "**E. Problems & Needs:** *I have a problem with my laptop.* / *She has a bad headache.* / *We have an urgent question.* / *He has a lot of work today.*",
+        "**F. Time & Availability:** *I have free time this afternoon.* / *We have an important meeting today.* / *She has an English lesson at 10 AM.* / *They have no money.*",
+        "**G. Food & Drink (Action Meaning):** *I have a delicious sandwich for lunch.* / *She has a cup of tea every morning.* / *We have breakfast at 8 o'clock.* / *They have dinner together at home.* (Here *have* means *eat* or *drink*)."
       ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Negative Sentences (-) & The Base Verb Rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "To make negative sentences with *have*, use **don't have** or **doesn't have**."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Subject",
+        "Negative Structure",
+        "Example Sentence"
+      ],
+      "rows": [
+        [
+          "I / You / We / They",
+          "don't have",
+          "I don't have any money. / We don't have class today."
+        ],
+        [
+          "He / She / It",
+          "doesn't have",
+          "She doesn't have a brother. / My phone doesn't have a good camera."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **VERY IMPORTANT RULE:** After *doesn't*, always use the base form **have**, never *has*.\n• Correct: *She doesn't have a car.*\n• Incorrect: *She doesn't has a car.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Yes/No Questions (?) & Short Answers"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Question (?)",
+        "Positive Short Answer",
+        "Negative Short Answer"
+      ],
+      "rows": [
+        [
+          "Do you have a car?",
+          "Yes, I do.",
+          "No, I don't."
+        ],
+        [
+          "Does he have a brother?",
+          "Yes, he does.",
+          "No, he doesn't."
+        ],
+        [
+          "Does she have a job?",
+          "Yes, she does.",
+          "No, she doesn't."
+        ],
+        [
+          "Do they have pets?",
+          "Yes, they do.",
+          "No, they don't."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **QUESTION RULE:** When you use *does*, the main verb returns to its basic infinitive form, **have**.\n• Correct: *Does she have a cat?*\n• Incorrect: *Does she has a cat?*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Wh- Questions with \"Have\""
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**What:** *What do you have in your bag?* / *What do you have for breakfast?*",
+        "**Who:** *Who do you have in your family?*",
+        "**How many:** *How many brothers do you have?* / *How many bedrooms does the house have?*",
+        "**How much:** *How much money do you have?* / *How much time do we have?*",
+        "**What colour:** *What colour eyes does she have?*",
+        "**What kind:** *What kind of phone does he have?*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. \"Have got\" vs \"Do/Does Have\""
+    },
+    {
+      "type": "paragraph",
+      "text": "*Have got* is common in informal English (especially British English) for possession, family, and physical features."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Structure",
+        "Do/Does + Have System",
+        "Have got System"
+      ],
+      "rows": [
+        [
+          "Affirmative (+)",
+          "I have a car. / She has a cat.",
+          "I've got a car. / She's got a cat."
+        ],
+        [
+          "Negative (-)",
+          "I don't have a dog. / She doesn't have a car.",
+          "I haven't got a dog. / She hasn't got a car."
+        ],
+        [
+          "Question (?)",
+          "Do you have a pet? / Does she have a car?",
+          "Have you got a pet? / Has she got a car?"
+        ],
+        [
+          "Short Answer",
+          "Yes, I do. / No, she doesn't.",
+          "Yes, I have. / No, she hasn't."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **NEVER MIX THE TWO SYSTEMS:**\n• Correct: *Does she have a car?* OR *Has she got a car?*\n• Incorrect: *Does she have got a car?*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Everyday Expressions & Illnesses with \"Have\""
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Daily Activities & Routines:** *have breakfast / lunch / dinner*, *have a coffee*, *have a shower / bath*, *have a break*, *have a rest*, *have a party*, *have a good time*, *have a look*, *have a chat*, *have a holiday*.",
+        "**Illnesses & Physical Conditions:** *have a headache*, *have a stomachache*, *have a cold*, *have a fever*, *have a toothache*.",
+        "**Countable vs Uncountable (some / any):**\n  • Affirmative (+): *I have some apples.* / *I have some water.*\n  • Negative (-): *I don't have any apples.* / *I don't have any money.*\n  • Question (?): *Do you have any questions?*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Obligation & Necessity: \"Have to\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Use **have to / has to + base verb** to express obligations and necessary actions."
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Affirmative (+):** *I have to study for the exam.* / *She has to work tomorrow morning.* / *We have to clean the house.*",
+        "**Negative (-):** *I don't have to work today.* (It is not necessary, but permitted). / *She doesn't have to cook dinner.*",
+        "**Question (?):** *Do you have to wear a uniform at school?* / *What time does he have to leave?*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Common Mistakes & Side-by-Side Comparisons"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contrast these four key structures with 'to be' and 'to have':\n• **State / Feeling:** *I am hungry.* (be + adjective)\n• **Possession:** *I have a sandwich.* (have + noun)\n• **Activity:** *I have breakfast at 8 AM.* (have + meal)\n• **Necessity:** *I have to eat something.* (have to + base verb)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Check Your Understanding"
+    },
+    {
+      "type": "quiz",
+      "question": "Choose the correct negative form: 'She ___ a brother.'",
+      "options": [
+        "doesn't has",
+        "doesn't have",
+        "don't have"
+      ],
+      "correctIndex": 1,
+      "explanation": "After 'doesn't', the main verb always returns to its base form 'have'. 'She doesn't have a brother' is correct."
+    },
+    {
+      "type": "quiz",
+      "question": "Which sentence correctly mixes 'have got' and 'do'?",
+      "options": [
+        "Does she have got a car?",
+        "Has she got a car?",
+        "Do she got a car?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Never mix 'do/does' with 'got'. Use 'Has she got a car?' or 'Does she have a car?'"
     },
     {
       "type": "paragraph",
