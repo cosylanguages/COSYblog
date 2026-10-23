@@ -20,7 +20,7 @@
     "A0-A1",
     "Part2"
   ],
-  "readingTime": 10,
+  "readingTime": 8,
   "podcast": {
     "episode": 3,
     "audioUrl": null
@@ -44,37 +44,210 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to Part 2 of our 2-part core verb series for A0–A1 and A2 English learners! (Read [Part 1](top-10-verbs-en.html) if you missed it). Here we cover 10 core action, perception, and modal verbs. All conjugation tables and verb forms are consultable on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Welcome to Part 2! Here are 10 more useful verbs. Some are pairs or groups, because English has different words for similar ideas. Read [Part 1](top-10-verbs-en.html) first if you need it. You can see all the verb forms on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Deep Dive: Top 10 English Verbs (Part 2)"
+      "text": "How to learn"
     },
     {
       "type": "list-item",
-      "ordered": false,
+      "ordered": true,
       "items": [
-        "**1. Do / Make:** Activities and creation.\n  • *Usage & Frames:* 'I do my homework' vs 'I make breakfast'.\n  • *Useful Phrases:* 'do business', 'do research' | 'make progress', 'make a mistake'.",
-        "**2. Speak / Talk / Say / Tell:** Communication.\n  • *Usage & Frames:* 'I speak English', 'Let's talk', 'Say hello', 'Tell me'.\n  • *Useful Phrases:* 'speak fluently', 'talk with', 'say yes', 'tell a story'.",
-        "**3. Look / Watch / See:** Vision and attention.\n  • *Usage & Frames:* 'Look at this', 'Watch a movie', 'I see a bird'.\n  • *Useful Phrases:* 'look for', 'look forward to', 'watch out', 'see you soon'.",
-        "**4. Listen / Hear:** Listening and perception.\n  • *Usage & Frames:* 'Listen to music', 'Did you hear that?'.\n  • *Useful Phrases:* 'listen carefully', 'hear from', 'glad to hear that'.",
-        "**5. Must / Have To:** Necessity and obligation.\n  • *Usage & Frames:* 'I must study', 'We have to leave now'.\n  • *Useful Phrases:* 'must be', 'have to go', 'don't have to'.",
-        "**6. Take / Give / Get:** Exchange and receiving.\n  • *Usage & Frames:* 'Take a coat', 'Give me a hand', 'Get home'.\n  • *Useful Phrases:* 'take care', 'give up', 'get tired', 'get ready'.",
-        "**7. Live:** Residence and lifestyle.\n  • *Usage & Frames:* 'I live in London', 'She lives with her family'.\n  • *Useful Phrases:* 'live abroad', 'live well', 'live together'.",
-        "**8. Wait:** Patience and time.\n  • *Usage & Frames:* 'Wait for the bus', 'Can you wait a minute?'.\n  • *Useful Phrases:* 'wait for', 'wait in line', 'can't wait'.",
-        "**9. Understand:** Comprehension.\n  • *Usage & Frames:* 'I understand', 'Do you understand me?'.\n  • *Useful Phrases:* 'make yourself understood', 'as I understand', 'fully understand'.",
-        "**10. Ask / Answer:** Questions and answers.\n  • *Usage & Frames:* 'Ask a question', 'Answer the phone'.\n  • *Useful Phrases:* 'ask for help', 'answer questions', 'ask a favour'."
+        "Read one group at a time.",
+        "Look at the small difference between the verbs in the group.",
+        "Say the examples out loud, then make your own.",
+        "Do the quiz at the end."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Comparative Matrix across Language Families"
+      "text": "1. do / make"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** **do** is for tasks and activities. **make** is for creating something.",
+        "**Forms:** I **do** · he / she / it **does** · I **make** · he / she / it **makes**",
+        "**Examples:** I do my homework. · She makes tea. · We make a cake.",
+        "**Careful!** Say *do homework*, not *make homework*. Say *make a mistake*, not *do a mistake*. *Do* also helps in questions: *Do you like tea?*",
+        "**Useful phrases:** do homework · make breakfast · make a mistake"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. speak / talk / say / tell"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** **speak** is for a language. **talk** is to have a conversation. **say** is for the words. **tell** is for a person.",
+        "**Forms:** speak / talk / say / tell · he / she / it **speaks / talks / says / tells**",
+        "**Examples:** I speak English. · Let's talk. · Say hello. · Tell me.",
+        "**Careful!** You *say* something, but you *tell* someone: *Tell me*, not *Say me*. Say *talk to* a person.",
+        "**Useful phrases:** speak English · talk to a friend · say yes · tell a story"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. look / watch / see"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** **look** (at) is to turn your eyes on purpose. **watch** is to look at something that moves. **see** is what your eyes get.",
+        "**Forms:** look / watch / see · he / she / it **looks / watches / sees**",
+        "**Examples:** Look at this. · Watch a film. · I see a bird.",
+        "**Careful!** Say *look at*, not *look this*. *Watch* is for films, matches and things that move.",
+        "**Useful phrases:** look for · watch out! · See you soon!"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. listen / hear"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** **listen** (to) is to give your ear on purpose. **hear** is when sound comes to you.",
+        "**Forms:** listen / hear · he / she / it **listens / hears**",
+        "**Examples:** Listen to music. · I hear a bird. · Can you hear me?",
+        "**Careful!** Say *listen to music*, not *listen music*. You *listen to* the teacher, but you *hear* a noise.",
+        "**Useful phrases:** listen carefully · I am glad to hear that."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. must / have to"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** Both mean you need to do something. **must** feels strong, like a rule. **have to** is very common in speech.",
+        "**Forms:** I **must** · he / she / it **must** (no -s!) · I / we / they **have to** · he / she / it **has to**",
+        "**Examples:** I must go. · We have to go now. · She has to eat.",
+        "**Careful!** *Don't have to* means *not necessary*: *You don't have to eat.* *Must not* means *not allowed*: *You must not drink here.*",
+        "**Useful phrases:** have to go · I must go · you don't have to"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. take / give / get"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** **take** is to hold something and move it with you. **give** is to put something in another person's hand. **get** is to receive something, or to become.",
+        "**Forms:** take / give / get · he / she / it **takes / gives / gets**",
+        "**Examples:** Take a coat. · Give me the book. · I get home at six.",
+        "**Careful!** *Give* is for another person: *Give me water.* *Get* can mean *become*: *I get tired.*",
+        "**Useful phrases:** take care · get tired · get ready"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. live"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to have your home in a place.",
+        "**Forms:** I **live** · you **live** · he / she / it **lives**",
+        "**Examples:** I live in London. · She lives with her family. · We live together.",
+        "**Careful!** Say *live in* + city, and *live with* + people. Say *she lives*, not *she live*.",
+        "**Useful phrases:** live in · live with · live together"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. wait"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to stay until something comes or happens.",
+        "**Forms:** I **wait** · you **wait** · he / she / it **waits**",
+        "**Examples:** Wait for the bus. · Can you wait a minute? · Wait here.",
+        "**Careful!** Say *wait for the bus*, not *wait the bus*.",
+        "**Useful phrases:** wait for · wait in line · I can't wait!"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. understand"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to know what something means.",
+        "**Forms:** I **understand** · you **understand** · he / she / it **understands**",
+        "**Examples:** I understand. · Do you understand me? · I don't understand.",
+        "**Careful!** Say *I understand*, not *I am understanding*. When you don't know, say: *I don't understand.*",
+        "**Useful phrases:** I don't understand. · Do you understand?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. ask / answer"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** **ask** is to say a question. **answer** is to give a reply.",
+        "**Forms:** ask / answer · he / she / it **asks / answers**",
+        "**Examples:** Ask a question. · Answer the phone. · Ask for water.",
+        "**Careful!** Say *answer the question*, not *answer to the question*. Say *ask for* + thing: *ask for help*.",
+        "**Useful phrases:** ask for help · answer the phone · ask a question"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Put it together: a short dialogue"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Mia:** Hello, Sam. Can you hear me?",
+        "**Sam:** Yes, I can. Where are you?",
+        "**Mia:** I am at home. I live near the park. I want to ask a question.",
+        "**Sam:** OK. Ask me.",
+        "**Mia:** I don't understand the homework. Can you tell me?",
+        "**Sam:** Yes. Look at page five. You must do the exercise today.",
+        "**Mia:** Wait, I want to take my book. Now I see it. Thank you!",
+        "**Sam:** Listen. Give me your answer tomorrow, and we can talk."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Same ideas in other languages"
     },
     {
       "type": "paragraph",
-      "text": "Comparative breakdown for core verbs across language families:"
+      "text": "Two of these ideas in the languages of our magazine. Ask a speaker or check [COSYtools](https://cosylanguages.github.io/COSYtools/) for details."
     },
     {
       "type": "table",
@@ -88,36 +261,12 @@
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
-          "be / sein",
-          "быть / είναι / bezañ / լինել",
-          "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
-        ],
-        [
-          "Have / Possess",
-          "avoir / avere / tener / ter",
-          "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
-          "ქոնա / ყოლა"
-        ],
-        [
           "Do / Make",
           "faire / fare / hacer / fazer",
           "do, make / machen, tun",
           "делать / κάνω / ober / անել",
           "эшләү / эшләү / тăвасси",
-          "կետება (keteba)"
-        ],
-        [
-          "Go",
-          "aller / andare / ir / ir",
-          "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
-          "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "კეთება (keteba)"
         ],
         [
           "See / Look",
@@ -132,20 +281,135 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Grammar & Structure for A0–A1 / A2 Learners"
+      "text": "Grammar help for beginners"
     },
     {
-      "type": "paragraph",
-      "text": "• **Simple Sentence Structures:** Focus on Subject + Verb + Object.\n• **Auxiliaries & Modals:** Use 'can', 'must', and 'be going to' for simple daily intentions.\n• **Conjugations:** Check full present, past, and future tense tables on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Order of words:** subject + verb + something. *I ask a question.*",
+        "**Short answers:** *Yes, I can. No, I don't.*",
+        "**Must and can** never change: *he must, she can*. *Have to* changes: *she has to*."
+      ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Practice & Conjugation Resources"
+      "text": "Quiz: choose the correct answer"
+    },
+    {
+      "type": "quiz",
+      "question": "I ___ my homework every day.",
+      "options": [
+        "do",
+        "make",
+        "get",
+        "say"
+      ],
+      "correctIndex": 0,
+      "explanation": "We use *do* with homework: *do homework*."
+    },
+    {
+      "type": "quiz",
+      "question": "She ___ breakfast for us.",
+      "options": [
+        "does",
+        "makes",
+        "takes",
+        "tells"
+      ],
+      "correctIndex": 1,
+      "explanation": "We use *make* when we create something, like breakfast."
+    },
+    {
+      "type": "quiz",
+      "question": "Please ___ me the answer.",
+      "options": [
+        "tell",
+        "say",
+        "speak",
+        "talk"
+      ],
+      "correctIndex": 0,
+      "explanation": "*Tell* needs a person after it: *tell me*."
+    },
+    {
+      "type": "quiz",
+      "question": "___ at the board, please.",
+      "options": [
+        "Look",
+        "See",
+        "Watch",
+        "Hear"
+      ],
+      "correctIndex": 0,
+      "explanation": "Use *look at* for turning your eyes to something on purpose."
+    },
+    {
+      "type": "quiz",
+      "question": "Can you ___ me? The music is loud.",
+      "options": [
+        "hear",
+        "listen",
+        "look",
+        "see"
+      ],
+      "correctIndex": 0,
+      "explanation": "*Hear* is about sound reaching you. *Listen* needs *to*: *listen to me*."
+    },
+    {
+      "type": "quiz",
+      "question": "We ___ go now.",
+      "options": [
+        "have to",
+        "has to",
+        "must to",
+        "are must"
+      ],
+      "correctIndex": 0,
+      "explanation": "With *we*, use *have to*. *Must* is not followed by *to*."
+    },
+    {
+      "type": "quiz",
+      "question": "Wait ___ the bus here.",
+      "options": [
+        "for",
+        "to",
+        "at",
+        "on"
+      ],
+      "correctIndex": 0,
+      "explanation": "The pattern is *wait for* + thing."
+    },
+    {
+      "type": "quiz",
+      "question": "She ___ in Paris.",
+      "options": [
+        "live",
+        "lives",
+        "is live",
+        "living"
+      ],
+      "correctIndex": 1,
+      "explanation": "With *he / she / it*, add -s: *she lives*."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Now you speak"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "Say three sentences about your day with *do*, *make* and *take*.",
+        "Ask a friend: *Can you hear me? Do you understand? Where do you live?*",
+        "Tomorrow: cover this page. Say one sentence for each of the 10 verbs."
+      ]
     },
     {
       "type": "paragraph",
-      "text": "📌 Test your skills in [COSYpractice](https://cosylanguages.github.io/COSYpractice/), read [Part 1](top-10-verbs-en.html) and [Part 2](top-10-verbs-part-2-en.html), and consult full verb conjugations on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Practise more on [COSYpractice](https://cosylanguages.github.io/COSYpractice/). Back to [Part 1](top-10-verbs-en.html)."
     }
   ],
   "draft": false

@@ -20,7 +20,7 @@
     "A0-A1",
     "14Languages"
   ],
-  "readingTime": 10,
+  "readingTime": 8,
   "podcast": {
     "episode": 2,
     "audioUrl": null
@@ -45,108 +45,321 @@
   "blocks": [
     {
       "type": "paragraph",
-      "text": "Welcome to Part 1 of our 2-part core verb series for A0–A1 and A2 English learners! This article introduces the first 10 essential verbs for daily communication with simple sentences and useful phrases. (Explore [Part 2](top-10-verbs-part-2-en.html) for the next 10 verbs). Complete conjugation tables for all verbs are consultable on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Welcome to Part 1! Here are 10 very useful English verbs. With them you can say many things. Part 2 has 10 more verbs ([read Part 2](top-10-verbs-part-2-en.html)). You can see all the verb forms on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Deep Dive: Top 10 English Verbs (Part 1)"
+      "text": "How to learn"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "Read one verb at a time.",
+        "Say the examples out loud.",
+        "Change one word. Say *I like tea*, then *I like music*.",
+        "Do the quiz at the end."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. be (am / is / are)"
     },
     {
       "type": "list-item",
       "ordered": false,
       "items": [
-        "**1. To Be (am / is / are):** Identity, states, age, and location.\n  • *Usage & Frames:* 'I am a student', 'He is at home', 'They are ready', 'I am 25 years old'.\n  • *Useful Phrases:* 'be on time', 'be quiet', 'be right'.",
-        "**2. To Have (have / has):** Possession, relationships, and states.\n  • *Usage & Frames:* 'I have a car', 'She has a sister', 'I have a headache'.\n  • *Useful Phrases:* 'have breakfast', 'have a shower', 'have a good day'.",
-        "**3. To Think:** Opinions and thoughts.\n  • *Usage & Frames:* 'I think so', 'What do you think?', 'I think it is good'.\n  • *Useful Phrases:* 'think twice', 'think about', 'think of'.",
-        "**4. To Know:** Facts, familiarity, and skills.\n  • *Usage & Frames:* 'I know the answer', 'Do you know him?', 'I know how to drive'.\n  • *Useful Phrases:* 'let me know', 'as far as I know', 'you know'.",
-        "**5. To Like:** Preferences and taste.\n  • *Usage & Frames:* 'I like coffee', 'She likes reading', 'Do you like sports?'.\n  • *Useful Phrases:* 'like very much', 'would like', 'look like'.",
-        "**6. To Want / Would Like:** Desires and polite requests.\n  • *Usage & Frames:* 'I want water', 'I would like tea, please', 'Where do you want to go?'.\n  • *Useful Phrases:* 'want to learn', 'would like to order', 'if you want'.",
-        "**7. To Go / Be Going To:** Movement and future intentions.\n  • *Usage & Frames:* 'I go to work', 'She goes home', 'We are going to eat'.\n  • *Useful Phrases:* 'go home', 'go shopping', 'go on foot', 'be going to eat'.",
-        "**8. To Can (Modal):** Ability and permission.\n  • *Usage & Frames:* 'I can speak English', 'Can you help me?', 'You can sit here'.\n  • *Useful Phrases:* 'can I have...', 'as fast as I can', 'can do'.",
-        "**9. To Eat:** Food and meals.\n  • *Usage & Frames:* 'I eat fruit', 'What do you want to eat?', 'Let's eat out'.\n  • *Useful Phrases:* 'eat healthy', 'eat out', 'something to eat'.",
-        "**10. To Drink:** Beverages and hydration.\n  • *Usage & Frames:* 'I drink water', 'Would you like to drink?', 'He drinks coffee'.\n  • *Useful Phrases:* 'drink water', 'a hot drink', 'something to drink'."
+        "**Meaning:** to say who or what you are, how you are, or where you are.",
+        "**Forms:** I **am** · you **are** · he / she / it **is** · we / you / they **are**",
+        "**Examples:** I am a student. · She is 25. · They are at home. · We are happy.",
+        "**Careful!** Say *I am 25*, not *I have 25 years*. Short forms: I'm, you're, he's, she's, we're, they're.",
+        "**Useful phrases:** be on time · be quiet · You are right."
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Comparative Matrix across Language Families"
+      "text": "2. have (have / has)"
     },
     {
-      "type": "paragraph",
-      "text": "Comparative breakdown for core verbs across language families:"
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to own something, to have family, or to have a health problem.",
+        "**Forms:** I **have** · you **have** · he / she / it **has** · we / they **have**",
+        "**Examples:** I have a car. · She has a sister. · I have a headache.",
+        "**Careful!** Say *she has*, not *she have*. For *no*, say *I don't have a car*.",
+        "**Useful phrases:** have breakfast · have a shower · Have a good day!"
+      ]
     },
     {
-      "type": "table",
-      "headers": [
-        "Concept",
-        "Romance (FR/IT/ES/PT)",
-        "Germanic (EN/DE)",
-        "Slavic / Hellenic / Celtic / Arm",
-        "Turkic (TT/BA/CV)",
-        "Kartvelian (KA)"
+      "type": "heading",
+      "level": 3,
+      "text": "3. think"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to say your opinion, or to have an idea in your head.",
+        "**Forms:** I **think** · you **think** · he / she / it **thinks**",
+        "**Examples:** I think so. · I think it is good. · What do you think?",
+        "**Careful!** *I don't think so* means *No, I am not sure*. Use *think about* + thing: *I think about my family.*",
+        "**Useful phrases:** think about · think of · I think so"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. know"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to have information, to know a person, or to know how to do something.",
+        "**Forms:** I **know** · you **know** · he / she / it **knows**",
+        "**Examples:** I know the answer. · Do you know him? · I know how to go there.",
+        "**Careful!** Say *I know*, not *I am knowing*. The short answer is *I don't know*.",
+        "**Useful phrases:** Let me know. · I don't know. · Do you know?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. like"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to think something is good, or to enjoy it.",
+        "**Forms:** I **like** · you **like** · he / she / it **likes**",
+        "**Examples:** I like coffee. · She likes eating fruit. · Do you like going home?",
+        "**Careful!** Say *I like music*, not *I am like music*. After *like* you can use a noun (*coffee*) or a verb with -ing (*eating*).",
+        "**Useful phrases:** I like it very much. · Do you like it?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. want / would like"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to say what you need. *Would like* is more polite.",
+        "**Forms:** I **want** · you **want** · he / she / it **wants** · I **would like** (I'd like)",
+        "**Examples:** I want water. · I would like tea, please. · Where do you want to go?",
+        "**Careful!** Say *I want to go*, not *I want go*. In a shop or café, *I would like* is nicer than *I want*.",
+        "**Useful phrases:** I would like to go home. · Can I have water, please?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. go / be going to"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to move to a place, or to say your plan.",
+        "**Forms:** I **go** · you **go** · he / she / it **goes** · we / they **go**. Plan: I **am going to** + verb.",
+        "**Examples:** I go to school. · She goes home. · We are going to eat.",
+        "**Careful!** Say *go home* (no *to*), but *go to school*. For a plan: *I am going to eat*, not *I go to eat*.",
+        "**Useful phrases:** go home · go shopping · go on foot · be going to eat"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. can"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to say you are able to do something, or to ask if it is OK.",
+        "**Forms:** I **can** · you **can** · he / she / it **can** (no -s!) · negative: I **cannot** / I can't",
+        "**Examples:** I can go now. · You can eat here. · Can I have water?",
+        "**Careful!** Say *he can go*, not *he cans*. Say *I can go*, not *I can to go*.",
+        "**Useful phrases:** Can I have ...? · I can't go. · Can you go?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. eat"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to put food in your mouth and have a meal.",
+        "**Forms:** I **eat** · you **eat** · he / she / it **eats**",
+        "**Examples:** I eat fruit. · What do you want to eat? · Let's eat out.",
+        "**Careful!** Say *she eats*, not *she eat*. Use *eat* for food and *drink* for liquids.",
+        "**Useful phrases:** eat out · something to eat · eat breakfast"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. drink"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Meaning:** to take water, tea, coffee or other liquids.",
+        "**Forms:** I **drink** · you **drink** · he / she / it **drinks**",
+        "**Examples:** I drink water. · He drinks coffee. · Would you like something to drink?",
+        "**Careful!** *Drink* is also a noun: *a hot drink*. Say *drink tea*, not *eat tea*.",
+        "**Useful phrases:** drink water · a hot drink · something to drink"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Put it together: a short dialogue"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Ana:** Hi Ben! Are you hungry?",
+        "**Ben:** Yes, I am. I want to eat.",
+        "**Ana:** I know a good café. Do you like pizza?",
+        "**Ben:** Yes, I like pizza very much. I think it is good.",
+        "**Ana:** Great! We are going to go there. Can you go now?",
+        "**Ben:** Yes, I can. I would like a coffee. Can we drink it first?",
+        "**Ana:** Yes, we can. I have a card."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Grammar help for beginners"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Simple sentence:** subject + verb + something. *I eat fruit.*",
+        "**Yes / no questions:** *Are you hungry? Can you go? Do you like tea?*",
+        "**He / she / it:** most verbs add -s (*likes, wants, eats*). *Have* becomes *has* and *go* becomes *goes*. *Can* never changes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quiz: choose the correct answer"
+    },
+    {
+      "type": "quiz",
+      "question": "She ___ a sister.",
+      "options": [
+        "have",
+        "has",
+        "haves",
+        "is"
       ],
-      "rows": [
-        [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
-          "be / sein",
-          "быть / είναι / bezañ / լինել",
-          "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
-        ],
-        [
-          "Have / Possess",
-          "avoir / avere / tener / ter",
-          "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
-          "ქոնա / ყოლა"
-        ],
-        [
-          "Do / Make",
-          "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "կետება (keteba)"
-        ],
-        [
-          "Go",
-          "aller / andare / ir / ir",
-          "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
-          "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
-        ],
-        [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
-        ]
+      "correctIndex": 1,
+      "explanation": "With *he / she / it*, *have* becomes *has*."
+    },
+    {
+      "type": "quiz",
+      "question": "I ___ 25 years old.",
+      "options": [
+        "have",
+        "am",
+        "is",
+        "are"
+      ],
+      "correctIndex": 1,
+      "explanation": "We use *be* for age: *I am 25*."
+    },
+    {
+      "type": "quiz",
+      "question": "He ___ coffee.",
+      "options": [
+        "like",
+        "likes",
+        "is like",
+        "liking"
+      ],
+      "correctIndex": 1,
+      "explanation": "With *he / she / it*, add -s: *he likes*."
+    },
+    {
+      "type": "quiz",
+      "question": "I want ___ home.",
+      "options": [
+        "go",
+        "to go",
+        "going",
+        "goes"
+      ],
+      "correctIndex": 1,
+      "explanation": "After *want*, use *to* + verb: *I want to go home*."
+    },
+    {
+      "type": "quiz",
+      "question": "Can she ___ here?",
+      "options": [
+        "eats",
+        "to eat",
+        "eat",
+        "eating"
+      ],
+      "correctIndex": 2,
+      "explanation": "After *can*, use the base verb with no -s: *Can she eat here?*"
+    },
+    {
+      "type": "quiz",
+      "question": "Do you ___ the answer?",
+      "options": [
+        "know",
+        "knows",
+        "knowing",
+        "to know"
+      ],
+      "correctIndex": 0,
+      "explanation": "After *Do you*, use the base verb: *Do you know?*"
+    },
+    {
+      "type": "quiz",
+      "question": "We are ___ to eat now.",
+      "options": [
+        "go",
+        "going",
+        "goes",
+        "to go"
+      ],
+      "correctIndex": 1,
+      "explanation": "For a plan, use *be going to*: *We are going to eat*."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Now you speak"
+    },
+    {
+      "type": "list-item",
+      "ordered": true,
+      "items": [
+        "Say three true sentences about you with *have*, *like* and *want*.",
+        "Ask a friend: *Do you like ...? Can you ...? Do you want to ...?*",
+        "Tomorrow: cover this page. Say one sentence for each of the 10 verbs."
       ]
     },
     {
-      "type": "heading",
-      "level": 3,
-      "text": "Grammar & Structure for A0–A1 / A2 Learners"
-    },
-    {
       "type": "paragraph",
-      "text": "• **Simple Sentence Structures:** Focus on Subject + Verb + Object.\n• **Auxiliaries & Modals:** Use 'can', 'must', and 'be going to' for simple daily intentions.\n• **Conjugations:** Check full present, past, and future tense tables on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Practice & Conjugation Resources"
-    },
-    {
-      "type": "paragraph",
-      "text": "📌 Test your skills in [COSYpractice](https://cosylanguages.github.io/COSYpractice/), read [Part 1](top-10-verbs-en.html) and [Part 2](top-10-verbs-part-2-en.html), and consult full verb conjugations on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Next: [Part 2](top-10-verbs-part-2-en.html). Practise more on [COSYpractice](https://cosylanguages.github.io/COSYpractice/)."
     }
   ],
   "draft": false
