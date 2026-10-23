@@ -1,0 +1,152 @@
+{
+  "id": "post-top-10-verbs-part-3-it",
+  "slug": "top-10-verbs-part-3-it",
+  "language": "it",
+  "translationOf": "top-10-verbs-part-3",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2027 — February Issue",
+    "title": "February Grammar & High Frequency Verbs"
+  },
+  "date": "2027-02-01",
+  "title": "I 10 verbi essenziali in italiano, Parte 3 (A0–A1 / A2)",
+  "kicker": "GUIDA ALL'ITALIANO — PARTE 3 DI 3",
+  "dek": "Scopri i 10 verbi fondamentali (scegliere/comprare/pagare, ricordare/dimenticare, sentirsi, incontrare, decidere, scrivere/leggere/digitare, spendere/sprecare, giocare/suonare, essere d'accordo/discordare, inviare/ricevere). Tabelle di coniugazione su COSYtools.",
+  "tags": [
+    "Verbs",
+    "Italian",
+    "A0-A1",
+    "Part3"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 4,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#059669",
+      "#ecfdf5",
+      "#064e3b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-3-it",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Benvenuti alla Parte 3 della nostra guida ai verbi italiani per principianti A0–A1 e A2! (Rileggi la [Parte 1](top-10-verbs-it.html) e la [Parte 2](top-10-verbs-part-2-it.html) se necessario). Qui analizziamo 10 verbi chiave della vita quotidiana. Consulta le tabelle di coniugazione su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "I 10 verbi fondamentali (Parte 3)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Scegliere / Comprare / Pagare:** Scelta e commercio.\n  • *Frasi semplici:* 'Scegliere un libro', 'Comprare il pane', 'Pagare con carta'.\n  • *Espressioni:* 'scegliere bene', 'comprare online', 'pagare la cena'.",
+        "**2. Ricordare / Dimenticare:** Memoria e cognizione.\n  • *Frasi semplici:* 'Ricordo il tuo nome', 'Non dimenticare le chiavi!'.\n  • *Espressioni:* 'ricordarsi di', 'ho dimenticato la password'.",
+        "**3. Sentirsi:** Stato fisico ed emotivo.\n  • *Frasi semplici:* 'Mi sento bene', 'Lei ha freddo', 'Come ti senti?'.\n  • *Espressioni:* 'sentirsi stanco', 'sentirsi a casa'.",
+        "**4. Incontrare / Incontrarsi:** Relazioni sociali.\n  • *Frasi semplici:* 'Piacere di incontrarti', 'Ci troviamo alle 17'.\n  • *Espressioni:* 'incontrare amici', 'incontrarsi in centro'.",
+        "**5. Decidere:** Decisioni.\n  • *Frasi semplici:* 'Decido di partire', 'Decidere un piano'.\n  • *Nota importante:* Si dice 'risolvere un problema', NON 'decidere un problema'.\n  • *Espressioni:* 'decidere subito', 'farsi un'idea'.",
+        "**6. Scrivere / Leggere / Digitare:** Scrittura e lettura.\n  • *Frasi semplici:* 'Scrivere un'email', 'Leggere un libro', 'Digitare un messaggio'.\n  • *Espressioni:* 'scrivere a mano', 'leggere ad alta voce', 'digitare al computer'.",
+        "**7. Spendere / Sprecare:** Gestione delle risorse.\n  • *Frasi semplici:* 'Spendere soldi', 'Non sprecare tempo!'.\n  • *Espressioni:* 'spendere per', 'sprecare energia', 'passare il tempo'.",
+        "**8. Giocare / Suonare (tutte le variazioni):** Giochi, sport, strumenti, ruoli.\n  • *Frasi semplici:* 'Giocare a calcio / a carte', 'Suonare la chitarra / il pianoforte', 'Recitare un ruolo'.\n  • *Espressioni:* 'suonare uno strumento', 'avere un ruolo importante'.",
+        "**9. Essere d'accordo / Non essere d'accordo:** Consenso e opinioni.\n  • *Frasi semplici:* 'Sono d'accordo con te', 'Non sono d'accordo'.\n  • *Espressioni:* 'essere d'accordo su', 'trovare un accordo'.",
+        "**10. Inviare / Ricevere:** Trasmissione e ricezione.\n  • *Frasi semplici:* 'Inviare un messaggio', 'Ricevere una lettera', 'Arrivare in stazione'.\n  • *Espressioni:* 'inviare un'email', 'ricevere notizie'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tabella comparativa dei verbi"
+    },
+    {
+      "type": "paragraph",
+      "text": "Confronto dei verbi della Parte 3 nelle diverse famiglie linguistiche:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Choose / Buy / Pay",
+          "choisir, acheter, payer / scegliere, comprare, pagare",
+          "choose, buy, pay / wählen, kaufen, bezahlen",
+          "выбирать, покупать, платить / επιλέγω, αγοράζω, πληρώνω",
+          "сайлау, сатып алу, түләү",
+          "არჩევა, ყიდვა, გადახდა"
+        ],
+        [
+          "Remember / Forget",
+          "se souvenir, oublier / ricordare, dimenticare",
+          "remember, forget / erinnern, vergessen",
+          "помнить, забывать / θυμάμαι, ξεχνώ",
+          "истә тоту, оныту",
+          "гахсенеба, დავიწყება"
+        ],
+        [
+          "Write / Read / Type",
+          "écrire, lire, taper / scrivere, leggere, digitare",
+          "write, read, type / schreiben, lesen, tippen",
+          "писать, читать, печатать / γράφω, διαβάζω, πληκτρολογώ",
+          "язу, уку, басу",
+          "წერა, კითხვა, ბეჭდვა"
+        ],
+        [
+          "Spend / Waste",
+          "dépenser, gaspiller / spendere, sprecare",
+          "spend, waste / ausgeben, verschwenden",
+          "тратить, терять впустую / ξοδεύω, σπαταλώ",
+          "сарф итү, изү",
+          "ხარჯვა, ფლანგვა"
+        ],
+        [
+          "Send / Get",
+          "envoyer, recevoir / inviare, ricevere",
+          "send, get / senden, bekommen",
+          "отправлять, получать / στέλνω, παίρνω",
+          "җибәрү, алу",
+          "გაგზავნა, მიღება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Strutture grammaticali (A0–A1 / A2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Strutture semplici:** Soggetto + Verbo + Complemento.\n• **Distinzione fondamentale:** 'Giocare a' (sport/giochi) vs 'Suonare' (strumenti musicali).\n• **Coniugazioni:** Tutti i tempi sono consultabili su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pratica e risorse"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Esercitati su [COSYpractice](https://cosylanguages.github.io/COSYpractice/), leggi la [Parte 1](top-10-verbs-it.html), la [Parte 2](top-10-verbs-part-2-it.html) e la [Parte 3](top-10-verbs-part-3-it.html), e consulta le coniugazioni su [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+    }
+  ],
+  "draft": false
+}

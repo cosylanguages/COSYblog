@@ -1,0 +1,152 @@
+{
+  "id": "post-top-10-verbs-part-3-de",
+  "slug": "top-10-verbs-part-3-de",
+  "language": "de",
+  "translationOf": "top-10-verbs-part-3",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2027 — February Issue",
+    "title": "February Grammar & High Frequency Verbs"
+  },
+  "date": "2027-02-01",
+  "title": "Die 10 wichtigsten Verben im Deutschen, Teil 3 (A0–A1 / A2)",
+  "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 3 VON 3",
+  "dek": "Entdecken Sie die nächsten 10 Verben (wählen/kaufen/bezahlen, erinnern/vergessen, sich fühlen, treffen, entscheiden, schreiben/lesen/tippen, ausgeben/verschwenden, spielen, zustimmen/widersprechen, senden/bekommen). Konjugationstabellen auf COSYtools.",
+  "tags": [
+    "Verbs",
+    "German",
+    "A0-A1",
+    "Part3"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 4,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#059669",
+      "#ecfdf5",
+      "#064e3b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-3-de",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Willkommen zu Teil 3 unseres Verben-Leitfadens für Deutschlernende (A0–A1 / A2)! (Falls Sie [Teil 1](top-10-verbs-de.html) und [Teil 2](top-10-verbs-part-2-de.html) verpasst haben, lesen Sie diese zuerst). Hier behandeln wir 10 weitere Alltagsverben. Alle Konjugationstabellen finden Sie auf [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Die 10 Grundverben (Teil 3)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Wählen / Kaufen / Bezahlen:** Auswahl und Handel.\n  • *Einfache Sätze:* 'Ein Buch wählen', 'Essen kaufen', 'Mit Karte bezahlen'.\n  • *Phrasen:* 'gut wählen', 'online kaufen', 'das Abendessen bezahlen'.",
+        "**2. Erinnern / Vergessen:** Gedächtnis und Kognition.\n  • *Einfache Sätze:* 'Ich erinnere mich an deinen Namen', 'Vergiss deine Schlüssel nicht!'.\n  • *Phrasen:* 'sich erinnern an', 'Passwort vergessen'.",
+        "**3. Sich fühlen:** Körperliches und emotionales Befinden.\n  • *Einfache Sätze:* 'Ich fühle mich gut', 'Ihr ist kalt', 'Wie fühlst du dich?'.\n  • *Phrasen:* 'sich müde fühlen', 'sich wie zu Hause fühlen'.",
+        "**4. Treffen / Kennenlernen:** Soziale Kontakte.\n  • *Einfache Sätze:* 'Schön dich kennenzulernen', 'Wir treffen uns um 17 Uhr'.\n  • *Phrasen:* 'Freunde treffen', 'neue Leute kennenlernen'.",
+        "**5. Entscheiden (sich entscheiden):** Entscheidungen.\n  • *Einfache Sätze:* 'Ich entscheide mich zu bleiben', 'Über ein Projekt entscheiden'.\n  • *Wichtiger Hinweis:* Man sagt 'ein Problem lösen', NICHT 'ein Problem entscheiden'.\n  • *Phrasen:* 'schnell entscheiden', 'eine Entscheidung treffen'.",
+        "**6. Schreiben / Lesen / Tippen:** Schrift und Lesen.\n  • *Einfache Sätze:* 'Eine E-Mail schreiben', 'Ein Buch lesen', 'Eine Nachricht tippen'.\n  • *Phrasen:* 'handschriftlich schreiben', 'laut lesen', 'schnell tippen'.",
+        "**7. Ausgeben / Verschwenden:** Ressourcenverwaltung.\n  • *Einfache Sätze:* 'Geld ausgeben', 'Verschwende nicht deine Zeit!'.\n  • *Phrasen:* 'Geld ausgeben für', 'Zeit mit der Familie verbringen'.",
+        "**8. Spielen (alle Varianten):** Spiele, Sport, Instrumente, Rollen.\n  • *Einfache Sätze:* 'Fußball / Karten spielen', 'Gitarre / Klavier spielen', 'Eine Rolle spielen'.\n  • *Phrasen:* 'ein Instrument spielen', 'eine wichtige Rolle spielen'.",
+        "**9. Zustimmen / Nicht zustimmen (widersprechen):** Konsens und Meinung.\n  • *Einfache Sätze:* 'Ich stimme dir zu', 'Ich bin nicht einverstanden'.\n  • *Phrasen:* 'völlig zustimmen', 'sich einigen'.",
+        "**10. Senden / Bekommen:** Übertragung und Empfang.\n  • *Einfache Sätze:* 'Eine Nachricht senden', 'Eine E-Mail bekommen', 'Ankommen'.\n  • *Phrasen:* 'eine E-Mail senden', 'Antwort bekommen', 'am Bahnhof ankommen'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sprachenvergleichstabelle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vergleich der Verben von Teil 3 in verschiedenen Sprachfamilien:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Choose / Buy / Pay",
+          "choisir, acheter, payer / scegliere, comprare, pagare",
+          "choose, buy, pay / wählen, kaufen, bezahlen",
+          "выбирать, покупать, платить / επιλέγω, αγοράζω, πληρώνω",
+          "сайлау, сатып алу, түләү",
+          "არჩევა, ყიდვა, გადახდა"
+        ],
+        [
+          "Remember / Forget",
+          "se souvenir, oublier / ricordare, dimenticare",
+          "remember, forget / erinnern, vergessen",
+          "помнить, забывать / θυμάμαι, ξεχνώ",
+          "истә тоту, оныту",
+          "гахсенеба, დაвиწყება"
+        ],
+        [
+          "Write / Read / Type",
+          "écrire, lire, taper / scrivere, leggere, digitare",
+          "write, read, type / schreiben, lesen, tippen",
+          "писать, читать, печатать / γράφω, διαβάζω, πληκτρολογώ",
+          "язу, уку, басу",
+          "წერა, კითხვა, ბეჭდვა"
+        ],
+        [
+          "Spend / Waste",
+          "dépenser, gaspiller / spendere, sprecare",
+          "spend, waste / ausgeben, verschwenden",
+          "тратить, терять впустую / ξοδεύω, σπαταλώ",
+          "сарф итү, изү",
+          "ხარჯვა, ფლანგვა"
+        ],
+        [
+          "Send / Get",
+          "envoyer, recevoir / inviare, ricevere",
+          "send, get / senden, bekommen",
+          "отправлять, получать / στέλνω, παίρνω",
+          "җибәрү, алу",
+          "გაგზავნა, მიღება"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Grammatikstrukturen für Anfänger (A0–A1 / A2)"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Einfache Satzstrukturen:** Subjekt + Verb + Objekt.\n• **Präpositionen mit Verben:** Beachten Sie 'sich erinnern *an*', 'zustimmen *zu*'.\n• **Verbformen & Konjugation:** Alle Zeitformen sind auf [COSYtools](https://cosylanguages.github.io/COSYtools/) abrufbar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Übungen und Konjugation"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Üben Sie auf [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lesen Sie [Teil 1](top-10-verbs-de.html), [Teil 2](top-10-verbs-part-2-de.html) und [Teil 3](top-10-verbs-part-3-de.html), und schlagen Sie die Konjugationen auf [COSYtools](https://cosylanguages.github.io/COSYtools/) nach."
+    }
+  ],
+  "draft": false
+}
