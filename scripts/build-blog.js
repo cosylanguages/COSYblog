@@ -201,31 +201,21 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
       const headers = block.headers || [];
       const rows = block.rows || [];
 
-      // Transform 50-item word tables into a designed two-column "Instead of / Try" spread
-      const headersHtml = headers.map((h, idx) => {
-        const label = parseFormattedText(h);
-        const colClass = idx === 0 ? 'col-instead' : (idx === 1 ? 'col-try' : 'col-context');
-        return `<div class="instead-try-header ${colClass}">${label}</div>`;
-      }).join('');
-
+      const headersHtml = headers.map(h => `<th>${parseFormattedText(h)}</th>`).join('');
       const rowsHtml = rows.map(row => {
-        const cells = row.map((cell, idx) => {
-          const cellContent = parseFormattedText(cell);
-          const colClass = idx === 0 ? 'instead-cell' : (idx === 1 ? 'try-cell' : 'context-cell');
-          const badge = idx === 0 ? '<span class="instead-badge">Instead of</span> ' : (idx === 1 ? '<span class="try-badge">Try</span> ' : '');
-          return `<div class="instead-try-cell ${colClass}">${badge}${cellContent}</div>`;
-        }).join('');
-
-        return `<div class="instead-try-row">${cells}</div>`;
+        const cellsHtml = row.map(cell => `<td>${parseFormattedText(cell)}</td>`).join('');
+        return `<tr>${cellsHtml}</tr>`;
       }).join('\n');
 
       return `
-<section class="instead-try-spread" aria-label="Vocabulary Comparisons Spread">
-  <div class="instead-try-headers">${headersHtml}</div>
-  <div class="instead-try-body">
-    ${rowsHtml}
-  </div>
-</section>`;
+<div class="table-responsive-container">
+  <table class="gazette-editorial-table">
+    ${headers.length > 0 ? `<thead><tr>${headersHtml}</tr></thead>` : ''}
+    <tbody>
+      ${rowsHtml}
+    </tbody>
+  </table>
+</div>`;
     }
     case 'example': {
       return `

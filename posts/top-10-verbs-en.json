@@ -11,16 +11,16 @@
     "title": "Get ready for school"
   },
   "date": "2026-03-01",
-  "title": "Top 10 Essential Verbs in English for Absolute Beginners (A0–A1 / A2)",
+  "title": "Top 10 Essential English Verbs for Absolute Beginners (A0–A1 / A2 Master Guide)",
   "kicker": "ENGLISH CORE GUIDE — PART 1 OF 2",
-  "dek": "Master the first 10 high-frequency verbs in English (be, have, think, know, like, want/would like, go/be going to, can, eat, drink). Conjugation tables are consultable on COSYtools.",
+  "dek": "A complete 12-page magazine spread for absolute beginners discovering English. Master the top 10 core verbs step-by-step, starting with a deep dive into the verb 'To Be' with full conjugations, 10 core usage patterns, negative/question structures, and real-world sentence frames.",
   "tags": [
     "Verbs",
     "English",
     "A0-A1",
     "14Languages"
   ],
-  "readingTime": 10,
+  "readingTime": 15,
   "podcast": {
     "episode": 2,
     "audioUrl": null
@@ -44,38 +44,1106 @@
   },
   "blocks": [
     {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 1: Introduction to the Top 10 Core Verbs"
+    },
+    {
       "type": "paragraph",
-      "text": "Welcome to Part 1 of our 2-part core verb series for A0–A1 and A2 English learners! This article introduces the first 10 essential verbs for daily communication with simple sentences and useful phrases. (Explore [Part 2](top-10-verbs-part-2-en.html) for the next 10 verbs). Complete conjugation tables for all verbs are consultable on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Welcome to Part 1 of our 2-part master verb guide for A0–A1 and A2 English learners! When you start learning English, you don't need thousands of words to start speaking. Frequency research demonstrates that just 10 core verbs carry up to 80% of daily spoken output. This 12-page issue gives every core verb its own dedicated page with clear grammar rules, practical sentence frames, real-world examples, and common traps to avoid."
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"verb-map-container\"><h3 class=\"verb-map-title\">🗺️ Interactive Verb Map: Part 1 Core Verbs</h3><p style=\"margin-bottom:1rem; color:var(--ink-secondary);\">Flip through this issue page by page or jump directly to any verb spread:</p><div class=\"verb-map-grid\"><a href=\"#page-2\" class=\"verb-node-card\"><strong>Page 2: 1. To Be</strong> — Existence, identity, age, states, location.</a><a href=\"#page-3\" class=\"verb-node-card\"><strong>Page 3: 2. To Have</strong> — Possession, bodily states, routines.</a><a href=\"#page-4\" class=\"verb-node-card\"><strong>Page 4: 3. To Think</strong> — Opinions, thoughts, beliefs.</a><a href=\"#page-5\" class=\"verb-node-card\"><strong>Page 5: 4. To Know</strong> — Facts, familiarity, skills.</a><a href=\"#page-6\" class=\"verb-node-card\"><strong>Page 6: 5. To Like</strong> — Preferences, tastes, polite requests.</a><a href=\"#page-7\" class=\"verb-node-card\"><strong>Page 7: 6. To Want / Would Like</strong> — Desires, ordering, plans.</a><a href=\"#page-8\" class=\"verb-node-card\"><strong>Page 8: 7. To Go / Be Going To</strong> — Movement, travel, future.</a><a href=\"#page-9\" class=\"verb-node-card\"><strong>Page 9: 8. To Can (Modal)</strong> — Ability, requests, permission.</a><a href=\"#page-10\" class=\"verb-node-card\"><strong>Page 10: 9. To Eat</strong> — Meals, dining out, daily food.</a><a href=\"#page-11\" class=\"verb-node-card\"><strong>Page 11: 10. To Drink</strong> — Beverages, hydration, social drinks.</a><a href=\"#page-12\" class=\"verb-node-card\"><strong>Page 12: Outro & Practice</strong> — Language matrix & test tools.</a></div></div>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div style=\"margin:1.5rem 0;\"><h3 class=\"editorial-heading\">📈 CEFR Verb Progression Roadmap</h3><table class=\"cefr-roadmap-table\"><thead><tr><th>Level</th><th>Core Verb Focus</th><th>Communicative Capability</th></tr></thead><tbody><tr><td><span class=\"cefr-badge cefr-a0\">A0</span></td><td><strong>be, have, go, want</strong></td><td>Survival needs, basic identity, age, physical states, immediate movement.</td></tr><tr><td><span class=\"cefr-badge cefr-a1\">A1</span></td><td><strong>come, do, make, see, say, get, can, eat, drink</strong></td><td>Daily routines, simple descriptions, origin, asking questions, ordering food.</td></tr><tr><td><span class=\"cefr-badge cefr-a2\">A2</span></td><td><strong>take, give, know, think, feel, work, would like</strong></td><td>Preferences, past experiences, future plans, workplace tasks, opinions.</td></tr></tbody></table></div>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 2: Verb 1 — \"To Be\" (am / is / are)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The verb **to be** is the most foundational verb in English. At A0–A1 level, you use it to talk about who you are, how you feel, where you are, your age, job, nationality, weather, time, and daily states."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Deep Dive: Top 10 English Verbs (Part 1)"
+      "text": "1. Forms & Conjugation Table (Present Simple)"
     },
     {
-      "type": "list-item",
-      "ordered": false,
-      "items": [
-        "**1. To Be (am / is / are):** Identity, states, age, and location.\n  • *Usage & Frames:* 'I am a student', 'He is at home', 'They are ready', 'I am 25 years old'.\n  • *Useful Phrases:* 'be on time', 'be quiet', 'be right'.",
-        "**2. To Have (have / has):** Possession, relationships, and states.\n  • *Usage & Frames:* 'I have a car', 'She has a sister', 'I have a headache'.\n  • *Useful Phrases:* 'have breakfast', 'have a shower', 'have a good day'.",
-        "**3. To Think:** Opinions and thoughts.\n  • *Usage & Frames:* 'I think so', 'What do you think?', 'I think it is good'.\n  • *Useful Phrases:* 'think twice', 'think about', 'think of'.",
-        "**4. To Know:** Facts, familiarity, and skills.\n  • *Usage & Frames:* 'I know the answer', 'Do you know him?', 'I know how to drive'.\n  • *Useful Phrases:* 'let me know', 'as far as I know', 'you know'.",
-        "**5. To Like:** Preferences and taste.\n  • *Usage & Frames:* 'I like coffee', 'She likes reading', 'Do you like sports?'.\n  • *Useful Phrases:* 'like very much', 'would like', 'look like'.",
-        "**6. To Want / Would Like:** Desires and polite requests.\n  • *Usage & Frames:* 'I want water', 'I would like tea, please', 'Where do you want to go?'.\n  • *Useful Phrases:* 'want to learn', 'would like to order', 'if you want'.",
-        "**7. To Go / Be Going To:** Movement and future intentions.\n  • *Usage & Frames:* 'I go to work', 'She goes home', 'We are going to eat'.\n  • *Useful Phrases:* 'go home', 'go shopping', 'go on foot', 'be going to eat'.",
-        "**8. To Can (Modal):** Ability and permission.\n  • *Usage & Frames:* 'I can speak English', 'Can you help me?', 'You can sit here'.\n  • *Useful Phrases:* 'can I have...', 'as fast as I can', 'can do'.",
-        "**9. To Eat:** Food and meals.\n  • *Usage & Frames:* 'I eat fruit', 'What do you want to eat?', 'Let's eat out'.\n  • *Useful Phrases:* 'eat healthy', 'eat out', 'something to eat'.",
-        "**10. To Drink:** Beverages and hydration.\n  • *Usage & Frames:* 'I drink water', 'Would you like to drink?', 'He drinks coffee'.\n  • *Useful Phrases:* 'drink water', 'a hot drink', 'something to drink'."
+      "type": "table",
+      "headers": [
+        "Subject",
+        "Full Form",
+        "Short Form / Contraction",
+        "Example Sentence"
+      ],
+      "rows": [
+        [
+          "I",
+          "I am",
+          "I'm",
+          "I am very happy today. / I'm tired after work."
+        ],
+        [
+          "You",
+          "You are",
+          "You're",
+          "You are my best friend. / You're on time for class."
+        ],
+        [
+          "He",
+          "He is",
+          "He's",
+          "He is a doctor at the hospital. / He's tall and funny."
+        ],
+        [
+          "She",
+          "She is",
+          "She's",
+          "She is at home in the kitchen. / She's a good student."
+        ],
+        [
+          "It",
+          "It is",
+          "It's",
+          "It is cold outside. / It's 10 o'clock in the morning."
+        ],
+        [
+          "We",
+          "We are",
+          "We're",
+          "We are ready for the lesson. / We're excited to learn."
+        ],
+        [
+          "They",
+          "They are",
+          "They're",
+          "They are university students. / They're busy today."
+        ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Comparative Matrix across Language Families"
+      "text": "2. Main Usages & Practical Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**A. Identity & Names (Subject + be + noun):**\n  • *Examples:* Hello, my name **is** Damian, he **is** my brother Alex, Lady Gaga **is** his favourite singer, and they **are** my best friends from school. This **is** my new book.",
+        "**B. Jobs & Roles (Subject + be + a/an + job):**\n  • *Examples:* I **am** an English teacher, I **am not** a student, and my brother **is** a hospital doctor, so he **is not** an IT specialist. Lady Gaga **is** a famous singer and an actress.\n  • ⚠️ **ATTENTION:** Always use **a** or **an** before singular countable jobs (*a doctor*, *an actress*, *an IT specialist*).",
+        "**C. Age (Subject + be + age):**\n  • *Examples:* I **am** 29 years old today, my younger brother **is** 20 years old, and my parents **are** 55. How old **are** you?\n  • ⚠️ **ATTENTION:** In English, we say *\"I am 20 years old\"* or *\"I am 20\"*. **NEVER** say *\"I have 20 years\"*.",
+        "**D. Nationality & Origin (Subject + be + nationality / from + country):**\n  • *Examples:* I **am** French, I **am not** Italian, and my brother **is** Spanish because our family **is** from Paris. They **are** Italian tourists.",
+        "**E. Descriptions & Characteristics (Subject + be + adjective):**\n  • *Examples:* My friend Dylan **is** tall and he **is** very funny. The classic movie **is** black and white, and my bedroom **is** clean today. The birthday cake **is** delicious.",
+        "**F. Feelings & Physical States (Subject + be + state):**\n  • *Examples:* I **am** very happy to meet you, but we **are** extremely hungry and thirsty after work, and Dylan **is** very tired.",
+        "**G. Location & Spatial Prepositions (Subject + be + location):**\n  • *Examples:* Today I **am** at home, my brother **is** in the kitchen, my keys **are** on the wooden table, and my colleagues **are** at work.\n  • *Key Prepositions:* **in** (in the room), **on** (on the table), **under** (under the bed), **next to** (next to the café), **behind** (behind the house), **in front of** (in front of the school), **between** (between two shops), **near** (near the station), **at** (at work/school).",
+        "**H. Time, Weather, and Dates (It + is + time/weather/date):**\n  • *Examples:* It **is** Friday morning, and it **is** 11 o'clock. The weather **is** sunny but it **is** cold outside. Today **is** October 23.",
+        "**I. Demonstratives & Possession (This/That is, These/Those are):**\n  • *Examples:* This **is** my leather bag, that **is** her younger sister, these **are** our study books, and those people **are** my parents.\n  • ⚠️ **IMPORTANT:** *To be* identifies who something belongs to (*\"This bag is mine\"* / *\"This is my car\"*). It does not replace *have* (*\"I have a car\"*).",
+        "**J. Material, Measurements & Numbers:**\n  • *Examples:* This dining table **is** made of solid wood, the total price **is** €10, the subway station **is** 2 kilometres away, and my room **is** 4 metres wide."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Negative Sentences (-)"
     },
     {
       "type": "paragraph",
-      "text": "Comparative breakdown for core verbs across language families:"
+      "text": "To make a negative sentence, add **not** after *am*, *is*, or *are*."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Full Negative Form",
+        "Short Form / Contraction",
+        "Example Sentence"
+      ],
+      "rows": [
+        [
+          "am not",
+          "I'm not",
+          "I am not tired after sleep. / I'm not a French student."
+        ],
+        [
+          "is not",
+          "isn't / 's not",
+          "He isn't at home right now. / She isn't at school. / It isn't expensive."
+        ],
+        [
+          "are not",
+          "aren't / 're not",
+          "We aren't late for class. / You aren't wrong about time. / They aren't hungry."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **IMPORTANT NEGATIVE RULES:**\n• Say **I am not** or **I'm not**. There is **NO** form such as \"I amn't\".\n• **DO NOT** use *don't* or *doesn't* with *to be*. Correct: *She isn't happy.* Incorrect: *She doesn't be happy.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Yes/No Questions (?) & Short Answers"
+    },
+    {
+      "type": "paragraph",
+      "text": "To ask a question, invert the subject and *am / is / are*."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Statement (+)",
+        "Question (?)",
+        "Positive Short Answer",
+        "Negative Short Answer"
+      ],
+      "rows": [
+        [
+          "You are happy.",
+          "Are you happy today?",
+          "Yes, I am.",
+          "No, I'm not."
+        ],
+        [
+          "He is a doctor.",
+          "Is he a hospital doctor?",
+          "Yes, he is.",
+          "No, he isn't."
+        ],
+        [
+          "She is here.",
+          "Is she at home this afternoon?",
+          "Yes, she is.",
+          "No, she isn't."
+        ],
+        [
+          "It is cold.",
+          "Is it cold outside today?",
+          "Yes, it is.",
+          "No, it isn't."
+        ],
+        [
+          "They are ready.",
+          "Are they ready for the lesson?",
+          "Yes, they are.",
+          "No, they aren't."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **SHORT ANSWER RULE:** In positive short answers, **never** use contractions. Correct: *\"Yes, she is.\"* Incorrect: *\"Yes, she's.\"*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Wh- Question Words & Patterns"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**What:** *What is your full name?* / *What is this object on the desk?*",
+        "**Who:** *Who is she?* / *Who are those people over there?*",
+        "**Where:** *Where are you right now?* / *Where is my smartphone?*",
+        "**When:** *When is your birthday party?*",
+        "**Why:** *Why are you so sad today?* / *Why is he angry?*",
+        "**How:** *How are you feeling today?* / *How are your parents?*",
+        "**How old:** *How old is your younger brother?* — *He is 18 years old.*",
+        "**How much:** *How much is this blue leather bag?* — *It is €20.*",
+        "**What... like?:** *What is your new teacher like?* — *He is friendly and funny.* (Asks about character/description).\n  • *Note:* Contrast with *How is your grandfather?* — *He is fine today.* (Asks about health/well-being)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Essential Structures & Daily Expressions with \"To Be\""
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**A. There is / There are (Existence):**\n  • Singular: *There is a white cat in the garden.* / *There isn't a free chair here.* / *Is there a bank near here?*\n  • Plural: *There are two chairs in the kitchen.* / *There aren't any students in class.* / *Are there any open shops?*",
+        "**B. Essential Fixed Expressions with \"To Be\":**\n  • *be right / be wrong:* You are right about the answer, but I am wrong.\n  • *be afraid / be sure:* She is afraid of dogs, but I am sure everything is fine.\n  • *be interested in / be good at:* He is interested in modern music, and I am good at English.\n  • *be late / be early / be ready / be busy / be free:* We are late for work, dinner is ready, and I am free tomorrow."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Practice: Check Your Understanding"
+    },
+    {
+      "type": "quiz",
+      "question": "Choose the correct form: 'She ___ 25 years old and she ___ a doctor.'",
+      "options": [
+        "has / is",
+        "is / is",
+        "is / has"
+      ],
+      "correctIndex": 1,
+      "explanation": "In English, we use 'to be' for age ('She is 25') and for professions ('she is a doctor'). Never use 'has' for age."
+    },
+    {
+      "type": "quiz",
+      "question": "Is she at home? — Choose the correct positive short answer:",
+      "options": [
+        "Yes, she's.",
+        "Yes, she is.",
+        "Yes, she has."
+      ],
+      "correctIndex": 1,
+      "explanation": "In positive short answers, never use contractions. Always use the full form: 'Yes, she is.'"
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 3: Verb 2 — \"To Have\" (have / has)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The verb **to have** is one of the most essential verbs in English. At A0–A1 level, you use it to talk about possessions, family, physical characteristics, food and drink, daily activities, and health conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two essential present simple forms to learn first:\n• **have** — I, you, we, they\n• **has** — he, she, it"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Forms & Conjugation Table (Present Simple)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Subject",
+        "Affirmative (+)",
+        "Negative (-)",
+        "Question (?)"
+      ],
+      "rows": [
+        [
+          "I",
+          "I have a phone.",
+          "I don't have a car.",
+          "Do I have time?"
+        ],
+        [
+          "You",
+          "You have a nice house.",
+          "You don't have a pen.",
+          "Do you have a question?"
+        ],
+        [
+          "He",
+          "He has a sister.",
+          "He doesn't have a job.",
+          "Does he have a pet?"
+        ],
+        [
+          "She",
+          "She has blue eyes.",
+          "She doesn't have a brother.",
+          "Does she have a car?"
+        ],
+        [
+          "It",
+          "It has four legs.",
+          "It doesn't have a name.",
+          "Does it have a camera?"
+        ],
+        [
+          "We",
+          "We have two children.",
+          "We don't have time.",
+          "Do we have class today?"
+        ],
+        [
+          "They",
+          "They have a new car.",
+          "They don't have any pets.",
+          "Do they have tickets?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **IMPORTANT CONJUGATION RULE:** Use **has** only with *he*, *she*, and *it* in positive present simple sentences.\n• Correct: *She has a cat.*\n• Incorrect: *She have a cat.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Main Usages & Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**A. Possessions:** *I have a new laptop.* / *She has a red bicycle.* / *We have a big house in Paris.* / *They have a friendly dog.*",
+        "**B. Family & Relationships:** *I have two brothers.* / *She has a young daughter.* / *He has a big family.* / *We have many good friends.*",
+        "**C. Physical Characteristics:** *I have brown eyes.* / *She has long blonde hair.* / *He has a dark beard.* / *The cat has a long tail.*",
+        "**D. Things & Features:** *The apartment has three bedrooms.* / *The car has four doors.* / *My phone has a great camera.* / *The school has a large library.*",
+        "**E. Problems & Needs:** *I have a problem with my laptop.* / *She has a bad headache.* / *We have an urgent question.* / *He has a lot of work today.*",
+        "**F. Time & Availability:** *I have free time this afternoon.* / *We have an important meeting today.* / *She has an English lesson at 10 AM.* / *They have no money.*",
+        "**G. Food & Drink (Action Meaning):** *I have a delicious sandwich for lunch.* / *She has a cup of tea every morning.* / *We have breakfast at 8 o'clock.* / *They have dinner together at home.* (Here *have* means *eat* or *drink*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Negative Sentences (-) & The Base Verb Rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "To make negative sentences with *have*, use **don't have** or **doesn't have**."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Subject",
+        "Negative Structure",
+        "Example Sentence"
+      ],
+      "rows": [
+        [
+          "I / You / We / They",
+          "don't have",
+          "I don't have any money. / We don't have class today."
+        ],
+        [
+          "He / She / It",
+          "doesn't have",
+          "She doesn't have a brother. / My phone doesn't have a good camera."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **VERY IMPORTANT RULE:** After *doesn't*, always use the base form **have**, never *has*.\n• Correct: *She doesn't have a car.*\n• Incorrect: *She doesn't has a car.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Yes/No Questions (?) & Short Answers"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Question (?)",
+        "Positive Short Answer",
+        "Negative Short Answer"
+      ],
+      "rows": [
+        [
+          "Do you have a car?",
+          "Yes, I do.",
+          "No, I don't."
+        ],
+        [
+          "Does he have a brother?",
+          "Yes, he does.",
+          "No, he doesn't."
+        ],
+        [
+          "Does she have a job?",
+          "Yes, she does.",
+          "No, she doesn't."
+        ],
+        [
+          "Do they have pets?",
+          "Yes, they do.",
+          "No, they don't."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **QUESTION RULE:** When you use *does*, the main verb returns to its basic infinitive form, **have**.\n• Correct: *Does she have a cat?*\n• Incorrect: *Does she has a cat?*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Wh- Questions with \"Have\""
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**What:** *What do you have in your bag?* / *What do you have for breakfast?*",
+        "**Who:** *Who do you have in your family?*",
+        "**How many:** *How many brothers do you have?* / *How many bedrooms does the house have?*",
+        "**How much:** *How much money do you have?* / *How much time do we have?*",
+        "**What colour:** *What colour eyes does she have?*",
+        "**What kind:** *What kind of phone does he have?*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. \"Have got\" vs \"Do/Does Have\""
+    },
+    {
+      "type": "paragraph",
+      "text": "*Have got* is common in informal English (especially British English) for possession, family, and physical features."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Structure",
+        "Do/Does + Have System",
+        "Have got System"
+      ],
+      "rows": [
+        [
+          "Affirmative (+)",
+          "I have a car. / She has a cat.",
+          "I've got a car. / She's got a cat."
+        ],
+        [
+          "Negative (-)",
+          "I don't have a dog. / She doesn't have a car.",
+          "I haven't got a dog. / She hasn't got a car."
+        ],
+        [
+          "Question (?)",
+          "Do you have a pet? / Does she have a car?",
+          "Have you got a pet? / Has she got a car?"
+        ],
+        [
+          "Short Answer",
+          "Yes, I do. / No, she doesn't.",
+          "Yes, I have. / No, she hasn't."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **NEVER MIX THE TWO SYSTEMS:**\n• Correct: *Does she have a car?* OR *Has she got a car?*\n• Incorrect: *Does she have got a car?*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Everyday Expressions & Illnesses with \"Have\""
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Daily Activities & Routines:** *have breakfast / lunch / dinner*, *have a coffee*, *have a shower / bath*, *have a break*, *have a rest*, *have a party*, *have a good time*, *have a look*, *have a chat*, *have a holiday*.",
+        "**Illnesses & Physical Conditions:** *have a headache*, *have a stomachache*, *have a cold*, *have a fever*, *have a toothache*.",
+        "**Countable vs Uncountable (some / any):**\n  • Affirmative (+): *I have some apples.* / *I have some water.*\n  • Negative (-): *I don't have any apples.* / *I don't have any money.*\n  • Question (?): *Do you have any questions?*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Common Mistakes & Side-by-Side Comparisons"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contrast these key structures with 'to be' and 'to have':\n• **State / Feeling:** *I am hungry.* (be + adjective)\n• **Possession:** *I have a sandwich.* (have + noun)\n• **Activity:** *I have breakfast at 8 AM.* (have + meal)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Check Your Understanding"
+    },
+    {
+      "type": "quiz",
+      "question": "Choose the correct negative form: 'She ___ a brother.'",
+      "options": [
+        "doesn't has",
+        "doesn't have",
+        "don't have"
+      ],
+      "correctIndex": 1,
+      "explanation": "After 'doesn't', the main verb always returns to its base form 'have'. 'She doesn't have a brother' is correct."
+    },
+    {
+      "type": "quiz",
+      "question": "Which sentence correctly mixes 'have got' and 'do'?",
+      "options": [
+        "Does she have got a car?",
+        "Has she got a car?",
+        "Do she got a car?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Never mix 'do/does' with 'got'. Use 'Has she got a car?' or 'Does she have a car?'"
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 4: Verb 3 — \"To Think\""
+    },
+    {
+      "type": "paragraph",
+      "text": "**To Think** allows you to express your opinion, share your thoughts, and ask others for their view."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Forms & Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Present Simple Forms:** I/You/We/They **think** | He/She/It **thinks**.",
+        "**Expressing Opinions (I think that...):** *I think it is a good idea.* / *I think learning English is fun.* / *She thinks this movie is great.*",
+        "**Short Responses:** *I think so.* (I agree / I believe so) | *I don't think so.* (I disagree).",
+        "**Asking Opinions:** *What do you think about this idea?* / *What do you think of this film?*",
+        "**Key Collocations:** *think twice before deciding* (be careful), *think about the problem* (consider), *think of a solution* (have an opinion/idea)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 5: Verb 4 — \"To Know\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The verb **to know** is essential for talking about facts, information, people, places, skills, and things we understand. In our logical sequence: first we think, and then we know!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The primary present simple forms are:\n• **know** — I, you, we, they\n• **knows** — he, she, it"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Forms & Conjugation Table (Present Simple)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Subject",
+        "Affirmative (+)",
+        "Negative (-)",
+        "Question (?)"
+      ],
+      "rows": [
+        [
+          "I",
+          "I know the answer.",
+          "I don't know his name.",
+          "Do I know you?"
+        ],
+        [
+          "You",
+          "You know my brother.",
+          "You don't know this place.",
+          "Do you know the way?"
+        ],
+        [
+          "He",
+          "He knows the teacher.",
+          "He doesn't know my address.",
+          "Does he know the time?"
+        ],
+        [
+          "She",
+          "She knows the answer.",
+          "She doesn't know the truth.",
+          "Does she know Peter?"
+        ],
+        [
+          "It",
+          "It knows the route.",
+          "It doesn't know any tricks.",
+          "Does it know where to go?"
+        ],
+        [
+          "We",
+          "We know this city well.",
+          "We don't know what to do.",
+          "Do we know the rules?"
+        ],
+        [
+          "They",
+          "They know the truth.",
+          "They don't know anyone here.",
+          "Do they know the price?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **IMPORTANT CONJUGATION RULE:** Add **-s** to *know* only with *he*, *she*, and *it* in affirmative sentences.\n• Correct: *She knows the answer.*\n• Incorrect: *She know the answer.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Facts, Information & Embedded Question Words"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**A. Facts & Direct Information (Subject + know/knows + noun):**\n  • *I know the correct answer to question 5.*\n  • *She knows his full name and phone number.*\n  • *He knows the truth about what happened.*\n  • *We know the safety rules at work.*",
+        "**B. Information with Question Words:**\n  • *I know where he lives in London.*\n  • *She knows what you want for your birthday.*\n  • *We know when the English lesson starts.*\n  • *They know why he is angry today.*"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Familiarity with People & Places"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**A. People:** *I know Anna from university.* / *She knows my older brother.* / *Do you know this man?* / *We don't know those people over there.*",
+        "**B. Places:** *I know this city very well.* / *He knows London like the back of his hand.* / *Do you know this Italian restaurant?* / *They don't know the area.*",
+        "⚠️ **DISTINCTION:** In English, *knowing someone* means you are familiar with them.\n  • *I know Peter.* = I am familiar with him.\n  • *I meet Peter every day.* = I encounter/see him every day.\n  • *I know Peter well.* = I am very familiar with him."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Negative Sentences (-) & \"I don't know\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Use **don't know** or **doesn't know**. After *doesn't*, always use the base verb **know**, never *knows*.\n• Correct: *He doesn't know.*\n• Incorrect: *He doesn't knows.*"
+    },
+    {
+      "type": "paragraph",
+      "text": "**The Essential Phrase — \"I don't know\":**\n• \"What's his name?\" — \"I don't know.\"\n• \"Where is my phone?\" — \"I don't know.\"\n• **Useful Variations:** *I really don't know.* / *I don't know yet.* / *I don't know why.* / *I don't know anything about it.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Yes/No & Wh- Questions (Embedded Word Order)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In embedded questions with *Do you know...?*, use **statement word order** (Subject + Verb).\n• Direct question: *Where does he live?*\n• Embedded question: *Do you know where he lives?* (Correct statement order: *where he lives*, NOT *where does he live*).\n• *Do you know what time it is?* (NOT *what time is it*).\n• *Do you know who she is?* (NOT *who is she*).\n• *Do you know how old he is?* / *Do you know where the station is?*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. \"Know that\" & \"Know how to\" (Skills)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**A. Know (that) + sentence:** *I know that you are tired.* / *She knows that he is French.* / *We know English is important.* ('that' is optional in spoken English).\n  • Negative contrast: *I don't know that he is here.* (lack of awareness) vs *I don't know if he is here.* (uncertainty).",
+        "**B. Skills (know how to + base verb):**\n  • *I know how to swim.* / *She knows how to cook Italian food.* / *He knows how to drive a car.* / *They don't know how to play chess.*",
+        "**C. Know vs Know about:**\n  • *I know Maria.* = I am acquainted with Maria personally.\n  • *I know about computers.* = I have knowledge on the topic of computers."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Stative Verb Rule & Comparisons"
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **STATIVE VERB WARNING:** *Know* describes a mental state, so it is **not** used in continuous tenses (*-ing*).\n• Correct: *I know the answer.*\n• Incorrect: *I am knowing the answer.*\n• To talk about gradual familiarity, say: *I am getting to know him.*"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Verb",
+        "Meaning",
+        "Example Sentence"
+      ],
+      "rows": [
+        [
+          "think",
+          "Have an opinion / belief",
+          "I think he is right."
+        ],
+        [
+          "know",
+          "Have factual certainty or familiarity",
+          "I know he is right."
+        ],
+        [
+          "understand",
+          "Grasp the meaning of something",
+          "I understand what he says."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Key Daily Expressions with \"Know\""
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**let someone know** = inform me (*Let me know when you arrive!*)",
+        "**get to know someone** = gradually become familiar (*I want to get to know you.*)",
+        "**as far as I know** = to my knowledge (*As far as I know, the café is open.*)",
+        "**know by heart** = memorize completely (*I know this poem by heart.*)",
+        "**know for sure** = be 100% certain (*I don't know for sure.*)"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Check Your Understanding"
+    },
+    {
+      "type": "quiz",
+      "question": "Which sentence has correct word order after 'Do you know...?'",
+      "options": [
+        "Do you know where is the station?",
+        "Do you know where the station is?",
+        "Do you know where is station?"
+      ],
+      "correctIndex": 1,
+      "explanation": "In embedded questions after 'Do you know...?', use normal statement word order: 'where the station is'."
+    },
+    {
+      "type": "quiz",
+      "question": "Choose the correct skill structure: 'She knows ___ driving a car.'",
+      "options": [
+        "how to",
+        "how to drive",
+        "to drive"
+      ],
+      "correctIndex": 1,
+      "explanation": "For skills, use 'know how to + base verb': 'She knows how to drive a car.'"
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 6: Verb 5 — \"To Like\" ❤️"
+    },
+    {
+      "type": "paragraph",
+      "text": "After learning *to be*, *to have*, *to think*, and *to know*, let's master **to like**! This is a very useful verb for talking about things you enjoy, your hobbies, food, music, people, and preferences."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Preference Scale: Love, Like, Dislike & Hate"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "❤️ **Love (❤️❤️❤️❤️❤️):** Enjoy very much (*\"I love chocolate!\"*)",
+        "❤️ **Like (❤️❤️❤️):** Enjoy (*\"I like chocolate.\"*)",
+        "👎 **Dislike (👎):** Not enjoy (*\"I dislike chocolate.\"* — Note: *Dislike* sounds formal; in daily English, people usually say *\"I don't like chocolate.\"*)",
+        "😠 **Hate (😠):** Dislike very strongly (*\"I hate cold weather.\"* — Note: Be careful using *hate* with people, as it sounds harsh)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Conjugation Table & The Third-Person Rule"
+    },
+    {
+      "type": "paragraph",
+      "text": "**To like** is a regular verb. In the present simple, add **-s** for *he*, *she*, and *it*."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Subject",
+        "Affirmative (+)",
+        "Negative (-)",
+        "Question (?)"
+      ],
+      "rows": [
+        [
+          "I",
+          "I like music.",
+          "I don't like coffee.",
+          "Do I like this?"
+        ],
+        [
+          "You",
+          "You like pizza.",
+          "You don't like tea.",
+          "Do you like tea?"
+        ],
+        [
+          "He",
+          "He likes sports.",
+          "He doesn't like cold weather.",
+          "Does he like football?"
+        ],
+        [
+          "She",
+          "She likes reading.",
+          "She doesn't like cats.",
+          "Does she like dancing?"
+        ],
+        [
+          "It",
+          "It likes milk.",
+          "It doesn't like water.",
+          "Does it like warmth?"
+        ],
+        [
+          "We",
+          "We like traveling.",
+          "We don't like waiting.",
+          "Do we like this movie?"
+        ],
+        [
+          "They",
+          "They like concerts.",
+          "They don't like noise.",
+          "Do they like cooking?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **IMPORTANT RULE:** Add **-s** with *he*, *she*, and *it* in positive sentences.\n• Correct: *She likes pizza.*\n• Incorrect: *She like pizza.*\n\nIn negatives and questions, after *doesn't* or *does*, the main verb returns to base **like**:\n• Correct: *She doesn't like tea.* / *Does he like football?*\n• Incorrect: *She doesn't likes tea.* / *Does he likes football?*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. What Can Come After \"Like\"?"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Pattern 1: Like + Noun:** *I like Italian food.* / *She likes dogs.* / *They like classical music.*",
+        "**Pattern 2: Like + Verb-ing:** *I like swimming in the morning.* / *He likes cooking pasta.* / *We like watching films.* (Emphasizes active enjoyment)",
+        "**Pattern 3: Like + to + Verb:** *I like to read before bed.* / *She likes to dance.* / *They like to travel in summer.* (Emphasizes habit or preference)",
+        "⚠️ **DISTINCTION:**\n  • *I like coffee.* = I enjoy coffee generally.\n  • *I'd like a coffee.* = I want a coffee now, politely. (*Would like* is covered on Page 7 with *To Want*!)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Related Verbs: Love, Dislike & Hate"
+    },
+    {
+      "type": "paragraph",
+      "text": "The same grammar rules apply to *love*, *dislike*, and *hate*:\n• *I love my family.* / *She loves dancing.*\n• *He dislikes waiting.* (Or naturally: *He doesn't like waiting.*)\n• *My cat hates water.* / *They hate getting up early.*"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Everyday Expressions & Stative Verb Rule"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Intensity:** *I really like it!* (A lot) | *I quite like it.* (To some degree) | *I don't like it very much.*",
+        "**Polite Neutrality:** *I don't mind.* (It is okay / no objection) | *It's not my cup of tea.* (Idiom: Not something I enjoy)",
+        "⚠️ **STATIVE VERB RULE:** *Like* describes a state or preference, so use present simple in standard English (*I like this song*, NOT *I'm liking this song*)."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Check Your Understanding"
+    },
+    {
+      "type": "quiz",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "She doesn't likes coffee.",
+        "She don't like coffee.",
+        "She doesn't like coffee."
+      ],
+      "correctIndex": 2,
+      "explanation": "With 'she', use 'doesn't' followed by the base verb 'like' without an -s."
+    },
+    {
+      "type": "quiz",
+      "question": "What does 'I'd like a glass of water' mean?",
+      "options": [
+        "I enjoy water in general.",
+        "I want a glass of water, politely.",
+        "I dislike water."
+      ],
+      "correctIndex": 1,
+      "explanation": "'I'd like' means 'I would like', which expresses a polite desire right now, not a general hobby."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 7: Verb 6 — \"To Want / Would Like\""
+    },
+    {
+      "type": "paragraph",
+      "text": "**To Want** and **Would Like** express desires, intentions, and polite requests."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Forms & Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Direct Desires (Want + Noun / Verb):** *I want a glass of cold water.* / *I want to learn English fluently.* / *Where do you want to go tonight?*",
+        "**Polite Standard (Would like + Noun / Verb):** *I would like to order lunch now, please.* / *She would like a fresh salad.*",
+        "**Negative Forms:** *I don't want to be late for class.* / *He doesn't want to go home yet.*",
+        "**Common Phrases:** *if you want to come*, *I want to know the truth*, *we would like to see the museum*."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 8: Verb 7 — \"To Go / Be Going To\""
+    },
+    {
+      "type": "paragraph",
+      "text": "**To Go** expresses movement, travel, routines, and future intentions (*be going to*)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Forms & Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Present Simple Forms:** I/You/We/They **go** | He/She/It **goes**.",
+        "**Movement & Prepositions:** *I go to work by train.* / *She goes to school every morning.* / *We go to the park on Sundays.*",
+        "**Exceptions without 'to':** *go home*, *go abroad on holiday*, *go downtown*, *go grocery shopping*.",
+        "**Future Intentions (be going to + verb):** *I am going to eat dinner with friends.* / *They are going to buy a new car next month.*",
+        "**Transport Phrases:** *go on foot* (walk), *go by bus*, *go by train*, *go by car*."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 9: Verb 8 — \"To Can\" (Modal Verb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "**Can** is a modal verb expressing ability, permission, and polite requests."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Forms & Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Modal Rule:** *Can* never changes form (no '-s' for he/she/it). It is followed directly by a base verb without 'to'.",
+        "**Ability:** *I can speak three languages.* / *She can swim very fast in the pool.* / *He can play the acoustic guitar.*",
+        "**Negative Ability (cannot / can't):** *I can't drive a manual car.* / *She can't come to the party tonight.*",
+        "**Requests & Permission:** *Can you help me with this bag?* / *Can I have a glass of water?* / *You can sit here near the window.*",
+        "**Useful Phrases:** *as fast as I can*, *I can do it*, *Can I ask a quick question?*"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 10: Verb 9 — \"To Eat\""
+    },
+    {
+      "type": "paragraph",
+      "text": "**To Eat** is used for food, daily meals, dining habits, and food preferences."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Forms & Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Present Simple Forms:** I/You/We/They **eat** | He/She/It **eats**.",
+        "**Daily Food:** *I eat fresh fruit every morning for breakfast.* / *He eats lunch at 1 o'clock at work.*",
+        "**Questions & Desires:** *What do you want to eat for dinner?* / *Do you eat vegetarian food?*",
+        "**Phrasal Verbs & Collocations:** *eat out at an Italian restaurant*, *eat healthy food*, *let's find something to eat*."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 11: Verb 10 — \"To Drink\""
+    },
+    {
+      "type": "paragraph",
+      "text": "**To Drink** covers beverages, hydration, offering drinks, and social café situations."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Forms & Sentence Frames"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**Present Simple Forms:** I/You/We/They **drink** | He/She/It **drinks**.",
+        "**Daily Beverages:** *I drink two litres of water every day.* / *He drinks black coffee in the morning.* / *We drink hot tea in winter.*",
+        "**Offers & Polite Phrases:** *Would you like something to drink?* / *What would you like to drink with your meal?*",
+        "**Noun Usage:** *a hot drink on a cold day*, *a cold drink in summer*, *let's have a drink together*."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Page 12: Comparative Matrix & Practice Resources"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparative breakdown for core verbs across major language families:"
     },
     {
       "type": "table",
@@ -102,7 +1170,7 @@
           "have / haben",
           "иметь (у меня есть) / έχω / kaout / ունենալ",
           "бар (минем бар) / бар / пур",
-          "ქոնա / ყოლა"
+          "ქონა / ყოლა"
         ],
         [
           "Do / Make",
@@ -122,7 +1190,7 @@
         ],
         [
           "See / Look",
-          "voir, regarder / vedere, guardare",
+          "voir, regarder /vedere, guardare",
           "see, look / sehen, schauen",
           "видеть, смотреть / βλέπω / gwelout / տեսնել",
           "күрү, карау / күреү, ҡарау / курасси",
@@ -133,21 +1201,20 @@
     {
       "type": "heading",
       "level": 3,
-      "text": "Grammar & Structure for A0–A1 / A2 Learners"
+      "text": "Grammar & Structure Summary for A0–A1 / A2 Learners"
     },
     {
       "type": "paragraph",
-      "text": "• **Simple Sentence Structures:** Focus on Subject + Verb + Object.\n• **Auxiliaries & Modals:** Use 'can', 'must', and 'be going to' for simple daily intentions.\n• **Conjugations:** Check full present, past, and future tense tables on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "• **Simple Sentence Structures:** Always maintain clear Subject + Verb + Object order.\n• **Auxiliaries & Modals:** Use 'can' for ability and 'would like' for polite requests.\n• **Full Conjugations:** Explore full present, past, and future conjugation tables across all 14 languages on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Practice & Conjugation Resources"
+      "text": "Interactive Practice Resources"
     },
     {
       "type": "paragraph",
-      "text": "📌 Test your skills in [COSYpractice](https://cosylanguages.github.io/COSYpractice/), read [Part 1](top-10-verbs-en.html) and [Part 2](top-10-verbs-part-2-en.html), and consult full verb conjugations on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "📌 Test your skills on [COSYpractice](https://cosylanguages.github.io/COSYpractice/), read [Part 2](top-10-verbs-part-2-en.html) for the next 10 core verbs, and consult full verb conjugations on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
     }
-  ],
-  "draft": false
+  ]
 }
