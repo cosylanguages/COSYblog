@@ -75,6 +75,74 @@
 .cosy-question-note-symbol{display:inline-block;margin-top:.3rem}
 @media print{.cosy-question-symbol,.cosy-question-note-symbol{color:#222!important}}
 </style>
+<style id="cosy-vogue-spread-refresh">
+/* Spacious couture-inspired reading spread: polished without changing lesson content. */
+body.gazette-body{background:#e9e3d9}
+.gazette-wrapper.gazette-container.format-list{
+  width:min(1240px,calc(100% - 40px));margin:28px auto 52px;padding:clamp(18px,3.2vw,44px);
+  background:#fcfaf6;border:1px solid #e1d7cc;box-shadow:0 18px 58px rgba(48,36,27,.12)
+}
+.gazette-masthead{border-bottom:1px solid #d8c9bc}
+.gazette-masthead-title{font-family:Georgia,'Times New Roman',serif;letter-spacing:.2em}
+.gazette-masthead-meta{color:#76665a;letter-spacing:.06em}
+.gazette-cover-hero{margin:24px 0 40px}
+.gazette-cover-art-container{overflow:hidden;border-radius:2px}
+.gazette-header-content{max-width:940px;margin:0 auto;padding:clamp(28px,5vw,68px) clamp(12px,3vw,36px);text-align:center}
+.gazette-header-content .editorial-kicker{color:#9b5149;letter-spacing:.22em;font-size:.76rem}
+.gazette-header-content .cover-headline{
+  max-width:880px;margin:18px auto 22px;color:#211c19;
+  font-family:var(--post-font-display,Georgia,serif);font-size:clamp(2.5rem,5.6vw,5.1rem);
+  line-height:1.02;letter-spacing:-.045em;text-wrap:balance
+}
+.gazette-header-content .editorial-dek{max-width:740px;margin:0 auto;color:#61564e;font-size:clamp(1.02rem,1.4vw,1.2rem);line-height:1.85}
+.gazette-reading-view{max-width:1050px;margin:0 auto}
+.gazette-article{color:#352e28;font-size:1.035rem;line-height:1.85}
+.gazette-article p{max-width:76ch}
+.gazette-article h2,.gazette-article h3.editorial-heading{
+  margin-top:2.5rem;margin-bottom:1.1rem;color:#28211d;
+  font-family:var(--post-font-display,Georgia,serif);font-weight:600;
+  letter-spacing:-.025em;line-height:1.2;text-wrap:balance
+}
+.gazette-article h3.editorial-heading{font-size:clamp(1.55rem,2.7vw,2.15rem);padding-bottom:.65rem;border-bottom:1px solid #e2d6ca}
+.cosy-section-guide{max-width:72ch;margin:.65rem 0 1.8rem;color:#695c52;font-size:1.05rem;line-height:1.8}
+.cosy-be-section{
+  margin:1.8rem 0 2.2rem;padding:1.25rem clamp(1rem,2.5vw,1.8rem) 1.35rem;
+  border:1px solid #e4d8cd;border-left:4px solid #b36e66;border-radius:3px;
+  background:#fffdf9;box-shadow:0 7px 22px rgba(56,42,31,.045);break-inside:avoid
+}
+.cosy-be-section:nth-of-type(even){border-left-color:#7c9888;background:#f8faf6}
+.cosy-be-section-title{margin:.05rem 0 .75rem;font-family:var(--post-font-display,Georgia,serif);font-size:clamp(1.3rem,2.2vw,1.7rem);line-height:1.25;letter-spacing:-.02em;font-weight:600;color:#2d2520}
+.cosy-be-section-intro{max-width:72ch;margin:.3rem 0 1rem;color:#665950;line-height:1.8;opacity:1}
+.cosy-be-section .editorial-list{margin-top:.5rem;padding-left:1.35rem}
+.cosy-be-section li{margin-bottom:1rem;padding-left:.2rem;line-height:1.8}
+.cosy-be-section li:last-child{margin-bottom:.2rem}
+.cosy-formula{margin:.7rem 0 .8rem;padding:.45rem .65rem;border-radius:7px;border-color:#d8c7b8;background:#f7f1e9;box-shadow:none;gap:.32rem}
+.cosy-formula-part{padding:.2rem .48rem}
+.cosy-example-label{margin-top:.8rem;margin-bottom:.25rem;color:#8f4e45;letter-spacing:.035em}
+.cosy-newline-label{margin-top:.75rem;margin-bottom:.2rem;color:#8f4e45;font-style:normal;letter-spacing:.025em}
+.gazette-article table{width:100%;border-collapse:collapse;margin:1.3rem 0 1.8rem}
+.gazette-article th{background:#f1e7df;color:#352922;font-weight:700}
+.gazette-article th,.gazette-article td{padding:.75rem .85rem;border:1px solid #e1d6ca;text-align:left;vertical-align:top}
+.gazette-article tr:nth-child(even) td{background:#fbf7f1}
+@media(max-width:700px){
+ .gazette-wrapper.gazette-container.format-list{width:calc(100% - 12px);margin:6px auto 18px;padding:14px}
+ .gazette-header-content{padding:28px 8px 34px}
+ .gazette-header-content .cover-headline{font-size:clamp(2.2rem,10vw,3.3rem)}
+ .gazette-article{font-size:1rem;line-height:1.78}
+ .gazette-article h2,.gazette-article h3.editorial-heading{margin-top:2rem}
+ .cosy-be-section{margin:1.2rem 0 1.5rem;padding:1rem .9rem 1.1rem}
+ .cosy-be-section .editorial-list{padding-left:1.15rem}
+ .gazette-article th,.gazette-article td{padding:.55rem .5rem}
+ .cosy-formula{max-width:100%;font-size:.93em}
+}
+@media(prefers-reduced-motion:reduce){.cosy-be-section{scroll-behavior:auto}}
+@media print{
+ body.gazette-body{background:#fff}
+ .gazette-wrapper.gazette-container.format-list{width:100%;margin:0;padding:0;border:0;box-shadow:none;background:#fff}
+ .cosy-be-section{box-shadow:none;background:#fff;border-radius:0}
+ .gazette-article th,.gazette-article td{background:#fff!important}
+}
+</style>
 </head>
 <body class="blog-page gazette-body">
 
