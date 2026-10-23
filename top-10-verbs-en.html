@@ -165,6 +165,31 @@ body.gazette-body{background:#e9e3d9}
 }
 </style>
 
+
+<style id="cosy-compact-cover-headlines">
+/* Keep cover titles elegant while reducing the vertical footprint across articles. */
+.gazette-header-content{padding:clamp(20px,2.8vw,38px) clamp(12px,3vw,32px)}
+.gazette-header-content .cover-headline{
+  max-width:940px;
+  margin:12px auto 16px;
+  font-size:clamp(2.1rem,4.5vw,4.15rem);
+  line-height:1.04;
+  letter-spacing:-.04em;
+}
+.gazette-header-content .editorial-dek{
+  max-width:700px;
+  font-size:clamp(.96rem,1.15vw,1.08rem);
+  line-height:1.65;
+}
+.gazette-cover-hero{margin:18px 0 28px}
+@media(max-width:700px){
+ .gazette-header-content{padding:22px 8px 26px}
+ .gazette-header-content .cover-headline{font-size:clamp(1.9rem,8vw,2.8rem);line-height:1.06;margin:10px auto 14px}
+ .gazette-header-content .editorial-dek{font-size:.98rem;line-height:1.6}
+ .gazette-cover-hero{margin:14px 0 22px}
+}
+</style>
+
 </head>
 <body class="blog-page gazette-body">
 
