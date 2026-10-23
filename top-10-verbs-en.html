@@ -148,6 +148,23 @@ body.gazette-body{background:#e9e3d9}
  .gazette-article th,.gazette-article td{background:#fff!important}
 }
 </style>
+
+<style id="cosy-warning-labels-red">
+/* Warning and caution labels stand out consistently across every verb section. */
+.gazette-article .cosy-warning-label{
+  color:#b42318!important;
+  font-weight:800;
+  text-decoration-color:#b42318;
+}
+.gazette-article p:has(> .cosy-warning-label),
+.gazette-article li:has(> .cosy-warning-label){
+  --cosy-warning-red:#b42318;
+}
+@media print{
+  .gazette-article .cosy-warning-label{color:#b42318!important;print-color-adjust:exact}
+}
+</style>
+
 </head>
 <body class="blog-page gazette-body">
 
@@ -330,7 +347,7 @@ body.gazette-body{background:#e9e3d9}
   • <em class="cosy-example-label">Examples:</em> Hello, my name <strong>is</strong> Damian, he <strong>is</strong> my brother Alex, Lady Gaga <strong>is</strong> his favourite singer, and they <strong>are</strong> my best friends from school. This <strong>is</strong> my new book.</li>
 <li><span class="cosy-usage-symbol" aria-hidden="true">💼</span> <strong>B. Jobs &amp; Roles (<span class="cosy-formula" aria-label="Subject + be + a/an + job"><span class="cosy-formula-part cosy-formula-part-subject">Subject</span><span class="cosy-formula-plus" aria-hidden="true">+</span><span class="cosy-formula-part cosy-formula-part-verb">be</span><span class="cosy-formula-plus" aria-hidden="true">+</span><span class="cosy-formula-part cosy-formula-part-complement">a/an</span><span class="cosy-formula-plus" aria-hidden="true">+</span><span class="cosy-formula-part cosy-formula-part-complement">job</span></span>):</strong>
   • <em class="cosy-example-label">Examples:</em> I <strong>am</strong> an English teacher, I <strong>am not</strong> a student, and my brother <strong>is</strong> a hospital doctor, so he <strong>is not</strong> an IT specialist. Lady Gaga <strong>is</strong> a famous singer and an actress.
-<br>⚠️ <strong>ATTENTION:</strong> Always use <strong>a</strong> or <strong>an</strong> before singular countable jobs (<em>a doctor</em>, <em>an actress</em>, <em>an IT specialist</em>).</li>
+<br>⚠️ <strong class="cosy-warning-label">ATTENTION:</strong> Always use <strong>a</strong> or <strong>an</strong> before singular countable jobs (<em>a doctor</em>, <em>an actress</em>, <em>an IT specialist</em>).</li>
 </ul>
 </section>
 <section class="cosy-be-section" id="to-be-section-2">
@@ -345,7 +362,7 @@ body.gazette-body{background:#e9e3d9}
   • <em class="cosy-example-label">Examples:</em> I <strong>am</strong> French, I <strong>am not</strong> Italian, and my brother <strong>is</strong> Spanish because our family <strong>is</strong> from Paris. They <strong>are</strong> Italian tourists.</li>
 <li><span class="cosy-usage-symbol" aria-hidden="true">🎂</span> <strong>C. Age (<span class="cosy-formula" aria-label="Subject + be + age"><span class="cosy-formula-part cosy-formula-part-subject">Subject</span><span class="cosy-formula-plus" aria-hidden="true">+</span><span class="cosy-formula-part cosy-formula-part-verb">be</span><span class="cosy-formula-plus" aria-hidden="true">+</span><span class="cosy-formula-part cosy-formula-part-complement">age</span></span>):</strong>
   • <em class="cosy-example-label">Examples:</em> I <strong>am</strong> 29 years old today, my younger brother <strong>is</strong> 20 years old, and my parents <strong>are</strong> 55. How old <strong>are</strong> you?
-<br>⚠️ <strong>ATTENTION:</strong> In English, we say <em>&quot;I am 20 years old&quot;</em> or <em>&quot;I am 20&quot;</em>. <strong>NEVER</strong> say <em>&quot;I have 20 years&quot;</em>.</li>
+<br>⚠️ <strong class="cosy-warning-label">ATTENTION:</strong> In English, we say <em>&quot;I am 20 years old&quot;</em> or <em>&quot;I am 20&quot;</em>. <strong>NEVER</strong> say <em>&quot;I have 20 years&quot;</em>.</li>
 <li><span class="cosy-usage-symbol" aria-hidden="true">📏</span> <strong>J. Material, Measurements &amp; Numbers:</strong>
   • <em class="cosy-example-label">Examples:</em> This dining table <strong>is</strong> made of solid wood, the total price <strong>is</strong> €10, the subway station <strong>is</strong> 2 kilometres away, and my room <strong>is</strong> 4 metres wide.</li>
 </ul>
@@ -373,7 +390,7 @@ body.gazette-body{background:#e9e3d9}
 <ul class="editorial-list">
 <li><span class="cosy-usage-symbol" aria-hidden="true">🧳</span> <strong>I. Demonstratives &amp; Possession (This/That is, These/Those are):</strong>
   • <em class="cosy-example-label">Examples:</em> This <strong>is</strong> my leather bag, that <strong>is</strong> her younger sister, these <strong>are</strong> our study books, and those people <strong>are</strong> my parents.
-<br>⚠️ <strong>IMPORTANT:</strong> <em>To be</em> identifies who something belongs to (<em>&quot;This bag is mine&quot;</em> / <em>&quot;This is my car&quot;</em>). It does not replace <em>have</em> (<em>&quot;I have a car&quot;</em>).</li>
+<br>⚠️ <strong class="cosy-warning-label">IMPORTANT:</strong> <em>To be</em> identifies who something belongs to (<em>&quot;This bag is mine&quot;</em> / <em>&quot;This is my car&quot;</em>). It does not replace <em>have</em> (<em>&quot;I have a car&quot;</em>).</li>
 </ul>
 </section>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">🚫</span> 3. Negative Sentences (-)</h3>
@@ -389,7 +406,7 @@ body.gazette-body{background:#e9e3d9}
     </tbody>
   </table>
 </div>
-<p>⚠️ <strong>IMPORTANT NEGATIVE RULES:</strong>
+<p>⚠️ <strong class="cosy-warning-label">IMPORTANT NEGATIVE RULES:</strong>
 • Say <strong>I am not</strong> or <strong>I&#39;m not</strong>. There is <strong>NO</strong> form such as &quot;I amn&#39;t&quot;.
 • <strong>DO NOT</strong> use <em>don&#39;t</em> or <em>doesn&#39;t</em> with <em>to be</em>. Correct: <em>She isn&#39;t happy.</em> Incorrect: <em>She doesn&#39;t be happy.</em></p>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">❓</span> 4. Yes/No Questions (?) &amp; Short Answers</h3>
@@ -488,7 +505,7 @@ body.gazette-body{background:#e9e3d9}
     </tbody>
   </table>
 </div>
-<p><strong class="cosy-newline-label">⚠️ IMPORTANT CONJUGATION RULE:</strong> Use <strong>has</strong> only with <em>he</em>, <em>she</em>, and <em>it</em> in positive present simple sentences.
+<p><strong class="cosy-newline-label cosy-warning-label">⚠️ IMPORTANT CONJUGATION RULE:</strong> Use <strong>has</strong> only with <em>he</em>, <em>she</em>, and <em>it</em> in positive present simple sentences.
 • Correct: <em>She has a cat.</em>
 • Incorrect: <em>She have a cat.</em></p>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">🎂</span> 2. Main Usages &amp; Sentence Frames</h3>
@@ -536,7 +553,7 @@ body.gazette-body{background:#e9e3d9}
     </tbody>
   </table>
 </div>
-<p><strong class="cosy-newline-label">⚠️ VERY IMPORTANT RULE:</strong> After <em>doesn&#39;t</em>, always use the base form <strong>have</strong>, never <em>has</em>.
+<p><strong class="cosy-newline-label cosy-warning-label">⚠️ VERY IMPORTANT RULE:</strong> After <em>doesn&#39;t</em>, always use the base form <strong>have</strong>, never <em>has</em>.
 • Correct: <em>She doesn&#39;t have a car.</em>
 • Incorrect: <em>She doesn&#39;t has a car.</em></p>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">❓</span> 4. Yes/No Questions (?) &amp; Short Answers</h3>
@@ -552,7 +569,7 @@ body.gazette-body{background:#e9e3d9}
     </tbody>
   </table>
 </div>
-<p><strong class="cosy-newline-label">⚠️ QUESTION RULE:</strong> When you use <em>does</em>, the main verb returns to its basic infinitive form, <strong>have</strong>.
+<p><strong class="cosy-newline-label cosy-warning-label">⚠️ QUESTION RULE:</strong> When you use <em>does</em>, the main verb returns to its basic infinitive form, <strong>have</strong>.
 • Correct: <em>Does she have a cat?</em>
 • Incorrect: <em>Does she has a cat?</em></p>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">❓</span> 5. Wh- Questions with &quot;Have&quot;</h3>
@@ -578,7 +595,7 @@ body.gazette-body{background:#e9e3d9}
     </tbody>
   </table>
 </div>
-<p><strong class="cosy-newline-label">⚠️ NEVER MIX THE TWO SYSTEMS:</strong>
+<p><strong class="cosy-newline-label cosy-warning-label">⚠️ NEVER MIX THE TWO SYSTEMS:</strong>
 • Correct: <em>Does she have a car?</em> OR <em>Has she got a car?</em>
 • Incorrect: <em>Does she have got a car?</em></p>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">❤️</span> 7. Everyday Expressions &amp; Illnesses with &quot;Have&quot;</h3>
@@ -643,7 +660,7 @@ body.gazette-body{background:#e9e3d9}
     </tbody>
   </table>
 </div>
-<p>⚠️ <strong>IMPORTANT CONJUGATION RULE:</strong> Add <strong>-s</strong> to <em>know</em> only with <em>he</em>, <em>she</em>, and <em>it</em> in affirmative sentences.
+<p>⚠️ <strong class="cosy-warning-label">IMPORTANT CONJUGATION RULE:</strong> Add <strong>-s</strong> to <em>know</em> only with <em>he</em>, <em>she</em>, and <em>it</em> in affirmative sentences.
 • Correct: <em>She knows the answer.</em>
 • Incorrect: <em>She know the answer.</em></p>
 <section class="cosy-be-section">
@@ -666,7 +683,7 @@ body.gazette-body{background:#e9e3d9}
 <ul class="editorial-list">
 <li><span class="cosy-usage-symbol" aria-hidden="true">👨‍👩‍👧</span> <strong>A. People:</strong> <em>I know Anna from university.</em> / <em>She knows my older brother.</em> / <em>Do you know this man?</em> / <em>We don&#39;t know those people over there.</em></li>
 <li><span class="cosy-usage-symbol" aria-hidden="true">📍</span> <strong>B. Places:</strong> <em>I know this city very well.</em> / <em>He knows London like the back of his hand.</em> / <em>Do you know this Italian restaurant?</em> / <em>They don&#39;t know the area.</em></li>
-<li>⚠️ <strong>DISTINCTION:</strong> In English, <em>knowing someone</em> means you are familiar with them.
+<li>⚠️ <strong class="cosy-warning-label">DISTINCTION:</strong> In English, <em>knowing someone</em> means you are familiar with them.
   • <em>I know Peter.</em> = I am familiar with him.
   • <em>I meet Peter every day.</em> = I encounter/see him every day.
   • <em>I know Peter well.</em> = I am very familiar with him.</li>
@@ -712,7 +729,7 @@ body.gazette-body{background:#e9e3d9}
 <h3 class="cosy-be-section-title"><span class="cosy-heading-symbol" aria-hidden="true">↔️</span>Stative Verb Rule & Comparisons</h3>
 <p class="cosy-be-section-intro"><strong>Know</strong> describes a mental state and is not normally used in continuous tenses.</p>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">↔️</span> 7. Stative Verb Rule &amp; Comparisons</h3>
-<p>⚠️ <strong>STATIVE VERB WARNING:</strong> <em>Know</em> describes a mental state, so it is <strong>not</strong> used in continuous tenses (<em>-ing</em>).
+<p>⚠️ <strong class="cosy-warning-label">STATIVE VERB WARNING:</strong> <em>Know</em> describes a mental state, so it is <strong>not</strong> used in continuous tenses (<em>-ing</em>).
 • Correct: <em>I know the answer.</em>
 • Incorrect: <em>I am knowing the answer.</em>
 • To talk about gradual familiarity, say: <em>I am getting to know him.</em></p>
@@ -814,7 +831,7 @@ Page 6: Verb 5 — &quot;To Like&quot; ❤️</h2>
     </tbody>
   </table>
 </div>
-<p>⚠️ <strong>IMPORTANT RULE:</strong> Add <strong>-s</strong> with <em>he</em>, <em>she</em>, and <em>it</em> in positive sentences.
+<p>⚠️ <strong class="cosy-warning-label">IMPORTANT RULE:</strong> Add <strong>-s</strong> with <em>he</em>, <em>she</em>, and <em>it</em> in positive sentences.
 • Correct: <em>She likes pizza.</em>
 • Incorrect: <em>She like pizza.</em>
 
@@ -831,7 +848,7 @@ In negatives and questions, after <em>doesn&#39;t</em> or <em>does</em>, the mai
 <li><strong>Pattern 1: Like + Noun:</strong> <em>I like Italian food.</em> / <em>She likes dogs.</em> / <em>They like classical music.</em></li>
 <li><strong>Pattern 2: Like + Verb-ing:</strong> <em>I like swimming in the morning.</em> / <em>He likes cooking pasta.</em> / <em>We like watching films.</em> (Emphasizes active enjoyment)</li>
 <li><strong>Pattern 3: Like + to + Verb:</strong> <em>I like to read before bed.</em> / <em>She likes to dance.</em> / <em>They like to travel in summer.</em> (Emphasizes habit or preference)</li>
-<li>⚠️ <strong>DISTINCTION:</strong>
+<li>⚠️ <strong class="cosy-warning-label">DISTINCTION:</strong>
   • <em>I like coffee.</em> = I enjoy coffee generally.
   • <em>I&#39;d like a coffee.</em> = I want a coffee now, politely. (<em>Would like</em> is covered on Page 7 with <em>To Want</em>!).</li>
 </ul>
@@ -849,7 +866,7 @@ In negatives and questions, after <em>doesn&#39;t</em> or <em>does</em>, the mai
 <ul class="editorial-list">
 <li><strong>Intensity:</strong> <em>I really like it!</em> (A lot) | <em>I quite like it.</em> (To some degree) | <em>I don&#39;t like it very much.</em></li>
 <li><strong>Polite Neutrality:</strong> <em>I don&#39;t mind.</em> (It is okay / no objection) | <em>It&#39;s not my cup of tea.</em> (Idiom: Not something I enjoy)</li>
-<li>⚠️ <strong>STATIVE VERB RULE:</strong> <em>Like</em> describes a state or preference, so use present simple in standard English (<em>I like this song</em>, NOT <em>I&#39;m liking this song</em>).</li>
+<li>⚠️ <strong class="cosy-warning-label">STATIVE VERB RULE:</strong> <em>Like</em> describes a state or preference, so use present simple in standard English (<em>I like this song</em>, NOT <em>I&#39;m liking this song</em>).</li>
 </ul>
 
 </section>
@@ -955,7 +972,7 @@ Page 7: Verb 6 — &quot;To Want / Would Like&quot;</h2>
 <p><strong>Can</strong> is a modal verb expressing ability, permission, and polite requests.</p>
 <h3 class="editorial-heading"><span class="cosy-heading-symbol" aria-hidden="true">✍️</span> Forms &amp; Sentence Frames</h3>
 <ul class="editorial-list">
-<li><strong>Modal Rule:</strong> <em>Can</em> never changes form (no &#39;-s&#39; for he/she/it). It is followed directly by a base verb without &#39;to&#39;.</li>
+<li><strong class="cosy-warning-label">Modal Rule:</strong> <em>Can</em> never changes form (no &#39;-s&#39; for he/she/it). It is followed directly by a base verb without &#39;to&#39;.</li>
 <li><strong>Ability:</strong> <em>I can speak three languages.</em> / <em>She can swim very fast in the pool.</em> / <em>He can play the acoustic guitar.</em></li>
 <li><strong>Negative Ability (cannot / can&#39;t):</strong> <em>I can&#39;t drive a manual car.</em> / <em>She can&#39;t come to the party tonight.</em></li>
 <li><strong>Requests &amp; Permission:</strong> <em>Can you help me with this bag?</em> / <em>Can I have a glass of water?</em> / <em>You can sit here near the window.</em></li>
