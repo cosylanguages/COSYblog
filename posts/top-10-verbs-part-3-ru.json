@@ -88,44 +88,84 @@
       ],
       "rows": [
         [
+          "Choose, Buy, Pay",
+          "Choisir / Acheter / Payer",
           "Choose / Buy / Pay",
-          "choisir, acheter, payer / scegliere, comprare, pagare",
-          "choose, buy, pay / wählen, kaufen, bezahlen",
-          "выбирать, покупать, платить / επιλέγω, αγοράζω, πληρώνω",
-          "сайлау, сатып алу, түләү",
-          "არჩევა, ყიდვა, გადახდა"
+          "Выбирать / Покупать / Платить",
+          "Сайлау / һайлау / Суйлама",
+          "არჩევა / ყიდვა / გადახდა"
         ],
         [
+          "Remember & Forget",
+          "Se souvenir / Oublier",
           "Remember / Forget",
-          "se souvenir, oublier / ricordare, dimenticare",
-          "remember, forget / erinnern, vergessen",
-          "помнить, забывать / θυμάμαι, ξεχνώ",
-          "истә тоту, оныту",
-          "гахсенеба, დაвиწყება"
+          "Помнить / Забывать",
+          "Хәтерләү / Хәтерләү / Аса илме",
+          "მახსოვრობა / დავიწყება"
         ],
         [
+          "Write, Read, Type",
+          "Écrire / Lire / Taper",
           "Write / Read / Type",
-          "écrire, lire, taper / scrivere, leggere, digitare",
-          "write, read, type / schreiben, lesen, tippen",
-          "писать, читать, печатать / γράφω, διαβάζω, πληκτρολογώ",
-          "язу, уку, басу",
-          "წერა, კითხვა, ბეჭდვა"
+          "Писать / Читать / Печатать",
+          "Язу / Яҙыу / Ҫырма",
+          "წერა / კითხვა / ბეჭდვა"
         ],
         [
+          "Spend & Waste",
+          "Dépenser / Gaspiller",
           "Spend / Waste",
-          "dépenser, gaspiller / spendere, sprecare",
-          "spend, waste / ausgeben, verschwenden",
-          "тратить, терять впустую / ξοδεύω, σπαταλώ",
-          "сарф итү, изү",
-          "ხარჯვა, ფლანგვა"
+          "Тратить / Транжирить",
+          "Сарыф итү / Тотоноу / Тӑкашлама",
+          "ხარჯვა / გაფლანგვა"
         ],
         [
+          "Send & Get",
+          "Envoyer / Obtenir",
           "Send / Get",
-          "envoyer, recevoir / inviare, ricevere",
-          "send, get / senden, bekommen",
-          "отправлять, получать / στέλνω, παίρνω",
-          "җибәрү, алу",
-          "გაგზავნა, მიღება"
+          "Отправлять / Получать",
+          "Җибәрү / Ебәреү / Ярма",
+          "გაგზავნა / მიღება"
+        ],
+        [
+          "Feel",
+          "Ressentir / Sentir",
+          "Feel / Sense",
+          "Чувствовать / Ощущать",
+          "Хис итү / Хис итеү / Туйма",
+          "გრძნობა / შეგრძნება"
+        ],
+        [
+          "Meet",
+          "Rencontrer / Croiser",
+          "Meet / Encounter",
+          "Встречать / Знакомиться",
+          "Очрашу / Осрашыу / Тĕл пулма",
+          "შეხვედრა / გაცნობა"
+        ],
+        [
+          "Decide",
+          "Décider / Résoudre",
+          "Decide / Resolve",
+          "Решать / Принимать решение",
+          "Карар итү / Ҡарар итеү / Йышӑнма",
+          "გადაწყვეტა / გადაჭრა"
+        ],
+        [
+          "Play",
+          "Jouer / Pratiquer",
+          "Play / Practice",
+          "Играть / Исполнять",
+          "Уйнау / Уйнау / Выляма",
+          "თამაში / დაკვრა"
+        ],
+        [
+          "Agree & Disagree",
+          "Être d'accord / Disconvenir",
+          "Agree / Disagree",
+          "Соглашаться / Не соглашаться",
+          "Килешү / Килешеү / Килĕшме",
+          "დათანხმება / უარყოფა"
         ]
       ]
     },
