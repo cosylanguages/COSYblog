@@ -26,11 +26,11 @@ export class PodcastBoxComponent {
     const externalUrl = podcast.externalUrl || null;
     const appleUrl = podcast.appleUrl || null;
     let iframeUrl = podcast.iframeUrl || null;
-    if (!iframeUrl && externalUrl && externalUrl.includes('spotify.com/episode/')) {
-      const epIdMatch = externalUrl.match(/episode\/([a-zA-Z0-9]+)/);
-      if (epIdMatch && epIdMatch[1]) {
-        iframeUrl = `https://open.spotify.com/embed/episode/${epIdMatch[1]}?utm_source=generator`;
-      }
+    if (!iframeUrl && externalUrl) {
+      const spotify = externalUrl.match(/spotify\.com\/episode\/([a-zA-Z0-9]+)/);
+      const anchor = externalUrl.match(/^https:\/\/podcasters\.spotify\.com\/pod\/show\/([^/]+)\/episodes\/([^/?#]+)/);
+      if (spotify) iframeUrl = `https://open.spotify.com/embed/episode/${spotify[1]}?utm_source=generator`;
+      else if (anchor) iframeUrl = `https://podcasters.spotify.com/pod/show/${anchor[1]}/embed/episodes/${anchor[2]}`;
     }
     const slug = this.post.slug || '';
     const scriptUrl = `${slug}.html?script=1`;

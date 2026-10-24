@@ -161,7 +161,10 @@
     "latest_issue": "Latest issue",
     "read_story": "Read the story →",
     "also_in_issue": "Also in this issue",
-    "all_issues": "All issues"
+    "all_issues": "All issues",
+    "articles_count": "Articles: {n}",
+    "fallback_en": "Available in English",
+    "languages_label": "Available languages"
   },
   "blog": {
     "back_to_hub": "← Back to Blog & Editorial Hub",
