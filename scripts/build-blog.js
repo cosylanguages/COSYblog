@@ -670,14 +670,14 @@ async function buildBlog() {
 
         <!-- Main Gazette Content Spread -->
         <main class="gazette-reading-view">
+            ${(post.podcast || post.audio_podcast) ? `
+            <div id="podcast-box-container" class="podcast-box-wrapper" style="margin-bottom: 1.75rem;">
+                ${staticPodcastBoxHtml}
+            </div>` : ''}
+
             <article class="post-full-content gazette-article"${flipAttrs}>
                 ${renderedBlocksHtml}
             </article>
-
-            ${(post.podcast || post.audio_podcast) ? `
-            <div id="podcast-box-container" class="podcast-box-wrapper" style="margin-top: 2.5rem;">
-                ${staticPodcastBoxHtml}
-            </div>` : ''}
 
             ${post.tags && post.tags.length > 0 ? `
             <div class="post-tags-row" style="margin-top: 2rem;">

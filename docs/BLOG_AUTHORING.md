@@ -258,7 +258,7 @@ Use design tokens (`--blog-*`), never hard-coded colours.
 `js/lesson-quiz.js` hides the answer and explanation until the reader chooses an option. Without JavaScript the quiz still renders, with the answer visible.
 
 ### Podcast embed
-If `podcast.externalUrl` is a Spotify episode link (`open.spotify.com/episode/…`) or a Spotify for Podcasters episode page (`podcasters.spotify.com/pod/show/<show>/episodes/<episode>`), the page embeds the episode player automatically. Otherwise it falls back to `audioUrl`, then to the "in production" notice.
+If `podcast.externalUrl` is a Spotify episode link (`open.spotify.com/episode/…`) or a Spotify for Podcasters episode page (`podcasters.spotify.com/pod/show/<show>/episodes/<episode>`), the page embeds the episode player automatically. Otherwise it falls back to `audioUrl`, then to the "in production" notice. The player is rendered above the article pages, so readers can listen first.
 
 ### Newsstand and languages
 The newsstand lists five languages (en, fr, it, ru, el). Each card follows the interface language chosen in the top bar. An article without an edition in that language is shown in English with an "Available in English" tag. When a legacy base post and an explicit edition share a language (for example `top-10-verbs` and `top-10-verbs-en`), the edition wins.
