@@ -1477,3 +1477,21 @@ html[data-theme="dark"] .ppt-slide-footer {
     padding: 0.85rem;
   }
 }
+
+/* Real data tables (table block with "variant": "table") */
+.gazette-table-wrap { max-width: 900px; margin: 28px auto; overflow-x: auto; border: 1px solid var(--blog-border-delicate, #e7e0d6); border-radius: 14px; background: var(--blog-paper-card, #fff); }
+.gazette-table-wrap:focus-visible { outline: 3px solid var(--post-palette-accent, #3B82F6); outline-offset: 2px; }
+.gazette-table { width: 100%; border-collapse: collapse; font-size: 0.97rem; }
+.gazette-table caption { caption-side: top; text-align: left; padding: 12px 16px 4px; font-weight: 700; color: var(--blog-ink-secondary, #4a5568); }
+.gazette-table th, .gazette-table td { padding: 10px 14px; text-align: left; vertical-align: top; border-top: 1px solid var(--blog-border-delicate, #e7e0d6); }
+.gazette-table thead th { border-top: 0; background: var(--blog-paper-aged, #F8FAFC); white-space: nowrap; }
+.gazette-table tbody th { font-weight: 700; }
+
+/* Interactive quiz states (js/quiz.js). Without JS the answers stay visible. */
+.js .gazette-quiz-card:not(.quiz-ready) .quiz-mark,
+.js .gazette-quiz-card:not(.quiz-ready) .quiz-explanation { visibility: hidden; }
+.quiz-option-btn.is-correct { border-color: #15803d; background: rgba(21, 128, 61, .12); }
+.quiz-option-btn.is-wrong { border-color: #b91c1c; background: rgba(185, 28, 28, .10); }
+.quiz-option-btn:disabled { cursor: default; opacity: 1; color: inherit; }
+.quiz-option-btn.is-wrong:disabled { opacity: .75; }
+.quiz-feedback { min-height: 1.4em; margin: .6rem 0 0; font-weight: 700; }

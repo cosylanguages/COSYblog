@@ -180,6 +180,10 @@ function validatePostSchema(postObj, sourceName = 'object') {
         case 'table':
           if (!Array.isArray(block.headers) || !Array.isArray(block.rows)) {
             errors.push(`[${blockRef}] Block "table" requires "headers" array and "rows" 2D array.`);
+          } else if (block.variant !== undefined && block.variant !== 'table') {
+            errors.push(`[${blockRef}] Block "table" "variant" must be "table" when present.`);
+          } else if (block.rows.some((r) => !Array.isArray(r) || r.length !== block.headers.length)) {
+            errors.push(`[${blockRef}] Block "table" rows must all have as many cells as "headers".`);
           }
           break;
         case 'example':
