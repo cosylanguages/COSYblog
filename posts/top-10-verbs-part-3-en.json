@@ -1,0 +1,192 @@
+{
+  "id": "post-top-10-verbs-part-3-en",
+  "slug": "top-10-verbs-part-3-en",
+  "language": "en",
+  "translationOf": "top-10-verbs-part-3",
+  "desk": "Words",
+  "format": "list",
+  "level": "A0–A1 / A2",
+  "issue": {
+    "number": "Vol. 2027 — February Issue",
+    "title": "February Grammar & High Frequency Verbs"
+  },
+  "date": "2027-02-01",
+  "title": "Top 10 Essential Verbs in English, Part 3 (CEFR A0–A1 / A2)",
+  "kicker": "ENGLISH CORE GUIDE — PART 3 OF 3",
+  "dek": "Master the third 10 high-frequency verbs in English: choose/buy/pay, remember/forget, feel, meet, decide (don't say 'decide a problem'), write/read/type, spend/waste, play (all variations), agree/disagree, and send/get. Conjugation tables on COSYtools.",
+  "tags": [
+    "Verbs",
+    "English",
+    "A0-A1",
+    "Part3"
+  ],
+  "readingTime": 10,
+  "podcast": {
+    "episode": 4,
+    "audioUrl": null
+  },
+  "artDirection": {
+    "palette": [
+      "#059669",
+      "#ecfdf5",
+      "#064e3b"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "text": "DM Sans",
+      "accent": "Fraunces Italic"
+    },
+    "layout": "magazine-spread",
+    "motif": "editorial-stars",
+    "seed": "top-10-verbs-part-3-en",
+    "coverOverride": null
+  },
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Welcome to Part 3 of our core verb series for A0–A1 and A2 English learners! (Read [Part 1](top-10-verbs-en.html) and [Part 2](top-10-verbs-part-2-en.html) if you missed them). Here we cover 10 core decision-making, commerce, cognitive, social, and action verbs. All conjugation tables and verb forms are consultable on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Deep Dive: Top 10 English Verbs (Part 3)"
+    },
+    {
+      "type": "list-item",
+      "ordered": false,
+      "items": [
+        "**1. Choose / Buy / Pay:** Selection and commerce.\n  • *Usage & Frames:* 'I choose a book', 'I buy groceries', 'I pay by card'.\n  • *Useful Phrases:* 'choose wisely', 'buy online', 'pay attention', 'pay for dinner'.",
+        "**2. Remember / Forget:** Memory and cognition.\n  • *Usage & Frames:* 'I remember your name', 'Don't forget your keys!'.\n  • *Useful Phrases:* 'remember to do', 'I forgot my password', 'hard to forget'.",
+        "**3. Feel:** Physical and emotional state.\n  • *Usage & Frames:* 'I feel happy', 'She feels cold', 'How do you feel?'.\n  • *Useful Phrases:* 'feel like doing', 'feel well', 'feel tired'.",
+        "**4. Meet:** Social interactions and introductions.\n  • *Usage & Frames:* 'Nice to meet you', 'Let's meet at 5 PM', 'Meet my friend'.\n  • *Useful Phrases:* 'meet up', 'meet new people', 'pleased to meet you'.",
+        "**5. Decide:** Decision-making.\n  • *Usage & Frames:* 'I decide to stay', 'Decide on a location'.\n  • *Important Note:* We say 'solve/resolve a problem', NOT 'decide a problem'.\n  • *Useful Phrases:* 'decide quickly', 'hard to decide', 'make up your mind'.",
+        "**6. Write / Read / Type:** Textual expression and literacy.\n  • *Usage & Frames:* 'Write an email', 'Read a book', 'Type a message'.\n  • *Useful Phrases:* 'write down', 'read aloud', 'type fast'.",
+        "**7. Spend / Waste:** Managing resources.\n  • *Usage & Frames:* 'I spend money on books', 'Don't waste time!'.\n  • *Useful Phrases:* 'spend time with family', 'waste energy', 'spend money on'.",
+        "**8. Play (all variations):** Games, sports, instruments, roles.\n  • *Usage & Frames:* 'Play football / games', 'Play the guitar / piano', 'Play a role in a film'.\n  • *Useful Phrases:* 'play sports', 'play an instrument', 'play a key role'.",
+        "**9. Agree / Disagree:** Consensus and opinion.\n  • *Usage & Frames:* 'I agree with you', 'We agree on the plan', 'I disagree'.\n  • *Useful Phrases:* 'totally agree', 'agree to differ', 'respectfully disagree'.",
+        "**10. Send / Get:** Transmitting and receiving.\n  • *Usage & Frames:* 'Send a text message', 'I get an email', 'Get home at 6 PM'.\n  • *Useful Phrases:* 'send an email', 'get back', 'get to the station'."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Comparative Matrix across Language Families"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparative breakdown for Part 3 core verbs across language families:"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Concept",
+        "Romance (FR/IT/ES/PT)",
+        "Germanic (EN/DE)",
+        "Slavic / Hellenic / Celtic / Arm",
+        "Turkic (TT/BA/CV)",
+        "Kartvelian (KA)"
+      ],
+      "rows": [
+        [
+          "Choose, Buy, Pay",
+          "Choisir / Acheter / Payer",
+          "Choose / Buy / Pay",
+          "Выбирать / Покупать / Платить",
+          "Сайлау / һайлау / Суйлама",
+          "არჩევა / ყიდვა / გადახდა"
+        ],
+        [
+          "Remember & Forget",
+          "Se souvenir / Oublier",
+          "Remember / Forget",
+          "Помнить / Забывать",
+          "Хәтерләү / Хәтерләү / Аса илме",
+          "მახსოვრობა / დავიწყება"
+        ],
+        [
+          "Write, Read, Type",
+          "Écrire / Lire / Taper",
+          "Write / Read / Type",
+          "Писать / Читать / Печатать",
+          "Язу / Яҙыу / Ҫырма",
+          "წერა / კითხვა / ბეჭდვა"
+        ],
+        [
+          "Spend & Waste",
+          "Dépenser / Gaspiller",
+          "Spend / Waste",
+          "Тратить / Транжирить",
+          "Сарыф итү / Тотоноу / Тӑкашлама",
+          "ხარჯვა / გაფლანგვა"
+        ],
+        [
+          "Send & Get",
+          "Envoyer / Obtenir",
+          "Send / Get",
+          "Отправлять / Получать",
+          "Җибәрү / Ебәреү / Ярма",
+          "გაგზავნა / მიღება"
+        ],
+        [
+          "Feel",
+          "Ressentir / Sentir",
+          "Feel / Sense",
+          "Чувствовать / Ощущать",
+          "Хис итү / Хис итеү / Туйма",
+          "გრძნობა / შეგრძნება"
+        ],
+        [
+          "Meet",
+          "Rencontrer / Croiser",
+          "Meet / Encounter",
+          "Встречать / Знакомиться",
+          "Очрашу / Осрашыу / Тĕл пулма",
+          "შეხვედრა / გაცნობა"
+        ],
+        [
+          "Decide",
+          "Décider / Résoudre",
+          "Decide / Resolve",
+          "Решать / Принимать решение",
+          "Карар итү / Ҡарар итеү / Йышӑнма",
+          "გადაწყვეტა / გადაჭრა"
+        ],
+        [
+          "Play",
+          "Jouer / Pratiquer",
+          "Play / Practice",
+          "Играть / Исполнять",
+          "Уйнау / Уйнау / Выляма",
+          "თამაში / დაკვრა"
+        ],
+        [
+          "Agree & Disagree",
+          "Être d'accord / Disconvenir",
+          "Agree / Disagree",
+          "Соглашаться / Не соглашаться",
+          "Килешү / Килешеү / Килĕшме",
+          "დათანხმება / უარყოფა"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Grammar & Structure for A0–A1 / A2 Learners"
+    },
+    {
+      "type": "paragraph",
+      "text": "• **Simple Sentence Structures:** Focus on Subject + Verb + Object.\n• **Verb Prepositions:** Note key prepositions like 'agree *with*', 'spend *on*', 'decide *on*'.\n• **Conjugations:** Check full present, past, and future tense tables on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Practice & Conjugation Resources"
+    },
+    {
+      "type": "paragraph",
+      "text": "📌 Test your skills in [COSYpractice](https://cosylanguages.github.io/COSYpractice/), read [Part 1](top-10-verbs-en.html), [Part 2](top-10-verbs-part-2-en.html), and [Part 3](top-10-verbs-part-3-en.html), and consult full verb conjugations on [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+    }
+  ],
+  "draft": false
+}
