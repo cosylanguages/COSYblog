@@ -504,46 +504,16 @@
       ],
       "rows": [
         [
-          "I",
-          "I have a phone.",
-          "I don't have a car.",
-          "Do I have time?"
+          "I / You / We / They",
+          "I have a phone. / You have a nice house. / We have two children. / They have a new car.",
+          "I don't have a car. / You don't have a pen. / We don't have time. / They don't have any pets.",
+          "Do I have time? / Do you have a question? / Do we have class today? / Do they have tickets?"
         ],
         [
-          "You",
-          "You have a nice house.",
-          "You don't have a pen.",
-          "Do you have a question?"
-        ],
-        [
-          "He",
-          "He has a sister.",
-          "He doesn't have a job.",
-          "Does he have a pet?"
-        ],
-        [
-          "She",
-          "She has blue eyes.",
-          "She doesn't have a brother.",
-          "Does she have a car?"
-        ],
-        [
-          "It",
-          "It has four legs.",
-          "It doesn't have a name.",
-          "Does it have a camera?"
-        ],
-        [
-          "We",
-          "We have two children.",
-          "We don't have time.",
-          "Do we have class today?"
-        ],
-        [
-          "They",
-          "They have a new car.",
-          "They don't have any pets.",
-          "Do they have tickets?"
+          "He / She / It",
+          "He has a sister. / She has blue eyes. / It has four legs.",
+          "He doesn't have a job. / She doesn't have a brother. / It doesn't have a name.",
+          "Does he have a pet? / Does she have a car? / Does it have a camera?"
         ]
       ]
     },
@@ -812,46 +782,16 @@
       ],
       "rows": [
         [
-          "I",
-          "I know the answer.",
-          "I don't know his name.",
-          "Do I know you?"
+          "I / You / We / They",
+          "I know the answer. / You know my brother. / We know this city well. / They know the truth.",
+          "I don't know his name. / You don't know this place. / We don't know what to do. / They don't know anyone here.",
+          "Do I know you? / Do you know the way? / Do we know the rules? / Do they know the price?"
         ],
         [
-          "You",
-          "You know my brother.",
-          "You don't know this place.",
-          "Do you know the way?"
-        ],
-        [
-          "He",
-          "He knows the teacher.",
-          "He doesn't know my address.",
-          "Does he know the time?"
-        ],
-        [
-          "She",
-          "She knows the answer.",
-          "She doesn't know the truth.",
-          "Does she know Peter?"
-        ],
-        [
-          "It",
-          "It knows the route.",
-          "It doesn't know any tricks.",
-          "Does it know where to go?"
-        ],
-        [
-          "We",
-          "We know this city well.",
-          "We don't know what to do.",
-          "Do we know the rules?"
-        ],
-        [
-          "They",
-          "They know the truth.",
-          "They don't know anyone here.",
-          "Do they know the price?"
+          "He / She / It",
+          "He knows the teacher. / She knows the answer. / It knows the route.",
+          "He doesn't know my address. / She doesn't know the truth. / It doesn't know any tricks.",
+          "Does he know the time? / Does she know Peter? / Does it know where to go?"
         ]
       ]
     },
@@ -1046,46 +986,16 @@
       ],
       "rows": [
         [
-          "I",
-          "I like music.",
-          "I don't like coffee.",
-          "Do I like this?"
+          "I / You / We / They",
+          "I like music. / You like pizza. / We like traveling. / They like concerts.",
+          "I don't like coffee. / You don't like tea. / We don't like waiting. / They don't like noise.",
+          "Do I like this? / Do you like tea? / Do we like this movie? / Do they like cooking?"
         ],
         [
-          "You",
-          "You like pizza.",
-          "You don't like tea.",
-          "Do you like tea?"
-        ],
-        [
-          "He",
-          "He likes sports.",
-          "He doesn't like cold weather.",
-          "Does he like football?"
-        ],
-        [
-          "She",
-          "She likes reading.",
-          "She doesn't like cats.",
-          "Does she like dancing?"
-        ],
-        [
-          "It",
-          "It likes milk.",
-          "It doesn't like water.",
-          "Does it like warmth?"
-        ],
-        [
-          "We",
-          "We like traveling.",
-          "We don't like waiting.",
-          "Do we like this movie?"
-        ],
-        [
-          "They",
-          "They like concerts.",
-          "They don't like noise.",
-          "Do they like cooking?"
+          "He / She / It",
+          "He likes sports. / She likes reading. / It likes milk.",
+          "He doesn't like cold weather. / She doesn't like cats. / It doesn't like water.",
+          "Does he like football? / Does she like dancing? / Does it like warmth?"
         ]
       ]
     },
