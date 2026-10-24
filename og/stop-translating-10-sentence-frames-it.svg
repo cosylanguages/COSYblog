@@ -91,10 +91,10 @@
       <g class="cover-text-overlay" filter="url(#soft-shadow)">
         <!-- Warm paper card overlay -->
         <rect class="cover-overlay-box" x="24" y="436" width="1152" height="170" rx="8" fill="#FCF9F2" opacity="0.96" stroke="#3A6332" stroke-width="1.2" />
-        <text x="54" y="474" fill="#3A6332" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">SAY IT • Vol. 2026.10</text>
-        <text x="54" y="510" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Basta tradurre! 10 strutture di</text>
-<text x="54" y="542" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">frasi riutilizzabili per parlare</text>
-<text x="54" y="574" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">fin dal primo giorno</text>
+        <text x="54" y="474" fill="#3A6332" font-family="Fraunces, 'Lora', Georgia, serif" font-size="17" font-weight="bold" letter-spacing="1.5">PARLA SUBITO • Vol. 2026.10</text>
+        <text x="54" y="510" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">Smetti di tradurre! 10 strutture</text>
+<text x="54" y="542" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">di frasi riutilizzabili per</text>
+<text x="54" y="574" fill="#0d9488" font-family="Fraunces, 'Lora', Georgia, serif" font-size="24" font-weight="bold">parlare fin dal primo giorno</text>
       </g>
     
       <rect width="1200" height="630" filter="url(#paper-grain)" opacity="0.5" pointer-events="none" />
