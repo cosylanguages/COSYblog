@@ -158,7 +158,8 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
   switch (block.type) {
     case 'heading': {
       const lvl = Math.min(6, Math.max(1, block.level || 2));
-      return `<h${lvl} class="editorial-heading">${parseFormattedText(block.text)}</h${lvl}>`;
+      const idAttr = block.id && /^[a-z][a-z0-9-]*$/.test(block.id) ? ` id="${block.id}"` : '';
+      return `<h${lvl} class="editorial-heading"${idAttr}>${parseFormattedText(block.text)}</h${lvl}>`;
     }
     case 'paragraph': {
       const parsedText = parseFormattedText(block.text);
@@ -289,7 +290,15 @@ function renderBlockToHtml(block, state = { isFirstParagraph: true }) {
 
 function renderLanguageSwitcherHtml(currentPost, allPosts, langDict, lang) {
   const baseSlug = currentPost.translationOf || (currentPost.slug.replace(/-(fr|it|ru|el|tt|ba|br|pt|es|de|hy|ka|cv|en)$/, ''));
-  const variants = allPosts.filter(p => p.slug === baseSlug || p.translationOf === baseSlug);
+  const rawVariants = allPosts.filter(p => p.slug === baseSlug || p.translationOf === baseSlug);
+  // One entry per language. When a legacy base/hub post and an explicit language edition share a
+  // language (e.g. top-10-verbs and top-10-verbs-en), the edition is the one readers should reach.
+  const byLang = new Map();
+  rawVariants.forEach(v => {
+    const seen = byLang.get(v.language);
+    if (!seen || (v.translationOf && !seen.translationOf)) byLang.set(v.language, v);
+  });
+  const variants = [...byLang.values()];
 
   if (variants.length <= 1) return '';
 
@@ -327,18 +336,25 @@ function resolveAudioUrl(post) {
   return fs.existsSync(path.join(BLOG_DIR, rel)) ? rel : null;
 }
 
+// Embeddable player URL for an episode: explicit iframeUrl, a Spotify episode link, or a
+// Spotify for Podcasters (Anchor) episode page, which has a matching /embed/ twin.
+function deriveEmbedUrl(podcast) {
+  if (!podcast) return null;
+  if (podcast.iframeUrl) return podcast.iframeUrl;
+  const ext = podcast.externalUrl || '';
+  const spotify = ext.match(/spotify\.com\/episode\/([a-zA-Z0-9]+)/);
+  if (spotify) return `https://open.spotify.com/embed/episode/${spotify[1]}?utm_source=generator`;
+  const anchor = ext.match(/^https:\/\/podcasters\.spotify\.com\/pod\/show\/([^/]+)\/episodes\/([^/?#]+)/);
+  if (anchor) return `https://podcasters.spotify.com/pod/show/${anchor[1]}/embed/episodes/${anchor[2]}`;
+  return null;
+}
+
 function renderStaticPodcastBoxHtml(post, langDict, lang) {
   const podcast = post.podcast || {};
   const episodeNum = podcast.episode || 1;
   const audioUrl = resolveAudioUrl(post);
 
-  let iframeUrl = podcast.iframeUrl || null;
-  if (!iframeUrl && podcast.externalUrl && podcast.externalUrl.includes('spotify.com/episode/')) {
-    const epIdMatch = podcast.externalUrl.match(/episode\/([a-zA-Z0-9]+)/);
-    if (epIdMatch && epIdMatch[1]) {
-      iframeUrl = `https://open.spotify.com/embed/episode/${epIdMatch[1]}?utm_source=generator`;
-    }
-  }
+  const iframeUrl = deriveEmbedUrl(podcast);
 
   const epText = `${tStrict(langDict, 'blog.episode', lang)} ${episodeNum}`;
   const noticeText = tStrict(langDict, 'blog.podcast_in_production', lang);
@@ -555,6 +571,11 @@ async function buildBlog() {
       audio_podcast: false,
       coverSvg: coverSvgHtml
     };
+    // Optional per-post pagination tuning for long lesson pages (see docs/BLOG_AUTHORING.md):
+    //   "flipbook": { "pageLimit": 14, "headingBreakAfter": 8 }
+    const flip = post.flipbook || {};
+    const flipAttrs = (Number.isInteger(flip.pageLimit) ? ` data-flip-limit="${flip.pageLimit}"` : '') +
+      (Number.isInteger(flip.headingBreakAfter) ? ` data-flip-heading-break="${flip.headingBreakAfter}"` : '');
 
     const htmlContent = `<!DOCTYPE html>
 <html lang="${escapeHtml(post.language)}">
@@ -649,7 +670,7 @@ async function buildBlog() {
 
         <!-- Main Gazette Content Spread -->
         <main class="gazette-reading-view">
-            <article class="post-full-content gazette-article">
+            <article class="post-full-content gazette-article"${flipAttrs}>
                 ${renderedBlocksHtml}
             </article>
 
@@ -676,6 +697,7 @@ async function buildBlog() {
 
     <script src="js/shell.js"></script>
     <script src="js/flipbook.js"></script>
+    <script src="js/lesson-quiz.js" defer></script>
     <script type="module">
       import { PodcastBoxComponent } from './js/podcast-box.js';
 

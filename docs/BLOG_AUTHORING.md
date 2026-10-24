@@ -209,3 +209,56 @@ Below is a complete, minimal, valid example of a blog post JSON file (`blog/post
   ]
 }
 ```
+
+---
+
+## Long-form lessons (verb spreads, diagrams, quizzes)
+
+The English "Top 10 verbs, part 1" article (`posts/top-10-verbs-en.json`) is the reference for a full lesson. Every other language edition should follow the same structure but be **written natively for that language**, not translated (see the language-adaptation notes in the Jules prompts).
+
+### Anchors
+Give a `heading` block an `id` (lowercase letters, digits, hyphens) to make a stable deep link:
+
+```json
+{ "type": "heading", "level": 2, "text": "Verb 1 — be", "id": "verb-be" }
+```
+
+The flipbook opens whichever page the element ended up on for `…html#verb-be`. Do not link to `#page-N`: page numbers depend on pagination and change when content changes.
+
+### Pagination (opt-in)
+Pages normally break after about 4–10 blocks. Long lessons can opt in to roomier pages:
+
+```json
+"flipbook": { "pageLimit": 12, "headingBreakAfter": 6 }
+```
+
+Posts without this field paginate exactly as before.
+
+### Diagram components (`lx-*`)
+Diagrams are plain HTML + CSS inside a `paragraph` block (so they reflow on phones and follow dark mode). Always give such a block a `say` field: the teleprompter reads it instead of raw HTML. Components (see `css/magazine-templates.css`, section "LESSON COMPONENTS"):
+
+| Component | Use it for |
+|---|---|
+| `.lx-fig` + `.lx-engine-row` / `.lx-chips` | "who + verb + what" sentence builder |
+| `.lx-groups` | which form goes with which subject |
+| `.lx-cards` (+ `.lx-core`) | the uses of a verb, choices |
+| `.lx-scale` (`<ol>`) | a line from one end to the other (sure ↔ unsure, hate ↔ love) |
+| `.lx-ladder` | blunt → polite |
+| `.lx-flow` (`.lx-step`, `.lx-q`, `.lx-a`) | decision chart |
+| `.lx-timeline` (`.lx-time`) | past / now / future |
+| `.lx-sflow` | affirmative / negative / question side by side |
+| `.lx-triple` | three-way contrast (eat / have / drink) |
+| `.lx-dialogue` (`.lx-say`) | short dialogues |
+| `.lx-warn`, `.lx-tip` | rules and tips |
+| `table.lx-mistakes` | "not this / say this / why" |
+
+Use design tokens (`--blog-*`), never hard-coded colours.
+
+### Quizzes
+`js/lesson-quiz.js` hides the answer and explanation until the reader chooses an option. Without JavaScript the quiz still renders, with the answer visible.
+
+### Podcast embed
+If `podcast.externalUrl` is a Spotify episode link (`open.spotify.com/episode/…`) or a Spotify for Podcasters episode page (`podcasters.spotify.com/pod/show/<show>/episodes/<episode>`), the page embeds the episode player automatically. Otherwise it falls back to `audioUrl`, then to the "in production" notice.
+
+### Newsstand and languages
+The newsstand lists five languages (en, fr, it, ru, el). Each card follows the interface language chosen in the top bar. An article without an edition in that language is shown in English with an "Available in English" tag. When a legacy base post and an explicit edition share a language (for example `top-10-verbs` and `top-10-verbs-en`), the edition wins.

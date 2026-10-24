@@ -161,7 +161,10 @@
     "latest_issue": "Свежий выпуск",
     "read_story": "Читать статью →",
     "also_in_issue": "Также в этом выпуске",
-    "all_issues": "Все выпуски"
+    "all_issues": "Все выпуски",
+    "articles_count": "Статьи: {n}",
+    "fallback_en": "Доступно на английском",
+    "languages_label": "Доступные языки"
   },
   "blog": {
     "back_to_hub": "← Назад в редакционный блог-хаб",

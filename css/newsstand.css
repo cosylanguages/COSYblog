@@ -87,3 +87,7 @@ html[data-theme="dark"] .ns-sub-box { background: #141f17 !important; border: 1p
 .ns-chips { flex: 1 1 100%; }
 .ns-select { flex: 1 1 9rem; }
 html, body { overflow-x: clip; }
+
+/* Card shown in English because no edition exists in the interface language yet */
+.ns-fallback { display: inline-block; margin: .35rem 0 0; padding: .1rem .5rem; border-radius: 999px; font-size: .75rem; font-weight: 600; color: var(--ink-soft, #44403c); background: var(--sage-mist, #F0F5F1); border: 1px solid rgba(0,0,0,.08); }
+html[data-theme="dark"] .ns-fallback { color: #d6d3d1; background: rgba(255,255,255,.08); border-color: rgba(255,255,255,.12); }

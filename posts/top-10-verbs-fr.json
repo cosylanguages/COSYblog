@@ -2,7 +2,6 @@
   "id": "post-top-10-verbs-fr",
   "slug": "top-10-verbs-fr",
   "language": "fr",
-  "translationOf": "top-10-verbs",
   "desk": "Words",
   "format": "list",
   "level": "A0–A1 / A2",
@@ -13,17 +12,21 @@
   "date": "2026-03-01",
   "title": "Les 10 verbes essentiels en français pour débutants (A0–A1 / A2)",
   "kicker": "GUIDE DU FRANÇAIS — PARTIE 1 SUR 2",
-  "dek": "Apprenez les 10 premiers verbes fondamentaux en français (être, avoir, penser, savoir/connaître, aimer, vouloir/aimerait, aller/futur proche, pouvoir, manger, boire). Conjugaisons consultables sur COSYtools.",
+  "dek": "Être, avoir, penser, savoir / connaître, aimer, vouloir, aller, pouvoir, manger et boire : dix verbes essentiels, dix leçons complètes. Formes, modèles pratiques, schémas clairs, pièges courants et quiz pour débutants (A0–A1) avec étapes A2.",
   "tags": [
     "Verbs",
     "French",
     "A0-A1",
-    "14Languages"
+    "Top 10 / Top 100"
   ],
-  "readingTime": 10,
+  "readingTime": 40,
   "podcast": {
     "episode": 2,
     "audioUrl": null
+  },
+  "flipbook": {
+    "pageLimit": 12,
+    "headingBreakAfter": 6
   },
   "artDirection": {
     "palette": [
@@ -44,109 +47,2344 @@
   },
   "blocks": [
     {
+      "type": "heading",
+      "level": 2,
+      "text": "Start here: dix verbes, une boîte à outils",
+      "id": "start"
+    },
+    {
       "type": "paragraph",
-      "text": "Bienvenue dans la Partie 1 de notre série en 2 parties sur les verbes essentiels en français pour les niveaux A0–A1 et A2 ! Ce guide présente des phrases simples adaptées à l'apprentissage pratique. (Consultez aussi la [Partie 2](top-10-verbs-part-2-fr.html)). Les tableaux complets de conjugaison sont consultables sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Bienvenue dans la Partie 1 de notre guide fondamental des verbes français pour les niveaux A0–A1 et A2 ! Quand vous commencez à apprendre le français, vous n’avez pas besoin de connaître des milliers de mots pour vous exprimer au quotidien. Les recherches en linguistique montrent que 10 verbes fondamentaux couvrent la grande majorité des interactions de tous les jours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chaque verbe dispose ici de sa propre page dédiée avec des explications simples, des règles claires, des exemples pratiques avec traduction en anglais, des schémas visuels et des quiz de validation."
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Chaque phrase simple en français se construit de la même manière</p><div class=\"lx-engine-row\">\n       <div><span class=\"lx-label\">Qui ? (Sujet)</span><ul class=\"lx-chips\"><li class=\"lx-chip \">je / j'</li><li class=\"lx-chip \">tu</li><li class=\"lx-chip \">il / elle / on</li><li class=\"lx-chip \">nous</li><li class=\"lx-chip \">vous</li><li class=\"lx-chip \">ils / elles</li></ul></div>\n       <span class=\"lx-op\" aria-hidden=\"true\">+</span>\n       <div><span class=\"lx-label\">Quel verbe ?</span><ul class=\"lx-chips\"><li class=\"lx-chip lx-chip-verb\">être</li><li class=\"lx-chip lx-chip-verb\">avoir</li><li class=\"lx-chip lx-chip-verb\">penser</li><li class=\"lx-chip lx-chip-verb\">savoir</li><li class=\"lx-chip lx-chip-verb\">aimer</li><li class=\"lx-chip lx-chip-verb\">vouloir</li><li class=\"lx-chip lx-chip-verb\">aller</li><li class=\"lx-chip lx-chip-verb\">pouvoir</li><li class=\"lx-chip lx-chip-verb\">manger</li><li class=\"lx-chip lx-chip-verb\">boire</li></ul></div>\n       <span class=\"lx-op\" aria-hidden=\"true\">+</span>\n       <div><span class=\"lx-label\">Quoi ? / Où ? (Complément)</span><ul class=\"lx-chips\"><li class=\"lx-chip \">professeur</li><li class=\"lx-chip \">20 ans</li><li class=\"lx-chip \">que oui</li><li class=\"lx-chip \">la réponse</li><li class=\"lx-chip \">le café</li><li class=\"lx-chip \">un thé</li><li class=\"lx-chip \">à Paris</li><li class=\"lx-chip \">venir</li><li class=\"lx-chip \">du pain</li><li class=\"lx-chip \">de l'eau</li></ul></div>\n     </div><figcaption class=\"lx-cap\">Changez un élément pour créer une nouvelle phrase : <em>J'aime le café. Elle veut un thé. Nous allons à Paris.</em></figcaption></figure>",
+      "say": "Chaque phrase en français se construit avec un sujet, un verbe et un complément. Par exemple : J'aime le café. Elle veut un thé. Nous allons à Paris."
+    },
+    {
+      "type": "paragraph",
+      "text": "<div style=\"margin:1.5rem 0;\"><h3 class=\"editorial-heading\">📈 Progression CECRL des verbes fondamentaux</h3><table class=\"cefr-roadmap-table\"><thead><tr><th>Niveau</th><th>Verbes clés</th><th>Capacité de communication</th></tr></thead><tbody><tr><td><span class=\"cefr-badge cefr-a0\">A0</span></td><td><strong>être, avoir, aller, vouloir</strong></td><td>Besoins vitaux, identité, âge, états physiques, déplacements immédiats.</td></tr><tr><td><span class=\"cefr-badge cefr-a1\">A1</span></td><td><strong>savoir, connaître, aimer, pouvoir, manger, boire</strong></td><td>Goûts, habitudes, compétences, activités quotidiennes, commander au restaurant.</td></tr><tr><td><span class=\"cefr-badge cefr-a2\">A2</span></td><td><strong>penser + passé composé / futur proche</strong></td><td>Exprimer une opinion, raconter des souvenirs passés, parler de projets futurs.</td></tr></tbody></table></div>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"verb-map-container\"><h3 class=\"verb-map-title\">🗺️ Carte interactive des 10 verbes principaux</h3><p style=\"margin-bottom:1rem; color:var(--ink-secondary);\">Feuilletez ce guide page par page ou sautez directement vers un verbe :</p><div class=\"verb-map-grid\"><a href=\"#verb-be\" class=\"verb-node-card\"><strong>Page 2 : 1. Être</strong> — Identité, nationalité, état, localisation.</a><a href=\"#verb-have\" class=\"verb-node-card\"><strong>Page 3 : 2. Avoir</strong> — Possession, âge, faim, soif, peur.</a><a href=\"#verb-think\" class=\"verb-node-card\"><strong>Page 4 : 3. Penser</strong> — Opinions, réflexion (penser à / de).</a><a href=\"#verb-know\" class=\"verb-node-card\"><strong>Page 5 : 4. Savoir / Connaître</strong> — Faits, compétences et personnes/lieux.</a><a href=\"#verb-like\" class=\"verb-node-card\"><strong>Page 6 : 5. Aimer</strong> — Préférences, goûts généraux, amour.</a><a href=\"#verb-want\" class=\"verb-node-card\"><strong>Page 7 : 6. Vouloir / Je voudrais</strong> — Souhaits et politesse.</a><a href=\"#verb-go\" class=\"verb-node-card\"><strong>Page 8 : 7. Aller / Futur proche</strong> — Déplacement et projets.</a><a href=\"#verb-can\" class=\"verb-node-card\"><strong>Page 9 : 8. Pouvoir</strong> — Possibilité, permission, demande.</a><a href=\"#verb-eat\" class=\"verb-node-card\"><strong>Page 10 : 9. Manger</strong> — Nourriture et repas (partitifs).</a><a href=\"#verb-drink\" class=\"verb-node-card\"><strong>Page 11 : 10. Boire</strong> — Boissons et hydratation au café.</a><a href=\"#verb-together\" class=\"verb-node-card\"><strong>Page 12 : Bilan & Pratique</strong> — Synthèse, histoire et quiz global.</a></div></div>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"lx-tip\"><strong>💡 Conseil de méthode :</strong> Ne cherchez pas à apprendre toutes les conjugaisons par cœur d'un coup. Concentrez-vous d'abord sur la première personne du présent (<em>je suis, j'ai, je sais, je veux, je vais</em>) pour pouvoir parler de vous immédiatement !</div>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"lx-card\" style=\"margin:1.5rem 0; border-left: 4px solid var(--post-palette-accent, #0d9488);\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">🗣️</span><strong>Panneau de prononciation française pour débutants</strong></div><p>Le français écrit et le français parlé ont des règles spécifiques très importantes dès le niveau A0–A1 :</p><ul style=\"margin:0.5rem 0; padding-left:1.2rem; font-size:0.92rem;\"><li><strong>1. Les liaisons obligatoires :</strong> Quand un mot se termine par une consonne muette et que le suivant commence par une voyelle, on lie les sons. Exemple : <em>vous avez</em> [vu.za.ve], <em>ils ont</em> [il.zɔ̃] (à ne pas confondre avec <em>ils sont</em> [il.sɔ̃] !).</li><li><strong>2. Les terminaisons muettes :</strong> Au présent, les terminaisons du groupe <em>-e, -es, -ent</em> ne se prononcent pas. <em>Je mange, tu manges, ils mangent</em> se prononcent exactement de la même manière : [mɑ̃ʒ] !</li><li><strong>3. Les voyelles nasales :</strong> Des sons comme <em>an/en</em> (penser, manger), <em>in</em> (pain) et <em>on</em> (bons, avons) passent par le nez sans prononcer le 'n' final.</li><li><strong>4. L'élision (l'apostrophe) :</strong> Devant une voyelle ou un 'h' muet, <em>je, ne, le, la</em> deviennent <em>j', n', l'</em> : <em>j'ai</em>, <em>je n'ai pas</em>, <em>l'eau</em>.</li></ul></div>"
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 1 — Être (suis / es / est / sommes / êtes / sont)",
+      "id": "verb-be"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **être** est le verbe le plus fondamental en français. Au niveau A0–A1, vous l’utilisez pour exprimer votre identité, votre nationalité, votre profession, votre localisation et vos adjectifs de description."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Les 10 verbes fondamentaux (Partie 1)"
-    },
-    {
-      "type": "list-item",
-      "ordered": false,
-      "items": [
-        "**1. Être:** Identité, état et lieu.\n  • *Phrases simples:* 'Je suis étudiant', 'Il est à la maison', 'Nous sommes prêts'.\n  • *Expressions:* 'être à l'heure', 'être d'accord', 'être en forme'.",
-        "**2. Avoir:** Possession, âge et sensations.\n  • *Phrases simples:* 'J'ai une voiture', 'J'ai 25 ans', 'J'ai faim'.\n  • *Expressions:* 'avoir besoin de', 'avoir envie de', 'avoir peur'.",
-        "**3. Penser:** Opinion et réflexion.\n  • *Phrases simples:* 'Je pense que oui', 'Qu'en penses-tu ?', 'Je pense à toi'.\n  • *Expressions:* 'penser à', 'penser de', 'bien penser'.",
-        "**4. Savoir / Connaître:** Faits, compétences et lieux/personnes.\n  • *Phrases simples:* 'Je sais parler français', 'Je connais cette ville'.\n  • *Expressions:* 'savoir faire', 'faire savoir', 'connaître du monde'.",
-        "**5. Aimer:** Goûts et préférences.\n  • *Phrases simples:* 'J'aime le café', 'J'aime voyager', 'Il aime le sport'.\n  • *Expressions:* 'aimer bien', 'aimer beaucoup', 'j'aimerais'.",
-        "**6. Vouloir / Voudrais:** Souhaits et politesse.\n  • *Phrases simples:* 'Je veux de l'eau', 'Je voudrais réserver une table'.\n  • *Expressions:* 'vouloir dire', 'si vous voulez', 'je voudrais bien'.",
-        "**7. Aller / Futur proche:** Déplacement et futur immédiat.\n  • *Phrases simples:* 'Je vais au travail', 'Elle va à Paris', 'Nous allons manger'.\n  • *Expressions:* 'comment ça va ?', 'y aller', 'aller à pied'.",
-        "**8. Pouvoir:** Capacité et permission.\n  • *Phrases simples:* 'Je peux vous aider ?', 'Tu peux venir ?'.\n  • *Expressions:* 'pouvoir faire', 'si possible', 'comme vous pouvez'.",
-        "**9. Manger:** Alimentation et repas.\n  • *Phrases simples:* 'Je mange une pomme', 'Qu'est-ce qu'on mange ?'.\n  • *Expressions:* 'bon appétit', 'donner à manger', 'manger équilibré'.",
-        "**10. Boire:** Boissons et hydratation.\n  • *Phrases simples:* 'Je bois du thé', 'Voulez-vous boire quelque chose ?'.\n  • *Expressions:* 'avoir à boire', 'boire un coup', 'boire du café'."
-      ]
-    },
-    {
-      "type": "heading",
-      "level": 3,
-      "text": "Tableau comparatif des verbes"
-    },
-    {
-      "type": "paragraph",
-      "text": "Comparaison des verbes essentiels selon les familles linguistiques :"
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
     },
     {
       "type": "table",
       "headers": [
-        "Concept",
-        "Romance (FR/IT/ES/PT)",
-        "Germanic (EN/DE)",
-        "Slavic / Hellenic / Celtic / Arm",
-        "Turkic (TT/BA/CV)",
-        "Kartvelian (KA)"
+        "Sujet",
+        "Forme",
+        "Exemple en français",
+        "Traduction (English Gloss)"
       ],
       "rows": [
         [
-          "Be / Exist",
-          "être / essere / ser, estar / ser, estar",
-          "be / sein",
-          "быть / είναι / bezañ / լինել",
-          "булу / булыу / пуласси",
-          "ყოფნა (qopna)"
+          "Je",
+          "suis",
+          "Je suis étudiant à Paris.",
+          "I am a student in Paris."
         ],
         [
-          "Have / Possess",
-          "avoir / avere / tener / ter",
-          "have / haben",
-          "иметь (у меня есть) / έχω / kaout / ունենալ",
-          "бар (минем бар) / бар / пур",
-          "ქոնա / ყოლა"
+          "Tu",
+          "es",
+          "Tu es très gentil.",
+          "You are very kind."
         ],
         [
-          "Do / Make",
-          "faire / fare / hacer / fazer",
-          "do, make / machen, tun",
-          "делать / κάνω / ober / անել",
-          "эшләү / эшләү / тăвасси",
-          "կետება (keteba)"
+          "Il / Elle / On",
+          "est",
+          "Il est professeur. / Elle est ici.",
+          "He is a teacher. / She is here."
         ],
         [
-          "Go",
-          "aller / andare / ir / ir",
-          "go / gehen",
-          "идти, ехать / πηγαίνω / mont / գնալ",
-          "бару / барыу / кайни",
-          "წასვლა (tsasvla)"
+          "Nous",
+          "sommes",
+          "Nous sommes prêts pour la leçon.",
+          "We are ready for the lesson."
         ],
         [
-          "See / Look",
-          "voir, regarder / vedere, guardare",
-          "see, look / sehen, schauen",
-          "видеть, смотреть / βλέπω / gwelout / տեսնել",
-          "күрү, карау / күреү, ҡарау / курасси",
-          "ნახვა, ყურება"
+          "Vous",
+          "êtes",
+          "Vous êtes en avance aujourd'hui.",
+          "You are early today."
+        ],
+        [
+          "Ils / Elles",
+          "sont",
+          "Ils sont fatigués ce soir.",
+          "They are tired tonight."
         ]
       ]
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Structures grammaticales adaptées (A0–A1 / A2)"
+      "text": "2. Modèles d'utilisation fondamentaux"
     },
     {
       "type": "paragraph",
-      "text": "• **Structures simples :** Sujet + Verbe + Complément.\n• **Futur proche et modaux :** Utilisation de 'aller + infinitif' et 'pouvoir/devoir'.\n• **Conjugaisons :** Tous les temps et formes sont consultables sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Voici les structures essentielles avec **être** :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Ce que vous voulez dire",
+        "Structure",
+        "Exemples en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Identité & Nom",
+          "Sujet + être + nom",
+          "Je suis Julien. C'est mon ami.",
+          "I am Julien. This is my friend."
+        ],
+        [
+          "Profession",
+          "Sujet + être + profession",
+          "Je suis professeur. Elle est médecin.",
+          "I am a teacher. She is a doctor."
+        ],
+        [
+          "Nationalité & Origine",
+          "Sujet + être + nationalité",
+          "Il est français. Elles sont espagnoles.",
+          "He is French. They are Spanish."
+        ],
+        [
+          "Descriptions & Adjectifs",
+          "Sujet + être + adjectif",
+          "Le café est chaud. La ville est belle.",
+          "The coffee is hot. The city is beautiful."
+        ],
+        [
+          "États passagers",
+          "Sujet + être + adjectif",
+          "Je suis fatigué. Nous sommes occupés.",
+          "I am tired. We are busy."
+        ],
+        [
+          "Localisation",
+          "Sujet + être + préposition",
+          "Je suis à la maison. Il est au bureau.",
+          "I am at home. He is at the office."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **ATTENTION AUX MÉTIERS :** En français, on ne met **pas** d'article indéfini (*un / une*) devant les professions après *être*. Dites *« Je suis professeur »* et NON *<s>« Je suis un professeur »</s>*."
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Piège classique : Être ou Avoir ?</p><div class=\"lx-cards\">\n    <div class=\"lx-card\" style=\"border-top: 4px solid var(--lx-teal);\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">👤</span><strong>Utilisez ÊTRE pour :</strong></div><p>• Identité : <em>Je suis Thomas.</em></p><p>• Profession : <em>Je suis ingénieur.</em></p><p>• Nationalité : <em>Il est italien.</em></p><p>• Caractère & État : <em>Elle est gentille, je suis fatigué.</em></p><p>• Lieu : <em>Nous sommes à Paris.</em></p></div>\n    <div class=\"lx-card\" style=\"border-top: 4px solid var(--lx-red);\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">🔥</span><strong>Utilisez AVOIR (pas être !) pour :</strong></div><p>• Âge : <em>J'ai 20 ans.</em> (NOT <s>Je suis 20 ans</s>)</p><p>• Faim & Soif : <em>J'ai faim, j'ai soif.</em></p><p>• Chaud & Froid : <em>J'ai chaud, j'ai froid.</em></p><p>• Peur & Sommeil : <em>J'ai peur, j'ai sommeil.</em></p></div>\n  </div><figcaption class=\"lx-cap\">L'anglais utilise <em>to be</em> pour l'âge et la faim, mais le français utilise obligatoirement le verbe <strong>avoir</strong> !</figcaption></figure>",
+      "say": "Piège Être ou Avoir : utilisez Être pour l'identité, la profession, la nationalité et la localisation. Utilisez Avoir pour l'âge, la faim, la soif, le chaud, le froid et la peur."
     },
     {
       "type": "heading",
       "level": 3,
-      "text": "Pratique et conjugaison"
+      "text": "3. Négation : ne ... pas"
     },
     {
       "type": "paragraph",
-      "text": "📌 Pratiquez vos connaissances sur [COSYpractice](https://cosylanguages.github.io/COSYpractice/), lisez la [Partie 1](top-10-verbs-fr.html) et la [Partie 2](top-10-verbs-part-2-fr.html), et consultez les conjugaisons sur [COSYtools](https://cosylanguages.github.io/COSYtools/)."
+      "text": "Pour mettre une phrase à la forme négative, encadrez le verbe avec **ne** (ou **n'**) et **pas**."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Forme affirmative",
+        "Forme négative (Écrit)",
+        "Prononciation parlée familière",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Je suis prêt.",
+          "Je ne suis pas prêt.",
+          "J'suis pas prêt.",
+          "I am not ready."
+        ],
+        [
+          "Il est ici.",
+          "Il n'est pas ici.",
+          "Il est pas ici.",
+          "He is not here."
+        ],
+        [
+          "Nous sommes en retard.",
+          "Nous ne sommes pas en retard.",
+          "On est pas en retard.",
+          "We are not late."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Questions et réponses (Oui, Non, Si)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En français, il existe 3 registres pour poser une question simple :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Registre",
+        "Structure",
+        "Exemple",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Informel (Intonation)",
+          "Sujet + Verbe ?",
+          "Tu es prêt ?",
+          "Are you ready?"
+        ],
+        [
+          "Standard (Est-ce que)",
+          "Est-ce que + Sujet + Verbe ?",
+          "Est-ce que tu es prêt ?",
+          "Are you ready?"
+        ],
+        [
+          "Soutenu (Inversion) (A2)",
+          "Verbe-Sujet ?",
+          "Es-tu prêt ?",
+          "Are you ready?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "💡 **Règle d'or pour répondre :**\n• Question affirmative : *Tu es fatigué ?* ➔ **Oui**, je suis fatigué. / **Non**, je ne suis pas fatigué.\n• Question négative : *Tu n'es pas fatigué ?* ➔ **Si !** Je suis fatigué. (Utilisez **si** pour contredire une question négative !)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je suis 25 ans.</s>",
+          "J'ai 25 ans.",
+          "L'âge s'exprime obligatoirement avec le verbe avoir en français."
+        ],
+        [
+          "<s>Je suis un professeur.</s>",
+          "Je suis professeur.",
+          "On ne met pas d'article devant la profession après être."
+        ],
+        [
+          "<s>Je suis faim.</s>",
+          "J'ai faim.",
+          "Les sensations physiques (faim, soif, peur) utilisent le verbe avoir."
+        ],
+        [
+          "<s>Tu n'es pas prêt ? — Oui, je suis prêt !</s>",
+          "Tu n'es pas prêt ? — Si, je suis prêt !",
+          "Utilisez « si » pour répondre positivement à une question négative."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Choisissez la phrase correcte pour indiquer votre profession :",
+      "options": [
+        "Je suis un médecin.",
+        "Je suis médecin.",
+        "J'ai médecin."
+      ],
+      "correctIndex": 1,
+      "explanation": "En français, on dit « Je suis médecin » sans article indéfini."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment répondez-vous affirmativement à la question négative : « Tu n'es pas fatigué ? »",
+      "options": [
+        "Oui, je suis fatigué.",
+        "Si, je suis fatigué.",
+        "Non, je suis fatigué."
+      ],
+      "correctIndex": 1,
+      "explanation": "On utilise « Si » pour contredire une question négative et affirmer le contraire."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la forme négative correcte de « Il est prêt » à l'écrit ?",
+      "options": [
+        "Il pas est prêt.",
+        "Il ne est pas prêt.",
+        "Il n'est pas prêt."
+      ],
+      "correctIndex": 2,
+      "explanation": "Devant une voyelle (est), « ne » devient « n' » par élision : « Il n'est pas prêt »."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 2 — Avoir (ai / as / a / avons / avez / ont)",
+      "id": "verb-have"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **avoir** est le deuxième verbe le plus important en français. Au niveau A0–A1, vous l’utilisez pour parler de vos possessions, de votre famille, de votre âge et de vos sensations physiques."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Exemple en français",
+        "Traduction (English Gloss)"
+      ],
+      "rows": [
+        [
+          "J' (Je)",
+          "ai",
+          "J'ai une nouvelle voiture.",
+          "I have a new car."
+        ],
+        [
+          "Tu",
+          "as",
+          "Tu as un frère ?",
+          "Do you have a brother?"
+        ],
+        [
+          "Il / Elle / On",
+          "a",
+          "Elle a les yeux bleus.",
+          "She has blue eyes."
+        ],
+        [
+          "Nous",
+          "avons",
+          "Nous avons un rendez-vous.",
+          "We have an appointment."
+        ],
+        [
+          "Vous",
+          "avez",
+          "Vous avez des questions ?",
+          "Do you have questions?"
+        ],
+        [
+          "Ils / Elles",
+          "ont",
+          "Ils ont trois enfants.",
+          "They have three children."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Modèles d'utilisation fondamentaux"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Ce que vous voulez exprimer",
+        "Structure",
+        "Exemples en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Possession",
+          "Sujet + avoir + nom",
+          "J'ai un téléphone portable.",
+          "I have a mobile phone."
+        ],
+        [
+          "Famille & Relations",
+          "Sujet + avoir + nom",
+          "Elle a deux sœurs.",
+          "She has two sisters."
+        ],
+        [
+          "Âge",
+          "Sujet + avoir + nombre + ans",
+          "J'ai 25 ans. Mon frère a 18 ans.",
+          "I am 25 years old. My brother is 18."
+        ],
+        [
+          "Sensations physiques",
+          "Sujet + avoir + nom",
+          "J'ai faim, j'ai soif, j'ai froid.",
+          "I am hungry, thirsty, cold."
+        ],
+        [
+          "Besoins & Envie",
+          "avoir besoin / envie de",
+          "J'ai besoin d'eau. J'ai envie d'un café.",
+          "I need water. I feel like coffee."
+        ],
+        [
+          "Douleurs & Maladies",
+          "avoir mal à + nom",
+          "J'ai mal à la tête.",
+          "I have a headache."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Les structures indispensables avec le verbe AVOIR</p><div class=\"lx-cards\">\n    <div class=\"lx-card\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">🎂</span><strong>Âge & Temps</strong></div><p>• <em>J'ai 30 ans.</em></p><p>• <em>Quel âge as-tu ?</em></p></div>\n    <div class=\"lx-card\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">🍕</span><strong>Besoins physiques</strong></div><p>• <em>J'ai faim / j'ai soif.</em></p><p>• <em>J'ai chaud / j'ai froid.</em></p><p>• <em>J'ai sommeil.</em></p></div>\n    <div class=\"lx-card\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">💡</span><strong>Expressions courantes</strong></div><p>• <em>avoir besoin de...</em> (need)</p><p>• <em>avoir envie de...</em> (want/feel like)</p><p>• <em>avoir peur de...</em> (be afraid of)</p></div>\n  </div><figcaption class=\"lx-cap\">Notez l'élision obligatoire : devant une voyelle, <strong>je + ai</strong> devient <strong>j'ai</strong>.</figcaption></figure>",
+      "say": "Les structures avec Avoir : l'âge avec j'ai 30 ans, les besoins physiques comme j'ai faim et j'ai soif, et les expressions avoir besoin de et avoir envie de."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Négation et règle du \"de / d'\""
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **RÈGLE CRUCIALE À LA NÉGATION :** Quand une phrase avec *avoir* devient négative, les articles indéfinis (*un, une, des*) deviennent **de** (ou **d'** devant voyelle) !"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Forme affirmative (+)",
+        "Forme négative (-)",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "J'ai une voiture.",
+          "Je n'ai pas **de** voiture.",
+          "I don't have a car."
+        ],
+        [
+          "Il a un chien.",
+          "Il n'a pas **de** chien.",
+          "He doesn't have a dog."
+        ],
+        [
+          "Nous avons des amis.",
+          "Nous n'avons pas **d'**amis.",
+          "We don't have friends."
+        ],
+        [
+          "Elle a de l'argent.",
+          "Elle n'a pas **d'**argent.",
+          "She doesn't have money."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je suis 20 ans.</s>",
+          "J'ai 20 ans.",
+          "En français, on « a » ses années, on ne « les est » pas !"
+        ],
+        [
+          "<s>Je n'ai pas un chien.</s>",
+          "Je n'ai pas de chien.",
+          "À la négation, « un/une/des » se transforme en « de »."
+        ],
+        [
+          "<s>Ils ont 20 ans / Ils sont 20 ans</s>",
+          "Ils ont 20 ans [il.zɔ̃]",
+          "Attention à la prononciation : « ils ont » [il.zɔ̃] vs « ils sont » [il.sɔ̃]."
+        ],
+        [
+          "<s>J'ai besoin un café.</s>",
+          "J'ai besoin d'un café.",
+          "N'oubliez pas la préposition « de » : avoir besoin DE quelque chose."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la forme négative correcte de « J'ai un vélo » ?",
+      "options": [
+        "Je n'ai pas un vélo.",
+        "Je n'ai pas de vélo.",
+        "Je ne pas ai de vélo."
+      ],
+      "correctIndex": 1,
+      "explanation": "À la négation, l'article « un » devient « de » : Je n'ai pas de vélo."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment dites-vous « I am hungry » en français ?",
+      "options": [
+        "Je suis faim.",
+        "J'ai faim.",
+        "Je suis de la faim."
+      ],
+      "correctIndex": 1,
+      "explanation": "En français, on utilise le verbe avoir pour les sensations physiques : J'ai faim."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle phrase exprime un besoin ?",
+      "options": [
+        "J'ai envie d'eau.",
+        "J'ai besoin d'eau.",
+        "Je suis besoin d'eau."
+      ],
+      "correctIndex": 1,
+      "explanation": "On utilise la structure « avoir besoin de + nom »."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 3 — Penser (pense / penses / pense / pensons / pensez / pensent)",
+      "id": "verb-think"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **penser** vous permet d’exprimer votre opinion, de partager vos réflexions et de demander l’avis des autres. En français, l’utilisation des prépositions *à* et *de* change complètement le sens du verbe !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Exemple en français",
+        "Traduction (English Gloss)"
+      ],
+      "rows": [
+        [
+          "Je",
+          "pense",
+          "Je pense que c'est une excellente idée.",
+          "I think it is a great idea."
+        ],
+        [
+          "Tu",
+          "penses",
+          "Qu'est-ce que tu penses de ce film ?",
+          "What do you think of this movie?"
+        ],
+        [
+          "Il / Elle / On",
+          "pense",
+          "Elle pense souvent à ses vacances.",
+          "She often thinks about her holidays."
+        ],
+        [
+          "Nous",
+          "pensons",
+          "Nous pensons partir demain.",
+          "We think about leaving tomorrow."
+        ],
+        [
+          "Vous",
+          "pensez",
+          "Pensez-vous que ce soit possible ? (A2)",
+          "Do you think it is possible?"
+        ],
+        [
+          "Ils / Elles",
+          "pensent",
+          "Ils pensent que oui.",
+          "They think so."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Modèles d'utilisation fondamentaux"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Ce que vous voulez exprimer",
+        "Structure",
+        "Exemples en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Exprimer une opinion",
+          "Je pense que + phrase",
+          "Je pense que le français est facile.",
+          "I think French is easy."
+        ],
+        [
+          "Réponse courte affirmative",
+          "Je pense que oui.",
+          "— Il va pleuvoir ? — Je pense que oui.",
+          "— Will it rain? — I think so."
+        ],
+        [
+          "Réponse courte négative",
+          "Je pense que non.",
+          "— Il est là ? — Je pense que non.",
+          "— Is he here? — I don't think so."
+        ],
+        [
+          "Penser À (avoir en tête)",
+          "Penser à + personne/objet",
+          "Je pense à mon avenir. Je pense à toi.",
+          "I think about my future. I think of you."
+        ],
+        [
+          "Penser DE (avoir un avis sur)",
+          "Qu'est-ce que tu penses de... ?",
+          "Qu'est-ce que tu penses de mon projet ?",
+          "What do you think of my project?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">La grande différence entre Penser À et Penser DE</p><div class=\"lx-triple\">\n    <div><h5>🧠 Penser À</h5><p><strong>Avoir en tête / Réfléchir à quelque chose</strong></p><p>• <em>Je pense à mes vacances.</em></p><p>• <em>Pense à fermer la porte !</em></p></div>\n    <div><h5>💭 Penser DE</h5><p><strong>Avoir une opinion / Un jugement</strong></p><p>• <em>Qu'est-ce que tu penses de ce restaurant ?</em></p><p>• <em>Qu'en penses-tu ?</em></p></div>\n    <div><h5>💬 Penser QUE</h5><p><strong>Exprimer son avis dans une phrase</strong></p><p>• <em>Je pense que c'est bien.</em></p><p>• <em>Je pense que oui / non.</em></p></div>\n  </div><figcaption class=\"lx-cap\">Ne confondez pas : <strong>Penser à</strong> concerne l'attention mentale, alors que <strong>Penser de</strong> demande un avis !</figcaption></figure>",
+      "say": "Penser à signifie avoir en tête ou réfléchir à quelque chose. Penser de signifie avoir une opinion sur quelque chose. Penser que introduit une phrase d'opinion."
+    },
+    {
+      "type": "paragraph",
+      "text": "💡 **Note A2 (Le Subjonctif) :** Au niveau A0–A1, utilisez simplement *Je pense que + indicatif* (*Je pense que c'est vrai*). À la forme négative soutenue, les francophones utilisent parfois le subjonctif (*Je ne pense pas que ce soit vrai*), mais pour l'instant, dites simplement *Je pense que non* ou *Je ne pense pas*."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je pense de toi.</s>",
+          "Je pense à toi.",
+          "Pour dire qu'une personne est dans votre esprit, utilisez « penser à »."
+        ],
+        [
+          "<s>Qu'est-ce que tu penses à ce film ?</s>",
+          "Qu'est-ce que tu penses de ce film ?",
+          "Pour demander une opinion sur un film, utilisez « penser de »."
+        ],
+        [
+          "<s>Je pense oui.</s>",
+          "Je pense que oui.",
+          "N'oubliez pas le mot « que » : Je pense que oui / Je pense que non."
+        ],
+        [
+          "<s>Je suis penser...</s>",
+          "Je pense...",
+          "En français, on n'utilise pas « être + verbe » pour le présent continu."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Comment dites-vous « I am thinking of you » à un ami ?",
+      "options": [
+        "Je pense de toi.",
+        "Je pense à toi.",
+        "Je pense que toi."
+      ],
+      "correctIndex": 1,
+      "explanation": "On utilise « penser à » pour dire qu'une personne est dans notre esprit."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment demandez-vous l'opinion de quelqu'un sur un nouveau livre ?",
+      "options": [
+        "Qu'est-ce que tu penses à ce livre ?",
+        "Qu'est-ce que tu penses de ce livre ?",
+        "Comment tu penses ce livre ?"
+      ],
+      "correctIndex": 1,
+      "explanation": "Pour demander un avis ou une appréciation, on utilise « Qu'est-ce que tu penses de... ? »."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment répondez-vous « I think so » en français ?",
+      "options": [
+        "Je pense oui.",
+        "Je pense que oui.",
+        "Je pense comme oui."
+      ],
+      "correctIndex": 1,
+      "explanation": "La formule exacte en français est « Je pense que oui »."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 4 — Savoir et Connaître (sais / connais)",
+      "id": "verb-know"
+    },
+    {
+      "type": "paragraph",
+      "text": "En anglais, un seul verbe (*to know*) suffit. Mais en français, il existe une distinction essentielle entre **savoir** et **connaître** ! Comprendre cette différence est une étape clé pour parler un français naturel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaisons (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Savoir (Faits & Compétences)",
+        "Connaître (Personnes & Lieux)",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Je",
+          "sais",
+          "connais",
+          "I know"
+        ],
+        [
+          "Tu",
+          "sais",
+          "connais",
+          "You know"
+        ],
+        [
+          "Il / Elle / On",
+          "sait",
+          "connaît",
+          "He / She knows"
+        ],
+        [
+          "Nous",
+          "savons",
+          "connaissons",
+          "We know"
+        ],
+        [
+          "Vous",
+          "savez",
+          "connaissez",
+          "You know"
+        ],
+        [
+          "Ils / Elles",
+          "savent",
+          "connaissent",
+          "They know"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Modèles d'utilisation fondamentaux"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Ce que vous exprimez",
+        "Verbe à utiliser",
+        "Exemples en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Compétence acquise (Savoir + infinitif)",
+          "SAVOIR",
+          "Je sais nager. Elle sait parler français.",
+          "I know how to swim. She can speak French."
+        ],
+        [
+          "Fait / Information (Savoir + proposition)",
+          "SAVOIR",
+          "Je sais où il habite. Tu sais quelle heure il est ?",
+          "I know where he lives. Do you know the time?"
+        ],
+        [
+          "Personne familière (Connaître + nom)",
+          "CONNAÎTRE",
+          "Je connais Pierre depuis longtemps.",
+          "I know Pierre well."
+        ],
+        [
+          "Lieu / Ville / Restaurant (Connaître + nom)",
+          "CONNAÎTRE",
+          "Vous connaissez ce restaurant italien ?",
+          "Do you know this Italian restaurant?"
+        ],
+        [
+          "Possibilité / Permission (A2)",
+          "POUVOIR",
+          "Je peux venir ce soir. (Possibilité)",
+          "I can come tonight."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Arbre de décision : Savoir ou Connaître ?</p><div class=\"lx-flow\">\n    <div class=\"lx-step\"><div class=\"lx-q\">Est-ce suivi d'un verbe à l'infinitif ? (ex: nager, conduire)</div><div class=\"lx-a\"><b class=\"lx-tag\">SAVOIR</b> Dites : <em>Je sais nager.</em></div></div>\n    <div class=\"lx-step\"><div class=\"lx-q\">Est-ce suivi d'un mot interrogatif ? (que, où, quand, pourquoi)</div><div class=\"lx-a\"><b class=\"lx-tag\">SAVOIR</b> Dites : <em>Je sais où il est.</em></div></div>\n    <div class=\"lx-step\"><div class=\"lx-q\">Est-ce suivi d'un nom de personne ou de lieu ?</div><div class=\"lx-a\"><b class=\"lx-tag\">CONNAÎTRE</b> Dites : <em>Je connais Paris / Marie.</em></div></div>\n  </div><figcaption class=\"lx-cap\">Règle simple : <strong>Savoir</strong> est suivi d'un verbe ou d'une phrase. <strong>Connaître</strong> est suivi d'un nom propre ou commun !</figcaption></figure>",
+      "say": "Arbre de décision Savoir ou Connaître : utilisez Savoir devant un verbe à l'infinitif ou une phrase d'information. Utilisez Connaître devant un nom de personne ou de lieu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Négation et prononciation parlée"
+    },
+    {
+      "type": "paragraph",
+      "text": "À l'écrit : *Je ne sais pas.* / *Je ne connais pas ce mot.*\nEn français parlé rapide, *« je ne sais pas »* se transforme très souvent en **« j'sais pas »** ou même **« chais pas »** !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je connais nager.</s>",
+          "Je sais nager.",
+          "Devant un verbe à l'infinitif (compétence), utilisez obligatoirement « savoir »."
+        ],
+        [
+          "<s>Je sais Marie.</s>",
+          "Je connais Marie.",
+          "On ne peut pas « savoir » une personne : utilisez « connaître »."
+        ],
+        [
+          "<s>Je sais Paris.</s>",
+          "Je connais Paris.",
+          "Pour les villes et les lieux, utilisez « connaître »."
+        ],
+        [
+          "<s>Je sais parler l'anglais ?</s>",
+          "Je sais parler anglais.",
+          "On ne met pas d'article devant la langue après parler."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Choisissez le bon verbe : « Elle ___ parler trois langues. »",
+      "options": [
+        "connaît",
+        "sait",
+        "peut de"
+      ],
+      "correctIndex": 1,
+      "explanation": "Il s'agit d'une compétence acquise suivie d'un infinitif : on utilise « savoir » (Elle sait)."
+    },
+    {
+      "type": "quiz",
+      "question": "Choisissez le bon verbe : « Est-ce que tu ___ cette chanson ? »",
+      "options": [
+        "sais",
+        "connais",
+        "peux"
+      ],
+      "correctIndex": 1,
+      "explanation": "Devant un nom de chose/musique familière, on utilise le verbe « connaître »."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment dites-vous familièrement « I don't know » à l'oral ?",
+      "options": [
+        "Je ne sais pas.",
+        "Chais pas.",
+        "Je connais pas."
+      ],
+      "correctIndex": 1,
+      "explanation": "En français parlé familier, « Je ne sais pas » se prononce souvent « Chais pas »."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 5 — Aimer (aime / aimes / aime / aimons / aimez / aiment)",
+      "id": "verb-like"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **aimer** sert à exprimer vos goûts, vos passions, vos préférences culinaires ou culturelles, et vos sentiments affectifs. En français, il existe une nuance subtile entre *aimer* et *aimer bien* quand on parle des personnes !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Exemple en français",
+        "Traduction (English Gloss)"
+      ],
+      "rows": [
+        [
+          "J' (Je)",
+          "aime",
+          "J'aime le café au lait.",
+          "I like white coffee."
+        ],
+        [
+          "Tu",
+          "aimes",
+          "Tu aimes le sport ?",
+          "Do you like sports?"
+        ],
+        [
+          "Il / Elle / On",
+          "aime",
+          "Elle aime voyager en été.",
+          "She likes traveling in summer."
+        ],
+        [
+          "Nous",
+          "aimons",
+          "Nous aimons le cinéma français.",
+          "We like French cinema."
+        ],
+        [
+          "Vous",
+          "aimez",
+          "Vous aimez la musique classique ?",
+          "Do you like classical music?"
+        ],
+        [
+          "Ils / Elles",
+          "aiment",
+          "Ils aiment les chats.",
+          "They like cats."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Échelle des préférences"
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">L'échelle des préférences en français</p><ul class=\"lx-scale\">\n    <li><b>😠 Je déteste</b><span>I hate</span></li>\n    <li><b>👎 Je n'aime pas</b><span>I don't like</span></li>\n    <li><b>🙂 J'aime bien</b><span>I like (mildly / friend)</span></li>\n    <li><b>❤️ J'aime</b><span>I like / I love</span></li>\n    <li><b>💖 J'adore</b><span>I love / I'm crazy about</span></li>\n  </ul><figcaption class=\"lx-cap\">Nuance importante : avec une personne, <strong>J'aime Thomas</strong> = je suis amoureux. <strong>J'aime bien Thomas</strong> = c'est un bon ami !</figcaption></figure>",
+      "say": "L'échelle des préférences va de Je déteste, Je n'aime pas, J'aime bien, J'aime jusqu'à J'adore. Attention : J'aime une personne signifie qu'on est amoureux, alors que J'aime bien signifie que c'est un ami."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Règle clé : L'article défini général"
+    },
+    {
+      "type": "paragraph",
+      "text": "⚠️ **RÈGLE OBLIGATOIRE :** Quand vous exprimez un goût général avec *aimer, adorer, préférer, détester*, vous devez **toujours** utiliser un article défini (**le, la, l', les**)."
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Goût général (Aimer + LE/LA/LES)",
+        "Consommation réelle (Manger/Boire + DU/DE LA)",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "J'aime **le** fromage.",
+          "Je mange **du** fromage.",
+          "I like cheese. / I eat cheese."
+        ],
+        [
+          "J'aime **la** salade.",
+          "Je prends **de la** salade.",
+          "I like salad. / I have salad."
+        ],
+        [
+          "J'aime **les** pommes.",
+          "Je veux **des** pommes.",
+          "I like apples. / I want apples."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>J'aime du café.</s>",
+          "J'aime le café.",
+          "Pour exprimer un goût général, utilisez l'article défini (le/la/les)."
+        ],
+        [
+          "<s>Je l'aime.</s> (à un collègue)",
+          "Je l'aime bien.",
+          "« Je l'aime » exprime un sentiment amoureux ! Pour un collègue ou ami, dites « Je l'aime bien »."
+        ],
+        [
+          "<s>J'aime voyager à la France.</s>",
+          "J'aime voyager en France.",
+          "Rappel des prépositions : voyager en France, à Paris."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Comment dites-vous « I like coffee » (goût général) ?",
+      "options": [
+        "J'aime du café.",
+        "J'aime le café.",
+        "J'aime de café."
+      ],
+      "correctIndex": 1,
+      "explanation": "Les verbes d'appréciation (aimer, détester) sont suivis de l'article défini : le café."
+    },
+    {
+      "type": "quiz",
+      "question": "Vous voulez dire qu'un collègue de travail est sympa, sans sentiment amoureux. Que dites-vous ?",
+      "options": [
+        "Je l'aime.",
+        "Je l'aime bien.",
+        "Je l'adore amoureusement."
+      ],
+      "correctIndex": 1,
+      "explanation": "« J'aime bien » modère le verbe aimer et signifie apprécier de façon amicale."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est l'intensité la plus forte sur l'échelle des goûts ?",
+      "options": [
+        "J'aime bien",
+        "J'aime",
+        "J'adore"
+      ],
+      "correctIndex": 2,
+      "explanation": "« J'adore » exprime une passion ou un enthousiasme maximal."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 6 — Vouloir et Je voudrais (veux / veux / veut / voulons / voulez / veulent)",
+      "id": "verb-want"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **vouloir** sert à exprimer une volonté, un désir ou une invitation. En français, la forme de politesse **je voudrais** (conditionnel) est indispensable pour commander dans un café ou un restaurant !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent & Conditionnel de politesse)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Présent (Volonté directe)",
+        "Politesse (Commandes / Demandes)",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Je",
+          "veux",
+          "je voudrais",
+          "I want / I would like"
+        ],
+        [
+          "Tu",
+          "veux",
+          "tu voudrais",
+          "You want / You would like"
+        ],
+        [
+          "Il / Elle / On",
+          "veut",
+          "il / elle voudrait",
+          "He / She wants / would like"
+        ],
+        [
+          "Nous",
+          "voulons",
+          "nous voudrions",
+          "We want / We would like"
+        ],
+        [
+          "Vous",
+          "voulez",
+          "vous voudriez",
+          "You want / You would like"
+        ],
+        [
+          "Ils / Elles",
+          "veulent",
+          "ils / elles voudraient",
+          "They want / They would like"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">L'échelle de la politesse au restaurant et au café</p><ol class=\"lx-ladder\">\n    <li class=\"lx-no\"><b>1. Je veux un café.</b><small>❌ Trop direct / Impoli avec un serveur</small></li>\n    <li class=\"lx-yes\"><b>2. Je voudrais un café, s'il vous plaît.</b><small>✅ Formule standard parfaite et polie !</small></li>\n    <li class=\"lx-yes\"><b>3. Est-ce que je peux avoir un café ? / Je prendrai un café. (A2)</b><small>⭐ Très naturel et très élégant</small></li>\n  </ol><figcaption class=\"lx-cap\">Au restaurant ou dans les magasins, n'utilisez jamais <em>« Je veux »</em>. Dites systématiquement <strong>« Je voudrais... s'il vous plaît »</strong> !</figcaption></figure>",
+      "say": "L'échelle de la politesse au restaurant : Je veux un café est trop direct. Je voudrais un café s'il vous plaît est la formule standard parfaite. Est-ce que je peux avoir un café est également très élégant."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Modèles d'utilisation fondamentaux"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Situation",
+        "Structure",
+        "Exemple en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Commander un repas / boisson",
+          "Je voudrais + nom",
+          "Je voudrais un croissant et une eau minérale.",
+          "I would like a croissant and a mineral water."
+        ],
+        [
+          "Demander un service",
+          "Je voudrais + infinitif",
+          "Je voudrais réserver une table pour deux.",
+          "I would like to reserve a table for two."
+        ],
+        [
+          "Inviter quelqu'un",
+          "Vous voulez / Tu veux + infinitif",
+          "Tu veux venir au cinéma avec moi ?",
+          "Do you want to come to the cinema with me?"
+        ],
+        [
+          "Exprimer un refus poli",
+          "Je ne veux pas / Je ne peux pas",
+          "Désolé, je ne peux pas venir ce soir.",
+          "Sorry, I cannot come tonight."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je veux un café !</s> (au serveur)",
+          "Je voudrais un café, s'il vous plaît.",
+          "« Je veux » sonne comme un ordre impoli dans un commerce."
+        ],
+        [
+          "<s>Je veux à manger.</s>",
+          "Je veux manger.",
+          "Devant un verbe à l'infinitif, il n'y a pas de préposition « à » après vouloir."
+        ],
+        [
+          "<s>Je voudrais du café s'il vous plaît.</s>",
+          "Je voudrais un café, s'il vous plaît.",
+          "Pour commander une tasse, dites « un café » plutôt que l'article partitif."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la formule polie recommandée pour commander une boisson dans un bistro parisien ?",
+      "options": [
+        "Je veux une limonade !",
+        "Je voudrais une limonade, s'il vous plaît.",
+        "Donne-moi une limonade."
+      ],
+      "correctIndex": 1,
+      "explanation": "« Je voudrais... s'il vous plaît » est la formule de politesse idéale en français."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment proposez-vous à un ami d'aller manger ?",
+      "options": [
+        "Tu veux manger quelque chose ?",
+        "Tu voudrais mange quelque chose ?",
+        "Tu veux à manger ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "« Tu veux + infinitif » est la structure parfaite pour inviter un ami."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la conjugaison correcte de vouloir avec « ils » ?",
+      "options": [
+        "ils voulent",
+        "ils veulent",
+        "ils voudrent"
+      ],
+      "correctIndex": 1,
+      "explanation": "Au présent, la 3e personne du pluriel est « ils / elles veulent »."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 7 — Aller et le Futur proche (vais / vas / va / allons / allez / vont)",
+      "id": "verb-go"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **aller** sert à exprimer les déplacements, les voyagess, l’état de santé (*Comment ça va ?*) et constitue la clé du **futur proche** (*aller + infinitif*)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Exemple en français",
+        "Traduction (English Gloss)"
+      ],
+      "rows": [
+        [
+          "Je",
+          "vais",
+          "Je vais au travail en métro.",
+          "I go to work by metro."
+        ],
+        [
+          "Tu",
+          "vas",
+          "Comment vas-tu aujourd'hui ?",
+          "How are you today?"
+        ],
+        [
+          "Il / Elle / On",
+          "va",
+          "Elle va en France ce mois-ci.",
+          "She is going to France this month."
+        ],
+        [
+          "Nous",
+          "allons",
+          "Nous allons au cinéma ce soir.",
+          "We are going to the cinema tonight."
+        ],
+        [
+          "Vous",
+          "allez",
+          "Vous allez où pour les vacances ?",
+          "Where are you going for holidays?"
+        ],
+        [
+          "Ils / Elles",
+          "vont",
+          "Ils vont chez le médecin.",
+          "They are going to the doctor's."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Où allez-vous ? Choisissez la bonne préposition de lieu !</p><div class=\"lx-cards\">\n    <div class=\"lx-card\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">🏙️</span><strong>À (Ville)</strong></div><p>• <em>Je vais <strong>à</strong> Paris.</em></p><p>• <em>Elle va <strong>à</strong> Londres.</em></p></div>\n    <div class=\"lx-card\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">🇫🇷</span><strong>EN (Pays féminin / Continent)</strong></div><p>• <em>Je vais <strong>en</strong> France.</em></p><p>• <em>Il va <strong>en</strong> Espagne.</em></p></div>\n    <div class=\"lx-card\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">🇨🇦</span><strong>AU (Pays masculin / Lieu masc)</strong></div><p>• <em>Je vais <strong>au</strong> Canada.</em></p><p>• <em>Je vais <strong>au</strong> cinéma.</em></p></div>\n    <div class=\"lx-card\"><div class=\"lx-card-head\"><span class=\"lx-card-icon\">👨‍⚕️</span><strong>CHEZ (Personne / Professionnel)</strong></div><p>• <em>Je vais <strong>chez</strong> le médecin.</em></p><p>• <em>Elle va <strong>chez</strong> Paul.</em></p></div>\n  </div><figcaption class=\"lx-cap\">Règle essentielle : On va <strong>à</strong> la banque, <strong>au</strong> cinéma, <strong>en</strong> France, mais <strong>chez</strong> une personne !</figcaption></figure>",
+      "say": "Les prépositions de lieu avec Aller : À pour les villes (à Paris), EN pour les pays féminins (en France), AU pour les pays masculins et lieux masculins (au Canada, au cinéma), CHEZ pour les personnes (chez le médecin)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Le Futur proche (Aller + Infinitif)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pour parler d’un projet immédiat ou d’un avenir très proche, combinez **aller** au présent avec un verbe à l’infinitif :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Forme du Futur proche",
+        "Exemple en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Je vais + infinitif",
+          "Je vais manger dans cinq minutes.",
+          "I am going to eat in 5 minutes."
+        ],
+        [
+          "Tu vas + infinitif",
+          "Tu vas voyager cet été ?",
+          "Are you going to travel this summer?"
+        ],
+        [
+          "Nous allons + infinitif",
+          "Nous allons acheter une voiture.",
+          "We are going to buy a car."
+        ],
+        [
+          "Ils vont + infinitif",
+          "Ils vont visiter Paris demain.",
+          "They are going to visit Paris tomorrow."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "🚲 **Prépositions de transport :**\n• Véhicules fermés dans lesquels on entre : **en** bus, **en** train, **en** voiture, **en** avion.\n• Moyens de transport légers / à chevaucher : **à** pied, **à** vélo, **à** moto."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je vais à la France.</s>",
+          "Je vais en France.",
+          "Devant un pays féminin, la préposition est « en »."
+        ],
+        [
+          "<s>Je vais à le médecin.</s>",
+          "Je vais chez le médecin.",
+          "Devant une personne ou une profession, on utilise « chez »."
+        ],
+        [
+          "<s>Je vais en pied.</s>",
+          "Je vais à pied.",
+          "On dit « à pied » et « à vélo »."
+        ],
+        [
+          "<s>Je vais à le cinéma.</s>",
+          "Je vais au cinéma.",
+          "Contraction obligatoire : à + le = au."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle préposition devez-vous utiliser : « Je vais ___ médecin » ?",
+      "options": [
+        "à",
+        "en",
+        "chez"
+      ],
+      "correctIndex": 2,
+      "explanation": "Devant un nom de personne ou de professionnel, on utilise la préposition « chez »."
+    },
+    {
+      "type": "quiz",
+      "question": "Choisissez la phrase au Futur proche correcte :",
+      "options": [
+        "Je vais mange une pomme.",
+        "Je vais manger une pomme.",
+        "Je vais à manger une pomme."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Futur proche se forme avec aller au présent + verbe à l'infinitif (manger)."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la préposition correcte pour « by foot » ?",
+      "options": [
+        "en pied",
+        "à pied",
+        "chez pied"
+      ],
+      "correctIndex": 1,
+      "explanation": "L'expression correcte en français est « à pied »."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 8 — Pouvoir (peux / peux / peut / pouvons / pouvez / peuvent)",
+      "id": "verb-can"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe modal **pouvoir** sert à exprimer une possibilité, une capacité physique, une permission ou une demande polie. Il est toujours suivi directement d’un verbe à l’infinitif."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Exemple en français",
+        "Traduction (English Gloss)"
+      ],
+      "rows": [
+        [
+          "Je",
+          "peux",
+          "Je peux venir à 18 heures.",
+          "I can come at 6 PM."
+        ],
+        [
+          "Tu",
+          "peux",
+          "Tu peux utiliser mon ordinateur.",
+          "You can use my computer."
+        ],
+        [
+          "Il / Elle / On",
+          "peut",
+          "Elle peut vous aider.",
+          "She can help you."
+        ],
+        [
+          "Nous",
+          "pouvons",
+          "Nous pouvons partir ensemble.",
+          "We can leave together."
+        ],
+        [
+          "Vous",
+          "pouvez",
+          "Pouvez-vous répéter, s'il vous plaît ?",
+          "Can you repeat, please?"
+        ],
+        [
+          "Ils / Elles",
+          "peuvent",
+          "Ils peuvent entrer.",
+          "They can enter."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "💡 **Question très soutenue (1re personne) :** En français formel, la question *« Est-ce que je peux... ? »* peut devenir **« Puis-je... ? »** (*Puis-je vous aider ?*)."
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Distinction claire : Pouvoir vs Savoir vs Connaître</p><div class=\"lx-triple\">\n    <div><h5>🔓 POUVOIR</h5><p><strong>Possibilité / Permission</strong></p><p>• <em>Je peux venir ce soir.</em> (J'ai le temps/la permission)</p><p>• <em>Tu peux fermer la fenêtre ?</em></p></div>\n    <div><h5>🏊 SAVOIR</h5><p><strong>Compétence / Savoir-faire</strong></p><p>• <em>Je sais nager.</em> (J'ai appris)</p><p>• <em>Elle sait parler italien.</em></p></div>\n    <div><h5>🗺️ CONNAÎTRE</h5><p><strong>Familiarité avec nom</strong></p><p>• <em>Je connais cette ville.</em></p><p>• <em>Vous connaissez Pierre ?</em></p></div>\n  </div><figcaption class=\"lx-cap\">Attention : dire <em>« Je ne peux pas nager »</em> signifie que l'eau est trop froide ou interdite. Dire <em>« Je ne sais pas nager »</em> signifie qu'on n'a pas appris !</figcaption></figure>",
+      "say": "Distinction entre Pouvoir, Savoir et Connaître. Pouvoir exprime la possibilité ou la permission. Savoir exprime une compétence acquise. Connaître exprime la familiarité avec un nom de personne ou de lieu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Modèles d'utilisation fondamentaux"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Usage",
+        "Structure",
+        "Exemples en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Possibilité / Occasion",
+          "pouvoir + infinitif",
+          "Je peux venir demain matin.",
+          "I can come tomorrow morning."
+        ],
+        [
+          "Permission",
+          "pouvoir + infinitif",
+          "Vous pouvez vous asseoir ici.",
+          "You may sit here."
+        ],
+        [
+          "Demande polie",
+          "Pouvez-vous + infinitif ?",
+          "Pouvez-vous fermer la porte, s'il vous plaît ?",
+          "Could you close the door, please?"
+        ],
+        [
+          "Impossibilité (Négation)",
+          "ne pouvoir pas + infinitif",
+          "Je ne peux pas venir ce soir.",
+          "I cannot come tonight."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je peux parler anglais.</s> (quand on l'a appris)",
+          "Je sais parler anglais.",
+          "Pour une langue ou compétence transmise, utilisez « savoir »."
+        ],
+        [
+          "<s>Je peux de venir.</s>",
+          "Je peux venir.",
+          "Pouvoir est suivi directement de l'infinitif, sans préposition « de »."
+        ],
+        [
+          "<s>Nous pouvaons...</s>",
+          "Nous pouvons.",
+          "Attention au changement de radical au présent : pouvons / pouvez / peuvent."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "La piscine est fermée aujourd'hui. Quelle phrase utilisez-vous ?",
+      "options": [
+        "Je ne sais pas nager aujourd'hui.",
+        "Je ne peux pas nager aujourd'hui.",
+        "Je ne connais pas nager aujourd'hui."
+      ],
+      "correctIndex": 1,
+      "explanation": "L'impossibilité due aux circonstances externes s'exprime avec le verbe « pouvoir »."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment demandez-vous poliment de l'aide à un inconnu ?",
+      "options": [
+        "Pouvez-vous m'aider, s'il vous plaît ?",
+        "Vous savez m'aider ?",
+        "Vous connaissez m'aider ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "La demande de service se fait très poliment avec « Pouvez-vous + infinitif ? »."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la forme formelle de « Est-ce que je peux entrer ? »",
+      "options": [
+        "Puis-je entrer ?",
+        "Peux-je entrer ?",
+        "Sais-je entrer ?"
+      ],
+      "correctIndex": 0,
+      "explanation": "À la 1re personne du singulier formel avec inversion, « je peux » devient « Puis-je »."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 9 — Manger (mange / manges / mange / mangeons / mangez / mangent)",
+      "id": "verb-eat"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **manger** est indispensable pour parler de la nourriture, des repas quotidiens et des habitudes alimentaires. En français, la gestion des **articles partitifs** (*du, de la, des*) est essentielle !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Peculiarité orthographique",
+        "Exemple en français"
+      ],
+      "rows": [
+        [
+          "Je",
+          "mange",
+          "—",
+          "Je mange une pomme."
+        ],
+        [
+          "Tu",
+          "manges",
+          "—",
+          "Tu manges du fromage."
+        ],
+        [
+          "Il / Elle / On",
+          "mange",
+          "—",
+          "Elle mange de la salade."
+        ],
+        [
+          "Nous",
+          "mangeons",
+          "⚠️ +e pour garder le son [ʒ]",
+          "Nous mangeons ensemble."
+        ],
+        [
+          "Vous",
+          "mangez",
+          "—",
+          "Vous mangez du pain."
+        ],
+        [
+          "Ils / Elles",
+          "mangent",
+          "⚠️ -ent muet",
+          "Ils mangent à 20 heures."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Règle d'or de la nourriture : Généralité vs Quantité vs Négation</p><div class=\"lx-triple\">\n    <div><h5>❤️ Goût Général</h5><p><strong>LE / LA / L' / LES</strong></p><p>• <em>J'aime <strong>la</strong> viande.</em></p><p>• <em>Je déteste <strong>le</strong> poisson.</em></p></div>\n    <div><h5>🥖 Quantité Partielle</h5><p><strong>DU / DE LA / DE L' / DES</strong></p><p>• <em>Je mange <strong>du</strong> pain.</em></p><p>• <em>Je bois <strong>de l'</strong>eau.</em></p></div>\n    <div><h5>🚫 Quantité Zéro (Négation)</h5><p><strong>DE / D'</strong></p><p>• <em>Je ne mange pas <strong>de</strong> viande.</em></p><p>• <em>Je ne bois pas <strong>d'</strong>eau.</em></p></div>\n  </div><figcaption class=\"lx-cap\">À la négation absolue, tous les articles partitifs (du, de la, des) se Many réduisent systématiquement en <strong>DE</strong> ou <strong>D'</strong> !</figcaption></figure>",
+      "say": "Règle d'or des articles avec la nourriture : utilisez le, la, les pour le goût général. Utilisez du, de la, des pour une quantité partielle. Utilisez de ou d' après la négation ne pas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Modèles d'utilisation & Repas de la journée"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Moment du repas",
+        "Verbe / Expression",
+        "Exemple en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Le matin",
+          "prendre le petit-déjeuner",
+          "Je prends le petit-déjeuner à 8h.",
+          "I have breakfast at 8 AM."
+        ],
+        [
+          "Le midi",
+          "déjeuner",
+          "Nous déjeunons à la cantine.",
+          "We eat lunch at the canteen."
+        ],
+        [
+          "L'après-midi",
+          "goûter",
+          "Les enfants goûtent à 16h30.",
+          "The children have an afternoon snack."
+        ],
+        [
+          "Le soir",
+          "dîner",
+          "Elles dînent au restaurant.",
+          "They eat dinner at the restaurant."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Je ne mange pas de la viande.</s>",
+          "Je ne mange pas de viande.",
+          "Après « ne ... pas », les partitifs deviennent obligatoirement « de / d' »."
+        ],
+        [
+          "<s>Nous mangons.</s>",
+          "Nous mangeons.",
+          "N'oubliez pas le « e » avec nous pour conserver le son doux [ʒ]."
+        ],
+        [
+          "<s>Je mange le pain.</s> (au quotidien)",
+          "Je mange du pain.",
+          "S'il s'agit d'une quantité indéterminée, utilisez le partitif « du »."
+        ],
+        [
+          "<s>Je mange le petit-déjeuner.</s>",
+          "Je prends le petit-déjeuner.",
+          "En français naturel, on dit « prendre le petit-déjeuner » ou « petit-déjeuner » (verbe)."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la forme négative correcte de « Je mange du fromage » ?",
+      "options": [
+        "Je ne mange pas du fromage.",
+        "Je ne mange pas de fromage.",
+        "Je ne mange pas le fromage."
+      ],
+      "correctIndex": 1,
+      "explanation": "Après la négation « ne ... pas », l'article partitif « du » devient « de »."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment orthographiez-vous le verbe manger avec « nous » au présent ?",
+      "options": [
+        "nous mangons",
+        "nous mangeons",
+        "nous mangions"
+      ],
+      "correctIndex": 1,
+      "explanation": "On ajoute un « e » muet entre le g et le o pour maintenir le son [ʒ]."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment dites-vous « I am eating lunch » de façon naturelle ?",
+      "options": [
+        "Je mange le déjeuner.",
+        "Je déjeune.",
+        "Je fais le déjeuner."
+      ],
+      "correctIndex": 1,
+      "explanation": "Le verbe « déjeuner » signifie directement manger le repas de midi."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verb 10 — Boire (bois / bois / boit / buvons / buvez / boivent)",
+      "id": "verb-drink"
+    },
+    {
+      "type": "paragraph",
+      "text": "Le verbe **boire** couvre les boissons, l’hydratation quotidienne, les propositions au café et les moments de convivialité. Sa conjugaison présente des changements de radical très importants au présent !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Formes et conjugaison (Présent de l'indicatif)"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Changement de radical",
+        "Exemple en français"
+      ],
+      "rows": [
+        [
+          "Je",
+          "bois",
+          "boi-",
+          "Je bois un verre d'eau."
+        ],
+        [
+          "Tu",
+          "bois",
+          "boi-",
+          "Tu bois du café le matin ?"
+        ],
+        [
+          "Il / Elle / On",
+          "boit",
+          "boi-",
+          "Il boit du thé vert."
+        ],
+        [
+          "Nous",
+          "buvons",
+          "⚠️ buv-",
+          "Nous buvons de la limonade."
+        ],
+        [
+          "Vous",
+          "buvez",
+          "⚠️ buv-",
+          "Qu'est-ce que vous buvez ?"
+        ],
+        [
+          "Ils / Elles",
+          "boivent",
+          "⚠️ boiv-",
+          "Elles boivent de l'eau minérale."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Dialogue au café parisien : Commander à boire et à manger</p><div class=\"lx-dialogue\">\n    <div class=\"lx-say\"><b>Serveur</b>Bonjour ! Qu'est-ce que vous buvez aujourd'hui ?</div>\n    <div class=\"lx-say\"><b>Client</b>Bonjour ! Je voudrais un café crème et un grand verre d'eau, s'il vous plaît.</div>\n    <div class=\"lx-say\"><b>Serveur</b>Très bien. Et avec ceci, vous voulez manger quelque chose ?</div>\n    <div class=\"lx-say\"><b>Client</b>Oui, je vais prendre un croissant au beurre. Merci !</div>\n  </div><figcaption class=\"lx-cap\">Remarquez l'association des verbes clés : <strong>boire</strong>, <strong>vouloir (je voudrais)</strong>, <strong>prendre</strong> et <strong>aller (je vais prendre)</strong> !</figcaption></figure>",
+      "say": "Dialogue au café parisien : Le serveur demande Qu'est-ce que vous buvez aujourd'hui ?. Le client répond Je voudrais un café crème s'il vous plaît. Le serveur demande Vous voulez manger quelque chose ?. Le client répond Je vais prendre un croissant."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Modèles d'utilisation & Expressions du café"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Expression / Situation",
+        "Exemple en français",
+        "Gloss"
+      ],
+      "rows": [
+        [
+          "Boisson quotidienne",
+          "Je bois deux litres d'eau par jour.",
+          "I drink 2 litres of water per day."
+        ],
+        [
+          "Négation avec partitif",
+          "Je ne bois pas d'alcool.",
+          "I don't drink alcohol."
+        ],
+        [
+          "Proposer à boire",
+          "Voulez-vous quelque chose à boire ?",
+          "Would you like something to drink?"
+        ],
+        [
+          "Expression familière",
+          "Allons boire un coup ! / Prendre un verre.",
+          "Let's have a drink! / Have a glass."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Erreurs fréquentes à éviter"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "À éviter (Incorrect)",
+        "Forme correcte",
+        "Explication"
+      ],
+      "rows": [
+        [
+          "<s>Nous boivons...</s>",
+          "Nous buvons.",
+          "Attention au radical avec nous et vous : buvons, buvez."
+        ],
+        [
+          "<s>Je ne bois pas du vin.</s>",
+          "Je ne bois pas de vin.",
+          "N'oubliez pas la transformation du partitif après la négation : de vin."
+        ],
+        [
+          "<s>Ils buvent...</s>",
+          "Ils boivent.",
+          "À la 3e personne du pluriel, le radical devient boiv- : ils boivent."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Quiz de vérification"
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la forme correcte de boire avec « nous » ?",
+      "options": [
+        "nous boivons",
+        "nous buvons",
+        "nous buvions"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le radical avec nous est buv- : nous buvons."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment dites-vous « She does not drink coffee » ?",
+      "options": [
+        "Elle ne bois pas du café.",
+        "Elle ne boit pas de café.",
+        "Elle ne buvez pas de café."
+      ],
+      "correctIndex": 1,
+      "explanation": "3e personne du singulier « boit » + réduction du partitif en « de »."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la conjugaison avec « elles » au pluriel ?",
+      "options": [
+        "elles boivent",
+        "elles buvent",
+        "elles buvons"
+      ],
+      "correctIndex": 0,
+      "explanation": "La 3e personne du pluriel utilise le radical boiv- : elles boivent."
+    },
+    {
+      "type": "paragraph",
+      "text": "<hr>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mettre tout ensemble : Synthèse et Pratique",
+      "id": "verb-together"
+    },
+    {
+      "type": "paragraph",
+      "text": "Félicitations ! Vous avez exploré les 10 verbes fondamentaux du français. Voici un schéma récapitulatif pour choisir le bon verbe en fonction de ce que vous souhaitez exprimer :"
+    },
+    {
+      "type": "paragraph",
+      "text": "<figure class=\"lx-fig \"><p class=\"lx-title\">Schéma de décision : Quel verbe utiliser ?</p><div class=\"lx-flow\">\n    <div class=\"lx-step\"><div class=\"lx-q\">Identité, métier sans article, état physique ou lieu ?</div><div class=\"lx-a\"><b class=\"lx-tag\">ÊTRE</b> <em>Je suis Julien, je suis fatigué, je suis à Paris.</em></div></div>\n    <div class=\"lx-step\"><div class=\"lx-q\">Possession, âge, faim, soif, peur ou mal ?</div><div class=\"lx-a\"><b class=\"lx-tag\">AVOIR</b> <em>J'ai 20 ans, j'ai faim, j'ai une voiture.</em></div></div>\n    <div class=\"lx-step\"><div class=\"lx-q\">Fait d'information ou compétence (savoir-faire + infinitif) ?</div><div class=\"lx-a\"><b class=\"lx-tag\">SAVOIR</b> <em>Je sais nager, je sais où il est.</em></div></div>\n    <div class=\"lx-step\"><div class=\"lx-q\">Nom de personne, de ville ou lieu familier ?</div><div class=\"lx-a\"><b class=\"lx-tag\">CONNAÎTRE</b> <em>Je connais Marie, je connais Lyon.</em></div></div>\n    <div class=\"lx-step\"><div class=\"lx-q\">Commander poliment dans un commerce ?</div><div class=\"lx-a\"><b class=\"lx-tag\">VOULOIR (Voudrais)</b> <em>Je voudrais un café, s'il vous plaît.</em></div></div>\n  </div><figcaption class=\"lx-cap\">Gardez ce schéma en mémoire pour choisir instantanément le bon verbe en situation réelle !</figcaption></figure>",
+      "say": "Schéma de décision général : utilisez Être pour l'identité et le lieu. Utilisez Avoir pour l'âge, la possession et la faim. Utilisez Savoir pour les compétences et informations. Utilisez Connaître pour les personnes et lieux. Utilisez Je voudrais pour commander poliment."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les 10 verbes en un coup d'œil"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Verbe (Infinitif)",
+        "1re personne (Je)",
+        "Sens principal",
+        "Exemple clé (avec Gloss)"
+      ],
+      "rows": [
+        [
+          "1. Être",
+          "Je suis",
+          "Existence / Identité",
+          "Je suis étudiant. (I am a student.)"
+        ],
+        [
+          "2. Avoir",
+          "J'ai",
+          "Possession / Âge",
+          "J'ai 25 ans et j'ai faim. (I am 25 and hungry.)"
+        ],
+        [
+          "3. Penser",
+          "Je pense",
+          "Opinion / Réflexion",
+          "Je pense que oui. (I think so.)"
+        ],
+        [
+          "4. Savoir",
+          "Je sais",
+          "Compétence / Fait",
+          "Je sais nager. (I know how to swim.)"
+        ],
+        [
+          "5. Connaître",
+          "Je connais",
+          "Familiarité (Personnes/Lieux)",
+          "Je connais Paris. (I know Paris.)"
+        ],
+        [
+          "6. Aimer",
+          "J'aime",
+          "Goût / Préférence",
+          "J'aime le café. (I like coffee.)"
+        ],
+        [
+          "7. Vouloir",
+          "Je veux / Je voudrais",
+          "Désir / Politesse",
+          "Je voudrais de l'eau. (I would like water.)"
+        ],
+        [
+          "8. Aller",
+          "Je vais",
+          "Déplacement / Futur",
+          "Je vais au travail. (I go to work.)"
+        ],
+        [
+          "9. Pouvoir",
+          "Je peux",
+          "Possibilité / Permission",
+          "Je peux vous aider. (I can help you.)"
+        ],
+        [
+          "10. Manger",
+          "Je mange",
+          "Nourriture",
+          "Je mange du pain. (I eat bread.)"
+        ],
+        [
+          "11. Boire",
+          "Je bois",
+          "Boisson",
+          "Je bois de l'eau. (I drink water.)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Un pas plus loin au niveau A2 : Passé et Futur"
+    },
+    {
+      "type": "paragraph",
+      "text": "Au niveau A2, vous apprenez à conjuguer ces 10 verbes au **Passé composé** (actions passées) et au **Futur proche** (actions futures) :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Verbe",
+        "Futur proche (Aller + Infinitif)",
+        "Passé composé (A2)",
+        "Exemple au passé"
+      ],
+      "rows": [
+        [
+          "Être",
+          "Je vais être",
+          "J'ai été",
+          "J'ai été malade hier."
+        ],
+        [
+          "Avoir",
+          "Je vais avoir",
+          "J'ai eu",
+          "J'ai eu un cadeau."
+        ],
+        [
+          "Penser",
+          "Je vais penser",
+          "J'ai pensé",
+          "J'ai pensé à toi."
+        ],
+        [
+          "Savoir",
+          "Je vais savoir",
+          "J'ai su",
+          "J'ai su la vérité."
+        ],
+        [
+          "Connaître",
+          "Je vais connaître",
+          "J'ai connu",
+          "J'ai connu son frère."
+        ],
+        [
+          "Aimer",
+          "Je vais aimer",
+          "J'ai aimé",
+          "J'ai aimé ce film."
+        ],
+        [
+          "Vouloir",
+          "Je vais vouloir",
+          "J'ai voulu",
+          "J'ai voulu venir."
+        ],
+        [
+          "Aller",
+          "Je vais aller",
+          "Je suis allé(e) ⚠️",
+          "Je suis allé à Paris."
+        ],
+        [
+          "Pouvoir",
+          "Je vais pouvoir",
+          "J'ai pu",
+          "J'ai pu finir à l'heure."
+        ],
+        [
+          "Manger",
+          "Je vais manger",
+          "J'ai mangé",
+          "J'ai mangé une pizza."
+        ],
+        [
+          "Boire",
+          "Je vais boire",
+          "J'ai bu",
+          "J'ai bu un café."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Histoire courte : Une journée à Paris"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lisez ce texte court pour observer les 10 verbes en situation réelle :"
+    },
+    {
+      "type": "paragraph",
+      "text": "<em>Aujourd'hui, je <strong>suis</strong> à Paris. J'<strong>ai</strong> 25 ans et je <strong>vais</strong> au café avec mon ami Marc. Je <strong>connais</strong> bien ce quartier. Au bistro, je <strong>veux</strong> commander quelque chose : je <strong>voudrais</strong> un croissant chaud et je <strong>bois</strong> un café crème. Je <strong>pense</strong> que la nourriture française est délicieuse. Marc ne <strong>mange</strong> pas de viande parce qu'il est végétarien. Nous <strong>pouvons</strong> visiter le musée après le déjeuner parce que je <strong>sais</strong> où se trouve l'entrée libre. J'<strong>aime</strong> vraiment cette journée !</em>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Résumé des règles d'or (Cheat Sheet)"
+    },
+    {
+      "type": "paragraph",
+      "text": "<div class=\"lx-marginalia\"><div class=\"lx-marginalia-title\">📌 À garder en mémoire :</div><p>• <strong>Être vs Avoir :</strong> Utilisez <em>avoir</em> pour l'âge (j'ai 20 ans) et les besoins physiques (j'ai faim, j'ai soif).</p><p>• <strong>Négations :</strong> Encadrez le verbe avec <em>ne ... pas</em>. L'article partitif devient <em>de / d'</em> (je ne bois pas de café).</p><p>• <strong>Savoir vs Connaître :</strong> <em>Savoir</em> + verbe/fait, <em>Connaître</em> + nom propre/lieu.</p><p>• <strong>Politesse :</strong> Dites <em>Je voudrais... s'il vous plaît</em> pour commander.</p><p>• <strong>Goût général :</strong> Utilisez <em>le, la, les</em> avec <em>aimer</em> (J'aime le fromage).</p></div>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exercices d'expression orale (Prompts)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pratiquez à voix haute avec ces 4 consignes :"
+    },
+    {
+      "type": "table",
+      "headers": [
+        "Numéro",
+        "Consigne d'expression",
+        "Exemple de réponse attendue"
+      ],
+      "rows": [
+        [
+          "1",
+          "Présentez-vous (nom, âge, profession, nationalité).",
+          "Je suis Alex, j'ai 28 ans, je suis ingénieur et je suis espagnol."
+        ],
+        [
+          "2",
+          "Commandez votre petit-déjeuner idéal au café.",
+          "Je voudrais un café au lait, un jus d'orange et un croissant, s'il vous plaît."
+        ],
+        [
+          "3",
+          "Exprimez vos goûts généraux (nourriture, musique, ville).",
+          "J'aime le fromage et la musique jazz, mais je n'aime pas le froid."
+        ],
+        [
+          "4",
+          "Parlez de vos projets pour demain (Futur proche).",
+          "Demain, je vais aller au parc et je vais manger avec des amis."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quiz final de révision mixte (5 questions)"
+    },
+    {
+      "type": "quiz",
+      "question": "Complétez la phrase : « Je ___ 22 ans et je ___ étudiant. »",
+      "options": [
+        "suis / suis",
+        "ai / suis",
+        "ai / ai"
+      ],
+      "correctIndex": 1,
+      "explanation": "En français : avoir pour l'âge (j'ai 22 ans) et être pour la profession/statut (je suis étudiant)."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la différence fondamentale entre savoir et connaître ?",
+      "options": [
+        "Savoir s'utilise avec des personnes, connaître avec des verbes.",
+        "Savoir s'utilise avec des verbes et faits, connaître avec des noms de personnes et lieux.",
+        "Il n'y a aucune différence."
+      ],
+      "correctIndex": 1,
+      "explanation": "Savoir + verbe à l'infinitif ou fait ; Connaître + nom propre/lieu."
+    },
+    {
+      "type": "quiz",
+      "question": "Quelle est la forme négative correcte de « Je bois du thé » ?",
+      "options": [
+        "Je ne bois pas du thé.",
+        "Je ne bois pas de thé.",
+        "Je pas bois de thé."
+      ],
+      "correctIndex": 1,
+      "explanation": "L'article partitif « du » se transforme en « de » après « ne ... pas »."
+    },
+    {
+      "type": "quiz",
+      "question": "Comment exprimez-vous le Futur proche ?",
+      "options": [
+        "Avec le verbe être + infinitif",
+        "Avec le verbe aller au présent + infinitif",
+        "Avec le verbe avoir + infinitif"
+      ],
+      "correctIndex": 1,
+      "explanation": "Le Futur proche se forme avec aller au présent + infinitif (ex: Je vais voyager)."
+    },
+    {
+      "type": "quiz",
+      "question": "Au restaurant, que dites-vous au serveur ?",
+      "options": [
+        "Je veux une carafe d'eau !",
+        "Je voudrais une carafe d'eau, s'il vous plaît.",
+        "J'ai besoin une carafe d'eau."
+      ],
+      "correctIndex": 1,
+      "explanation": "« Je voudrais... s'il vous plaît » est la formule de politesse parfaite."
     }
   ],
   "draft": false

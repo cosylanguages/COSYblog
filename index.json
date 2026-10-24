@@ -1,10 +1,10 @@
 {
   "version": "2.0.0",
-  "generatedAt": "2026-10-23T23:07:39.687Z",
+  "generatedAt": "2026-10-24T08:10:33.564Z",
   "stats": {
-    "totalPosts": 87,
+    "totalPosts": 72,
     "totalDesks": 13,
-    "totalIssues": 7
+    "totalIssues": 6
   },
   "desks": [
     {
@@ -110,703 +110,9 @@
     {
       "number": "Vol. 2026 — December Issue",
       "title": "Winter Grammar & High Frequency Verbs"
-    },
-    {
-      "number": "Vol. 2027 — February Issue",
-      "title": "February Grammar & High Frequency Verbs"
     }
   ],
   "posts": [
-    {
-      "id": "post-top-10-verbs-part-3-ba",
-      "slug": "top-10-verbs-part-3-ba",
-      "language": "ba",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Башҡорт теле буйынса иң мөһим 10 ҡалыплы ҡылым, 3-се өлөш (A0–A1 / A2)",
-      "kicker": "БАШҠОРТ ТЕЛЕ ГИДЫ — 3-СЕ ӨЛӨШ",
-      "dek": "Иң күп ҡулланылған 10 ҡылым (һайлау/сатып алыу/түләү, истә тотоу/онытыу, һиҙеү, осрашыу, ҡарар итеү, яҙыу/уҡыу/баҫыу, сарф итеү/бушҡа сарф итеү, уйнай, килешеү/килешмәү, ебәреү/алыу). Спряжение таблицалары COSYtools-та.",
-      "tags": [
-        "Verbs",
-        "Bashkir",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-ba",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-br",
-      "slug": "top-10-verbs-part-3-br",
-      "language": "br",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Ar 10 verb pennañ e brezhoneg, Lodennoù 3 (A0–A1 / A2)",
-      "kicker": "KAVADENN AR BREZHONEG — LODENN 3 EUS 3",
-      "dek": "Dizoloit ar 10 verb pennañ war-lerc'h (dibab/prenañ/paeañ, kounaat/ankouaat, santout, kejañ, divizout, skrivañ/lenn/bizskrivañ, dispign/foranañ, c'hoari, bezañ a-du/enep, kas/kaout). Taolennoù treuzfeurmiñ war COSYtools.",
-      "tags": [
-        "Verbs",
-        "Breton",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-br",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-cv",
-      "slug": "top-10-verbs-part-3-cv",
-      "language": "cv",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Чăваш чĕлхинчи чи кирлĕ 10 глагол, 3-мĕш пайĕ (A0–A1 / A2)",
-      "kicker": "ЧĂВАШ ЧĔЛХИН ГИДĔ — 3-МĔШ ПАЙĔ",
-      "dek": "Малаллахи 10 тĕп глагол (суйласси/туянасси/тӳлесси, асра тырасси/унтăрасси, туясси, тĕл пуласси, йышăнасси, çырасси/вуламасси/пичетлесси, тăкакласси/ахаль тăкакласси, вылясси, килĕшесси, ярасси/илесси). Спряжени таблицисем COSYtools-ра.",
-      "tags": [
-        "Verbs",
-        "Chuvash",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-cv",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-de",
-      "slug": "top-10-verbs-part-3-de",
-      "language": "de",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Die 10 wichtigsten Verben im Deutschen, Teil 3 (A0–A1 / A2)",
-      "kicker": "DEUTSCHER VERBEN-LEITFADEN — TEIL 3 VON 3",
-      "dek": "Entdecken Sie die nächsten 10 Verben (wählen/kaufen/bezahlen, erinnern/vergessen, sich fühlen, treffen, entscheiden, schreiben/lesen/tippen, ausgeben/verschwenden, spielen, zustimmen/widersprechen, senden/bekommen). Konjugationstabellen auf COSYtools.",
-      "tags": [
-        "Verbs",
-        "German",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-de",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-el",
-      "slug": "top-10-verbs-part-3-el",
-      "language": "el",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Τα 10 βασικά ρήματα στα Ελληνικά, Μέρος 3 (A0–A1 / A2)",
-      "kicker": "ΟΔΗΓΟΣ ΕΛΛΗΝΙΚΩΝ — ΜΕΡΟΣ 3 ΑΠΟ 3",
-      "dek": "Ανακαλύψτε τα επόμενα 10 βασικά ρήματα (επιλέγω/αγοράζω/πληρώνω, θυμάμαι/ξεχνώ, νιώθω, συναντώ, αποφασίζω, γράφω/διαβάζω/πληκτρολογώ, ξοδεύω/σπαταλώ, παίζω, συμφωνώ/διαφωνώ, στέλνω/παίρνω). Πίνακες κλίσης στο COSYtools.",
-      "tags": [
-        "Verbs",
-        "Greek",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-el",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-en",
-      "slug": "top-10-verbs-part-3-en",
-      "language": "en",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Top 10 Essential Verbs in English, Part 3 (CEFR A0–A1 / A2)",
-      "kicker": "ENGLISH CORE GUIDE — PART 3 OF 3",
-      "dek": "Master the third 10 high-frequency verbs in English: choose/buy/pay, remember/forget, feel, meet, decide (don't say 'decide a problem'), write/read/type, spend/waste, play (all variations), agree/disagree, and send/get. Conjugation tables on COSYtools.",
-      "tags": [
-        "Verbs",
-        "English",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-en",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-es",
-      "slug": "top-10-verbs-part-3-es",
-      "language": "es",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Los 10 verbos esenciales en español, Parte 3 (A0–A1 / A2)",
-      "kicker": "GUÍA DE ESPAÑOL — PARTE 3 DE 3",
-      "dek": "Descubre los siguientes 10 verbos clave (elegir/comprar/pagar, recordar/olvidar, sentirse, conocer/encontrarse, decidir, escribir/leer/teclear, gastar/desperdiciar, jugar/tocar, estar de acuerdo/discrepar, enviar/recibir). Tablas de conjugación en COSYtools.",
-      "tags": [
-        "Verbs",
-        "Spanish",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-es",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-fr",
-      "slug": "top-10-verbs-part-3-fr",
-      "language": "fr",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Les 10 verbes essentiels en français, Partie 3 (A0–A1 / A2)",
-      "kicker": "GUIDE DU FRANÇAIS — PARTIE 3 SUR 3",
-      "dek": "Découvrez les 10 verbes suivants (choisir/acheter/payer, se souvenir/oublier, se sentir, rencontrer, décider, écrire/lire/taper, dépenser/gaspiller, jouer, être d'accord/désapprouver, envoyer/recevoir). Conjugaisons consultables sur COSYtools.",
-      "tags": [
-        "Verbs",
-        "French",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-fr",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-hy",
-      "slug": "top-10-verbs-part-3-hy",
-      "language": "hy",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Թոփ 10 հիմնական բայերը հայերենում, Մաս 3 (A0–A1 / A2)",
-      "kicker": "ՀԱՅԵՐԵՆԻ ՈՒՂԵՑՈՒՅՑ — ՄԱՍ 3",
-      "dek": "Բացահայտեք հաջորդ 10 կարևոր բայերը (ընտրել/գնել/վճարել, հիշել/մոռանալ, զգալ, հանդիպել, որոշել, գրել/կարդալ/տպագրել, ծախսել/վատնել, խաղալ, համաձայնել, ուղարկել/ստանալ): Խոնարհման աղյուսակները COSYtools-ում:",
-      "tags": [
-        "Verbs",
-        "Armenian",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-hy",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-it",
-      "slug": "top-10-verbs-part-3-it",
-      "language": "it",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "I 10 verbi essenziali in italiano, Parte 3 (A0–A1 / A2)",
-      "kicker": "GUIDA ALL'ITALIANO — PARTE 3 DI 3",
-      "dek": "Scopri i 10 verbi fondamentali (scegliere/comprare/pagare, ricordare/dimenticare, sentirsi, incontrare, decidere, scrivere/leggere/digitare, spendere/sprecare, giocare/suonare, essere d'accordo/discordare, inviare/ricevere). Tabelle di coniugazione su COSYtools.",
-      "tags": [
-        "Verbs",
-        "Italian",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-it",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-ka",
-      "slug": "top-10-verbs-part-3-ka",
-      "language": "ka",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "ტოპ-10 ძირითადი ზმნა ქართულ ენაში, ნაწილი 3 (A0–A1 / A2)",
-      "kicker": "ქართული ენის გზამკვლევი — ნაწილი 3",
-      "dek": "აღმოაჩინეთ შემდეგი 10 აუცილებელი ზმნა (არჩევა/ყიდვა/გადახდა, დამახსოვრება/დავიწყება, გრძნობა, შეხვედრა, გადაწყვეტა, წერა/კითხვა/ბეჭდვა, ხარჯვა/ფლანგვა, თამაში/დაკვრა, დათანხმება, გაგზავნა/მიღება). უღლების ცხრილები COSYtools-ზე.",
-      "tags": [
-        "Verbs",
-        "Georgian",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-ka",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-pt",
-      "slug": "top-10-verbs-part-3-pt",
-      "language": "pt",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Os 10 verbos essenciais em português, Parte 3 (A0–A1 / A2)",
-      "kicker": "GUIA DE PORTUGUÊS — PARTE 3 DE 3",
-      "dek": "Descubra os próximos 10 verbos essenciais (escolher/comprar/pagar, lembrar/esquecer, sentir-se, encontrar, decidir, escrever/ler/digitar, gastar/desperdiçar, jogar/tocar, concordar/discordar, enviar/receber). Tabelas de conjugação no COSYtools.",
-      "tags": [
-        "Verbs",
-        "Portuguese",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-pt",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-ru",
-      "slug": "top-10-verbs-part-3-ru",
-      "language": "ru",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Топ-10 главных глаголов русского языка, Часть 3 (A0–A1 / A2)",
-      "kicker": "ГИД ПО РУССКОМУ ЯЗЫКУ — ЧАСТЬ 3 ИЗ 3",
-      "dek": "Изучите следующие 10 глаголов (выбирать/покупать/платить, помнить/забывать, чувствовать, встречаться, решать, писать/читать/печатать, тратить/терять впустую, играть, соглашаться, отправлять/получать). Таблицы спряжения на COSYtools.",
-      "tags": [
-        "Verbs",
-        "Russian",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-ru",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "post-top-10-verbs-part-3-tt",
-      "slug": "top-10-verbs-part-3-tt",
-      "language": "tt",
-      "translationOf": "top-10-verbs-part-3",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Татар теле буенча иң мөһим 10 фигыль, 3 нче өлеш (A0–A1 / A2)",
-      "kicker": "ТАТАР ТЕЛЕ ГИДЫ — 3 НЧЕ ӨЛЕШ",
-      "dek": "Чираттагы 10 мөһим фигыль (сайлау/сатып алу/түләү, истә тоту/оныту, хис итү, очрашу, карар итү, язу/уку/басу, сарф итү/изү, уйнау, килешү/килешмәү, җибәрү/алу). Спряжение таблицалары COSYtools да.",
-      "tags": [
-        "Verbs",
-        "Tatar",
-        "A0-A1",
-        "Part3"
-      ],
-      "readingTime": 10,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3-tt",
-        "coverOverride": null
-      },
-      "draft": false
-    },
-    {
-      "id": "guide-top-10-verbs-part-3",
-      "slug": "top-10-verbs-part-3",
-      "language": "en",
-      "desk": "Words",
-      "format": "list",
-      "level": "A0–A1 / A2",
-      "issue": {
-        "number": "Vol. 2027 — February Issue",
-        "title": "February Grammar & High Frequency Verbs"
-      },
-      "date": "2027-02-01",
-      "title": "Top 10 Essential Verbs across All 14 Languages, Part 3 (CEFR A0–A1 / A2)",
-      "kicker": "14-LANGUAGE CORE GUIDE — PART 3",
-      "dek": "Part 3 of the ultimate beginner guide to high-frequency verbs: choose/buy/pay, remember/forget, feel, meet, decide (don't say 'decide a problem'), write/read/type, spend/waste, play (all variations), agree/disagree, and send/get across all 14 official target languages.",
-      "tags": [
-        "ResourceList",
-        "Verbs",
-        "A0-A1",
-        "14Languages",
-        "Part3"
-      ],
-      "readingTime": 12,
-      "podcast": {
-        "episode": 4,
-        "audioUrl": null
-      },
-      "artDirection": {
-        "palette": [
-          "#2d3748",
-          "#319795",
-          "#d69e2e",
-          "#f7fafc"
-        ],
-        "fonts": {
-          "display": "Fraunces",
-          "text": "DM Sans",
-          "accent": "Fraunces Italic"
-        },
-        "layout": "standard-feed",
-        "motif": "riso-print",
-        "seed": "top-10-verbs-part-3",
-        "coverOverride": null
-      },
-      "draft": false
-    },
     {
       "id": "post-top-10-verbs-part-2-ba",
       "slug": "top-10-verbs-part-2-ba",
@@ -3708,19 +3014,19 @@
         "title": "Get ready for school"
       },
       "date": "2026-03-01",
-      "title": "Top 10 Essential English Verbs for Absolute Beginners (A0–A1 / A2 Master Guide)",
+      "title": "Top 10 Essential English Verbs for Beginners, Part 1 (A0–A1 / A2)",
       "kicker": "ENGLISH CORE GUIDE — PART 1 OF 2",
-      "dek": "A complete 12-page magazine spread for absolute beginners discovering English. Master the top 10 core verbs step-by-step, starting with a deep dive into the verb 'To Be' with full conjugations, 10 core usage patterns, negative/question structures, and real-world sentence frames.",
+      "dek": "Be, have, think, know, like, want, go, can, eat and drink: ten verbs, ten complete lessons. Forms, real patterns, clear diagrams, common mistakes and quizzes, built for beginners (A0–A1) with a step further for A2.",
       "tags": [
         "Verbs",
         "English",
         "A0-A1",
-        "14Languages"
+        "Top 10 / Top 100"
       ],
-      "readingTime": 15,
+      "readingTime": 47,
       "podcast": {
         "episode": 2,
-        "audioUrl": null
+        "externalUrl": "https://podcasters.spotify.com/pod/show/james-york6/episodes/2-TOP-10-verbs-e2mgv09"
       },
       "artDirection": {
         "palette": [
@@ -3738,6 +3044,11 @@
         "motif": "riso-print",
         "seed": "top-10-verbs-en",
         "coverOverride": null
+      },
+      "draft": false,
+      "flipbook": {
+        "pageLimit": 12,
+        "headingBreakAfter": 6
       }
     },
     {
@@ -3790,7 +3101,6 @@
       "id": "post-top-10-verbs-fr",
       "slug": "top-10-verbs-fr",
       "language": "fr",
-      "translationOf": "top-10-verbs",
       "desk": "Words",
       "format": "list",
       "level": "A0–A1 / A2",
@@ -3801,17 +3111,21 @@
       "date": "2026-03-01",
       "title": "Les 10 verbes essentiels en français pour débutants (A0–A1 / A2)",
       "kicker": "GUIDE DU FRANÇAIS — PARTIE 1 SUR 2",
-      "dek": "Apprenez les 10 premiers verbes fondamentaux en français (être, avoir, penser, savoir/connaître, aimer, vouloir/aimerait, aller/futur proche, pouvoir, manger, boire). Conjugaisons consultables sur COSYtools.",
+      "dek": "Être, avoir, penser, savoir / connaître, aimer, vouloir, aller, pouvoir, manger et boire : dix verbes essentiels, dix leçons complètes. Formes, modèles pratiques, schémas clairs, pièges courants et quiz pour débutants (A0–A1) avec étapes A2.",
       "tags": [
         "Verbs",
         "French",
         "A0-A1",
-        "14Languages"
+        "Top 10 / Top 100"
       ],
-      "readingTime": 10,
+      "readingTime": 40,
       "podcast": {
         "episode": 2,
         "audioUrl": null
+      },
+      "flipbook": {
+        "pageLimit": 12,
+        "headingBreakAfter": 6
       },
       "artDirection": {
         "palette": [

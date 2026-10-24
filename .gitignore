@@ -7,10 +7,3 @@ posts.json
 sitemap.xml
 podcast.xml
 og/
-
-*.html
-og/
-
-# Build outputs
-*.html
-og/
